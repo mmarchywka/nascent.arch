@@ -1,0 +1,87 @@
+
+#!/bin/bash
+
+SELF="$0"
+SRC=magglob.h
+DEST=magglob.out
+MAINDEF="TEST_magglob__"
+
+. cpp_proj_defines
+
+LINK="$MMCD_LINK"
+COMPILER="$MMCD_COMPILER"
+INCDIR=$MMCD_INCDIR # " -I.. " 
+
+# just move it local for now 
+#SRC=$MMCD_SRCDIR/$SRC
+SRC=./$SRC
+
+WARNS=$MMCD_WARNS
+
+DEBUG="$MMCD_DEBUG" # " -gdwarf-3 -O0 "
+OPT="$MMCD_OPT" # " -O3 "
+PROFILE="$MMCD_PROFILE" # " -O3 -gdwarf-3 -pg "
+FLAGS="$DEBUG"
+
+RUN_DATA="magglob.txt"
+compile()
+{
+mmcd_h_compile
+}
+run()
+{
+"./$DEST" -source "$RUN_DATA" -quit  
+}
+
+sample()
+{
+./magglob.out -cmd "leg-cache 20 1" -cmd "read-ragged x IGRF12.COF 0x040" -cmd "xdump-ragged x" -cmd "spx-coefs x 1900" -cmd "spx-point 73 108 6400" -cmd "spx-grid 10 20 0"  -quit
+}
+
+
+help()
+{
+echo Usage $0 
+cat "$0" | grep "=="  | grep -v grep | sed -e 's/.*==//' | sed -e 's/"[^"]*$//' 
+}
+while [ "$*" != "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-compile" ]
+then
+compile
+shift
+fi
+if [ "$1" == "-opt" ]
+then
+FLAGS=$OPT
+shift
+fi
+
+if [ "$1" == "-run" ]
+then
+shift
+#run  $*
+run 
+#shift
+fi
+if [ "$1" == "-sample" ]
+then
+sample
+shift
+fi
+
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+done
+

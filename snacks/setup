@@ -1,0 +1,12 @@
+#!/bin/bash
+echo foo foo "$1"
+. setupup "$1"
+export NEWBACKUP_BASE="snacks"
+export NEWBACKUP_DAYS=7
+export NEWBACKUP_DIR="./../.."
+bfilter()
+{
+grep -v "archive/lat" | grep -v "/attach" | grep -v "mboxx$" | grep "/mjm/\|hlib\|proj/snacks"
+}
+export -f bfilter
+

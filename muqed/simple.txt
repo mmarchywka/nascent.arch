@@ -1,0 +1,13 @@
+
+load units.txt
+parse 0
+dump
+# v to from  
+convert 3 grams kg
+factor 5 grams goo tsp goo
+factor 5 grams water tsp water 
+# v from to doh 
+conv 6 liters goo grams goo
+conv 2 liters water grams water
+
+

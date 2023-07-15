@@ -1,0 +1,27 @@
+# not meant to be stand-alone ui does not have things like source features
+# the current data file but may be an abbreviated one for updates
+# prior to merge
+# can be loaded first as is not validated right away 
+#load-form /home/documents/cpp/proj/mikemail/dev/data.txt
+#load-form /home/documents/cpp/proj/mikemail/dev/newest_data.txt
+load-form /home/documents/cpp/proj/mikemail/dev/data.txt
+# need to load units first  to compile nouns
+load-units /home/documents/cpp/proj/mikemail/dev/units.txt
+load-nouns /home/documents/cpp/proj/mikemail/dev/aka_nouns.txt
+load-nouns /home/documents/cpp/proj/mikemail/dev/canon_nouns.txt
+load-recipes /home/documents/cpp/proj/mikemail/dev/recipes.txt
+load-ignores /home/documents/cpp/proj/mikemail/dev/ignores.txt
+load-reserveds /home/documents/cpp/proj/mikemail/dev/reserveds.txt
+#dates 2020-01-01 2020-12-31
+dates 2018-01-01   
+# first flag is for report second is for output choices 
+#eval 8 8 
+#parse
+#markup
+#blank
+#template
+#dates 2019 2022
+#nouns
+#xpand  1
+#dump
+#eval 12 28 /home/documents/cpp/proj/mikemail/dev/out/dog_glob.txt /home/documents/cpp/proj/mikemail/dev/out/dog_daily.txt /home/documents/cpp/proj/mikemail/dev/out/dog_used.txt

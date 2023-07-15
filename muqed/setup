@@ -1,0 +1,14 @@
+#!/bin/bash
+echo foo foo "$1"
+. setupup "$1"
+export NEWBACKUP_BASE="muqed_util"
+export NEWBACKUP_DAYS=7
+export NEWBACKUP_DIR="./../.."
+#export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/home/ubuntu/dev/mailcore/mailcore2-master/libetpan/libetpan/src/.libs"
+#export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/home/ubuntu/dev/libetpan/libetpan/src/.libs"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH"
+bfilter()
+{
+grep -v "archive/lat" | grep -v "/attach" | grep -v "mboxx$"
+}
+export -f bfilter

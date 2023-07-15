@@ -1,0 +1,1 @@
+eval 12 28 /tmp/dog_glob.txt /tmp/dog_daily.txt /tmp/dog_used.txt

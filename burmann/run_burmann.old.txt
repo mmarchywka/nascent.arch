@@ -1,0 +1,145 @@
+#!/bin/bash
+# g++ -DTEST_BURMANN__ -Wall -Wno-unused-function  -std=gnu++11 -Wl,-rpath,/home/marchywka/d/gcc/stage-4.9/usr/local/lib64/ -I.. -O3 -x c++ mjm_integrals.h
+SELF="$0"
+old_burmann()
+{
+SRC=mjm_integrals.h
+DEST=mjm_integrals.out
+INCDIR=" -I.. " 
+MAINDEF="TEST_BURMANN__"
+#WARNS=" -Wall -Wno-unused-variable -Wno-unused-function -Wno-sign-compare -Wno-non-template-friend "
+WARNS=" -Wall -Wno-unused-variable -Wno-unused-function -Wno-non-template-friend "
+LINKCMD=" -Wl,-rpath,/home/marchywka/d/gcc/stage-4.9/usr/local/lib64/ "
+DEBUG=" -gdwarf-3 -O0 "
+OPT=" -O3 "
+PROFILE=" -O3 -gdwarf-3 -pg "
+FLAGS="$LINKCMD $DEBUG"
+#RUN_DATA="snacks.txt"
+RUN_DATA=""
+NTERMS=40
+}
+
+new_burmann()
+{
+SRC=mjm_burmann.h
+DEST=mjm_burmann.out
+BIGINTFLAGS=" -I gmp/gmp-6.1.2 -Lgmp/gmp-6.1.2/.libs -lgmp "
+INCDIR=" -I.. " 
+MAINDEF="TEST_BURMANN2__"
+#WARNS=" -Wall -Wno-unused-variable -Wno-unused-function -Wno-sign-compare -Wno-non-template-friend "
+WARNS=" -Wall -Wno-unused-variable -Wno-unused-function -Wno-non-template-friend "
+LINKCMD=" -Wl,-rpath,/home/marchywka/d/gcc/stage-4.9/usr/local/lib64/ "
+DEBUG=" -gdwarf-3 -O0 "
+OPT=" -O3 "
+PROFILE=" -O3 -gdwarf-3 -pg "
+FLAGS="$BIGINTFLAGS $LINKCMD $DEBUG"
+#RUN_DATA="snacks.txt"
+RUN_DATA=""
+NTERMS=10
+}
+newer_burmann()
+{
+MAINDEF="TEST_BURMANN3__"
+NTERMS=10
+}
+
+new_burmann
+newer_burmann
+
+compile()
+{
+echo g++ -D$MAINDEF -std=gnu++11 $FLAGS $INCDIR  $WARNS -x c++ "$SRC" -o "$DEST"
+g++ -D$MAINDEF -std=gnu++11 $FLAGS $INCDIR  $WARNS -x c++ "$SRC" -o "$DEST"
+}
+run()
+{
+if [ "$RUN_DATA" != "" ]
+then
+"./$DEST" -source "$RUN_DATA" -quit 
+else
+#./mjm_integrals.out 20 0 1 0
+"./$DEST" $NTERMS 0 1 0
+
+#"./$DEST" 
+fi
+#./a.out -source snacks.txt -quit  | grep Peapod | mjm eq | mjm insertday > xxx
+}
+
+pdfsurvey()
+{
+cat << ---xxx---
+---xxx---
+}
+
+run_R()
+{
+R --no-save --vanilla
+}
+help()
+{
+echo Usage $0 
+
+}
+while [ "$*" != "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-compile" ]
+then
+compile
+shift
+fi
+
+if [ "$1" == "-compile-erf-fd" ]
+then
+MAINDEF="TEST_BURMANN4__"
+compile
+shift
+fi
+
+
+
+if [ "$1" == "-old" ]
+then
+old_burmann
+shift
+fi
+
+
+
+if [ "$1" == "-run" ]
+then
+run
+shift
+fi
+
+if [ "$1" == "-survey_pdf" ]
+then
+pdfsurvey | run_R
+texgen -pdfs yyy*.pdf > xxx.tex
+pdflatex xxx.tex
+evince xxx.pdf
+shift
+fi
+
+if [ "$1" == "-all" ]
+then
+$SELF -compile
+$SELF -run
+$SELF -survey_pdf
+
+shift
+fi
+
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+done

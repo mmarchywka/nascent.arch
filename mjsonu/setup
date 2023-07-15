@@ -1,0 +1,3 @@
+#!/bin/bash
+echo foo foo "$1"
+. setupup "$1"

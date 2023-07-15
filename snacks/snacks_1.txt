@@ -1,0 +1,78 @@
+parse
+#push-order B-1
+#push-order B-2
+#push-order B-3
+#push-order B-6
+#push-order B-12
+#push-order B-100
+#push-order Iodine 
+#push-order Mg
+#push-order Cu 
+
+list-drugs-cerr
+#mjm_snacks.h2186  + 01KC 10KC 11KC B-1 B-100 B-12 B-2 B-3 B-6 
+#Cu FleaAway HMCU Iodine Ivermectin K2 Mg Mn SnAgOx arginine 
+#b15ngnc b20ngnc biotin carrot chili coffee ctbroth ctskin ctskinbs 
+#d-serine eggo3 garlic kibble lecithin lipoicacid metasilicate 
+#noK2 nob20ngnc noeggo3 oliveoil pantothenate salmon shrimp 
+#spinach swings taurine taurine? thiosulfate weggo3 worm yeggo3
+
+push-order Cu taurine lipoicacid pantothenate biotin Iodine K2 Mg d-serine arginine 
+push-order B-1 B-2 B-3 B-6  B-12 B-100
+push-order kibble oliveoil coffee salmon shrimp 
+push-order thiosulfate metasilicate SnAgOx Mn 
+push-order eggo3 garlic lecithin  
+push-order b15ngnc b20ngnc carrot spinach chili ctbroth ctskin ctskinbs 
+push-order worm Ivermectin 
+clear-order
+#push-order arginine 
+#push-order SnAgOx 
+#push-order Cu coffee lipoicacid pantothenate biotin Iodine K2 Mg  
+#push-order lipoicacid pantothenate biotin Iodine   
+#push-order Cu coffee lipoicacid pantothenate biotin Iodine  
+#push-order Cu  lipoicacid pantothenate biotin  
+#push-order Iodine K2 Mg Mn SnAgOx
+#push-order arginine d-serine chili coffee metasilicate thiosulfate
+#push-order kibble salmon swings worm Ivermectin
+#push-order pantothenate B-1 B-2 B-3 B-6 B-12 B-100
+#push-order Cu lipoicacid pantothenate biotin B-12 taurine
+#clear-order
+#push-order Cu d-serine Clavamox pantothenate 
+#push-order Iodine  biotin pantothenate  lipoicacid
+#clear-order
+#push-order B-6
+#push-order  pantothenate SnAgOx taurine coffee Cu 
+#push-order  oliveoil 
+#push-order Cu pantothenate K2 Mg arginine d-serine 
+#push-order Cu  pantothenate biotin  Iodine 
+#push-order Cu  pantothenate biotin lipoicacid B-6  Iodine 
+#push-order  B-12 Iodine b15ngnc ctskin nob20ngnc taurine
+#push-order  Cu pantothenate B-12 Iodine taurine
+#push-order  shrimp pantothenate thiosulfate  coffee chili salmon SnAgOx
+#push-order Ivermectin worm 
+#push-order thiosulfate 
+#push-order pantothenate 
+#push-order biotin 
+#push-order Iodine 
+#dump-drugs 
+#dump-drugs-cerr
+dump-dmel-cerr
+list-drugs-cerr
+#clear-order
+#push-order Ivermectin 
+#push-order worm 
+#order-all
+
+#dump-dog-days Beauty
+dump-dog-days Greta 
+dump-dog-days Hershey 
+dump-dog-days Spicey 
+dump-dog-days Happy 
+dump-dog-days Moe 
+#dump-dog-days Spicey 
+dump-dog-days Peapod
+dump-dog-days Claire 
+dump-dog-days Jilly 
+set-param print_conflicts 1
+#dump-dog-times Peapod
+ 

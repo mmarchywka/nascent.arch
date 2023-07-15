@@ -1,0 +1,164 @@
+#!/bin/bash
+
+SELF="$0"
+SRC=mjm_snacks.h
+DEST=mjm_snacks.out
+MAINDEF="TEST_SNACK__"
+
+. cpp_proj_defines
+
+#LINK="-lreadline"
+LINK="$MMCD_LINK"
+COMPILER="$MMCD_COMPILER"
+INCDIR=$MMCD_INCDIR # " -I.. " 
+
+# just move it local for now 
+#SRC=$MMCD_SRCDIR/$SRC
+SRC=./$SRC
+
+WARNS=$MMCD_WARNS
+
+DEBUG="$MMCD_DEBUG" # " -gdwarf-3 -O0 "
+OPT="$MMCD_OPT" # " -O3 "
+PROFILE="$MMCD_PROFILE" # " -O3 -gdwarf-3 -pg "
+FLAGS="$DEBUG"
+
+
+RUN_DATA="snacks.txt"
+compile()
+{
+# with this compiler the linker needs to come after the compiler doh
+#	echo g++ -D$MAINDEF -std=gnu++11 $FLAGS $INCDIR  $LINK $WARNS -x c++ "$SRC" -o "$DEST"
+#g++ -D$MAINDEF -std=gnu++11 $FLAGS $INCDIR  $LINK $WARNS -x c++ "$SRC" -o "$DEST"
+
+#echo $COMPILER -D$MAINDEF  $FLAGS $INCDIR  $WARNS -x c++ "$SRC" -o "$DEST" $LINK
+
+#$COMPILER -D$MAINDEF $FLAGS $INCDIR  $WARNS -x c++ "$SRC" -o "$DEST" $LINK
+mmcd_h_compile
+
+
+}
+run()
+{
+#"./$DEST" -source "$RUN_DATA" -quit  | grep Peapod | mjm eq | mjm insertday > xxx
+"./$DEST" -cmd "set-param snack_log $SE_SCRIPT_DATA/snacks_log" -source "$RUN_DATA" -quit  | grep "$1" | mjm eq | mjm insertday > $SE_DATA_EXCHANGE/snacks_collated.ssv 
+#./a.out -source snacks.txt -quit  | grep Peapod | mjm eq | mjm insertday > xxx
+}
+
+pdfsurvey()
+{
+cat << ---xxx---
+t=0
+xmin=-16
+gxmin=-16
+xmax=-2
+fillmd=0
+combine=2
+seppdf=1
+seqfuck=1
+pmoade=8
+source("snacks.R")
+---xxx---
+}
+
+pdfsurveylong()
+{
+cat << ---xxx---
+t=0
+xmin=-180
+gxmin=-180
+xmax=-2
+fillmd=0
+combine=2
+seppdf=1
+seqfuck=1
+pmoade=8
+source("snacks.R")
+---xxx---
+}
+
+
+
+
+
+
+run_R()
+{
+R --no-save --vanilla
+}
+help()
+{
+echo Usage $0 
+cat "$0" | grep "=="  | grep -v grep | sed -e 's/.*==//' | sed -e 's/"[^"]*$//' 
+}
+while [ "$*" != "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-compile" ]
+then
+compile
+shift
+fi
+if [ "$1" == "-opt" ]
+then
+FLAGS=$OPT
+shift
+fi
+
+if [ "$1" == "-run" ]
+then
+run Peapod
+shift
+fi
+if [ "$1" == "-run-dog" ]
+then
+run "$2" 
+shift
+shift
+fi
+
+
+if [ "$1" == "-survey_pdf" ]
+then
+pdfsurvey | run_R
+texgen -pdfs yyy*.pdf > xxx.tex
+pdflatex xxx.tex
+evince xxx.pdf
+shift
+fi
+if [ "$1" == "-survey_pdf_long" ]
+then
+pdfsurveylong | run_R
+texgen -pdfs yyy*.pdf > xxx.tex
+pdflatex xxx.tex
+evince xxx.pdf
+shift
+fi
+
+
+
+
+
+
+if [ "$1" == "-all" ]
+then
+$SELF -compile
+$SELF -run
+$SELF -survey_pdf
+
+shift
+fi
+
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+done
