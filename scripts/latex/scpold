@@ -1,0 +1,15 @@
+#!/bin/bash
+echo running $BASH_SOURCE 
+fn="$1"
+ipi="$2"
+die()
+{
+echo $*
+	exit 1
+}
+ip=192.168.1.3
+[ "$ipi" == "" ] || ip=192.168.1.$ipi
+[ -e "temp" ] ||die "temp needs to exist"
+echo try to get latitude file $fn from $ip into temp 
+scp marchywka@${ip}:d/latex/$fn temp/
+

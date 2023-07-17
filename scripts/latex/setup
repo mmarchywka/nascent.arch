@@ -1,0 +1,4 @@
+export eutilbib="eutilsnew -out xxx -v -report medline -db pmc"
+export IMPATH="/home/marchywka/d/imagemagick/ImageMagick-6.9.2-5/utilities/"
+#. was_fickkpse
+. fixkpse

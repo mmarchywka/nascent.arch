@@ -1,0 +1,88 @@
+#!/bin/bash
+var="$2"
+f="$1"
+val="$3"
+
+# only needed for search if $3 is blanks
+. includes
+
+
+valorig=`kpsewhich -var-value=$var`
+
+kpse_has()
+{
+#x=`echo $valorig| grep "$val"`
+x=`echo $valorig| grep "{{}$val}//"`
+[ "$x" != "" ]
+}
+
+concat()
+{
+sep=":"
+[ "$1" != "" ] || sep=""
+[ "$2" != "" ] || sep=""
+
+}
+
+post_pend()
+{
+concat "$val" "$valorig"
+kpse_has || export $var="$valorig$sep{{}$val}//"
+}
+pre_pend()
+{
+concat "$val" "$valorig"
+kpse_has || export $var="{{}$val}//$sep$valorig"
+}
+
+
+kpse_var_find()
+{
+#echo $BIBINPUTS | split_path | sed -e 's/  */\n/g' | sed -e 's/!//g' |  while read
+split_path | sed -e 's/,/\n/g' | sed -e 's/  */\n/g' | sed -e 's/!//g' |  while read
+do
+x=`echo "$REPLY"| grep "//$" `
+dir=`echo "$REPLY"| sed -e 's/{}//'| sed -e 's/\/\/$//' | sed -e 's/[{}]//g'`
+md="--maxdepth 1"
+if [ "$x" != "" ]
+then
+md=""
+fi
+if [ -e "$dir" ]
+then
+#echo looking in $dir for "$REPLY"
+find $dir -name "*.bib" | while read 
+do
+#echo $md $REPLY
+echo $REPLY
+done
+fi
+#else
+#echo $dir
+#fi
+
+
+done
+}
+kpse_bib_find()
+{
+echo $BIBINPUTS | kpse_var_find
+}
+
+
+if [ "$3" != "" ]
+then
+[ "$f" != "pop" ]  || post_pend
+[ "$f" != "prp" ]  || pre_pend
+
+valfinal=`kpsewhich -var-value=$var`
+[ "$valorig" == "$valfinal" ] || texhash "$val"
+[ "$DEBUG" != "" ] && echo "$f" "$var" orig "$valorig"  final "$valfinal"
+#[ "$DEBUG" != "" ] || echo "kpse_operation $f" "$var" 
+else
+#echo need  f var val 
+# now just return a list of dirs 
+kpse_bib_find
+fi
+
+

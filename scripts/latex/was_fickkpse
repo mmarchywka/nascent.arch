@@ -1,0 +1,22 @@
+#!/bin/bash
+#x=.:`kpsewhich -var-value=TEXMF | sed -e 's/,/\/\/:/g' | sed -e 's/[!{}]//g'`
+#x=.:`kpsewhich -var-value=TEXMF | sed -e 's/,/:/g' | sed -e 's/[!{}]//g'`
+#/home/ubuntu/.texlive2017/texmf-config:/home/ubuntu/.texlive2017/texmf-var:/home/ubuntu/texmf:/usr/local/share/texmf:/etc/texmf:/var/lib/texmf:/usr/share/texmf:/usr/share/texlive/texmf-dist
+#export TEXINPUTS=/home/documents/latex/share/includes/:$x
+#echo in $_ setting TEXINPUTS to $TEXINPUTS
+#!/bin/bash
+# kpsewhich -var-value=TEXINPUTS
+
+
+# kpsewhich -var-value=BIBINPUTS
+#.:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/bibtex/bib//
+export BIBINPUTS=".:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/bibtex/bib//:{{}/home/documents/latex/share/includes/}//"
+
+
+# kpsewhich -var-value=BSTINPUTS
+#.:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/bibtex/{bst,csf}//
+export BSTINPUTS=".:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/bibtex/{bst,csf}//:{{}/home/documents/latex/share/includes/}//"
+
+
+echo  executing with params  $0 $1
+export TEXINPUTS="{{}/home/documents/latex/share/overrides/}//:.:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/tex/{kpsewhich,generic,}//:{{}/home/documents/latex/share/includes/}//"

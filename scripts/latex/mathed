@@ -1,0 +1,52 @@
+
+
+# really not needed as should have been done 
+. setup
+
+#loc="/home/scripts/mathed"
+
+#loc="/home/marchywka/scripts/mathed"
+echoaside()
+{
+nm="$1"
+cat - << ---xxx---
+\\newcommand{\\$nm}{
+\\mjmaside{$nm}{
+
+}
+}  % \\$nm
+\\$nm
+---xxx---
+
+}
+
+help()
+{
+echo Usage $0 
+grep "^if.*==.*\"-" $0
+}
+while [ "$*" != "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-aside" ] # 1 name,  appendable aside block instantiated there
+then
+echoaside "$2"
+shift ; shift
+fi
+
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+
+done
+
+

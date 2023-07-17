@@ -1,0 +1,57 @@
+#!/bin/bash
+# test_timeline -cases
+# 2626  vi cases.tex
+# 2627  test_timeline -make cases
+# 2628  ./delbackup.tex 
+# 2629  cat cases.tex | test_timeline -date-lines > $cpp/mjm_libmesh/snacks_log
+. setup
+rdir="$SE_LATEX_PROJ/cases"
+SNACKS_LOG="snacks_log"
+outfil="$SE_SCRIPT_DATA/$SNACKS_LOG"
+cd "$rdir"
+bkfil=".temp_cases.tex"
+#moved recently 
+fn_newest="/home/scripts/script_data/cases/newest_data.txt"
+
+
+# put template on clipboard 
+test_timeline -cases
+cp cases.tex "$bkfil"
+echo output to xxx, backup  cases.tex to "$bkfil"
+echo > xxx
+vi cases.tex
+if [ "cases.tex" -nt "cases.pdf" ]
+then
+echo skipping full build  doing quick 
+#pdflatex cases.tex >> xxx
+#lualatex cases.tex >> xxx
+echo  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX skipping build for now
+else
+echo pdf newer than tex so skip make etc 
+fi
+fxxx="/home/documents/cpp/proj/mikemail/diet/newest_data.txt"
+#test_timeline -make cases
+cat cases.tex | test_timeline -date-lines | grep -v "^%"  > $outfil
+# TODO FIXME this is sielently deleting bad dates - went hacking up the
+# parser code :) Make more tolerant for now.. 
+#cat cases.tex | grep "^20[12][0-9]-[01][0-9]-[0-8][0-9] " | grep "&" | awk '{ if ($1> "2017-04-21") print $0; } ' > "$fxxx"
+# but need to get rid of latex only lines 
+cat cases.tex |  sed -n '/DIETSTART/,/DIETEND/p' | grep "&" | awk '{ if ($1> "2017-04-21") print $0; } ' > "$fxxx"
+
+#cp "$fxxx" /home/scripts/script_data/cases/newest_data.txt 
+cp "$fxxx" "$fn_newest" 
+mudaily.txt -recent-errors
+mudaily.txt -which 2>&1 | grep built
+# ./delbackup.tex 
+filter_daily()
+{
+grep -v latex_make_out.txt | grep -v "\.temp_cases"
+}
+. newbackup -filter filter_daily  -base "casesdaily" >> xxx
+echo backupdir is `backupdir`
+ls `backupdir`/*casesdaily* | tail -n 3
+
+# then for example,
+#g++ -DTEST_SNACK__ -Wall  -std=gnu++11 -gdwarf-3 -I.. -Wno-unused-variable -Wno-unused-function -Wno-sign-compare -Wno-non-template-friend -x c++ mjm_snacks.h
+#1991  ./a.out -source snacks.txt -quit 2>yyy | grep Peapod | mjm eq | mjm insertday > xxx 
+# then run snacks.R in R and make plots etc. 

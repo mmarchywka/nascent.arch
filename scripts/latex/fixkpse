@@ -1,0 +1,32 @@
+#!/bin/bash
+#export BIBINPUTS=".:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/bibtex/bib//:{{}/home/documents/latex/share/includes/}//"
+
+
+#export BSTINPUTS=".:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/bibtex/{bst,csf}//:{{}/home/documents/latex/share/includes/}//"
+
+# this can now be called by backupdir creating problems 
+echo using non profane version  $0 $1
+#export TEXINPUTS="{{}/home/documents/latex/share/overrides/}//:.:{{}/home/ubuntu/.texlive2017/texmf-config,/home/ubuntu/.texlive2017/texmf-var,/home/ubuntu/texmf,!!/usr/local/share/texmf,/etc/texmf,!!/var/lib/texmf,!!/usr/share/texmf,!!/usr/share/texlive/texmf-dist}/tex/{kpsewhich,generic,}//:{{}/home/documents/latex/share/includes/}//"
+lroot="/home/documents/latex"
+fover="$lroot/share/overrides/"
+# add the local dir first to pickup subdirs 
+fover=". $fover"
+flocalmiss="$lroot/share/includes/"
+flocalmiss="$flocalmiss $lroot/share/content/"
+flocalmiss="$flocalmiss $lroot/pkg/"
+echo setting BIBINPUTS TEXINPUTS BSTINPUTS
+. kpse_util prp BIBINPUTS $lroot/bib/ 
+for over in $fover
+do
+. kpse_util prp TEXINPUTS  $over
+. kpse_util prp BSTINPUTS  $over
+. kpse_util prp BIBINPUTS  $over
+done
+
+for localmiss in $flocalmiss
+do
+. kpse_util pop TEXINPUTS  $localmiss
+. kpse_util pop BSTINPUTS  $localmiss
+. kpse_util pop BIBINPUTS  $localmiss
+done
+
