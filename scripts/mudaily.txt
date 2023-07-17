@@ -1,0 +1,442 @@
+#!/bin/bash
+# autogenrated with mkscriptu at Sun Oct  4 04:47:21 EDT 2020 
+
+. includes
+# really not needed as should have been done 
+. setup
+
+prod_setup()
+{
+tmpdir="$SE_TEMP_DIR"
+#rdir="$SE_LATEX_PROJ/cases"
+#rdir="$SE_SCRIPT_DATA"
+mrddir="$SE_SCRIPT_DATA/cases"
+outdir="$SE_SCRIPT_DATA/cases/out"
+data_fil="$mrddir/newest_data.txt"
+#SNACKS_LOG="snacks_log"
+SNACKS_LOG="xxxxxxx"
+# this was just an isolated version but we already have that
+# in the input 
+#outfil="$SE_SCRIPT_DATA/$SNACKS_LOG"
+templatefil="$tmpdir/cases_template.txt"
+markupfil="$tmpdir/cases_markup.txt"
+# on path but should be in /home/scripts/links
+#mjm_exe="mjm_diet_diary_form.out"
+mjm_exe="muqed_util.out"
+runlog="$tmpdir/run_log.txt"
+} # prod_setup
+
+prod_setup
+
+dev_exe()
+{
+mjm_exe=`pwd`"/muqed_util.out"
+}
+
+dev_setup()
+{
+ddevdir="/home/documents/cpp/proj/mikemail/dev"
+tmpdir="$SE_TEMP_DIR"
+#rdir="$SE_LATEX_PROJ/cases"
+#rdir="$SE_SCRIPT_DATA"
+mrddir="$ddevdir" # "$SE_SCRIPT_DATA/cases"
+outdir="$ddevdir/out" # "$SE_SCRIPT_DATA/cases/out"
+data_fil="$ddevdir/data.txt" # "$mrddir/newest_data.txt"
+#SNACKS_LOG="snacks_log"
+SNACKS_LOG="xxxxxxx"
+# this was just an isolated version but we already have that
+# in the input 
+#outfil="$SE_SCRIPT_DATA/$SNACKS_LOG"
+templatefil="$tmpdir/cases_template.txt"
+markupfil="$tmpdir/cases_markup.txt"
+# on path but should be in /home/scripts/links
+#mjm_exe=`pwd`"/mjm_diet_diary_form.out"
+dev_exe # mjm_exe=`pwd`"/muqed_util.out"
+#mjm_exe="cat - "
+runlog="$tmpdir/run_log.txt"
+} # dev_setup
+
+dump_setup()
+{
+mjm_exe="cat -"
+}
+
+if [ -e "$mrddir" ]
+then 
+if [ ! -e "$outdir" ]
+then
+echo input dir exists but try to make output dir 
+mkdir "$outdir"
+fi # outdir 
+fi # mrddir 
+
+newtoclip()
+{
+cat "$templatefil"  | my_paste
+}
+# from run_mikemail
+diet_template()
+{
+didir="$1"
+cat << ---xxx---
+# not meant to be stand-alone ui does not have things like source features
+# the current data file but may be an abbreviated one for updates
+# prior to merge
+# can be loaded first as is not validated right away 
+#load-form $didir/data.txt
+#load-form $didir/newest_data.txt
+load-form $data_fil
+# need to load units first  to compile nouns
+load-units $didir/units.txt
+load-nouns $didir/aka_nouns.txt
+load-nouns $didir/canon_nouns.txt
+load-finder $didir/finder.txt
+load-recipes $didir/recipes.txt
+load-ignores $didir/ignores.txt
+load-reserveds $didir/reserveds.txt
+#dates 2020-01-01 2020-12-31
+dates 2018-01-01   
+# first flag is for report second is for output choices 
+#eval 8 8 
+#parse
+#markup
+#blank
+#template
+---xxx---
+} # dieet_template
+make_template()
+{
+diet_template  "$mrddir"
+echo template "$templatefil" 
+}
+make_markup()
+{
+diet_template  "$mrddir"
+echo markup-week "$markupfil" 
+}
+
+make_markup_all()
+{
+diet_template  "$mrddir"
+echo markup "$markupfil" 
+}
+
+
+make_reports_all()
+{
+diet_template  "$mrddir"
+echo dates "$startdate" "$enddate"
+echo nouns 
+#echo expand "" 4 
+# bash messes this up ... 
+#echo expand  4 
+#echo "expand  4"
+#echo "expand  1"
+echo dump
+echo markup "$markupfil" 
+echo "expand 0"
+#echo eval 12 28 $outdir/dog_glob.txt $outdir/dog_daily.txt $outdir/dog_used.txt
+# try to turn off auto range how the hell 
+echo eval 12 28 $outdir/dog_glob.txt $outdir/dog_daily.txt $outdir/dog_used.txt
+#echo eval 13 28 out/dog_glob.txt out/dog_daily.txt out/dog_used.txt
+#echo eval 45 28 out/dog_glob.txt out/dog_daily.txt out/dog_used.txt
+}
+
+filter_dudaily()
+{
+grep -v latex_make_out.txt | grep -v "\.temp_cases" | grep -v "dog-data-"
+}
+
+dead_code()
+{
+cat  < ---XXX---
+newtoclip
+vi "$markupfil"
+if [ "$markupfil" -nt "$runlog" ]
+then
+ds=`date +%YY-%m+%d`
+nm="dog-data-$ds.txt"
+echo edit done backup and reload $nm  with $data_fil
+cp "$data_fil" "$nm"
+cat "$markupfil" | grep -v "^#" >  "$data_fil" 
+else
+echo file not changed no update
+fi # file changed 
+---XXX---
+} # dead_code
+
+
+
+edit_and_update()
+{
+newtoclip
+vi "$markupfil"
+if [ "$markupfil" -nt "$runlog" ]
+then
+ds=`date +%YY-%m+%d`
+nm="dog-data-$ds.txt"
+echo edit done backup and reload $nm  with $data_fil
+cp "$data_fil" "$nm"
+# preserved user comments, look for ##
+cat "$markupfil" | grep -v "^##" >  "$data_fil" 
+else
+echo file not changed no update
+fi # file changed 
+} # edit_and_update
+
+full_test()
+{
+xxx=`pwd`
+cd "$mrddir"
+which "$mjm_exe"
+echo output to  "$runlog"
+make_template | $mjm_exe 2>&1 | cat - > "$runlog"
+if [ 1 == 0 ]
+then
+#make_template
+newtoclip
+vi "$data_fil"
+make_markup_all | $mjm_exe 2>&1 | cat - >> "$runlog"
+cat "$runlog"
+cat "$markupfil" | highlight -red  "#"
+else
+make_markup_all | $mjm_exe 2>&1 | cat - >> "$runlog"
+edit_and_update
+fi # old v new
+ec=`cat "$markupfil" | grep "^#" | wc -l `
+echo "errors= $ec $mrddir $runlog $markupfil"
+#. newbackup -filter filter_dudaily  -base "casesmudaily"
+#echo backupdir is `backupdir`
+#ls `backupdir`/*casesmudaily* | tail -n 3
+cd "$xxx"
+} # full_test
+
+
+daily_test()
+{
+xxx=`pwd`
+cd "$mrddir"
+which "$mjm_exe"
+echo output to  "$runlog"
+make_template | $mjm_exe 2>&1 | cat - > "$runlog"
+if [ 1 == 0 ]
+then
+#make_template
+newtoclip
+vi "$data_fil"
+make_markup | $mjm_exe 2>&1 | cat - >> "$runlog"
+cat "$runlog"
+cat "$markupfil" | highlight -red  "#"
+else
+make_markup | $mjm_exe 2>&1 | cat - >> "$runlog"
+edit_and_update
+fi # old v new
+ec=`cat "$markupfil" | grep "^#" | wc -l `
+. newbackup -time  -filter filter_dudaily  -base "casesmudaily"
+echo backupdir is `backupdir`
+ls `backupdir`/*casesmudaily* | tail -n 3
+echo "retained errors= $ec $mrddir $runlog $markupfil"
+cd "$xxx"
+} # daily_test
+reports_test()
+{
+xxx=`pwd`
+cd "$mrddir"
+which "$mjm_exe"
+echo with mjm_exe= $mjm_exe cd to `pwd`  output to  "$runlog"
+make_reports_all | $mjm_exe 2>&1 | cat - > "$runlog"
+cat $outdir/dog_daily.txt |awk '{print $2}' | uniq -c  
+echo output in "$outdir"
+cd "$xxx"
+} # reports_test
+
+old_daily_txt_script()
+{
+cat << ---xxx---
+. setup
+rdir="$SE_LATEX_PROJ/cases"
+SNACKS_LOG="snacks_log"
+outfil="$SE_SCRIPT_DATA/$SNACKS_LOG"
+cd "$rdir"
+bkfil=".temp_cases.tex"
+# put template on clipboard 
+test_timeline -cases
+cp cases.tex "$bkfil"
+echo backup  cases.tex to "$bkfil"
+vi cases.tex
+if [ "cases.tex" -nt "cases.pdf" ]
+then
+test_timeline -make cases
+cat cases.tex | test_timeline -date-lines | grep -v "^%"  > $outfil
+else
+echo pdf newer than tex so skip make etc 
+fi
+# ./delbackup.tex 
+filter_daily()
+{
+grep -v latex_make_out.txt | grep -v "\.temp_cases"
+}
+. newbackup -filter filter_daily  -base "casesdaily"
+echo backupdir is `backupdir`
+ls `backupdir`/*casesdaily* | tail -n 3
+
+# then for example,
+#g++ -DTEST_SNACK__ -Wall  -std=gnu++11 -gdwarf-3 -I.. -Wno-unused-variable -Wno-unused-function -Wno-sign-compare -Wno-non-template-friend -x c++ mjm_snacks.h
+#1991  ./a.out -source snacks.txt -quit 2>yyy | grep Peapod | mjm eq | mjm insertday > xxx 
+# then run snacks.R in R and make plots etc. 
+---xxx---
+}
+
+
+
+
+
+#loc="/home/scripts/mudaily.txt"
+
+#loc="/home/marchywka/scripts/mudaily.txt"
+
+help()
+{
+echo Usage $0 
+grep "^if.*==.*\"-" $0 | sed -e 's/.*==//' | sed -e 's/[\"]//g' | sed -e 's/]//g'
+}
+
+if [ "$*" == "" ]
+then
+help
+fi
+
+while [ "$*" != "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-dev" ]
+then
+dev_setup
+shift
+fi
+
+if [ "$1" == "-devexe" ]
+then
+dev_exe
+shift
+fi
+
+
+
+if [ "$1" == "-dump" ]
+then
+dump_setup
+shift
+fi
+# this is already a command somewhere doh 
+if [ "$1" == "-xnouns" ]
+then
+vi $didir/canon_nouns.txt
+shift
+fi
+if [ "$1" == "-units" ]
+then
+vi $mrddir/units.txt
+shift
+fi
+
+
+
+if [ "$1" == "-daily" ]
+then
+daily_test
+shift
+fi
+
+if [ "$1" == "-full" ]
+then
+full_test
+shift
+fi
+if [ "$1" == "-which" ]
+then
+# some may not support command lines and then go to stdin 
+echo | $mjm_exe -about -quit
+shift
+fi
+
+
+if [ "$1" == "-reports" ]
+then
+startdate="$2"
+enddate="$3"
+#startdate=`date --date="$2" +%Y-%m-%d`
+#enddate=`date --date="$3" +%Y-%m-%d`
+if [ "$startdate" == "" ]
+then 
+startdate="0";
+fi
+if [ "$enddate" == "" ]
+then
+enddate="9999"
+fi
+echo start $startdate end $enddate
+reports_test
+echo using mjm_ext  $mjm_exe
+shift
+shift
+shift
+fi
+
+
+
+if [ "$1" == "-nouns" ]
+then
+vi "$mrddir/canon_nouns.txt"
+shift
+fi
+if [ "$1" == "-ignores" ]
+then
+vi $mrddir/ignores.txt
+shift
+fi
+
+
+if [ "$1" == "-errors" ]
+then
+make_markup_all | $mjm_exe 2>&1 | cat - >> "$runlog"
+cat "$markupfil" | grep -B 2 "^#"   | highlight -red "#"
+errc=`cat "$markupfil" | grep  "^#"   | wc -l `
+echo "error count = "$errc 
+shift
+fi
+
+if [ "$1" == "-recent-errors" ]
+then
+make_markup | $mjm_exe 2>&1 | cat - >> "$runlog"
+cat "$markupfil" | grep -B 2 "^#"   | highlight -red "#"
+errc=`cat "$markupfil" | grep  "^#"   | wc -l `
+echo "error count = "$errc 
+echo "wild list may be a stale markup fule, check $markfupfil"
+shift
+fi
+
+if [ "$1" == "-echo" ]
+then
+echo setting echo 
+mjm_exe="cat - "
+shift
+fi
+
+
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+
+done
+
+

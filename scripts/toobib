@@ -1,0 +1,311 @@
+#!/bin/bash
+# autogenrated with mkscriptu at Sat Jun  5 10:31:46 EDT 2021 
+
+. includes
+# really not needed as should have been done 
+. setup
+
+# /home/documents/latex/bib/topics
+
+#loc="/home/scripts/toobib"
+latexbibdir="$SE_LATEX_BIBS"
+topicdir="$latexbibdir/topics"
+#loc="/home/marchywka/scripts/toobib"
+
+TOOBIB=toobib.out
+
+script_data="$SE_SCRIPT_DATA"
+url_save_file="$script_data/toobib/url_cites.tex"
+#echo `date ` `myclip -link ` >>  /home/scripts/script_data/toobib/links
+bibpath=.
+
+cboard()
+{
+myclip -link
+}
+bibfiles()
+{
+find $bibpath -name "*.bib"
+}
+toobib_find()
+{
+grep -n  "`cboard`" `bibfiles` 
+} 
+
+html_parse()
+{
+testHTML -mjmflags 0 -mjm "$1" 
+} # html_parse
+
+html_parse_hier()
+{
+#testHTML --mjmflags hier -mjm junk/nfm.html  2>xxx  > junk/yyy 
+testHTML --mjmflags hier -mjm "$1"
+} 
+toobib_save_url()
+{
+src=`grep "% srcurl" xxxx | head -n 1 | mjm zed 2`
+cit=`grep "% citeurl" xxxx | head -n 1 | mjm zed 2`
+citx=`grep "^@.*{" xxxx | head -n 1 | sed -e 's/.*{//' | awk '{print "\\\\cite{"$0"}"} '`
+
+echo $src $citx $cit `date`  >> "$url_save_file"
+
+}
+toobib_clip()
+{
+
+#url_save_file="$script_data/toobib/url_cites.tex"
+echo `date ` `myclip -link ` >>  "$url_save_file" 
+
+#echo -e "clip xxxx\nquit" | $TOOBIB -legacy   2> aaaa 
+#echo -e "clip xxxx" | $TOOBIB -legacy -cmd "quiet"   2> aaaa 
+echo -e "clip xxxx" | $TOOBIB -legacy  2> aaaa 
+}
+
+# save any extra flags.. 
+toobib_local()
+{
+x=`find .. -name "toobib.out"`
+if [ "$x" != "" ]
+then
+ox=`echo $TOOBIB | grep "\-"`
+if [ "$ox" != "" ]
+then
+tx=`echo $TOOBIB | sed -e 's/[^-][^-]*-/-/'`
+fi
+TOOBIB="$x -devel $tx "
+echo toobib set to $TOOBIB
+else
+echo did not find toobib.out in `ls .. `
+fi
+
+}
+toobib_test()
+{
+echo -e "force $1\nonly $1\nguess $2 xxxx" | $TOOBIB -legacy   2> aaaa 
+}
+
+
+
+toobib_add()
+{
+echo -e "add $1 xxxx" | $TOOBIB -legacy   2> aaaa 
+}
+
+toobib_all()
+{
+echo -e "clip xxxx all\nquit" | $TOOBIB -legacy   2> aaaa 
+}
+
+
+toobib_ref()
+{
+#echo `date ` `myclip -link ` >>  /home/scripts/script_data/toobib/links
+echo `date ` `myclip -link ` >>  "$url_save_file" 
+echo -e "clip xxxx" | $TOOBIB -legacy   2> aaaa 
+echo -e "ref xxxx 24\nquit" | $TOOBIB -legacy   2> aaaa 
+}
+format_bib()
+{
+
+# toobib.out -cmd "parse -" -cmd "map-dump" -quit 2>/dev/null
+$TOOBIB -cmd "parse -" -cmd "map-dump" -quit 2>/dev/null
+
+
+} # format_bib
+
+
+fix_bbl()
+{
+#marchywka@happy:/home/documents/cpp/proj/toobib$ 
+olddir=`pwd`
+TOODIR="/home/documents/cpp/proj/toobib"
+cd "$TOODIR" 
+#echo -e load /home/documents/latex/proj/klotz klotz \\ndump\\nmake\\nsave crap.bbl | ./mjm_bblfix.out 2>&1 | tee xxx
+PROJDIR="/home/documents/latex/proj/"
+FDIR="$PROJDIR/$1"
+if [ -e "$FDIR" ]
+then
+echo -e load "$FDIR" "$1" \\ndump\\nmake\\nsave crap.bbl | ./mjm_bblfix.out 2>&1 | tee xxx
+echo
+echo need to run lualatex TWICE if creation worked. 
+else
+echo $1 does not exist in $PROJDIR
+fi
+
+
+cd "$olddir"
+}
+
+
+
+loopdone=
+
+help()
+{
+echo Usage $0 
+grep "^if.*==.*\"-" $0
+}
+while [ "$*" != "" ] && [ "$loopdone" == "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-clean" ]
+then
+format_bib
+shift
+fi
+
+if [ "$1" == "-cred" ]
+then
+#TOOBIB=toobib.out
+TOOBIB="$TOOBIB -cred "
+shift
+fi
+
+if [ "$1" == "-chromate" ]
+then
+#TOOBIB=toobib.out
+TOOBIB="$TOOBIB -chromate $2 "
+shift
+shift
+fi
+
+
+if [ "$1" == "-fixbbl" ]
+then
+fix_bbl "$2"
+shift; shift
+fi
+
+if [ "$1" == "-html" ]
+then
+html_parse "$2"
+shift; shift
+fi
+
+if [ "$1" == "-hhtml" ]
+then
+html_parse_hier "$2"
+shift; shift
+fi
+
+if [ "$1" == "-json" ]
+then
+mjsonu.out -cmd "sax-json $2" -quit
+shift; shift
+fi
+
+if [ "$1" == "-json1" ]
+then
+mjsonu.out -cmd "sax-json $2 1" -quit
+shift; shift
+fi
+
+if [ "$1" == "-jh1" ]
+then
+$0 -html "$2" | grep -A 8 "application/ld+json" | grep "(null)" | grep "{" | sed -e 's/^[^{]*//' | mjsonu.out -cmd "sax-json - 1" -quit
+shift; shift
+fi
+
+
+if [ "$1" == "-topic" ]
+then
+shift
+topics="$*"
+for f in $topics 
+do
+fn="$topicdir/$f.bib"
+link=`myclip -link`
+echo "% toobib topic "`date +%Y-%m-%d` " $*" $link  >> "$fn"
+echo "% toobib topic "`date +%Y-%m-%d` " $*" $link  "$fn"
+done
+
+toobib_clip
+
+for f in $topics 
+do
+fn="$topicdir/$f.bib"
+cat "xxxx" >> "$fn"
+done
+loopdone=1
+
+
+shift
+fi
+
+
+if [ "$1" == "-clip" ]
+then
+toobib_clip
+toobib_save_url
+shift
+fi
+
+
+if [ "$1" == "-local" ]
+then
+toobib_local 
+shift
+fi
+
+if [ "$1" == "-test" ]
+then
+shift
+toobib_test "$1" "$2"
+shift
+shift
+fi
+
+
+
+if [ "$1" == "-add" ]
+then
+toobib_add "$2"
+shift
+shift
+fi
+
+
+if [ "$1" == "-all" ]
+then
+toobib_all
+shift
+fi
+if [ "$1" == "-ref" ]
+then
+toobib_ref
+shift
+fi
+
+
+if [ "$1" == "-find" ]
+then
+toobib_find
+shift
+fi
+
+if [ "$1" == "-bibpath" ]
+then
+bibpath="$2"
+shift; shift
+fi
+
+
+
+
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+
+done
+
+
