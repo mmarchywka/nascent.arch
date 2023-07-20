@@ -1,0 +1,560 @@
+#!/bin/bash
+#echo f  one in scripts
+MYNAME="eutilsnew"
+HELPCMD="lynx -dump "
+BROWSER="IE"
+location=`dirname $0`
+. $location/setup
+#export SE_SCRIPT_DATA="/home/scripts/script_data"
+
+script_data="$SE_SCRIPT_DATA"
+#HISTORY_FILE="/home/marchywka/scripts/eutils_history"
+HISTORY_FILE="/home/scripts/script_data/eutils_history"
+HISTORY_FILE="$script_data/eutils_history"
+
+if [ "$HISTORY_FILE" != "" ]
+then
+echo `date` ::  $* >> "$HISTORY_FILE"
+fi
+
+# https://comments.gmane.org/gmane.comp.python.bio.general/5862
+#https://www.pubmedcentral.nih.gov/oai/oai.cgi?verb=ListRecords&set=database&metadataPrefix=pmc
+FPAGET="efetch.fcgi"
+DBLISTURL="https://eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi"
+# had to get recent although the ones in usr/bin should wokr too. 
+BLASTN="/home/marchywka/MyDocs/reprints/pubmed/ncbi-blast-2.2.29+/bin/blastn"
+BLASTNLIST=" -db nr  -ungapped -dust no -task blastn -remote "
+
+# full text parameters,
+#https://eutils.ncbi.nlm.nih.gov/corehtml/query/static/efetchlit_help.html
+
+db="Taxonomy" ; query="interferon" ;query="$1" ;report="abstract" ;report="citation"
+extraquery="" 
+BADEMAILTYPES="copyright-statement\|publisher-loc\|license-p" 
+# the result returned by the search "viruses" gives you the id number, this will expand it:
+#https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=10239&lvl=3&lin=s&keep=1&srchmode=1&unlock
+#lynx -dump -width 0 "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=xml&id=10239&lvl=10&lin=s&keep=1&srchmode=1&unlock" 
+
+# The pmc returns a uilist which can be used to get pdfs as follows: 
+#https://www.pubmedcentral.gov/picrender.fcgi?tool=pmcentrez&blobtype=pdf&artid=1043960
+# note that some may need to follow link to a summary, and then to a publisher site:
+#https://www.pubmedcentral.gov/articlerender.fcgi?tool=pmcentrez&artid=434384
+
+###############################################################
+SNPHELPURL="https://www.ncbi.nlm.nih.gov/projects/SNP/SNPeutils.htm"
+DBHELPURL="https://eutils.ncbi.nlm.nih.gov/entrez/query/static/efetchseq_help.html"
+#https://eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi?db=pccompound
+#https://eutils.ncbi.nlm.nih.gov/entrez/query/static/efetchseq_help.html
+#https://eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi?
+#https://eutils.ncbi.nlm.nih.gov/entrez/query/static/efetchseq_help.html#SequenceDatabases
+SEARCHHELPURL="https://eutils.ncbi.nlm.nih.gov/entrez/query/static/esearch_help.html"
+# note reldate:
+#Relative Dates: Limit items a number of days immediately preceding today's date. 
+#reldate=
+#For example:  reldate=90 
+#https://www.ncbi.nlm.nih.gov/entrez/query/static/help/helpdoc.html
+
+# quoting is a mess:
+#$ eutilsnew -v -count '1990/01[dp] AND "progesterone receptor"'
+#$ eutilsnew -v -count '1990/01[dp] AND progesterone receptor'
+#$ eutilsnew -popular "progesterone receptor"
+#$ eutilsnew -popular '"progesterone receptor"'
+
+# recent help links, need to add::::::::::::
+#https://www.ncbi.nlm.nih.gov/entrez/query/static/nucprotfaq.html#6
+#https://www.ncbi.nlm.nih.gov/Sitemap/samplerecord.html
+
+##########################################################################33
+
+# this is actually used for something...
+THETERM=term 
+
+DBINFOLINK='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi'
+# ?db='
+TAXURL="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=xml&id=10239&lvl=10&lin=s&keep=1&srchmode=1&unlock" 
+OPTIONSURL="https://www.ncbi.nlm.nih.gov/entrez/query/static/efetchlit_help.html"
+# this had been declared too later, after last code move,
+# to be included in ESEARCHCONST
+USERID="tool=biotechmarchywka&email=marchywka@hotmail.com"
+
+UTILS="https://www.ncbi.nlm.nih.gov/entrez/eutils"
+UTILS="https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+ESEARCHCONST="esearch.fcgi?${USERID}&db="
+LYNXCMD="lynx -width=0 -source -accept_all_cookies -dump "
+LYNXCMDF="lynx -width=0  -accept_all_cookies -dump "
+
+FIELDSURL="https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descrip"
+
+
+# I can't get options to work for eutils, their html seems to
+# geerally use API but still can't figure this out.
+# this is for images etc 
+CHEMHOST="https://pubchem.ncbi.nlm.nih.gov"
+
+rhelp ()
+{
+echo " Usage: $MYNAME [ -freq,-stat] term  "
+echo '   Search pubmed and download results using the eutil api.'
+echo '   much faster than parsing html... '
+echo '   -freq : perform complete aquistion and freg counting ' 
+echo '   -stat : perform word stat analysis on already collected data'
+echo '   -count : just examine xml for return count'
+echo '   -nuc   : search nucleotide'
+echo '   -blastn   : blast search using replcaement for blast3cl'
+echo '   -blastn   : note input is FASTA not a sequence and remote is LAST param'
+ echo '  -blastn : -db nr  -query uck2.fasta -ungapped -dust no -task blastn -remote  '
+echo '   -xml   : change return format to xml'
+echo '   -days : get results for last N days' 
+echo '   -ref : restrict results to reference only (proteins AFAIK)'
+echo '   -protein   : search nucleotide'
+echo '   -omim   : search online mendalian inheritance'
+echo '   -compound : compound'
+echo '   -structure : for getting pdb files '
+echo '   -gene : gene search, designed to find pathways '
+echo '   -out : put abstracts in this location'
+echo '   -add x : add text x to query string '
+echo '   -v : verbose, show download progress'
+echo '   -help: db,snp,help,options,search,blast,links'
+echo '   -fields: dump ncbi help page listing fields'
+echo "   -about : display id info " 
+echo '    $ eutilsnew -count -v -protein "AAA51944 or AAK37601[accn]"'
+echo '   $ eutilsnew -days 10 "" '
+echo '   $ eutilsnew -v -count -protein -ref "igg heavy chain"'
+echo "  Contact: marchywka@hotmail.com " 
+echo ' https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=helppubmed.section.pubmedhelp.Search_Field_Descrip'
+echo " Generated list of current commands Nov 2009"
+echo  "    -popular: "
+echo  "    -pmid: "
+echo  "    -freq: "
+echo  "    -stat: "
+echo  "    -comp: "
+echo  "    -dump: "
+echo  "    -count: "
+echo  "    -zip: "
+echo  "    -out: "
+echo  "    -maxcnt: "
+echo  "    -retmode: "
+echo  "    -report: "
+echo  "    -db: "
+echo  "    -v: "
+echo  "    -about: "
+echo  "    -download_option: "
+echo  "    -ref: "
+echo  "    -tax: "
+echo  "    -snp: "
+echo  "    -nuc: "
+echo  "    -protein: "
+echo  "    -omim: "
+echo  "    -structure: "
+echo  "    -xml: "
+echo  "    -gene: "
+echo  "    -compound: "
+echo  "    -gi: "
+echo  "    -struct: "
+echo  "    -cid: "
+echo  "    -days: "
+echo  "    -ie: "
+echo  "    -help: "
+
+
+
+}
+
+if [ -z "$1" ]; then rhelp ; exit 65 ; fi
+
+
+
+#### default values
+
+db="Pubmed" ; query="$1" ; report="abstract" ; OUT=".temp_eutils_1" ; retmode="text"
+
+FxULLL=1
+if [ "$FULLL" != "" ] ; then db="pmc" ; report="sgml"; report="uilist" ; fi
+
+OPT="-q"
+
+# blastnew ###################################
+while [ "${1#-}" != "$1" ]
+do
+FIRST="$*"
+
+if [ "$1" == "-trend" ]
+then
+term="$2"
+eu="eutilsnew -count "
+for f in 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000
+do
+x=`$eu "$term AND $f[dp]" | awk '{print $3}' `
+echo $f $x $term
+done
+
+shift ; shift
+fi
+
+if [ "$1" == "-china" ]
+then
+ for f in $2  ; do x=`eutilsnew -db $db -count "china[ad] AND $f[dp]"| awk '{print $3} ' `; y=`eutilsnew -db $db -count "usa[ad] AND $f[dp]"| awk -vf=$x '{print $3" " $3/f}' ` ; echo $f china $x usa $y ; done
+shift; shift
+fi
+
+if [ "$1" == "-popular" ]
+then
+#these work as expected
+term='progesterone receptor'
+#term='"progesterone receptor"'
+term=$2
+year=1980
+
+
+while [ "$year" -le 2006 ]
+do
+month=1
+while [ "$month" -le 12 ]
+do
+frac=`echo | awk -v Y=$year -v M=$month '{print Y+(M-1)/12 }'`
+echo  $frac `eutilsnew -v -count  "$year/$month[dp] AND $term"| awk '{print $3}'`
+month=$[$month+1]
+done
+year=$[$year+1]
+done
+exit 0
+fi
+
+if [ "$1" == "-add" ] ; then extraquery="$2"; shift ; shift ;fi
+##### get just one and exit
+if [ "$1" == "-pmid" ] ; then eutils "$1[PMID]" ; cat .temp_eutils_1 ; exit 0 ;fi
+if [ "$1" == "-blastn" ] ; then shift ; $BLASTN $BLASTNLIST $* ; exit 0 ;fi
+if [ "$1" == "-quickn" ] ; then shift ; blastn  -db nr  -ungapped -dust no -task blastn -remote ; exit 0 ;fi
+#eutilsnew -report gb  -db nucleotide   -out EBOV_bund_gb  -v "FJ217161.1"
+
+if [ "$1" == "-gbdna" ] ; then shift  
+eutilsnew -report gb  -db nucleotide  -v  -out xxx  -v "$1"
+shift ;fi
+if [ "$1" == "-fastadna" ] ; then shift  
+eutilsnew -report fasta  -db nucleotide  -v  -out xxx  -v "$1"
+shift ;fi
+
+if [ "$1" == "-pmid-links" ]  # change PMID lines in stdin from prior download into pubmed links
+then shift  
+sed -e 's,PMID: \([0-9]*\),https://www.ncbi.nlm.nih.gov/pubmed/\1,' 
+fi
+
+
+if [ "$1" == "-listdna" ] ; then shift  
+eutilsnew -report docsum  -db nucleotide  -v  -out xxx  -v "$1"
+shift ;fi
+
+
+ #-db nr  -query uck2.fasta -ungapped -dust no -task blastn -remote 
+
+if [ "$1" == "-fields" ] ; then shift 
+$LYNXCMDF "$FIELDSURL"
+fi
+
+##### count and exit
+if [ "$1" == "-freq" ]
+then lut="$2" ; shift
+eutils "$lut" ; lut=`echo $lut | sed 's/%20/_/g'` ; mkdir $lut ; mv .temp_eutils_1 $lut/$lut
+eutils -stat "$lut"
+exit 0
+fi
+
+##### another count and exit thing
+if [ "$1" == "-stat" ]
+then lut="$2" ; shift ; name="$lut"; echo $name
+cd "${name}" ;cat "${name}"  | freqassoc | sort -g > ${name}_counts ; cd .. ; merge="${name}"
+freqassocanal -merge $merge/${merge}_counts $merge/${merge}_counts legal_social_political/legal_social_political_counts  > ${merge}/${merge}_uniq
+exit 0
+fi
+
+##### another exit 
+if [ "$1" == "-comp" ]
+then
+x=`echo $2| sed 's/%20/_/g'` ; y=`echo $3| sed 's/%20/_/g'` ; d="legal_social_political"
+shift; shift
+freqassocanal -merge $x/${x}_counts $y/${y}_counts $d/${d}_counts 
+exit 0
+fi
+
+
+#### continue....
+if [ "$1" == "-dump" ] ;then shift; DUMP="1" ;fi
+if [ "$1" == "-grep" ] ;then shift; GREPFLAG="$1" ;shift; fi
+if [ "$1" == "-count" ] ;then shift ; CNT="1" ; fi
+if [ "$1" == "-zip" ] ;then shift ; ZIPFLAG="1" ; fi
+if [ "$1" == "-out" ] ; then  shift ; OUT="$1" ; shift; fi
+if [ "$1" == "-maxcnt" ] ; then  shift ; maxcnt="$1" ; shift; fi
+if [ "$1" == "-retmode" ] ; then  shift ; retmode="$1" ; shift; fi
+if [ "$1" == "-report" ] ; then  shift ; report="$1" ; shift; fi
+if [ "$1" == "-email" ] ; then  shift ; report="xml" ; GREPFLAG="@"; fi
+if [ "$1" == "-db" ] ; then  shift ; db="$1" ; shift; fi
+if [ "$1" == "-v" ] ; then shift ; OPT="" ;fi
+if [ "$1" == "-debug" ] ; then shift ; DEB="1" ;fi
+if [ "$1" == "-about" ] ; then shift ; echo $USERID ; fi
+if [ "$1" == "-download_option" ] ; then shift ; OPT="${OPT} $1"; shift ;fi
+# refeence proteins only 
+if [ "$1" == "-ref" ] ; then shift; QUERYQUAL='AND srcdb_refseq[prop]'; fi
+
+if [ "$1" == "-tax" ] ; then shift ;lynx -dump -width 0 "$TAXURL" ;exit 0  ;fi
+# text doesnt work...
+if [ "$1" == "-snp" ] ; then shift ;db="snp" ;query="$1";report="abstract";retmode="xml" ; fi
+if [ "$1" == "-nuc" ] ; then shift ;db="nucleotide" ;query="$1";report="gb" ; fi
+#echo $query
+# this is quite verbose...
+#report="native" #report="abstract" ;report="citation"
+
+if [ "$1" == "-protein" ] ; then shift ; db="protein" ; query="$1"; report="gb" ;fi
+if [ "$1" == "-omim" ] ; then shift ; db="omim" ; query="$1"; report="full";retmode="xml" ;fi
+if [ "$1" == "-structure" ] 
+	then shift ;db="structure" ;query="$1" ;report="docsum" ;retmode="text" ; fi
+
+if [ "$1" == "-xml" ] ; then shift ; report="xml" ; fi
+
+if [ "$1" == "-gene" ] ;then shift ;db="gene" ;query="$1"
+report="docsum"
+# this works, but asn1 parser exists
+report="xml"
+# the parser for this is slow but file size is better than xml. 
+#report="asn.1"
+fi
+#FPAGET="efetch.fcgi"
+if [ "$1" == "-compound" ] ;then shift ; FPAGET="esummary.fcgi" ; db="pccompound" ;query="$1" ;report="docsum"; fi
+
+
+if [ "$1" == "-parse_email" ] ;then shift 
+sed -e 's/[<>" /]/\n/g' | grep "@" | sort | uniq -c | sort -g   | grep "\."
+fi
+
+if [ "$1" == "-parse_filter_email" ] ;then shift 
+sed -e 's/[<>" /]/\n/g' | grep "@" | grep -v "$BADEMAILTYPES" | sort | uniq -c | sort -g   | grep "\."
+fi
+
+
+
+if [ "$1" == "-format_email" ] ;then shift 
+echo `awk '{print $2}'` | sed -e 's/  */,/g'  
+fi
+
+#report="native"
+#report="asn.1"
+#THETERM=from_uid
+
+if [ "$1" == "-gi" ] ; then shift ; db="protein" ; query="$1";report="native"; fi
+#report="abstract"
+#report="uilist"
+
+if [ "$1" == "-medabs" ] ; then shift 
+awk 'BEGIN{x="";} {if ( $1 == "AB" ) {if ( x!="") {print x;} x=$0 } else { if ( $2!= "-") { if ( x!= "") x=x$0;}   }}END{if (x!= "") print x; }'
+
+fi
+
+
+# added Nov 2009
+#"https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=519850"
+#"https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=146437&loc=ec_rcs"
+
+if [ "$1" == "-struct" ]
+then
+url="${CHEMHOST}/image/imgsrv.fcgi?cid=$2"
+wget -O ${2}.png -S -v "$url"
+shift; shift
+fi
+if [ "$1" == "-cid" ]
+then 
+url="${CHEMHOST}/summary/summary.cgi?cid=${2}&loc=ec_rcs"
+lynx -width 1000 -dump "$url"
+shift; shift
+fi
+
+
+
+
+if [ "$1" == "-days" ] ;then shift; EXTRASTUFF="&reldate=$1"; shift ;fi
+###############################################################
+if [ "$1" == "-ie" ] ; then HELPCMD="$BROWSER"; shift ; fi
+if [ "$1" == "-help" ]
+then
+if [ "$2" == "" ] ; then rhelp ;fi
+if [ "$2" == "db" ] ; then  $HELPCMD "$DBINFOLINK" ; fi
+
+# "$DBHELPURL" ; fi
+if [ "$2" == "snp" ] ; then  $HELPCMD "$SNPHELPURL" ; fi
+if [ "$2" == "options" ] ; then  $HELPCMD "$OPTIONSURL" ; fi
+if [ "$2" == "search" ] ; then  $BROWSER "$SEARCHHELPURL" ; fi
+if [ "$2" == "doc" ] ; then  $BROWSER "$BLASTFTPURL" ; fi
+if [ "$2" == "blast" ]  ;then  blastcl3 ;fi
+
+if [ "$2" == "links" ] ; then 
+echo "$BLASTDBURL" ;echo "$BLASTPAGEURL"; echo  "$BLASTFTPURL"
+echo "$BLASTP2URL" ; echo "$BLASTNETURL" ; echo "$BLASTPURL"
+fi
+
+shift ; shift ; exit -1 ; fi
+##############################################
+
+
+
+#######
+#shift 
+if [ "$*" == "$FIRST" ]
+then 
+echo "Couldn't parse $1 ."
+rhelp
+exit 65; 
+fi
+###################################
+query=`echo $1 $QUERYQUAL|urlencode`
+done
+#echo $query
+
+if [ "$query" == "" ] ; then exit 0; fi
+
+ESEARCH="$UTILS/${ESEARCHCONST}$db&retmax=1&usehistory=y$extraquery$EXTRASTUFF&${THETERM}="
+
+if [ "$DEB" != "" ]
+then
+echo DEBUG esearch ${ESEARCH}${query}
+fi
+
+### need full param stuff
+if [ "$DUMP" == "1" ] ; then ${LYNXCMD} "${ESEARCH}${query}" ; exit 0 ; fi
+
+search=`${LYNXCMD} "${ESEARCH}${query}"  |tee .temp_eutils_raw `
+
+if [ "$DEB" != "" ]
+then
+echo DEBUG esearch RESULT 
+cat .temp_eutils_raw
+fi
+
+
+if [ "`echo $search | grep -i 'error\|warn' `" != ""  ]
+then cat .temp_eutils_raw ; exit 1 ; fi
+
+parsed=`echo $search | sed -n 's/.*<Count>\(.*\)<.Count>.*<QueryKey>\(.*\)<.QueryKey>.*<WebEnv>\(.*\)<.WebEnv>.*/\1 \2 \3/p' `
+
+
+Count=` echo $parsed | awk '{print $1}' `
+if [ "$CNT" == "1" ] ; then echo Count is $Count ; exit 0 ; fi
+
+QueryKey=` echo $parsed | awk '{print $2}' `
+WebEnv=` echo $parsed | awk '{print $3}' `
+
+#print "Count = $Count; QueryKey = $QueryKey; WebEnv = $WebEnv\n";
+
+# ---------------------------------------------------------------------------
+# this area defines a loop which will display $retmax citation results from 
+# Efetch each time the the Enter Key is pressed, after a prompt.
+
+retstart=0 ; retmax="$Count"
+if [ "$maxcnt" != "" ]
+then
+if [ "$retmax" -gt "$maxcnt" ]
+then
+retmax=$maxcnt
+fi
+fi
+
+# 2014-10-07 found out about 10k limit wtf
+newfetch()
+{
+# assume this is howmany we want
+if [ "$retmax" == "" ]
+then
+echo retmax is null set to zero wtf
+retmax=0
+fi
+
+if [ "$retmax" -gt "10000" ]
+then
+total=$retmax
+retmax=10000
+loaded=0
+retstart=0
+
+while [ "$total" -gt "$loaded" ]
+do
+VARFIELDS="rettype=$report&retmode=$retmode&retstart=$retstart&retmax=$retmax&db=$db&query_key=$QueryKey&WebEnv=$WebEnv"
+efetch="$UTILS/${FPAGET}?${USERID}&${VARFIELDS}"
+if [ "$DEB" != "" ]
+then
+echo DEBUG etetch $efetch
+fi
+wget $OPT -O - "$efetch" 
+sc=$?
+if [ "$sc" != "0" ]
+then
+# this should go to stderr and not be buried in the data 
+echo eutils prior wget did not terminate properly results likely wtf
+fi
+loaded=$[$loaded +$retmax]
+retstart=$loaded
+
+done
+else
+VARFIELDS="rettype=$report&retmode=$retmode&retstart=$retstart&retmax=$retmax&db=$db&query_key=$QueryKey&WebEnv=$WebEnv"
+efetch="$UTILS/${FPAGET}?${USERID}&${VARFIELDS}"
+
+if [ "$DEB" != "" ]
+then
+echo DEBUG etetch $efetch
+fi
+wget $OPT -O - "$efetch" 
+fi
+
+
+}
+#efetch="$UTILS/efetch.fcgi?tool=biotechmarchywka&email=marchywka@hotmail.com&rettype=$report&retmode=$retmode&retstart=$retstart&retmax=$retmax&db=$db&query_key=$QueryKey&WebEnv=$WebEnv"
+VARFIELDS="rettype=$report&retmode=$retmode&retstart=$retstart&retmax=$retmax&db=$db&query_key=$QueryKey&WebEnv=$WebEnv"
+
+efetch="$UTILS/efetch.fcgi?${USERID}&${VARFIELDS}"
+efetch="$UTILS/esummary.fcgi?${USERID}&${VARFIELDS}"
+efetch="$UTILS/${FPAGET}?${USERID}&${VARFIELDS}"
+
+echo Count is $retmax versus $Count
+
+# wanted to put a query header into the output now... 
+#search=`${LYNXCMD} "${ESEARCH}${query}"  |tee .temp_eutils_raw `
+if [ "$HEADERFLAG" != "" ]
+then
+echo ${LYNXCMD} ${ESEARCH}${query}  > "$OUT" 
+date >> "$OUT"
+else
+# really want a blank line?
+echo -n  > "$OUT"
+fi
+
+if [ "$DEB" != "" ]
+then
+echo DEBUG etetch $efetch
+fi
+
+if [ "$OLDRETMAX" != "" ]
+then
+if [ "$ZIPFLAG" != "" ]
+then wget $OPT -O - "$efetch" | gzip --best >> "$OUT"
+# this does not work with header stuff 
+else wget $OPT -O "$OUT" "$efetch"
+fi
+else #retmax
+
+if [ "$GREPFLAG" != "" ]
+then
+if [ "$ZIPFLAG" != "" ]
+then newfetch | grep "$GREPFLAG" |gzip --best >> "$OUT"
+else newfetch | grep "$GREPFLAG"  >>  "$OUT" 
+fi
+else #grepflag
+
+if [ "$ZIPFLAG" != "" ]
+then newfetch | gzip --best > "$OUT"
+else newfetch >  "$OUT" 
+fi
+
+fi # grepflag
+
+
+
+fi 
+
+
