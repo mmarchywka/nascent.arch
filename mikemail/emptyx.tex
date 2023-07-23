@@ -1,0 +1,333 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Sample template for MIT Junior Lab Student Written Summaries
+% Available from http://web.mit.edu/8.13/www/Samplepaper/sample-paper.tex
+% Last Updated April 12, 2007
+% Adapted from the American Physical Societies REVTeK-4 Pages
+% at http://publish.aps.org
+
+\setlength{\paperheight}{11in}
+% http://tex.stackexchange.com/questions/74636/mla-package-and-thumbpdf
+\makeatletter
+\@namedef{ver@thumbpdf.sty}{}
+\makeatother
+\documentclass[aps,secnumarabic,balancelastpage,amsmath,amssymb,nofootinbib]{revtex4}
+
+\input{myskeletonpackages.tex}
+
+\newcolumntype{.}[1]{D{.}{.}{#1}}
+%\usepackage[maxfloats=30]{morefloats}   %mjm   saving up figs for the end   
+% no param on old version stuck at 36
+\usepackage{morefloats}        %mjm   saving up figs for the end   
+\usepackage{graphicx}        %mjm   saving up figs for the end   
+% https://tex.stackexchange.com/questions/121601/automatically-wrap-the-text-in-verbatim
+\usepackage{listings}
+\lstset{
+basicstyle=\small\ttfamily,
+columns=flexible,
+breaklines=true
+}
+
+% none of this fking fking works for a f F 
+\newcommand{\mjmverbatim}{lstlisting}
+\newcommand{\mjmbeginverbatim}{\begin{lstlisting}}
+\newcommand{\mjmendverbatim}{\end{lstlisting}}
+
+\newcommand{\mjmmangle}[1]{keep/#1}
+
+\newcommand{\mjmtitle}{ }
+\newcommand{\mjmbasename}{\jobname}
+\newcommand{\mjmaddbio}{mjm_tr}
+\newcommand{\mjmversion}{ 0.00 }
+\newcommand{\mjmtrno}{MJM-2018-009}
+\newcommand{\mjmbibday}{12}
+\newcommand{\mjmbibmo}{12}
+\newcommand{\mjmbibyear}{2018}
+\newcommand{\mjmemail}{marchywka@hotmail.com}
+
+
+\lhead{M Marchywka,  \mjmtrno }
+%\rhead{ \mjmversion not for public release}
+%\rhead{ { \today }  v. \mjmversion for release without review }
+%\rhead{ { \today }  v. \mjmversion NOT public DRAFT }
+\rhead{ { \today }  v. \mjmversion NOT public NOTES }
+
+\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+
+\input{mycommands.tex}
+
+%%%% build flags 
+%\newlength{\desttabw}  \setlength{\desttabw}{4in}
+\newlength{\desttabw}  \setlength{\desttabw}{\textwidth}
+\newlength{\chainwidth}  \setlength{\chainwidth}{.4\textwidth }
+\newlength{\slantwidth}  \setlength{\slantwidth}{.2\textwidth }
+\newlength{\subfigwidth}  \setlength{\subfigwidth}{.3\textwidth }
+\newlength{\fullfigwidth}  \setlength{\fullfigwidth}{.8\textwidth }
+\newlength{\subwfigwidth}  \setlength{\subwfigwidth}{.75\textwidth }
+\newlength{\subwfigwidthrot}  \setlength{\subwfigwidthrot}{\textwidth }
+\newlength{\myboxwidth}  \setlength{\myboxwidth}{.3\textwidth }
+\newlength{\picwidth}  \setlength{\picwidth}{.4\textwidth }
+% set to center for nowmal output 
+\newcommand{\destflushtab}{flushleft}
+\includecomment{mdpicomment}
+\excludecomment{draftcomment}
+\excludecomment{badmathcomment}
+\excludecomment{showworkcomment}
+% this does not fing work ... 
+
+\newcommand{\mjmed}[1]{
+%\begin{mjmedx} 
+[ mjm : #1   ]
+%\end{mjmedx} 
+}  
+
+% thinking outload
+\newcommand{\mjmtolx}[1]{}
+\newcommand{\mjmtolxx}[1]{}
+\newcommand{\mjmtol}[1]{
+ \fbox{  
+% thi does not ing work right 
+\begin{minipage}[t]{\textwidth}
+{ \centering{\bf{Thinking outloud}} }
+\par   
+#1 
+\end{minipage} 
+}
+}
+
+\newcommand{\mjmaside}[1]{
+ \fbox{  
+% thi does not ing work right 
+\begin{minipage}[t]{\textwidth}
+{ \centering{\bf{Aside: }} }
+\par   
+#1 
+\end{minipage} 
+}
+}
+
+
+
+
+\newcommand{\mjmgraphics}[1]{#1 }
+\newcommand{\mjmfullplot}[1]{\includegraphics[width=\fullfigwidth]{#1}}
+%\newcommand{\mjmincludeplot}[1]{\includegraphics[width=\fullfigwidth]{#1}}
+%\newcommand{\mjmincludeplot}[1]{\includegraphics[width=\subfigwidth]{#1}}
+\newcommand{\mjmincludeplot}[1]{\includegraphics[height=3in,width=\fullfigwidth]{#1}}
+
+\newcommand{\mjmreffig}[1]{Fig. \ref{#1}}
+%cp yyy2.pdf ~/d/latex/keep/pp20171124biotin.pdf
+\newcommand{\mjmdatedplot}[1] 
+{ \includegraphics[height=3in,width=\fullfigwidth]{keep/pp20171124#1} }
+% right now there are too many figs to save for the end apaprently
+% hard limit is 36
+\newcommand{\mjmbeginfigure}{\begin{figure}[H] }
+%\newcommand{\mjmbeginfigure}{\begin{figure}[p] }
+\newcommand{\mjmfigure}[1]{
+%\begin{figure}[H]
+\mjmbeginfigure
+
+#1 
+
+\end{figure}
+}
+%\extrafloats{100}
+
+\newcommand{\mjmlisting}[1]
+{
+\begin{lstlisting} 
+#1 
+\end{lstlisting}
+}
+
+\newcommand{\mjmold}[1]{ } 
+
+
+
+\newcommand{\mjmeqn}[1]{\begin{equation} #1 \end{equation}  } 
+
+
+
+
+
+\begin{document}
+\title{\mjmtitle}
+\author         {Mike Marchywka}
+\email          {\mjmemail}
+\thanks{ to cite  or credit this work, see bibtex in Appendix \ref{appendix:citing} } 
+\date{\today}
+\affiliation{306 Charles Cox, Canton GA 30115}
+
+\begin{abstract}
+
+
+\end{abstract}
+
+\maketitle
+\tableofcontents
+\newpage
+
+
+\section{Introduction  }
+
+
+
+\mjmtol{
+}
+
+
+\section{Conclusions}
+
+
+\section{Supplemental Information}
+
+\subsection{Computer Code}
+
+
+\begin{lstlisting}
+
+
+\end{lstlisting}
+\section{Bibliography}
+
+
+\bibliography{\mjmbasename,\mjmaddbio}
+\bibliographystyle{plainurl}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{acknowledgments} 
+
+% \input{generalack.tex}
+\begin{enumerate}
+\item Pubmed eutils facilities and the basic research it provides. 
+\item Free software including Linux, R, LaTex  etc.
+\item Thanks everyone who contributed incidental support. 
+\end{enumerate}
+
+\end{acknowledgments}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\appendix
+
+\begin{mdpicomment}
+
+\section{ Statement of Conflicts }
+ No specific funding was used in this effort and there are no relationships
+with others that could create a conflict of interest. I would like to develop
+these ideas further and have obvious bias towards making them appear 
+successful. Barbara Cade, the dog owner, has worked in the pet food industry
+but this does not likely create a conflict. We have no interest in the
+makers of any of the products named in this work.  
+
+\end{mdpicomment}
+
+\begin{mdpicomment}
+\section{About the Authors and Facility}
+This work was performed at a dog rescue run by Barbara Cade and
+housed in rural Georgia.  The author of this report 
+,Mike Marchywka,
+has a background in electrical engineering and 
+has done extensive research using free online literature sources.  
+I hope to find additional people interested in critically 
+examining the results and verify that they can be reproduced
+effectively to treat other dogs.
+
+\begin{comment}
+\begin{figure}[htb] 
+\centering
+\mjmed{ picture commented out to save space in drafts...  } 
+%\includegraphics[width=\picwidth]{me_on_brick.jpg}
+\caption{ 
+ }
+\end{figure}
+
+\end{comment}
+
+
+\section{Symbols, Abbreviations and Colloquialisms}
+%\abbreviations{The following abbreviations are used in this manuscript:\\
+%\begin{table}
+\noindent
+\begin{tabular}{@{}ll}
+%SMVT & Sodium dependent Multi-Vitamin Transporter\\
+TERM & definition and meaning   \\
+\hline
+%TLA & Three letter acronym\\
+%LD & linear dichroism
+\end{tabular} % }
+%\end{table}
+
+% https://tex.stackexchange.com/questions/5957/bibtex-entry-for-white-papers-and-technical-reports
+
+
+\section{Citing this as a tech report or white paper }
+\label{appendix:citing}
+
+Note: This is mostly manually entered and not assured to be error free.
+
+This is tech report \mjmtrno. 
+
+\begin{table}[H] \centering
+\begin{tabular}{r|r|c|r}
+Version & Date & Comments  &  \\
+0.01 & 2018-12-12 &  Copy from collagen  &  \\
+-  & \today & version  \mjmversion  \mjmtrno  &  \\
+1.0 & 20xx-xx-xx & First revision for distribution &  \\
+\end{tabular}
+\end{table}
+
+% no idea?? 
+%\input{includes/bibtex.txt}
+
+\begin{comment}
+
+{@}TECHREPORT\{mmarchywka-\mjmtrno,
+
+  AUTHOR =        \{M.J. Marchywka\},
+
+  TITLE =         \{ \mjmtitle \},
+ 
+  NUMBER =        \{\mjmtrno\},
+  
+  VERSION =        \{\mjmversion\},
+
+  INSTITUTION =   \{  not institutionalized , independent\},
+
+  ADDRESS =       \{306 Charles Cox , Canton GA 30115\},
+
+  NOTE =          \{ May be recycled in appropriate media \},
+
+  DATE  =          \{\today\},
+
+  DAY  =          \{\mjmbibday\},
+
+  MONTH =         \{\mjmbibmo\},
+
+  YEAR  =         \{\mjmbibyear\},
+
+ % AUTHOR1EMAIL = \{marchywka@hotmail.com\},
+  AUTHOR1EMAIL = \{\mjmemail\},
+
+  AUTHOR1ID = \{orcid.org/0000-0001-9237-455X\},
+
+%   PAGES =         \{6\},
+  PAGES =         \{ \input{\mjmbasename.last_page} \},
+
+  CONTACT =       \{marchywka@hotmail.com\},
+
+  FILENAME =       \{\mjmbasename\}
+
+\}
+\end{comment}
+\vspace{1cm}
+Supporting files. Note that some dates,sizes, and md5's will change as this is
+rebuilt.
+
+This really needs to include the data analysis code 
+but right now it is auto generated picking up things from prior
+build in many cases 
+\lstinputlisting{\mjmbasename.bundle_checksums}
+\end{mdpicomment}
+\end{document}

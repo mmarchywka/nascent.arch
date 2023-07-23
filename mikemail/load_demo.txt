@@ -1,0 +1,17 @@
+# not meant to be stand-alone ui does not have things like source features
+# the current data file but may be an abbreviated one for updates
+# prior to merge
+load-form demo/data.txt
+# need to load units first  to compile nouns
+load-units demo/units.txt
+load-nouns demo/aka_nouns.txt
+load-nouns demo/canon_nouns.txt
+load-ignores demo/ignores.txt
+load-reserveds demo/reserveds.txt
+dates 2020-01-01 2020-12-31
+# first flag is for report second is for output choices 
+#eval 8 8 
+#parse
+#markup
+#blank
+#template

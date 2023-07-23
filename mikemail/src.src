@@ -1,0 +1,6 @@
+read-server foo yahoo.tex
+#read-server doo gmail.tex
+load-folder foo INBOX
+#load-folder doo INBOX
+#headers
+

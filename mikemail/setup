@@ -1,0 +1,34 @@
+#!/bin/bash
+echo foo foo "$1"
+. setupup "$1"
+export NEWBACKUP_BASE="mikemail"
+export NEWBACKUP_DAYS=7
+export NEWBACKUP_DIR="./../.."
+#export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/home/ubuntu/dev/mailcore/mailcore2-master/libetpan/libetpan/src/.libs"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/home/ubuntu/dev/libetpan/libetpan/src/.libs:/home/ubuntu/dev/neomutt/neomutt-20200501"
+bfilter()
+{
+grep -v "archive/lat" | grep -v "/attach\|clips.txt\|proj/linc_graph" | grep -v "mboxx$"
+}
+export -f bfilter
+#alias newbackup "backup -filter bfilter"
+#foo="g++ -Wl,--dynamic-linker=/lib/ld-linux.so.2 -static  -std=gnu++11 -DTEST_mikemail__ -DxxUSE_HCACHE -DxxLINE_LOCK_MM_ERR -DHAVE_MIKE_MUTT_SERVER"
+foo="g++ -Wl,--dynamic-linker=/lib64/ld-linux-x86-64.so.2 -static  -std=gnu++11 -DTEST_mikemail__ -DxxUSE_HCACHE -DxxLINE_LOCK_MM_ERR -DHAVE_MIKE_MUTT_SERVER"
+#foo="g++ -static  -std=gnu++11 -DTEST_mikemail__ -DxxUSE_HCACHE -DxxLINE_LOCK_MM_ERR -DHAVE_MIKE_MUTT_SERVER"
+foo2=" -gdwarf-3 -O0 -I. -I/home/documents/cpp/mjm/hlib/ -I/home/documents/cpp/mjm/num -I/home/documents/cpp/mjm/include -I/home/documents/cpp/pkg/include -I/home/documents/cpp/pkg -I/home/ubuntu/dev/libetpan/libetpan/include -I/home/ubuntu/dev/neomutt/neomutt-20200501"
+foow=" -Wall -Wno-unused-variable -Wno-unused-function -Wno-sign-compare -Wno-non-template-friend -Wno-misleading-indentation"
+fooc=" -x c++ ./mikemail.h -o mikemail.out"
+
+fooL="-L /usr/lib/x86_64-linux-gnu -L /home/ubuntu/dev/libetpan/libetpan/src/.libs -L /home/ubuntu/dev/neomutt/neomutt-20200501 -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -L/usr/lib/x86_64-linux-gnu  -L/usr/lib/x86_64-linux-gnu " 
+#fool1="-lreadline -lz  -letpan -lxml2 -ltidy -lctemplate -lpthread -luuid -licudata -licui18n -licuio -liculx -licutest -licutu -licuuc -lssl"
+fool1=" -letpan -letpan  -lz  -lxml2 -ltidy -lctemplate  -Wl,-Bdynamic -lpthread -Wl,-Bstatic  -luuid -licudata -licui18n -licuio -liculx -licutest -licutu -licuuc -lssl"
+fool2=" -lboost_filesystem -lboost_system "
+#fool3=" -lneomutt  -lneomutt -lmutt "
+fool3=" -lneomutt  -lneomutt -lmutt "
+foolcrypto=" -Wl,-Bdynamic  -Wl,-Bsymbolic-functions -Wl,-z,relro -lcrypto -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err -Wl,-Bstatic  -ltokyocabinet"
+foolmisc=" -Wl,-Bdynamic  -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -lgpgme -lassuan -lgpg-error -lgpg-error -Wl,-Bstatic "
+foolcrypto2=" -Wl,-Bdynamic -Wl,-z,relro -lcrypto -lgssapi_krb5 -lkrb5 -lk5crypto   -lglib-2.0 -Wl,-Bstatic  " 
+
+# -lreadline -lz -L /home/ubuntu/dev/libetpan/libetpan/src/.libs -letpan -lxml2 -ltidy -lctemplate -lpthread -luuid -licudata -licui18n -licuio -liculx -licutest -licutu -licuuc -lssl  -lglib-2.0 -Wl,-Bstatic  -lboost_filesystem -lboost_system -L /home/ubuntu/dev/neomutt/neomutt-20200501 -lneomutt  -Wl,-Bdynamic  -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-Bdynamic   -Wl,-z,relro -lcrypto -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error -Wl,-Bstatic -lneomutt   -Wl,-Bdynamic -Wl,-z,relro -lcrypto -lgssapi_krb5 -lkrb5 -lk5crypto  -Wl,-Bstatic  -lneomutt   -lglib-2.0  -Wl,-Bdynamic -lstdc++
+fool="$fooL $fool1 $fool1  $fool2 $fool3 $foolcrypto $foolcrypto2 $foolcrypto2  $foolmisc -lneomutt  -Wl,-Bdynamic  "
+export slink_command="$foo $foo2 $foow $fooc $fool"

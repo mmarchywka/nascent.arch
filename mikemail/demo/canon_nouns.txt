@@ -1,0 +1,182 @@
+MACRONOUN canon MACRONOUN  adj delta adj small 
+goatmilk canon goatmilk
+treats canon treats
+K1bs canon K1
+01KC canon 01KC
+01PC canon 01PC
+10KC canon 10KC
+#KCl canon 10KC
+10PC canon 10PC
+11KC canon 11KC
+11PC canon 11PC runits serving expand 1 serving .25tsp part citrate,.25tsp part KCl,.25tsp
+citrate canon citrate runits tsp 
+KCl canon kcl runits tsp
+arginine canon arginine
+B-1 canon B-1
+B-100 canon B-100
+b10ngnc canon b10ngnc
+B-12 canon B-12 runits mg
+b15ng canon b15ng
+b15ngnc canon b15ngnc
+B-2 canon B-2
+b20ng canon b20ng
+b20ngnc canon b20ngnc
+b25ngnc canon b25ngnc
+B-3 canon B-3 adj bs
+D-3 canon D-3 adj kroger runits IU punit IU,1iu  serving 1iu
+#SNB-3 canon B-3
+B-6 canon B-6 adj sundown 
+b7ngnc canon b7ngnc
+b8ngnc canon b9ngnc
+biotin canon biotin
+bor-l-immune canon bor-l-immune adj drops
+brush canon brush
+bssngnc canon bssngnc
+canned canon canned group generic
+interceptorplus canon  interceptorplus
+entyce canon entyce 
+benadryl canon benadryl
+provitaforte canon provitaforte
+cliver canon cliver
+spinach canon spinach adj raw  adj birdseye adj frozen adj fresh 
+carrot canon carrot adj chunk
+carrots canon carrot
+cephalexin canon cephalexin
+cerenia canon cerenia
+chili canon chili
+deramaxx canon deramaxx
+furosemide canon furosemide
+clindamycin canon clindamycin
+gabapentin canon gabapentin
+apoquel canon apoquel 
+coconutoil canon coconutoil
+coffee canon coffee
+nahco canon nahco text "unknown home made thing for Hershey"
+cooked canon cooked   text "usually cooked meet vague like caned"
+flour canon flour 
+pimobendan canon  pimobendan
+cbbroth canon ctbroth
+cbbrothbs canon ctbroth
+clbrothbs canon ctbroth
+ctbrothb canon ctbroth
+ctbrothbs canon ctbroth
+ctbroth canon ctbroth
+ctbroths canon ctbroth
+ctskin canon ctskin
+ctskinbs canon ctskinbs
+ctskinb canon ctskinb
+Cu canon Cu group metal adj glycinate adj carlson
+optizn canon optizn group metal 
+propectalin canon pectalin
+Panacur canon Panacur
+pectalin canon pectalin
+water canon water group drink
+pasta canon pasta group humanfood 
+scraps canon scraps group humanfood group vague
+doxycycline canon doxycycline group antibiotic
+cefpodoxime canon cefpodoxime
+sentinelspectrum canon sentinelspectrum 
+diroban canon worm 
+ketoconazole canon ketoconazole
+clavamox canon clavamox 
+Clavamox canon clavamox 
+enrofloxacin canon  enrofloxacin
+carprofen canon carprofen
+vetprofen canon carprofen
+phenobarbitol canon phenobarbitol
+d-serine canon d-serine
+egg canon eggo3
+eggo3 canon eggo3
+FleaAway canon FleaAway
+garlic canon garlic adj minced
+nogarlic ignore  
+habanero canon habanero
+histidinehcl canon histidinehcl
+HMCu canon HMCU
+HMCU canon HMCU
+kelp canon Iodine
+LESI canon Iodine serving 1mg  startdate 2017-09-06 text "LESI Life Extensions Sea Iodine 1000mcg"
+nwkelp canon Iodine
+isoleucine canon isoleucine
+ivermectin canon Ivermectin
+Ivermectin canon Ivermectin
+jalapeno canon jalapeno
+K2 canon K2
+#kibble canon kibble
+Kibble canon kibble
+#KibbleEliteSeriesBeef canon kibble
+#KibbleMixDiamondJourney canon kibble
+lecithin canon lecithin serving 1200lecu runits lecu 
+leucine canon leucine
+lipoicacid canon lipoicacid adj drop adj drops adj natural adj best adj naturals adj bestnaturals
+lysine canon lysine
+lysinehcl canon lysinehcl
+metasilicate canon metasilicate
+methionine canon methionine
+metronidazole canon metronidazole
+Mgcitrate canon Mg
+Mn canon Mn
+nob15ngnc canon nob15ngnc
+nob20ngnc canon nob20ngnc
+noeggo3 canon noeggo3
+noK2 canon noK2
+oliveoil canon oliveoil
+p20ngnc canon p20ngnc
+pantothenate canon pantothenate
+pantothenic canon pantothenate
+phenylalanine canon phenylalanine
+prednisone canon prednisone
+ketasalmonbrothbs canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+salmonbrothb canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+salmonbrothbs canon salmon adj sockeye,chile,farmed adj pink adj coho  adj kroger adj pacific adj wild
+salmonbroth canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+salmonbroths canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+salmon canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+salmons canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+wildsalmon canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+salmonskin canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild
+serrano canon serrano
+shrimp canon shrimp runits grams
+SnAgOx canon SnAgOx
+SnAg canon SnAg startdate 2020-09-06 text "SnAg solder dissolved in arginine or lysinehcl with sweeter taste and easier to eat" 
+#swings canon swings
+taurine canon taurine runits mg
+teeth canon teeth
+Temaril-P canon Temaril-P
+thiosulfate canon thiosulfate
+threonine canon threonine
+tryptophan canon tryptophan
+tyrosine canon tyrosine
+valine canon valine
+vitamina canon vitamina adj bronson adj iu
+weggo3 canon weggo3
+#worm canon worm
+heartworm canon heartworm
+heartgard canon heartgard 
+yeggo3 canon yeggo3
+weight canon weight group outcome 
+vomit canon vomit group outcome 
+treat canon treat group generic
+noCu ignore
+noFleAway ignore
+noKibbleDiamond ignore
+noarginine ignore
+nobiotin ignore
+nochili ignore
+noctbrothbs ignore
+noFleaAway ignore
+noFleAway ignore
+noKibbleDiamond ignore
+nolecithin ignore
+nolipoicacid ignore
+noMgcitrate ignore
+nooliveoil ignore
+nopantothenate ignore
+nopantothenic ignore
+nosalmonbroth ignore
+noshrimp ignore
+nospinach ignore
+nothreonine ignore
+notyrosine ignore
+novaline ignore
+nod-serine ignore

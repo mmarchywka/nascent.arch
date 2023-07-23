@@ -1,0 +1,5 @@
+read-ragged foorag diet_rules.txt
+mmp-config mproc foorag
+mmp-config mproc foorag 1
+mutt-proc proc_yahoo_spam 1 mproc
+

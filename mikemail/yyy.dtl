@@ -1,0 +1,12 @@
+[page 1 0 0 0 0 0 0 0 0 0]
+fnt: cmr10 at 20pt
+push:
+set: "Hello, World this is a test of dbi \nstuff \t "
+pop:
+down: 20pt
+push:
+set: "\nanother line \r foo adfasf  "
+pop:
+down: 20pt
+set "another line "
+

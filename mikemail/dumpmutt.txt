@@ -1,0 +1,10 @@
+
+
+read-ragged foorag proc_rules.txt
+list
+mmp-config mproc foorag
+mmp-config mproc foorag 1
+list
+mutt-proc /home/marchywka/.neomutt/neomuttrc_yahoo 1 mproc
+#mutt-proc /home/marchywka/.neomutt/neomuttrc_yahoo 5 mproc
+#mutt-load /home/marchywka/.neomutt/neomuttrc_yahoo 1 mproc

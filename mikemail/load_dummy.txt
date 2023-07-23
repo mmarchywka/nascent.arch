@@ -1,0 +1,11 @@
+load-form diet/dumm.txt
+# units before nouns
+load-units diet/units.txt
+load-nouns diet/dum_nouns.txt
+load-ignores diet/ignores.txt
+load-reserveds diet/reserveds.txt
+eval
+#parse
+#markup
+#blank
+#template

@@ -1,0 +1,85 @@
+
+\newcommand{\mjms}[1]{ }
+\mjms{
+\newcommand{\mjmspecial}[1]{
+%\catcode`@=11
+\special{::tag mjmfuk}
+%\catcode\@12
+}
+\newcommand{\mjmstart}[1]{
+
+\special{::mjm blockstart #1}
+
+}
+\newcommand{\mjmend}[1]{
+
+\special{::mjm blockend #1}
+
+}
+
+}
+
+\input{mikemail.tex}
+
+%\catcode65=\activehhhhhhhhhhhhh
+
+\documentclass[aps,secnumarabic,balancelastpage,amsmath,amssymb,nofootinbib]{revtex4-2}
+%\documentclass{article}
+
+%\renewcommand{\title}{ }
+
+
+\begin{document}
+\mjmtitle{test my custommjm title  text thing}
+\mjmtitle{test another title}
+\title{xxx}{ test my custom text thing}
+\begin{abstract}
+{ this is a paper }
+
+\end{abstract}
+%\maketitle
+
+\mjmsection{foo do la doh}
+
+
+\begin{quote}
+to be or not too be 
+\end{quote}
+\begin{equation}
+2+2=4
+\end{equation}
+\large
+\bf
+free open text 
+
+% note trailing space is added to name doh 
+
+\special{::mjm blockstart section2 }
+
+this text should be  hidden 
+
+\special{::mjm blockend section2 }
+
+free text between 2 and 1 
+
+\special{::mjm blockstart section }
+
+block 1 should be visible 
+
+\special{::mjm blockend section }
+
+more text between blocks 
+
+
+\special{::mjm blockstart section3 }
+
+yet another section internal 
+ 
+\special{::mjm blockend section3 }
+
+open but may be obscured 
+
+\special{::mjm visible foo }
+this text should be seen good typesetting
+
+\end{document}

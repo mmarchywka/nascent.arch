@@ -1,0 +1,16 @@
+
+microgram base gram system si up mg type mass convert gram,1e-6 aliases mcg
+milligram base gram system si up gram down microgram type mass convert gram,1e-3 aliases mg
+kilogram base gram system si down gram type mass convert gram,1e3 aliases kg
+teaspoon base milliliter system kitchen type volume convert milliliter,4.929 aliases tsp 
+"quarter teaspoon" base milliliter  sytem kitchen up teaspon type volume convert milliliter,1.23225 aliases qtsp 
+"g/tsp" type density units grams/teaspoon  
+# need a syntax for spaces doh 
+"g/qtsp" type density units grams/qtsp  
+gram base gram system si,mks up kilogram down milligram type mass convert gram,1 aliases g,grams
+lecu base gram system arb  type mass convert gram,1.2,mg,1200
+ounce base gram system english up pound type mass convert gram,28.3495 aliases oz,ounces 
+pound base gram system english down ounce type mass convert gram,453.592 aliases pounds,lb,lbs 
+milliliter base liter system si,cgs type volume convert liter,1e-3 aliases ml,cc,mL
+"cubic centimeter" base liter system si,cgs type volume convert liter,1e-3 aliases ml,cc,mL
+

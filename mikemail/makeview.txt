@@ -1,0 +1,19 @@
+ 
+dvixxx="/home/ubuntu/dev/xdvik/xdvik-22.87.03"
+dvia="$dvixxx/texk/xdvik/libxdvi.a"
+dvib="$dvixxx/texk/kpathsea/.libs/libkpathsea.a"
+dvic="$dvixxx/libs/freetype2/libfreetype.a"
+La=" -L$dvixxx/texk/xdvik "
+la=" -lxdvi "
+Lb=" -L$dvixxx/texk/kpathsea/.libs -lkpathsea"
+Lc=" -L$dvixxx/libs/freetype2 -lfreetype"
+h1="-I$dvixxx/texk/xdvik"
+h2="-I$dvixxx/texk"
+h3="-I$dvixxx/texk/xdvik/gui"
+h4="-I$dvixxx/libs/freetype2/freetype2"
+# permissive for the stupid main.c copy
+g++ -std=c++11  -pthread -fpermissive  -DHAVE_CONFIG -DPS_GS  -DHAVE_XDVIK -DTEST_MJM_VIEW_STRUCT_ALPHA -I. -I../../mjm/hlib -I../../mjm/num $h1 $h2 $h3 $h4  -gdwarf-3 -O0   $dvib $dvic  -x c++ mjm_view_struct_alpha.h -x none  xdvi_code_pieces.c  $dviaxx  $La -lxdvi  $la $Lb $Lc   -lpthread -lreadline -lncurses -lXaw -lXmu -lXt -lSM -lICE -lXi -lXext -lXpm -lX11 -lm -lXtst
+#g++ -std=c++11  -fpermissive  -DHAVE_CONFIG -DPS_GS  -DHAVE_XDVIK -DTEST_MJM_VIEW_STRUCT_ALPHA -I. -I../../mjm/hlib -I../../mjm/num $h1 $h2 $h3 $h4 -pthread  -gdwarf-3 -O0   $dvib $dvic  -x c++ mjm_view_struct_alpha.h -x none   $dvia  $La -lxdvi  $la $Lb $Lc   -lpthread -lreadline -lncurses -lXaw -lXmu -lXt -lSM -lICE -lXi -lXext -lXpm -lX11 -lm
+
+#g++ -std=gnu++11 -DHAVE_XDVIK -DTEST_MJM_VIEW_STRUCT_ALPHA -I. -I../../mjm/hlib -I../../mjm/num $h1 $h2 $h3 $h4  -gdwarf-3 -O0   $dvia $dvib $dvic  -x c++ mjm_view_struct_alpha.h -lpthread -lreadline -lncurses
+ls -al a.out

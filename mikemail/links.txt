@@ -1,0 +1,79 @@
+
+
+Date: Thu, 29 Aug 2019 08:01:10 -0700^M
+Message-Id: <201908291501.x7TF1AoD008516@bilbo.localnet>^M
+X-Authentication-Warning: bilbo.localnet: boris set sender to borisv@lk.net using -f^M
+From: Boris Veytsman <borisv@lk.net>^M
+To: Mike Marchywka <marchywka@hotmail.com>^M
+CC: texhax@tug.org^M
+Michael Ware and I discussed scroll model for ebook some time ago.^M
+See out TUGboat paper^M
+https://tug.org/TUGboat/tb32-3/tb102veytsman-ebooks.pdf^M
+^M
+-- ^M
+Good luck^M
+^M
+-Boris^M
+^M
+i
+To: texhax@tug.org^M
+References: <DM6PR08MB604240AFC227F773B4D17DAEBEA20@DM6PR08MB6042.namprd08.prod.outlook.com>^M
+From: Peter Flynn <peter@silmaril.ie>^M
+Organization: Silmaril Consultants^M
+
+Not to typeset (my work is mainly with books and journals) but on the^M
+web there is an experimental development for the CELT project^M
+(http://research.ucc.ie/celt/) where documents are no longer served in^M
+section-based chunks but as very long 'pages' with links and scrolling.^M
+It's not finished yet, so not everything is working, and the metadata^M
+still needs cleaning, but it does reflect the nature of early documents^M
+which often had no visible logical structure because it was left to the^M
+reader to work it out (even though the CELT transcriptions are taken^M
+from Victorian printed editions). This is unnatural to us, but it was^M
+very natural to the reader in the 6thâ<80><93>14th centuries.^M
+^M
+Peter^M
+
+
+
+
+>| Has anyone had a reason to typeset a scroll or^M
+>| other unnatural page formats?^M
+^M
+Two thoughts:^M
+^M
+1. My recently released eBook/app, "Hilbert Curves" for iOS, which I demoed=^M
+ at the recent TUG conference a few weeks ago, self-typesets each time the =^M
+app launches, using its own re-implementation of a TeX language interpreter=^M
+.  The typsetting relies on plain.tex and opmac.tex, not LaTeX, for the mar=^M
+kup on a TeX source file for the book's text and illustration placement.  B=^M
+ecause I wanted most illustrations to be as large as possible on any page, =^M
+I purposefully set the logical page size to a longer-than-usual amount comp=^M
+ared to that of physical paper, so as to help prevent the otherwise somewha=^M
+t chaotic placement of large illustration boxes (a well-known problem with =^M
+TeX's float algorithms).  The user can scroll vertically because pages that=^M
+ fit horizontally don't fit vertically (and the app has to work on a variet=^M
+y of devices all with different screen sizes and orientations).  In some re=^M
+spects, I would have liked to get rid of pages altogether, in favor of one =^M
+long scroll.  But this would have interfered with the need to keep the eBoo=^M
+k/app's memory requirements under control, since nearly all scrollable view=^M
+s have a backing store to them these days (at least on Apple devices), espe=^M
+cially views that require deeply zoomable, resolution-independent graphics.^M
+^M
+2. In the legal profession, there is a constant annoyance of having to cite=^M
+ to a legal case using page numbers.  The problem is that legal cases get p=^M
+ublished in different volumes with different pagination.  Many forward thin=^M
+king courts are doing away with page numbers in favor of numbered paragraph=^M
+s.  Because paragraph numbers are embedded in the text, rather than imposed=^M
+ externally by a changing page or font size, numbered paragraphs are just a=^M
+ better and higher-resolution way of citing to somewhere in a published leg=^M
+al decision (or any other kind of writing, I suppose).  Eventually, paginat=^M
+ion might become irrelevant in legal writing, which means using a single-sc=^M
+rolling interface for one super-long "page" would work well (assuming memor=^M
+y requirements can be handled).^M
+^M
+Doug McKenna^M
+Mathemaesthetics, Inc.^M
+
+
+ZZ

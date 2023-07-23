@@ -1,0 +1,9 @@
+load-mbox foo /var/mail/marchywka
+#view-src foo 1 3 Received:
+#mmp-proc mproc foo
+read-ragged foorag diet_rules.txt
+list
+mmp-config mproc foorag
+mmp-config mproc foorag 1
+#list
+mmp-proc mproc foo

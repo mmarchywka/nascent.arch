@@ -1,0 +1,747 @@
+
+requires some dummy text here to set a font lol 
+earlier negative y problem due to bad params for the 
+geometry package
+
+\mjmheader{ simple header } 
+
+negative y should be fixed by here so ok this is here
+
+\mjmboilerplate{   This message contains My NCBI what's new results PubMed Results}
+ more insterpsersed non-block text
+
+\mjmcitation{   1. Viral Immunol. 2019 May 13. doi 10.1089vim.2019.0012. }
+\mjmtitle{Association of Autoantibody to Rods and Rings with Hepatitis}
+\mjmauthors{ Dhaouadi T1, 8Abdellatif J1, 9Jallouli M1, 10Mejdoubi M1, 11Sfar I1, 12Mouelhi L2,
+   13Aouini S1, 14Ben Abdallah T1,3, 15Gorgi Y1.
+   3. 3 Department of Nephrology and Internal Medicine, Charles Nicolle Hospital, Tunis, Tunisia.}
+\mjmabstract{   Despite the current availability of more potent drugs, 
+   IFN-ribavirin therapy with a significant higher HCV viral load.
+   PMID 31081724}
+\mjmcitation{2. World J Biol Psychiatry. 2019 May doi 10.108015622975.2019.1618494.}
+\mjmtitle{Cytokine-mediated cellular immune activation in ECT. A CSF study in patients with treatment-resistant depression.}
+\mjmauthors{Mindt S1, 18Neumaier M1, 19Hoyer C2, 20Sartorius A3, 21Kranaster L3.
+   Author information
+   1. a Institute for Clinical Chemistry, University Medical Centre Mannheim, Faculty of Medicine Mannheim,
+   University of Heidelberg , Mannheim , Germany.
+   MannheimHeidelberg University , Mannheim , Germany.}
+\mjmabstract{OBJECTIVES
+   Evidence points towards an important relationship between the antidepressant effects of electroconvulsive
+   therapy (ECT) and the modulation of the immune system. To further elucidate this interplay, we performed a
+   study on the effects of the antidepressant treatment by ECT on 25 cytokines in patients with depression.
+CONCLUSIONS
+   Although the sample size was small, we found different effects of the ECT treatment per se and of the
+   antidepressant action induced by ECT in CSF and blood.
+   PMID 31081432}
+\mjmcitation{   3. Avian Pathol. 2019 May 131-18. doi 10.108003079457.2019.1616673. }
+\mjmtitle{22Alginate-coated chitosan microparticles encapsulating an oral plasmid-cured live Salmonella enterica serovar
+vaccine.}
+\mjmauthors{   23Ibe MI1, 24Odimegwu DC2, 25Onuigbo EB2.
+   Author information
+   1. a Department of Biotechnology , Godfrey Okoye University , Enugu , Enugu State.
+   University of Nigeria , Nsukka , 410001 , Enugu State , Nigeria.}
+\mjmabstract{   Salmonella enterica serovar Gallinarum causes a disease in chickens known as fowl typhoid. Interferon-gamma has
+   been shown to be crucial in eliminating salmonellosis infection because of its strong association with T-cell
+   PMID 31081347}
+\mjmcitation{   4. Minerva Med. 2019 May 6. doi 10.23736S0026-4806.19.06108-1. Epub ahead of print}
+\mjmtitle{26Clinical outcomes in chronic hepatitis C long-term responders to pre-direct antiviral agents a single center
+retrospective study.}
+\mjmauthors{   27Rosso C1, 28Caviglia GP2, 29Ciruolo M2, 30Ciancio A 2, 31Younes R2, 32Olivero A2,
+   33Giordanino C3, 34Troshina G2, 35Abate ML2, 36Rizzetto M2, 37Pellicano R3, 38Saracco GM2,
+   39Bugianesi E2, 40Smedile A2.
+   Author information
+   1. Division of Gastroenterology, Department of Medical Sciences, University of Turin, Turin, Italy -
+   chiara.rossounito.it.
+   2. Division of Gastroenterology, Department of Medical Sciences, University of Turin, Turin, Italy.
+   3. Department of Gastro-Hepatology, Citt della Salute e della Scienza, University Hospital, Turin, Italy.}
+\mjmabstract{BACKGROUND
+   Obesity, type 2 diabetes (T2D), dyslipidemia, arterial hypertension as well as hepatic steatosis (HS) are
+   common conditions that can affect clinical outcomes of patients with chronic hepatitis C (CHC) who achieved
+   sustained virological response (SVR). The aim of this study was to assess the impact of metabolic cofactors on
+   the occurrence of clinical events during follow-up (FU) in a group of CHC long term responders (LTRs) to
+   interferon (IFN) -based therapy.
+CONCLUSIONS
+   In CHC-LTRs, HS at baseline may predispose to the development of cardiovascular events and T2D during follow-up
+   emphasizing the importance of an accurate counseling in order to prevent extra-hepatic complications.
+   PMID 31081312}
+\mjmcitation{   5. J Cell Biochem. 2019 May 12. doi 10.1002jcb.28869. Epub ahead of print}
+\mjmtitle{41Gene regulation analysis of the effects of evodiamine on tongue squamous cell carcinoma.}
+\mjmauthors{   42Wu Y1, 43Wang J1, 44Zhao J1, 45Zhang Y1, 46Sun Y1, 47Chen J2, 48Wang J1.
+   Author information
+   1. Department of Periodontology, SchoolHospital of Stomatology, Lanzhou University, Lanzhou, Gansu, China.
+   2. Department of Pediatric Surgery, The First Hospital of Lznzhou University, Lanzhou, Gansu, China.}
+\mjmabstract{OBJECTIVE
+   To use gene chip technology to study the effects of evodiamine (EVO) on the gene expression profile of tongue
+   squamous cell carcinoma (TSCC) CAL-27 cell line, for the purpose of analyzing the mechanisms underlying the
+   effects of EVO on gene expression and functional regulation of TSCC cells at the gene level.
+CONCLUSIONS
+   Gene chip analysis offers an effective means of screening differential gene expression between EVO-treated
+   TSCCs and controls, thus providing a sound basis for further research.
+    2019 Wiley Periodicals, Inc.
+   PMID 31081147
+   49Similar articles}
+\mjmcitation{   6. Oncotarget. 2019 Apr 23;10(30)2921-2929. doi 10.18632oncotarget.26874. eCollection 2019 Apr 23.}
+\mjmtitle{50Intrinsic factor recognition promotes T helper 17T helper 1 autoimmune gastric inflammation in patients with
+pernicious anemia.}
+\mjmauthors{   51Troilo A\#1, 52Grassi A\#1, 53Petrone L2, 54Cianchi F3, 55Benagiano M1, 56Bella CD1,
+   57Capitani N4, 58Bitetti J1, 59D'Elios S5, 60Tapinassi S1, 61Azzurri A6, 62Alnwaisri H1,
+   63Romagnoli J7, 64Bizzaro N8, 65Bergman M9, 66Baldari CT4, 67D'Elios MM1.
+   Author information
+   1. Department of Experimental and Clinical Medicine, University of Florence, Florence, Italy.
+   9. Amsterdam Institute for Molecules, Medicines and Systems, Vrije University, Amsterdam, The Netherlands.
+   \#. Contributed equally}
+\mjmabstract{   The intrinsic factor is the major humoral autoantigen in pernicious anemiaautoimmune gastritis. Although many
+   studies have examined the autoantibody response to intrinsic factor and H+,K+-ATPase, no information is
+   available on possible pathogenic mechanisms mediated by intrinsic factor - specific gastric T cells. Aim of
+   CONFLICTS OF INTEREST The authors declare that the research was conducted in the absence of any commercial or
+   financial relationships that could be considered as a potential conflict of interest.}
+\mjmcitation{   7. Front Immunol. 2019 Apr 26;10906. doi 10.3389fimmu.2019.00906. eCollection 2019.}
+\mjmtitle{69Pattern Recognition by Melanoma Differentiation-Associated Gene 5 (Mda5) in Teleost Fish A Review.}
+\mjmauthors{   70Lazarte JMS1, 71Thompson KD2, 72Jung TS1.
+   Author information
+   1. Laboratory of Aquatic Animal Diseases, College of Veterinary Medicine, Gyeongsang National University,
+   Jinju, South Korea.
+   2. Moredun Research Institute, Pentlands Science Park, Penicuik, United Kingdom.}
+\mjmabstract{   Teleost fish, as with other vertebrates, rely on their innate immune system as a first line of defense against
+   invading pathogens. A very important characteristic of the innate immune response is its ability to recognize
+   PMCID PMC6497758
+   PMID 31080451
+   73Similar articles}
+\mjmcitation{   8. Front Mol Neurosci. 2019 Apr 26;1283. doi 10.3389fnmol.2019.00083. eCollection 2019.}
+\mjmtitle{74Corilagin Interferes With Toll-Like Receptor 3-Mediated Immune Response in Herpes Simplex Encephalitis.}
+\mjmauthors{   75Li LJ1, 76Zhang SJ1, 77Liu P2, 78Wang YQ3, 79Chen ZL4, 80Wang YJ5, 81Zhou JB6, 82Guo
+   YJ7, 83Zhao L4.
+   Author information
+   1. National  Local Joint Engineering Research Center of High-throughput Drug Screening Technology, State Key
+   Laboratory of Biocatalysis and Enzyme Engineering, Hubei University, Wuhan, China.
+   2. School of Clinical Medicine, Hubei University of Chinese Medicine, Wuhan, China.
+   3. Renmin Hospital of Hubei University of Medicine, The Postgraduate Training Center of Jinzhou Medical
+   University, Shiyan, China.
+   4. Department of Infectious Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science
+   and Technology, Wuhan, China.
+   5. Department of Vascular Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and
+   Technology, Wuhan, China.
+   6. Department of Neurosurgery, Affiliated Hospital of Jining Medical University and Shangdong Provincial Key
+   Laboratory of Stem Cells and Neuro-Oncology, Jining, China.
+   7. Department of Neurology, Union Hospital, Tongji Medical College, Huazhong University of Science and
+   Technology, Wuhan, China.}
+\mjmabstract{   Herpes simplex encephalitis (HSE) is the most common infectious disease of the central nervous system
+   worldwide. However, the pathogenesis of HSE is not clear. Research has shown that the immune response mediated
+   by the toll-like receptor 3 (TLR3) signaling pathway is essential to protect the central nervous system against
+   herpes simplex virus (HSV) infection. However, an excessive immune response may cause tissue damage accompanied
+   by pathological changes. The aim of this study was to explore the molecular mechanism via which corilagin
+   controls HSE through the TLR3 signaling pathway in vitro and in vivo. Cells and mice were pre-treated with
+   polyriboinosinic polyribocytidylic acid poly(IC) or HSV type 1, and then treated with corilagin. After
+   treatment, the mRNA and protein levels of TLR3, TLR-like receptor-associated interferon factor (TRIF), tumor
+   necrosis factor (TNF) receptor type 1-associated DEATH domain protein (TRADD), TNF receptor-associated factor
+   (TRAF) 3 and 6, nuclear factor-kappa-B (NF-B) essential modulator (NEMO), P38, and interferon regulatory
+   factor 3 (IRF3) were decreased. Interleukin-6 (IL-6), TNF-, and type 1 interferon- were also decreased. When
+   TLR3 expression was silenced or increased, corilagin still inhibited the expression of TLR3 and its downstream
+   mediators. Hematoxylin-eosin (HE) staining and immunohistochemical examinations of mouse brain tissues revealed
+   that corilagin lessened the degree of brain inflammation. Altogether, these results suggest that corilagin may
+   regulate the immune response in HSE and relieve inflammatory injury by interfering with the TLR3 signaling
+   pathway.
+   PMCID PMC6497770
+   PMID 31080403
+   84Similar articles}
+\mjmcitation{   9. Pathol Res Pract. 2019 May 6152444. doi 10.1016j.prp.2019.152444. Epub ahead of print}
+\mjmtitle{85Prognostic significance of IFITM1 expression and correlation with microvessel density and epithelial-mesenchymal
+transition signature in lung adenocarcinoma.}
+\mjmauthors{   86Koh YW1, 87Han JH2, 88Jeong D3, 89Kim CJ3.
+   Author information
+   1. Department of Pathology, Ajou University School of Medicine, Suwon, Republic of Korea. Electronic address
+   youngwha9556gmail.com.
+   2. Department of Pathology, Ajou University School of Medicine, Suwon, Republic of Korea.
+   3. Department of Pathology, College of Medicine, Soonchunhyang University, Cheonan, Republic of Korea.}
+\mjmabstract{   We evaluated the relationship between interferon-induced transmembrane protein 1 (IFITM1) expression,
+   epithelial-mesenchymal transition (EMT) signature and angiogenesis in lung adenocarcinoma. Additionally, we
+   examined prognostic significance of IFITM1 according to pTNM stage to confirm that IFITM1 can serve as a
+   complement to the pTNM stage. A total of 141 lung adenocarcinoma specimens were evaluated retrospectively by
+   immunohistochemical staining for IFITM1, EMT markers (e-cadherin, -catenin, and vimentin), and CD31 to measure
+   microvessel density. IFITM1was expressed in 46.8% of the specimens. IFITM1 expression was significantly
+   correlated with increased microvessel density (P=0.048). However, IFITM1 expression was not associated with
+   three EMT markers. In a multivariate analysis, IFITM1 was an independent prognostic factor for overall survival
+   in a multivariate analysis (hazard ratio 2.59, P=0.01). Online database with data from 720 lung
+   adenocarcinoma patients also revealed a negative prognostic significance of IFITM1 (P<0.001). Furthermore,
+   high IFITM1 expression was significantly correlated with decreased OS rates in each pTNM stage. IFITM1 is
+   significantly correlated with angiogenesis and it may be used as a useful additional prognostic marker to aid
+   pTNM classification.
+   Copyright  2019 Elsevier GmbH. All rights reserved.
+   PMID 31079850
+   90Similar articles}
+\mjmcitation{   10. Hematol Transfus Cell Ther. 2019 Apr - Jun;41(2)125-128. doi 10.1016j.htct.2018.10.001. Epub 2019 Feb
+   18.}
+\mjmtitle{91Management of chronic myeloid leukemia during pregnancy a retrospective analysis at a single center.}
+\mjmauthors{   92Moura AC1, 93Delamain MT2, 94Duarte GBO2, 95Lorand-Metze I2, 96Souza CA2, 97Barbosa Pagnano
+   KB3.
+   Author information
+   1. Universidade Estadual de Campinas (Unicamp), Campinas, SP, Brazil; A.C. Camargo Cancer Center, So Paulo,
+   SP, Brazil.
+   2. Universidade Estadual de Campinas (Unicamp), Campinas, SP, Brazil.
+   3. Universidade Estadual de Campinas (Unicamp), Campinas, SP, Brazil. Electronic address kborgiahotmail.com.}
+\mjmabstract{   We analyzed the management and outcomes of pregnancies of patients with chronic myeloid leukemia at a single
+   center over fifteen years. Among the 203 CML female patients, there were ten pregnancies in seven women, all of
+   them not planned. In three cases, the chronic myeloid leukemia diagnosis was made during pregnancy. Five
+   patients received tyrosine kinase inhibitors in the first weeks of pregnancy and the drug was interrupted until
+   delivery. One patient lost complete cytogenetic response, and two patients lost the hematological response. A
+   patient with a stable major molecular response had two successful pregnancies without loss of response. There
+   were four premature births. There were no maternal adverse events, fetal malformation or death. All patients
+   received Interferon-alpha during gestation, and two received hydroxyurea for a short period. Leukapheresis was
+   performed in two patients for hyperleukocytosis control. One patient with sickle cell disease died from disease
+   progression six months after delivery. CONCLUSIONS The tyrosine kinase inhibitors ministration should be
+   interrupted during pregnancy. Patients should be advised to achieve a stable and deep molecular response if
+   they plan to conceive, to avoid the risk of disease progression.
+   Copyright  2019 Associao Brasileira de Hematologia, Hemoterapia e Terapia Celular. Published by Elsevier
+   Editora Ltda. All rights reserved.
+   PMID 31079659
+   98Similar articles}
+\mjmcitation{   11. Gastroenterology. 2019 May;156(6)1820-1833. doi 10.1053j.gastro.2019.02.003. Epub 2019 Feb 12.}
+\mjmtitle{99Mutations in Hepatitis D Virus Allow It to Escape Detection by CD8+ T Cells and Evolve at the Population Level.}
+\mjmauthors{   100Karimzadeh H1, 101Kiraithe MM2, 102Oberhardt V3, 103Salimi Alizei E4, 104Bockmann J5,
+   105Schulze Zur Wiesch J5, 106Budeus B6, 107Hoffmann D6, 108Wedemeyer H 7, 109Cornberg M8,
+   110Krawczyk A9, 111Rashidi-Alavijeh J10, 112Rodrguez-Fras F11, 113Casillas R11, 114Buti M11,
+   115Smedile A12, 116Alavian SM13, 117Heinold A14, 118Emmerich F15, 119Panning M16, 120Gostick
+   E17, 121Price DA17, 122Timm J18, 123Hofmann M2, 124Raziorrouh B19, 125Thimme R2, 126Protzer
+   U20, 127Roggendorf M21, 128Neumann-Haefelin C22.
+   Author information
+   1. Institute of Virology, School of Medicine, Technical University of MunichHelmholtz Zentrum Mnchen, Munich,
+   Germany; Institute of Virology, University Hospital of Essen, University of Duisburg-Essen, Essen, Germany;
+   Department of Internal Medicine II, University Hospital Munich-Grosshadern, Munich, Germany.
+   2. Department of Medicine II, University Hospital Freiburg, Faculty of Medicine, University of Freiburg,
+   Freiburg, Germany.
+   3. Department of Medicine II, University Hospital Freiburg, Faculty of Medicine, University of Freiburg,
+   Freiburg, Germany; Faculty of Biology, University of Freiburg, Freiburg, Germany.
+   4. Department of Medicine II, University Hospital Freiburg, Faculty of Medicine, University of Freiburg,
+   Freiburg, Germany; Faculty of Chemistry and Pharmacy, University of Freiburg, Freiburg, Germany.
+   5. Department of Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany; German Center for
+   Infection Research (DZIF), Sites Hamburg-Lbeck-Borstel-Riems, Hannover-Braunschweig and Munich, Germany.
+   6. Department of Bioinformatics, University of Duisburg-Essen, Essen, Germany.
+   7. German Center for Infection Research (DZIF), Sites Hamburg-Lbeck-Borstel-Riems, Hannover-Braunschweig and
+   Munich, Germany; Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical School,
+   Hannover, Germany; Department of Gastroenterology and Hepatology, University Hospital of Essen, University of
+   Duisburg-Essen, Essen, Germany.
+   8. German Center for Infection Research (DZIF), Sites Hamburg-Lbeck-Borstel-Riems, Hannover-Braunschweig and
+   Munich, Germany; Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical School,
+   Hannover, Germany.
+   9. Institute of Virology, University Hospital of Essen, University of Duisburg-Essen, Essen, Germany;
+   Department of Infectious Diseases, University Hospital of Essen, University of Duisburg-Essen, Essen, Germany.
+   10. Department of Gastroenterology and Hepatology, University Hospital of Essen, University of Duisburg-Essen,
+   Essen, Germany.
+   11. CIBERehd and Departments of BiochemistryMicrobiology and Hepatology, Vall d'Hebron Hospital, University
+   Autnoma de Barcelona (UAB), Barcelona, Spain.
+   12. Department of Medical Sciences, University of Turin, Turin, Italy.
+   13. Baqiyatallah Research Center for Gastroenterology and Liver Diseases, Baqiyatallah University of Medical
+   Sciences, Tehran, Iran.
+   14. Institute of Transfusion Medicine, University Hospital of Essen, University of Duisburg-Essen, Essen,
+   Germany.
+   15. Institute for Transfusion Medicine and Gene Therapy, University Hospital Freiburg, Faculty of Medicine,
+   University of Freiburg, Freiburg, Germany.
+   16. Institute of Virology, University Hospital Freiburg, Faculty of Medicine, University of Freiburg, Freiburg,
+   Germany.
+   17. Division of Infection and Immunity, Cardiff University School of Medicine, Cardiff, United Kingdom.
+   18. Institute of Virology, Heinrich-Heine-University, University Hospital, Duesseldorf, Germany.
+   19. Department of Internal Medicine II, University Hospital Munich-Grosshadern, Munich, Germany.
+   20. Institute of Virology, School of Medicine, Technical University of MunichHelmholtz Zentrum Mnchen,
+   Munich, Germany; German Center for Infection Research (DZIF), Sites Hamburg-Lbeck-Borstel-Riems,
+   Hannover-Braunschweig and Munich, Germany.
+   21. Institute of Virology, School of Medicine, Technical University of MunichHelmholtz Zentrum Mnchen,
+   Munich, Germany; Institute of Virology, University Hospital of Essen, University of Duisburg-Essen, Essen,
+   Germany; German Center for Infection Research (DZIF), Sites Hamburg-Lbeck-Borstel-Riems, Hannover-Braunschweig
+   and Munich, Germany. Electronic address michael.roggendorftum.de.
+   22. Department of Medicine II, University Hospital Freiburg, Faculty of Medicine, University of Freiburg,
+   Freiburg, Germany. Electronic address christoph.neumann-haefelinuniklinik-freiburg.de.}
+\mjmabstract{BACKGROUND  AIMS
+   Hepatitis D virus (HDV) superinfection in patients with hepatitis B virus (HBV) is associated with rapid
+   progression to liver cirrhosis and hepatocellular carcinoma. Treatment options are limited, and no vaccine is
+   available. Although HDV-specific CD8+ T cells are thought to control the virus, little is known about which
+   HDV epitopes are targeted by virus-specific CD8+ T cells or why these cells ultimately fail to control the
+   infection. We aimed to define how HDV escapes the CD8+ T-cell-mediated response.
+METHODS
+   We collected plasma and DNA samples from 104 patients with chronic HDV and HBV infection at medical centers in
+   Europe and the Middle East, sequenced HDV, typed human leukocyte antigen (HLA) class I alleles from patients,
+   and searched for polymorphisms in HDV RNA associated with specific HLA class I alleles. We predicted epitopes
+   in HDV that would be recognized by CD8+ T cells and corresponded with the identified virus polymorphisms in
+   patients with resolved (n = 12) or chronic (n = 13) HDV infection.
+RESULTS
+   We identified 21 polymorphisms in HDV that were significantly associated with specific HLA class I alleles (P <
+   .005). Five of these polymorphisms were found to correspond to epitopes in HDV that are recognized by CD8+ T
+   cells; we confirmed that CD8+ T cells in culture targeted these HDV epitopes. HDV variant peptides were only
+   partially cross-recognized by CD8+ T cells isolated from patients, indicating that the virus had escaped
+   detection by these cells. These newly identified HDV epitopes were restricted by relatively infrequent HLA
+   class I alleles, and they bound most frequently to HLA-B. In contrast, frequent HLA class I alleles were not
+   associated with HDV sequence polymorphisms.
+CONCLUSIONS
+   We analyzed sequences of HDV RNA and HLA class I alleles that present epitope peptides to CD8+ T cells in
+   patients with persistent HDV infection. We identified polymorphisms in the HDV proteome that associate with HLA
+   class I alleles. Some variant peptides in epitopes from HDV were only partially recognized by CD8+ T cells
+   isolated from patients; these could be mutations that allow HDV to escape the immune response, resulting in
+   persistent infection. HDV escape from the immune response was associated with uncommon HLA class I alleles,
+   indicating that HDV evolves, at the population level, to evade recognition by common HLA class I alleles.
+   Copyright  2019 AGA Institute. Published by Elsevier Inc. All rights reserved.
+   PMCID PMC6486497 Free PMC Article
+   PMID 30768983 Indexed for MEDLINE
+   129Similar articles
+   130Icon for Elsevier Science 131Icon for PubMed Central}
+\mjmcitation{   12. Int J Mol Sci. 2019 Jan 29;20(3). pii E572. doi 10.3390ijms20030572.}
+\mjmtitle{132Design and Synthesis of A PD-1 Binding Peptide and Evaluation of Its Anti-Tumor Activity.}
+\mjmauthors{   133Abbas AB1,2, 134Lin B3, 135Liu C4, 136Morshed A5,6, 137Hu J7, 138Xu H8,9.
+   Author information
+   1. The Engineering Research Center of Synthetic Polypeptide Drug Discovery and Evaluation of Jiangsu Province,
+   China Pharmaceutical University, Nanjing 210009, China. abduabbas04gmail.com.
+   2. Department of Medical Microbiology, Faculty of Sciences, Ibb University, Ibb City 70270, Yemen.
+   abduabbas04gmail.com.
+   3. The Engineering Research Center of Synthetic Polypeptide Drug Discovery and Evaluation of Jiangsu Province,
+   China Pharmaceutical University, Nanjing 210009, China. 1621030498stu.cpu.edu.cn.
+   4. The Engineering Research Center of Synthetic Polypeptide Drug Discovery and Evaluation of Jiangsu Province,
+   China Pharmaceutical University, Nanjing 210009, China. hsdalan163.com.
+   5. The Engineering Research Center of Synthetic Polypeptide Drug Discovery and Evaluation of Jiangsu Province,
+   China Pharmaceutical University, Nanjing 210009, China. arw34129gmail.com.
+   6. Department of Medical Microbiology, Faculty of Sciences, Ibb University, Ibb City 70270, Yemen.
+   arw34129gmail.com.
+   7. The Engineering Research Center of Synthetic Polypeptide Drug Discovery and Evaluation of Jiangsu Province,
+   China Pharmaceutical University, Nanjing 210009, China. jialianghucpu.edu.cn.
+   8. The Engineering Research Center of Synthetic Polypeptide Drug Discovery and Evaluation of Jiangsu Province,
+   China Pharmaceutical University, Nanjing 210009, China. 1020040818cpu.edu.cn.
+   9. Nanjing Anji Biotechnology Co. Ltd., Nanjing 210046, China. 1020040818cpu.edu.cn.}
+\mjmabstract{   Immune-checkpoint blockades, suchas PD-1 monoclonal antibodies, have shown new promising avenues to treat
+   cancers. Failure responsesof many cancer patients to these agents have led to a massive need for alternative
+   strategies to optimize tumor immunotherapy. Currently, new therapeutic developments involve peptide blocking
+   strategies, as they have high stability and low immunogenicity. Here, we have designed and synthesized a new
+   peptide FITC-YT-16 to target PD-1. We have studied FITC-YT-16 by various experiments, including Molecular
+   Operating Environment MOE modeling, purification testing by HPLC and LC mass, peptidePD-1 conjugation and
+   affinity by microscale thermophoresis (MST), and T cell immune-fluorescence imaging by fluorescence microscopy
+   and flow cytometry. The peptide was tested for its ability to enhanceT cell activity against tumor cell lines,
+   including TE-13, A549, and MDA-MB-231. Lastly, we assessed T cell cytotoxicity under peptide treatment.
+   YT-16PD-1 interaction showed a high binding affinity as a low energy complex that was confirmed by MOE.
+   Furthermore, the peptide purity and molecular weights were 90.96% and 2344.66, respectively. MST revealed that
+   FITC-YT-16 interacted with PD-1 at a Kd value of 17.8  2.6 nM. T cell imaging and flow cytometry revealed
+   high affinity of FITC-YT-16 to PD-1. Interestingly, FITC-YT-16 efficiently blocked PD-1 signaling pathways and
+   promoted T cell inflammatory responses by elevating IL-2 and INF- levels. Moreover, FITC-YT-16 has the ability
+   to activate T cell cytotoxicity. Therefore, FITC-YT-16 significantly enhanced T cell anti-tumor activity by
+   blocking PD-1PD-L1 interactions.
+   PMCID PMC6386944 Free PMC Article
+   PMID 30699956 Indexed for MEDLINE
+   139Similar articles
+   140Icon for Multidisciplinary Digital Publishing Institute (MDPI) 141Icon for PubMed Central}
+\mjmcitation{   13. Gynecol Oncol. 2019 Apr;153(1)149-157. doi 10.1016j.ygyno.2019.01.006. Epub 2019 Jan 15.}
+\mjmtitle{142Cytokine-induced memory-like natural killer cells have enhanced function, proliferation, and in vivo expansion
+against ovarian cancer cells.}
+\mjmauthors{   143Uppendahl LD1, 144Felices M2, 145Bendzick L1, 146Ryan C1, 147Kodal B2, 148Hinderlie P2,
+   149Boylan KLM3, 150Skubitz APN3, 151Miller JS2, 152Geller MA4.
+   Author information
+   1. Department of Obstetrics, Gynecology and Women's Health, Division of Gynecologic Oncology, University of
+   Minnesota, Minneapolis, MN, United States.
+   2. Department of Medicine, Division of Hematology, Oncology, and Transplantation, University of Minnesota,
+   Minneapolis, MN, United States.
+   3. Department of Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, MN, United States.
+   4. Department of Obstetrics, Gynecology and Women's Health, Division of Gynecologic Oncology, University of
+   Minnesota, Minneapolis, MN, United States. Electronic address gelle005umn.edu.}
+\mjmabstract{OBJECTIVE
+   Natural killer (NK) cells are lymphocytes well suited for adoptive immunotherapy. Attempts with adoptive NK
+   cell immunotherapy against ovarian cancer have proven unsuccessful, with the main limitations including failure
+   to expand and diminished effector function. We investigated if incubation of NK cells with interleukin (IL)-12,
+   IL-15, and IL-18 for 16h could produce cytokine-induced memory-like (CIML) NK cells capable of enhanced
+   function against ovarian cancer.
+METHODS
+   NK cells were preactivated briefly with IL-12, IL-15, and IL-18, rested, then placed against ovarian cancer
+   targets to assess phenotype and function via flow cytometry. Real-time NK-cell-mediated tumor-killing was
+   evaluated. Using ascites cells and cell-free ascites fluid, NK cell proliferation and function within the
+   immunosuppressive microenvironment was evaluated in vitro. Finally, CIML NK cells were injected intraperitoneal
+   (IP) into an in vivo xenogeneic mouse model of ovarian cancer.
+RESULTS
+   CIML NK cells demonstrate enhanced cytokine (IFN-) production and NK-cell-mediated killing of ovarian cancer.
+   NK cells treated overnight with cytokines led to robust activation characterized by temporal shedding of CD16,
+   induction of CD25, and enhanced proliferation. CIML NK cells proliferate more with enhanced effector function
+   compared to controls in an immunosuppressive microenvironment. Finally, human CIML NK cells exhibited potent
+   antitumor effects within a xenogeneic mouse model of ovarian cancer.
+CONCLUSIONS
+   CIML NK cells have enhanced functionality and persistence against ovarian cancer in vitro and in vivo, even
+   when exposed to ascites fluid. These findings provide a strategy for NK cell-based immunotherapy to circumvent
+   the immunosuppressive nature of ovarian cancer.
+   Copyright  2019. Published by Elsevier Inc.
+   PMCID PMC6430659 Available on 2020-04-01
+   PMID 30658847 Indexed for MEDLINE
+   153Similar articles
+   154Icon for Elsevier Science}
+\mjmcitation{   14. Parasitol Int. 2019 Jun;705-15. doi 10.1016j.parint.2019.01.003. Epub 2019 Jan 9.}
+\mjmtitle{155Role of IL-10 in inhibiting protective immune responses against infection with heterologous Plasmodium
+parasites.}
+\mjmauthors{   156Nakamae S1, 157Kimura D2, 158Miyakoda M3, 159Sukhbaatar O1, 160Inoue SI4, 161Yui K5.
+   Author information
+   1. Division of Immunology, Department of Molecular Microbiology and Immunology, Graduate School of Biomedical
+   Sciences, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Program for Nurturing Global Leaders
+   in Tropical and Emerging Infectious Diseases, Graduate School of Biomedical Sciences, Nagasaki University,
+   1-12-4 Sakamoto, Nagasaki 852-8523, Japan.
+   2. Division of Immunology, Department of Molecular Microbiology and Immunology, Graduate School of Biomedical
+   Sciences, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Department of Immunology, School of
+   Medicine, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Department of Health, Sports, and
+   Nutrition, Faculty of Health and Welfare, Kobe Women's University, 4-7-2 Minatojima-nakamachi, Chuo-ku, Kobe
+   650-0046, Japan.
+   3. Division of Immunology, Department of Molecular Microbiology and Immunology, Graduate School of Biomedical
+   Sciences, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Department of Immunology, School of
+   Medicine, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Research and Education Center for
+   Drug Fostering and Evolution, School of Pharmaceutical Sciences, Nagasaki University, 1-14 Bunkyomachi,
+   Nagasaki 852-8521, Japan.
+   4. Division of Immunology, Department of Molecular Microbiology and Immunology, Graduate School of Biomedical
+   Sciences, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Department of Immunology, School of
+   Medicine, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan.
+   5. Division of Immunology, Department of Molecular Microbiology and Immunology, Graduate School of Biomedical
+   Sciences, Nagasaki University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Program for Nurturing Global Leaders
+   in Tropical and Emerging Infectious Diseases, Graduate School of Biomedical Sciences, Nagasaki University,
+   1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Department of Immunology, School of Medicine, Nagasaki University,
+   1-12-4 Sakamoto, Nagasaki 852-8523, Japan; Graduate School of Tropical Medicine and Global Health, Nagasaki
+   University, 1-12-4 Sakamoto, Nagasaki 852-8523, Japan. Electronic address katsunagasaki-u.ac.jp.}
+\mjmabstract{   Malaria is induced by infection with Plasmodium parasites, which are genetically diverse, and the immune
+   response to Plasmodium infection has both allele-specific and cross-reactive components. To determine the role
+   of the cross-reactive immune response in the protection and disease manifestation in heterologous Plasmodium
+   infection, we used infection models of P. chabaudi chabaudi (Pcc) and P. berghei ANKA (PbA). CD4+ T cells
+   primed with Pcc infection exhibited strong cross-reactivity to PbA antigens. We infected C57BL6 mice with Pcc
+   and subsequently treated them with an anti-Plasmodium drug. The Pcc-primed mice exhibited reduced parasitemia
+   and showed no signs of experimental cerebral malaria after infection with PbA. CD4+ T cells from the
+   Pcc-primed mice produced high levels of IFN- and IL-10 in response to PbA early after PbA infection. The
+   blockade of IL-10 signaling with anti-IL-10 receptor antibody increased the proportion of activated CD4+ and
+    T cells and the IFN- production by CD4+ T cells in response to PbA antigens, while markedly reducing the
+   levels of parasitemia. In contrast, IL-10 blockade did not have a significant effect on parasitemia levels in
+   unprimed mice after PbA infection. These data suggest a potent regulatory role of IL-10 in the cross-reactive
+   memory response to the infection with heterologous Plasmodium parasites leading to the inhibition of the
+   protective immunity and pathogenesis.
+   Copyright  2019 Elsevier B.V. All rights reserved.
+   PMID 30639137 Indexed for MEDLINE
+   162Similar articles
+   163Icon for Elsevier Science}
+\mjmcitation{   15. Appl Microbiol Biotechnol. 2019 Jan;103(1)437-447. doi 10.1007s00253-018-9476-5. Epub 2018 Nov 6.}
+\mjmtitle{164Prospects for the use of spherical gold nanoparticles in immunization.}
+\mjmauthors{   165Staroverov SA1, 166Volkov AA2, 167Mezhenny PV2, 168Domnitsky IY2, 169Fomin AS1, 170Kozlov
+   SV2, 171Dykman LA1, 172Guliy OI3,4.
+   Author information
+   1. Institute of Biochemistry and Physiology of Plants and Microorganisms, Russian Academy of Sciences, Saratov,
+   Russian Federation.
+   2. Saratov State Vavilov Agrarian University, Saratov, Russian Federation.
+   3. Institute of Biochemistry and Physiology of Plants and Microorganisms, Russian Academy of Sciences, Saratov,
+   Russian Federation. guliyolgamail.ru.
+   4. Saratov State Vavilov Agrarian University, Saratov, Russian Federation. guliyolgamail.ru.}
+\mjmabstract{   Recent years have seen extremely fast development of new viral nanovaccines and diagnostic agents using
+   nanostructures prepared by biological and chemical synthesis. We used spherical gold nanoparticles (average
+   diameter, 15 nm) as a platform for the antigen for swine transmissible gastroenteritis virus (TGEV). The
+   literature data demonstrate that immunization of animals with the TGEV antigen coupled to gold nanoparticles
+   (GNPs) not only activates antigen-presenting cells but also increases the proliferative activity of splenic
+   lymphoid (antibody-forming) cells. The contents of -IFN, IL-1, and IL-6 in animals immunized with GNP-antigen
+   conjugates were found to be higher than those in intact animals or in animals given the antigen alone. The
+   increased concentration of IL-1 in the immunized animals directly correlated with the activity of macrophages
+   and stimulated B cells, which produce this cytokine when activated. The increased concentration of IL-6
+   indicates that the injected preparations are stimulatory to cellular immunity. Immunization with the TGEV
+   antigen conjugated to GNPs as a carrier activates the respiratory activity of lymphoid cells and peritoneal
+   macrophages, which is directly related to their transforming activity and to the activation of antibody
+   generation. Furthermore, the use of this conjugate allows marked improvement of the structure of the animals'
+   immune organs and restores the morphological-functional state of these organs. The microanatomical changes
+   (increased number of follicles) indicate the activation of the B-dependent zone of the spleen and,
+   consequently, the development of a humoral-type immunological reaction. The degradative processes observed in
+   the animals immunized with TGEV antigen alone are evidence of weak resistance to pathogen attack. These results
+   can be used to develop vaccines against this infection by employing TGEV antigen coupled to gold nanoparticles
+   as a carrier.
+   PMID 30402771 Indexed for MEDLINE
+   173Similar articles
+   174Icon for Springer}
+\mjmcitation{   16. J Leukoc Biol. 2018 Dec;104(6)1147-1157. doi 10.1002JLB.3A0218-071RRR. Epub 2018 Aug 17.}
+\mjmtitle{175Production of IL-35 by Bregs is mediated through binding of BATF-IRF-4-IRF-8 complex to il12a and ebi3 promoter
+elements.}
+\mjmauthors{   176Yu CR1, 177Choi JK1, 178Uche AN1, 179Egwuagu CE1.
+   Author information
+   1. Molecular Immunology Section, Laboratory of Immunology, National Eye Institute, National Institutes of
+   Health, Bethesda, Maryland, USA.}
+\mjmabstract{   IL-10 and IL-35 suppress excessive immune responses and therapeutic strategies are being developed to increase
+   their levels in autoimmune diseases. In this study, we sought to identify major cell types that produce both
+   cytokines in-vivo and to characterize mechanisms that regulate their production. Experimental autoimmune
+   uveitis (EAU) is a CNS autoimmune disease that serves as model of human uveitis. We induced EAU in C57BL6J
+   mice and investigated whether T cells, B lymphocytes, or myeloid cells are the major producers of IL-10 or
+   IL-35 in blood, lymph nodes (LNs), spleen, and at the site of ocular inflammation, the neuroretina. Analysis of
+   these tissues identified B cells as the major producers of IL-10 and IL-35 in-vivo. Compared to regulatory T
+   cells (Tregs), IL-10- or IL-35-producing regulatory B cells (Bregs) are substantially expanded in blood, LNs,
+   spleen, and retina of mice with EAU. We performed EMSA and chromatin immunoprecipitation (ChIP) assays on
+   activated B cells stimulated with IL-35 or TLR agonists. We found that BATF, IFN regulatory factor (IRF)-4, and
+   IRF-8 transcription factors were recruited and bound to AP1-IRF-composite elements (AICEs) of il12a, ebi3,
+   andor il10 loci, suggesting their involvement in regulating IL-10 and IL-35 transcriptional programs of B
+   cells. Showing that B cells are major source of IL-10 and IL-35 in-vivo and identifying transcription factors
+   that contribute to IL-10 and IL-35 expression in the activated B-cell, suggest that the BATFIRF-4IRF-8 axis
+   can be exploited therapeutically to regulate physiological levels of IL-10IL-35-Bregs and that adoptive
+   transfer of autologous Bregs might be an effective therapy for autoimmune and neurodegenerative diseases.
+   2018 Society for Leukocyte Biology.
+   PMID 30117603 Indexed for MEDLINE
+   180Similar articles
+   181Icon for Wiley}
+\mjmcitation{   17. J Invest Dermatol. 2018 May;138(5)1069-1077. doi 10.1016j.jid.2017.12.003. Epub 2017 Dec 15.}
+\mjmtitle{182Genome-Wide DNA Methylation Analysis in Systemic Sclerosis Reveals Hypomethylation of IFN-Associated Genes in
+CD4+ and CD8+ T Cells.}
+\mjmauthors{   183Ding W1, 184Pu W2, 185Wang L3, 186Jiang S4, 187Zhou X5, 188Tu W3, 189Yu L3, 190Zhang
+   J3, 191Guo S6, 192Liu Q7, 193Ma Y4, 194Chen S2, 195Wu W7, 196Reveille J5, 197Zou H8,
+   198Jin L2, 199Wang J9.
+   Author information
+   1. State Key Laboratory of Genetic Engineering, Collaborative Innovation Center for Genetics and Development,
+   School of Life Sciences, Fudan University, Shanghai, China; Medical Laboratory Center, Affiliated Hospital of
+   Nantong University, Nantong, Jiangsu Province, China.
+   2. State Key Laboratory of Genetic Engineering, Collaborative Innovation Center for Genetics and Development,
+   School of Life Sciences, Fudan University, Shanghai, China.
+   3. Division of Rheumatology, Shanghai Traditional Chinese Medicine-Integrated Hospital, Shanghai, China.
+   4. Ministry of Education Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan
+   University, Shanghai, China.
+   5. Division of Rheumatology, Department of Internal Medicine, University of Texas Medical School, Houston,
+   Texas, USA.
+   6. Department of Bioengineering, University of California at San Diego, La Jolla, California, USA.
+   7. Department of Dermatology, Huashan Hospital, Fudan University, Shanghai, China.
+   8. Division of Rheumatology, Huashan Hospital, Fudan University, Shanghai, China; Institute of Rheumatology,
+   Immunology and Allergy, Fudan University, Shanghai, China.
+   9. State Key Laboratory of Genetic Engineering, Collaborative Innovation Center for Genetics and Development,
+   School of Life Sciences, Fudan University, Shanghai, China; Institute of Rheumatology, Immunology and Allergy,
+   Fudan University, Shanghai, China. Electronic address jcwangfudan.edu.cn.}
+\mjmabstract{   Epigenetic modifications, including DNA methylation, play an important role in the pathogenesis of autoimmune
+   diseases. In this study, we characterized the DNA methylome in primary T cells of patients with systemic
+   sclerosis. Genome-wide DNA methylation assays of CD4+ and CD8+ T cells from 24 systemic sclerosis patients
+   and 24 matched controls were conducted and differentially methylated regions were validated. In the discovery
+   stage, we found that hypomethylation of genes involved in the type I IFN signaling pathway was significantly
+   enriched in both CD4+ (P = 7.59  10-6) and CD8+ (P = 2.10  10-8) differentially methylated regions. In
+   the validation stage, we confirmed these changes for five type I IFN-associated genes. In addition, protein
+   levels of both type I IFN- (P < 0.0001) and  (P = 0.002) were significantly elevated in the sera of systemic
+   sclerosis patients. Moreover, significant associations between type I IFN- protein levels with the DNA
+   methylation status as well as the expression profiles of these IFN-associated genes were confirmed. In
+   conclusion, the type I IFN pathway is dysfunctional at the epigenetic level in systemic sclerosis patients,
+   indicating that hypomethylation and upregulation of type I IFN-associated genes might be critical in systemic
+   sclerosis pathogenesis.
+   Copyright  2017 The Authors. Published by Elsevier Inc. All rights reserved.
+   PMID 29248544 Indexed for MEDLINE
+   200Similar articles
+   201Icon for Elsevier Science}
+\mjmcitation{   18. Cell Signal. 2018 Mar;4332-39. doi 10.1016j.cellsig.2017.12.002. Epub 2017 Dec 11.}
+\mjmtitle{202AKT1 distinctively suppresses MyD88-depenedent and TRIF-dependent Toll-like receptor signaling in a kinase
+activity-independent manner.}
+\mjmauthors{   203Zenke K1, 204Muroi M2, 205Tanamoto KI1.
+   Author information
+   1. Research Institute of Pharmaceutical Sciences, Musashino University, 1-1-20 Shinmachi, Nishitokyo-shi, Tokyo
+   202-8585, Japan.
+   2. Research Institute of Pharmaceutical Sciences, Musashino University, 1-1-20 Shinmachi, Nishitokyo-shi, Tokyo
+   202-8585, Japan. Electronic address mamuromusashino-u.ac.jp.}
+\mjmabstract{   We found that AKT1, a primary effector molecule of PI3K-AKT signaling, distinctively suppressed Toll-like
+   receptor (TLR)-mediated MyD88-dependent and TollIL-1R domain-containing adaptor inducing IFN-
+   (TRIF)-dependent signaling by inhibiting NF-B activation and IRF3 activity independently of its kinase
+   activity. In AKT1 knockout RAW264.7 cells, lipopolysaccharide (LPS)-induced transcription and protein
+   production of cytokines including IL-1 and TNF- (regulated by the MyD88-dependent pathway), as well as IFN-
+   and RANTES (C-C motif chemokine ligand 5 CCL-5; regulated by the TRIF-dependent pathways) was enhanced
+   compared to wild type cells. In response to LPS stimulation, AKT1 knockout cells also exhibited enhanced NF-B
+   and IFN- promoter activities, which were reduced to a level comparable to that in wild type cells by
+   complementation with either AKT1 or its kinase-dead mutant (AKT1-KD). Expression of AKT1 or AKT1-KD similarly
+   suppressed NF-B and IFN- promoter activities induced by LPS and other TLR ligands in wild type cells.
+   Analysis of NF-B activation caused by transient expression of proteins involved in the MyD88-dependent pathway
+   in TLR signaling revealed that AKT1 suppressed signaling that occurs between activation of IKK and that of
+   NF-B. In contrast, AKT1 appeared to suppress the IFN- promoter through inhibition of IRF3 activity itself.
+   These results demonstrate a novel, non-kinase function of AKT1 that inhibits TLR signaling, and suggest the
+   multifunctional nature of AKT1.
+   Copyright  2017 Elsevier Inc. All rights reserved.
+   PMID 29242168 Indexed for MEDLINE
+   206Similar articles
+   207Icon for Elsevier Science}
+\mjmreferences{   1. httpwww.ncbi.nlm.nih.gov
+   2. httpwww.nlm.nih.gov
+   3. httpswww.ncbi.nlm.nih.govmyncbisearches13404611hS1HkF5vY5C-57Zaw8SYkl6n6QUfzsBurzbZkPpkiqXo3t-0mRi6rS86EEhvFQK
+   4. httpswww.ncbi.nlm.nih.govmyncbisearches1340461
+   5. httpswww.ncbi.nlm.nih.govmyncbisearches1340461unsubscribe1Tyqdf4X59l
+   6. httpswww.ncbi.nlm.nih.govpubmed31081724
+   7. httpswww.ncbi.nlm.nih.govpubmed?term=Dhaouadi TAuthorcauthor=truecauthoruid=31081724
+   8. httpswww.ncbi.nlm.nih.govpubmed?term=Abdellatif JAuthorcauthor=truecauthoruid=31081724
+   9. httpswww.ncbi.nlm.nih.govpubmed?term=Jallouli MAuthorcauthor=truecauthoruid=31081724
+  10. httpswww.ncbi.nlm.nih.govpubmed?term=Mejdoubi MAuthorcauthor=truecauthoruid=31081724
+  11. httpswww.ncbi.nlm.nih.govpubmed?term=Sfar IAuthorcauthor=truecauthoruid=31081724
+  12. httpswww.ncbi.nlm.nih.govpubmed?term=Mouelhi LAuthorcauthor=truecauthoruid=31081724
+  13. httpswww.ncbi.nlm.nih.govpubmed?term=Aouini SAuthorcauthor=truecauthoruid=31081724
+  14. httpswww.ncbi.nlm.nih.govpubmed?term=Ben Abdallah TAuthorcauthor=truecauthoruid=31081724
+  15. httpswww.ncbi.nlm.nih.govpubmed?term=Gorgi YAuthorcauthor=truecauthoruid=31081724
+  16. httpswww.ncbi.nlm.nih.govpubmed31081432
+  17. httpswww.ncbi.nlm.nih.govpubmed?term=Mindt SAuthorcauthor=truecauthoruid=31081432
+  18. httpswww.ncbi.nlm.nih.govpubmed?term=Neumaier MAuthorcauthor=truecauthoruid=31081432
+  19. httpswww.ncbi.nlm.nih.govpubmed?term=Hoyer CAuthorcauthor=truecauthoruid=31081432
+  20. httpswww.ncbi.nlm.nih.govpubmed?term=Sartorius AAuthorcauthor=truecauthoruid=31081432
+  21. httpswww.ncbi.nlm.nih.govpubmed?term=Kranaster LAuthorcauthor=truecauthoruid=31081432
+  22. httpswww.ncbi.nlm.nih.govpubmed31081347
+  23. httpswww.ncbi.nlm.nih.govpubmed?term=Ibe MIAuthorcauthor=truecauthoruid=31081347
+  24. httpswww.ncbi.nlm.nih.govpubmed?term=Odimegwu DCAuthorcauthor=truecauthoruid=31081347
+  25. httpswww.ncbi.nlm.nih.govpubmed?term=Onuigbo EBAuthorcauthor=truecauthoruid=31081347
+  26. httpswww.ncbi.nlm.nih.govpubmed31081312
+  27. httpswww.ncbi.nlm.nih.govpubmed?term=Rosso CAuthorcauthor=truecauthoruid=31081312
+  28. httpswww.ncbi.nlm.nih.govpubmed?term=Caviglia GPAuthorcauthor=truecauthoruid=31081312
+  29. httpswww.ncbi.nlm.nih.govpubmed?term=Ciruolo MAuthorcauthor=truecauthoruid=31081312
+  30. httpswww.ncbi.nlm.nih.govpubmed?term=Ciancio AAuthorcauthor=truecauthoruid=31081312
+  31. httpswww.ncbi.nlm.nih.govpubmed?term=Younes RAuthorcauthor=truecauthoruid=31081312
+  32. httpswww.ncbi.nlm.nih.govpubmed?term=Olivero AAuthorcauthor=truecauthoruid=31081312
+  33. httpswww.ncbi.nlm.nih.govpubmed?term=Giordanino CAuthorcauthor=truecauthoruid=31081312
+  34. httpswww.ncbi.nlm.nih.govpubmed?term=Troshina GAuthorcauthor=truecauthoruid=31081312
+  35. httpswww.ncbi.nlm.nih.govpubmed?term=Abate MLAuthorcauthor=truecauthoruid=31081312
+  36. httpswww.ncbi.nlm.nih.govpubmed?term=Rizzetto MAuthorcauthor=truecauthoruid=31081312
+  37. httpswww.ncbi.nlm.nih.govpubmed?term=Pellicano RAuthorcauthor=truecauthoruid=31081312
+  38. httpswww.ncbi.nlm.nih.govpubmed?term=Saracco GMAuthorcauthor=truecauthoruid=31081312
+  39. httpswww.ncbi.nlm.nih.govpubmed?term=Bugianesi EAuthorcauthor=truecauthoruid=31081312
+  40. httpswww.ncbi.nlm.nih.govpubmed?term=Smedile AAuthorcauthor=truecauthoruid=31081312
+  41. httpswww.ncbi.nlm.nih.govpubmed31081147
+  42. httpswww.ncbi.nlm.nih.govpubmed?term=Wu YAuthorcauthor=truecauthoruid=31081147
+  43. httpswww.ncbi.nlm.nih.govpubmed?term=Wang JAuthorcauthor=truecauthoruid=31081147
+  44. httpswww.ncbi.nlm.nih.govpubmed?term=Zhao JAuthorcauthor=truecauthoruid=31081147
+  45. httpswww.ncbi.nlm.nih.govpubmed?term=Zhang YAuthorcauthor=truecauthoruid=31081147
+  46. httpswww.ncbi.nlm.nih.govpubmed?term=Sun YAuthorcauthor=truecauthoruid=31081147
+  47. httpswww.ncbi.nlm.nih.govpubmed?term=Chen JAuthorcauthor=truecauthoruid=31081147
+  48. httpswww.ncbi.nlm.nih.govpubmed?term=Wang JAuthorcauthor=truecauthoruid=31081147
+  49. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=31081147
+  50. httpswww.ncbi.nlm.nih.govpubmed31080562
+  51. httpswww.ncbi.nlm.nih.govpubmed?term=Troilo AAuthorcauthor=truecauthoruid=31080562
+  52. httpswww.ncbi.nlm.nih.govpubmed?term=Grassi AAuthorcauthor=truecauthoruid=31080562
+  53. httpswww.ncbi.nlm.nih.govpubmed?term=Petrone LAuthorcauthor=truecauthoruid=31080562
+  54. httpswww.ncbi.nlm.nih.govpubmed?term=Cianchi FAuthorcauthor=truecauthoruid=31080562
+  55. httpswww.ncbi.nlm.nih.govpubmed?term=Benagiano MAuthorcauthor=truecauthoruid=31080562
+  56. httpswww.ncbi.nlm.nih.govpubmed?term=Bella CDAuthorcauthor=truecauthoruid=31080562
+  57. httpswww.ncbi.nlm.nih.govpubmed?term=Capitani NAuthorcauthor=truecauthoruid=31080562
+  58. httpswww.ncbi.nlm.nih.govpubmed?term=Bitetti JAuthorcauthor=truecauthoruid=31080562
+  59. httpswww.ncbi.nlm.nih.govpubmed?term=D'Elios SAuthorcauthor=truecauthoruid=31080562
+  60. httpswww.ncbi.nlm.nih.govpubmed?term=Tapinassi SAuthorcauthor=truecauthoruid=31080562
+  61. httpswww.ncbi.nlm.nih.govpubmed?term=Azzurri AAuthorcauthor=truecauthoruid=31080562
+  62. httpswww.ncbi.nlm.nih.govpubmed?term=Alnwaisri HAuthorcauthor=truecauthoruid=31080562
+  63. httpswww.ncbi.nlm.nih.govpubmed?term=Romagnoli JAuthorcauthor=truecauthoruid=31080562
+  64. httpswww.ncbi.nlm.nih.govpubmed?term=Bizzaro NAuthorcauthor=truecauthoruid=31080562
+  65. httpswww.ncbi.nlm.nih.govpubmed?term=Bergman MAuthorcauthor=truecauthoruid=31080562
+  66. httpswww.ncbi.nlm.nih.govpubmed?term=Baldari CTAuthorcauthor=truecauthoruid=31080562
+  67. httpswww.ncbi.nlm.nih.govpubmed?term=D'Elios MMAuthorcauthor=truecauthoruid=31080562
+  68. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=31080562
+  69. httpswww.ncbi.nlm.nih.govpubmed31080451
+  70. httpswww.ncbi.nlm.nih.govpubmed?term=Lazarte JMSAuthorcauthor=truecauthoruid=31080451
+  71. httpswww.ncbi.nlm.nih.govpubmed?term=Thompson KDAuthorcauthor=truecauthoruid=31080451
+  72. httpswww.ncbi.nlm.nih.govpubmed?term=Jung TSAuthorcauthor=truecauthoruid=31080451
+  73. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=31080451
+  74. httpswww.ncbi.nlm.nih.govpubmed31080403
+  75. httpswww.ncbi.nlm.nih.govpubmed?term=Li LJAuthorcauthor=truecauthoruid=31080403
+  76. httpswww.ncbi.nlm.nih.govpubmed?term=Zhang SJAuthorcauthor=truecauthoruid=31080403
+  77. httpswww.ncbi.nlm.nih.govpubmed?term=Liu PAuthorcauthor=truecauthoruid=31080403
+  78. httpswww.ncbi.nlm.nih.govpubmed?term=Wang YQAuthorcauthor=truecauthoruid=31080403
+  79. httpswww.ncbi.nlm.nih.govpubmed?term=Chen ZLAuthorcauthor=truecauthoruid=31080403
+  80. httpswww.ncbi.nlm.nih.govpubmed?term=Wang YJAuthorcauthor=truecauthoruid=31080403
+  81. httpswww.ncbi.nlm.nih.govpubmed?term=Zhou JBAuthorcauthor=truecauthoruid=31080403
+  82. httpswww.ncbi.nlm.nih.govpubmed?term=Guo YJAuthorcauthor=truecauthoruid=31080403
+  83. httpswww.ncbi.nlm.nih.govpubmed?term=Zhao LAuthorcauthor=truecauthoruid=31080403
+  84. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=31080403
+  85. httpswww.ncbi.nlm.nih.govpubmed31079850
+  86. httpswww.ncbi.nlm.nih.govpubmed?term=Koh YWAuthorcauthor=truecauthoruid=31079850
+  87. httpswww.ncbi.nlm.nih.govpubmed?term=Han JHAuthorcauthor=truecauthoruid=31079850
+  88. httpswww.ncbi.nlm.nih.govpubmed?term=Jeong DAuthorcauthor=truecauthoruid=31079850
+  89. httpswww.ncbi.nlm.nih.govpubmed?term=Kim CJAuthorcauthor=truecauthoruid=31079850
+  90. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=31079850
+  91. httpswww.ncbi.nlm.nih.govpubmed31079659
+  92. httpswww.ncbi.nlm.nih.govpubmed?term=Moura ACAuthorcauthor=truecauthoruid=31079659
+  93. httpswww.ncbi.nlm.nih.govpubmed?term=Delamain MTAuthorcauthor=truecauthoruid=31079659
+  94. httpswww.ncbi.nlm.nih.govpubmed?term=Duarte GBOAuthorcauthor=truecauthoruid=31079659
+  95. httpswww.ncbi.nlm.nih.govpubmed?term=Lorand-Metze IAuthorcauthor=truecauthoruid=31079659
+  96. httpswww.ncbi.nlm.nih.govpubmed?term=Souza CAAuthorcauthor=truecauthoruid=31079659
+  97. httpswww.ncbi.nlm.nih.govpubmed?term=Barbosa Pagnano KBAuthorcauthor=truecauthoruid=31079659
+  98. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=31079659
+  99. httpswww.ncbi.nlm.nih.govpubmed30768983
+ 100. httpswww.ncbi.nlm.nih.govpubmed?term=Karimzadeh HAuthorcauthor=truecauthoruid=30768983
+ 101. httpswww.ncbi.nlm.nih.govpubmed?term=Kiraithe MMAuthorcauthor=truecauthoruid=30768983
+ 102. httpswww.ncbi.nlm.nih.govpubmed?term=Oberhardt VAuthorcauthor=truecauthoruid=30768983
+ 103. httpswww.ncbi.nlm.nih.govpubmed?term=Salimi Alizei EAuthorcauthor=truecauthoruid=30768983
+ 104. httpswww.ncbi.nlm.nih.govpubmed?term=Bockmann JAuthorcauthor=truecauthoruid=30768983
+ 105. httpswww.ncbi.nlm.nih.govpubmed?term=Schulze Zur Wiesch JAuthorcauthor=truecauthoruid=30768983
+ 106. httpswww.ncbi.nlm.nih.govpubmed?term=Budeus BAuthorcauthor=truecauthoruid=30768983
+ 107. httpswww.ncbi.nlm.nih.govpubmed?term=Hoffmann DAuthorcauthor=truecauthoruid=30768983
+ 108. httpswww.ncbi.nlm.nih.govpubmed?term=Wedemeyer HAuthorcauthor=truecauthoruid=30768983
+ 109. httpswww.ncbi.nlm.nih.govpubmed?term=Cornberg MAuthorcauthor=truecauthoruid=30768983
+ 110. httpswww.ncbi.nlm.nih.govpubmed?term=Krawczyk AAuthorcauthor=truecauthoruid=30768983
+ 111. httpswww.ncbi.nlm.nih.govpubmed?term=Rashidi-Alavijeh JAuthorcauthor=truecauthoruid=30768983
+ 112. httpswww.ncbi.nlm.nih.govpubmed?term=Rodrguez-Fras FAuthorcauthor=truecauthoruid=30768983
+ 113. httpswww.ncbi.nlm.nih.govpubmed?term=Casillas RAuthorcauthor=truecauthoruid=30768983
+ 114. httpswww.ncbi.nlm.nih.govpubmed?term=Buti MAuthorcauthor=truecauthoruid=30768983
+ 115. httpswww.ncbi.nlm.nih.govpubmed?term=Smedile AAuthorcauthor=truecauthoruid=30768983
+ 116. httpswww.ncbi.nlm.nih.govpubmed?term=Alavian SMAuthorcauthor=truecauthoruid=30768983
+ 117. httpswww.ncbi.nlm.nih.govpubmed?term=Heinold AAuthorcauthor=truecauthoruid=30768983
+ 118. httpswww.ncbi.nlm.nih.govpubmed?term=Emmerich FAuthorcauthor=truecauthoruid=30768983
+ 119. httpswww.ncbi.nlm.nih.govpubmed?term=Panning MAuthorcauthor=truecauthoruid=30768983
+ 120. httpswww.ncbi.nlm.nih.govpubmed?term=Gostick EAuthorcauthor=truecauthoruid=30768983
+ 121. httpswww.ncbi.nlm.nih.govpubmed?term=Price DAAuthorcauthor=truecauthoruid=30768983
+ 122. httpswww.ncbi.nlm.nih.govpubmed?term=Timm JAuthorcauthor=truecauthoruid=30768983
+ 123. httpswww.ncbi.nlm.nih.govpubmed?term=Hofmann MAuthorcauthor=truecauthoruid=30768983
+ 124. httpswww.ncbi.nlm.nih.govpubmed?term=Raziorrouh BAuthorcauthor=truecauthoruid=30768983
+ 125. httpswww.ncbi.nlm.nih.govpubmed?term=Thimme RAuthorcauthor=truecauthoruid=30768983
+ 126. httpswww.ncbi.nlm.nih.govpubmed?term=Protzer UAuthorcauthor=truecauthoruid=30768983
+ 127. httpswww.ncbi.nlm.nih.govpubmed?term=Roggendorf MAuthorcauthor=truecauthoruid=30768983
+ 128. httpswww.ncbi.nlm.nih.govpubmed?term=Neumann-Haefelin CAuthorcauthor=truecauthoruid=30768983
+ 129. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=30768983
+ 130. httpslinkinghub.elsevier.comretrievepiiS0016-5085(19)30366-X
+ 131. httpswww.ncbi.nlm.nih.govpmcarticlespmid30768983
+ 132. httpswww.ncbi.nlm.nih.govpubmed30699956
+ 133. httpswww.ncbi.nlm.nih.govpubmed?term=Abbas ABAuthorcauthor=truecauthoruid=30699956
+ 134. httpswww.ncbi.nlm.nih.govpubmed?term=Lin BAuthorcauthor=truecauthoruid=30699956
+ 135. httpswww.ncbi.nlm.nih.govpubmed?term=Liu CAuthorcauthor=truecauthoruid=30699956
+ 136. httpswww.ncbi.nlm.nih.govpubmed?term=Morshed AAuthorcauthor=truecauthoruid=30699956
+ 137. httpswww.ncbi.nlm.nih.govpubmed?term=Hu JAuthorcauthor=truecauthoruid=30699956
+ 138. httpswww.ncbi.nlm.nih.govpubmed?term=Xu HAuthorcauthor=truecauthoruid=30699956
+ 139. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=30699956
+ 140. httpwww.mdpi.comresolver?pii=ijms20030572
+ 141. httpswww.ncbi.nlm.nih.govpmcarticlespmid30699956
+ 142. httpswww.ncbi.nlm.nih.govpubmed30658847
+ 143. httpswww.ncbi.nlm.nih.govpubmed?term=Uppendahl LDAuthorcauthor=truecauthoruid=30658847
+ 144. httpswww.ncbi.nlm.nih.govpubmed?term=Felices MAuthorcauthor=truecauthoruid=30658847
+ 145. httpswww.ncbi.nlm.nih.govpubmed?term=Bendzick LAuthorcauthor=truecauthoruid=30658847
+ 146. httpswww.ncbi.nlm.nih.govpubmed?term=Ryan CAuthorcauthor=truecauthoruid=30658847
+ 147. httpswww.ncbi.nlm.nih.govpubmed?term=Kodal BAuthorcauthor=truecauthoruid=30658847
+ 148. httpswww.ncbi.nlm.nih.govpubmed?term=Hinderlie PAuthorcauthor=truecauthoruid=30658847
+ 149. httpswww.ncbi.nlm.nih.govpubmed?term=Boylan KLMAuthorcauthor=truecauthoruid=30658847
+ 150. httpswww.ncbi.nlm.nih.govpubmed?term=Skubitz APNAuthorcauthor=truecauthoruid=30658847
+ 151. httpswww.ncbi.nlm.nih.govpubmed?term=Miller JSAuthorcauthor=truecauthoruid=30658847
+ 152. httpswww.ncbi.nlm.nih.govpubmed?term=Geller MAAuthorcauthor=truecauthoruid=30658847
+ 153. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=30658847
+ 154. httpslinkinghub.elsevier.comretrievepiiS0090-8258(19)30039-3
+ 155. httpswww.ncbi.nlm.nih.govpubmed30639137
+ 156. httpswww.ncbi.nlm.nih.govpubmed?term=Nakamae SAuthorcauthor=truecauthoruid=30639137
+ 157. httpswww.ncbi.nlm.nih.govpubmed?term=Kimura DAuthorcauthor=truecauthoruid=30639137
+ 158. httpswww.ncbi.nlm.nih.govpubmed?term=Miyakoda MAuthorcauthor=truecauthoruid=30639137
+ 159. httpswww.ncbi.nlm.nih.govpubmed?term=Sukhbaatar OAuthorcauthor=truecauthoruid=30639137
+ 160. httpswww.ncbi.nlm.nih.govpubmed?term=Inoue SIAuthorcauthor=truecauthoruid=30639137
+ 161. httpswww.ncbi.nlm.nih.govpubmed?term=Yui KAuthorcauthor=truecauthoruid=30639137
+ 162. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=30639137
+ 163. httpslinkinghub.elsevier.comretrievepiiS1383-5769(18)30485-9
+ 164. httpswww.ncbi.nlm.nih.govpubmed30402771
+ 165. httpswww.ncbi.nlm.nih.govpubmed?term=Staroverov SAAuthorcauthor=truecauthoruid=30402771
+ 166. httpswww.ncbi.nlm.nih.govpubmed?term=Volkov AAAuthorcauthor=truecauthoruid=30402771
+ 167. httpswww.ncbi.nlm.nih.govpubmed?term=Mezhenny PVAuthorcauthor=truecauthoruid=30402771
+ 168. httpswww.ncbi.nlm.nih.govpubmed?term=Domnitsky IYAuthorcauthor=truecauthoruid=30402771
+ 169. httpswww.ncbi.nlm.nih.govpubmed?term=Fomin ASAuthorcauthor=truecauthoruid=30402771
+ 170. httpswww.ncbi.nlm.nih.govpubmed?term=Kozlov SVAuthorcauthor=truecauthoruid=30402771
+ 171. httpswww.ncbi.nlm.nih.govpubmed?term=Dykman LAAuthorcauthor=truecauthoruid=30402771
+ 172. httpswww.ncbi.nlm.nih.govpubmed?term=Guliy OIAuthorcauthor=truecauthoruid=30402771
+ 173. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=30402771
+ 174. httpsdx.doi.org10.1007s00253-018-9476-5
+ 175. httpswww.ncbi.nlm.nih.govpubmed30117603
+ 176. httpswww.ncbi.nlm.nih.govpubmed?term=Yu CRAuthorcauthor=truecauthoruid=30117603
+ 177. httpswww.ncbi.nlm.nih.govpubmed?term=Choi JKAuthorcauthor=truecauthoruid=30117603
+ 178. httpswww.ncbi.nlm.nih.govpubmed?term=Uche ANAuthorcauthor=truecauthoruid=30117603
+ 179. httpswww.ncbi.nlm.nih.govpubmed?term=Egwuagu CEAuthorcauthor=truecauthoruid=30117603
+ 180. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=30117603
+ 181. httpsdoi.org10.1002JLB.3A0218-071RRR
+ 182. httpswww.ncbi.nlm.nih.govpubmed29248544
+ 183. httpswww.ncbi.nlm.nih.govpubmed?term=Ding WAuthorcauthor=truecauthoruid=29248544
+ 184. httpswww.ncbi.nlm.nih.govpubmed?term=Pu WAuthorcauthor=truecauthoruid=29248544
+ 185. httpswww.ncbi.nlm.nih.govpubmed?term=Wang LAuthorcauthor=truecauthoruid=29248544
+ 186. httpswww.ncbi.nlm.nih.govpubmed?term=Jiang SAuthorcauthor=truecauthoruid=29248544
+ 187. httpswww.ncbi.nlm.nih.govpubmed?term=Zhou XAuthorcauthor=truecauthoruid=29248544
+ 188. httpswww.ncbi.nlm.nih.govpubmed?term=Tu WAuthorcauthor=truecauthoruid=29248544
+ 189. httpswww.ncbi.nlm.nih.govpubmed?term=Yu LAuthorcauthor=truecauthoruid=29248544
+ 190. httpswww.ncbi.nlm.nih.govpubmed?term=Zhang JAuthorcauthor=truecauthoruid=29248544
+ 191. httpswww.ncbi.nlm.nih.govpubmed?term=Guo SAuthorcauthor=truecauthoruid=29248544
+ 192. httpswww.ncbi.nlm.nih.govpubmed?term=Liu QAuthorcauthor=truecauthoruid=29248544
+ 193. httpswww.ncbi.nlm.nih.govpubmed?term=Ma YAuthorcauthor=truecauthoruid=29248544
+ 194. httpswww.ncbi.nlm.nih.govpubmed?term=Chen SAuthorcauthor=truecauthoruid=29248544
+ 195. httpswww.ncbi.nlm.nih.govpubmed?term=Wu WAuthorcauthor=truecauthoruid=29248544
+ 196. httpswww.ncbi.nlm.nih.govpubmed?term=Reveille JAuthorcauthor=truecauthoruid=29248544
+ 197. httpswww.ncbi.nlm.nih.govpubmed?term=Zou HAuthorcauthor=truecauthoruid=29248544
+ 198. httpswww.ncbi.nlm.nih.govpubmed?term=Jin LAuthorcauthor=truecauthoruid=29248544
+ 199. httpswww.ncbi.nlm.nih.govpubmed?term=Wang JAuthorcauthor=truecauthoruid=29248544
+ 200. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=29248544
+ 201. httpslinkinghub.elsevier.comretrievepiiS0022-202X(17)33285-2
+ 202. httpswww.ncbi.nlm.nih.govpubmed29242168
+ 203. httpswww.ncbi.nlm.nih.govpubmed?term=Zenke KAuthorcauthor=truecauthoruid=29242168
+ 204. httpswww.ncbi.nlm.nih.govpubmed?term=Muroi MAuthorcauthor=truecauthoruid=29242168
+ 205. httpswww.ncbi.nlm.nih.govpubmed?term=Tanamoto KIAuthorcauthor=truecauthoruid=29242168
+ 206. httpswww.ncbi.nlm.nih.govpubmed?linkname=pubmedpubmedfromuid=29242168
+ 207. httpslinkinghub.elsevier.comretrievepiiS0898-6568(17)30322-4}

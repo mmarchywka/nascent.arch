@@ -1,0 +1,3217 @@
+variety sequences-6
+pre 2 25400000 473628672 1000 27 ' TeX output 2019.07.08:1713'
+bop 1 0 0 0 0 0 0 0 0 0 -1
+[
+special1 172 '! systemdict /pdfmark known{userdict /?pdfmark systemdict /exec get put}{userdict /?pdfmark systemdict /pop get put userdict /pdfmark systemdict /cleartomark get put}ifelse'
+special1 146 'ps:SDict begin [/Producer (dvips + Distiller)/Title ()/Subject ()/Creator (LaTeX with hyperref package)/Author ()/Keywords () /DOCINFO pdfmark end'
+special4 879 '! /DvipsToPDF{72.27 mul Resolution div} def/PDFToDvips{72.27 div Resolution mul} def/BPToDvips{72 div Resolution mul}def/BorderArrayPatch{[exch{dup dup type/integertype eq exch type/realtype eq or{BPToDvips}if}forall]}def/HyperBorder {1 PDFToDvips} def/H.V {pdf@hoff pdf@voff null} def/H.B {/Rect[pdf@llx pdf@lly pdf@urx pdf@ury]} def/H.S {currentpoint HyperBorder add /pdf@lly exch def dup DvipsToPDF 72 add /pdf@hoff exch def HyperBorder sub /pdf@llx exch def} def/H.L {2 sub dup/HyperBasePt exch def PDFToDvips /HyperBaseDvips exch def currentpoint HyperBaseDvips sub /pdf@ury exch def/pdf@urx exch def} def/H.A {H.L currentpoint exch pop vsize 72 sub exch DvipsToPDF HyperBasePt sub sub /pdf@voff exch def} def/H.R {currentpoint HyperBorder sub /pdf@ury exch def HyperBorder add /pdf@urx exch def currentpoint exch pop vsize 72 sub exch DvipsToPDF sub /pdf@voff exch def} def'
+]
+special1 254 'ps:SDict begin /product where{pop product(Distiller)search{pop pop pop version(.)search{exch pop exch pop(3011)eq{gsave newpath 0 0 moveto closepath clip/Courier findfont 10 scalefont setfont 72 72 moveto(.)show grestore}if}{pop}ifelse}{pop}ifelse}if end'
+[
+d3 -4063477
+[
+r3 -1249852
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+special1 22 'ps:SDict begin H.R end'
+special1 68 'ps:SDict begin [/View [/XYZ H.V]/Dest (page.1) cvn /DEST pdfmark end'
+special1 9 'color pop'
+]
+]
+y4 44695552
+[
+d4 -44695552
+[
+special1 142 '! /pgfH{/pgfheight exch def 0.75 setlinewidth [] 0 setdash /pgfshade {pgfA} def /pgfdir { dup 0 moveto dup 5 index lineto } bind def} bind def'
+special1 152 '! /pgfV{/pgfheight exch def 0.75 setlinewidth [] 0 setdash /pgfshade {pgfA} def /pgfdir { dup 0 exch moveto dup 5 index exch lineto } bind def} bind def'
+special4 411 '! /pgfA{ /pgfdiff 8 index round cvi 8 index round cvi sub 2 mul 1 add def 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div pgfheight 9 index 9 index 9 index 14 index pgfdiff { 3 index 3 index 3 index setrgbcolor pgfdir stroke 4 -1 roll 7 index add 4 -1 roll 6 index add 4 -1 roll 5 index add 4 -1 roll .5 sub } repeat mark 15 1 roll cleartomark exch pop }bind def '
+special4 290 '! /pgfR1{ newpath dup dup dup 0 360 arc clip newpath dup /pgfendx exch def /pgfendy exch def 0.875 setlinewidth [] 0 setdash /pgfshade {pgfR} def /pgfstartx exch def /pgfstarty exch def /pgfdiffx pgfendx pgfstartx sub def /pgfdiffy pgfendy pgfstarty sub def dup /pgfdomb exch def }bind def '
+special1 93 '! /pgfR2{ newpath 0.5 add pgfcircx pgfcircy 3 2 roll 0 360 arc setrgbcolor fill pop}bind def '
+special4 856 '! /pgfR{ /pgfdiff 8 index round cvi 8 index round cvi sub 4 mul 1 add def /pgfcircx pgfstartx 9 index pgfdiffx pgfdomb div mul add def /pgfcircy pgfstarty 9 index pgfdiffy pgfdomb div mul add def /pgfcircxe pgfstartx 8 index pgfdiffx pgfdomb div mul add def /pgfcircye pgfstarty 8 index pgfdiffy pgfdomb div mul add def /pgfxstep pgfcircxe pgfcircx sub pgfdiff div def /pgfystep pgfcircye pgfcircy sub pgfdiff div def 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div 8 index 8 index 8 index 13 index pgfdiff { 3 index 3 index 3 index setrgbcolor pgfcircx pgfcircy 2 index 0 360 arc closepath stroke 4 -1 roll 6 index add 4 -1 roll 5 index add 4 -1 roll 4 index add 4 -1 roll .25 sub /pgfcircx pgfcircx pgfxstep add def /pgfcircy pgfcircy pgfystep add def } repeat mark 14 1 roll cleartomark exch pop }bind def'
+special4 1133 '!  /pgfsc{}bind def/pgffc{}bind def/pgfstr{stroke}bind def/pgffill{fill}bind def/pgfeofill{eofill}bind def/pgfe{a dup 0 rlineto exch 0 exch rlineto neg 0 rlineto closepath}bind def/pgfw{setlinewidth}bind def/pgfs{save pgfpd 72 Resolution div 72 VResolution div neg scale magscale{1 DVImag div dup scale}if pgfx neg pgfy neg translate pgffoa .setopacityalpha}bind def/pgfr{pgfsd restore}bind def userdict begin/pgfo{pgfsd /pgfx currentpoint /pgfy exch def def @beginspecial}bind def /pgfc{newpath @endspecial pgfpd}bind def /pgfsd{globaldict /pgfdelta /delta where {pop delta} {0} ifelse put}bind def/pgfpd{/delta globaldict /pgfdelta get def}bind def /.setopacityalpha where {pop} {/.setopacityalpha{pop}def} ifelse /.pgfsetfillopacityalpha{/pgffoa exch def /pgffill{gsave pgffoa .setopacityalpha fill 1 .setopacityalpha newpath fill grestore newpath}bind def /pgfeofill{gsave pgffoa .setopacityalpha eofill 1 .setopacityalpha newpath eofill grestore newpath}bind def}bind def /.pgfsetstrokeopacityalpha{/pgfsoa exch def /pgfstr{gsave pgfsoa .setopacityalpha stroke grestore newpath}bind def}bind def /pgffoa 1 def /pgfsoa 1 def end '
+]
+y0
+[
+d4 -47054848
+[
+[
+r3 -1184071
+special1 17 'color push gray 0'
+[
+[
+[
+d3 -226101
+[
+[
+[
+[
+fd1 14 1414365261 655360 655360 0 8 '' 'ecrm1000'
+fn14
+(M)
+x3 218400
+(Marc)
+w2 -18200
+(h)
+w0
+(ywk)
+r3 -36400
+(a,)
+x0
+(MJM-test-test)
+]
+]
+]
+[
+[
+[
+r4 21065560
+(July)
+w3 218400
+(8,)
+w0
+(2019)
+w0
+(v.)
+r3 582400
+(0.00)
+w0
+(NOT)
+w0
+(public)
+w0
+(NOTES)
+]
+]
+]
+]
+d3 252315
+pr 26214 33423360
+]
+]
+]
+r4 33423360
+special1 9 'color pop'
+]
+]
+d4 45088768
+[
+r3 -1184071
+d4 -44040192
+special1 17 'color push gray 0'
+special1 143 '! /pgf1{gsave exec 1.0 pgfw 2.00002 0.0 moveto -6.00006 4.00005 lineto -3.00003 0.0 lineto -6.00006 -4.00005 lineto pgffill  grestore} bind def'
+special1 233 '! /pgf2{gsave exec 1.0 pgfw 0.8 pgfw [ ] 0.0 setdash 1 setlinecap 1 setlinejoin -3.00003 4.00005 moveto -2.75002 2.50002 0.0 0.24998 0.75 0.0 curveto 0.0 -0.24998 -2.75002 -2.50002 -3.00003 -4.00005 curveto pgfstr  grestore} bind def'
+special1 109 '! /pgf3{gsave exec 1.0 pgfw [ ] 0.0 setdash 0.0 -5.00005 moveto 0.0 5.00005 lineto pgfstr  grestore} bind def'
+special1 158 '! /pgf4{gsave exec 1.0 pgfw [ ] 0.0 setdash -3.00003 -5.00005 moveto 0.0 -5.00005 lineto 0.0 5.00005 lineto -3.00003 5.00005 lineto pgfstr  grestore} bind def'
+special1 145 '! /pgf5{gsave exec 1.0 pgfw [ ] 0.0 setdash -2.00002 -5.00005 moveto 1.0 -3.00003 1.0 3.00003 -2.00002 5.00005 curveto pgfstr  grestore} bind def'
+special1 138 '! /pgf6{gsave exec 1.0 pgfw [ ] 0.0 setdash -4.50003 -5.00005 moveto 0.49998 0.0 lineto -4.50003 5.00005 lineto pgfstr  grestore} bind def'
+special4 398 '! /pgf7{gsave exec 1.0 pgfw -2.50002 0.0 translate [ ] 0.0 setdash 3.00003 0.0 moveto 3.00003 1.65689 1.65689 3.00003 0.0 3.00003 curveto -1.65689 3.00003 -3.00003 1.65689 -3.00003 0.0 curveto -3.00003 -1.65689 -1.65689 -3.00003 0.0 -3.00003 curveto 1.65689 -3.00003 3.00003 -1.65689 3.00003 0.0 curveto closepath gsave pgffc pgffill grestore gsave pgfsc pgfstr grestore newpath  grestore} bind def'
+special1 223 '! /pgf8{gsave exec 1.0 pgfw [ ] 0.0 setdash 1.0 0.0 moveto -5.00005 3.00003 lineto -11.00012 0.0 lineto -5.00005 -3.00003 lineto closepath gsave pgffc pgffill grestore gsave pgfsc pgfstr grestore newpath  grestore} bind def'
+special1 86 'ps:SDict begin [/Count -0/Dest (section*.1) cvn/Title (Introduction ) /OUT pdfmark end'
+special1 85 'ps:SDict begin [/Count -0/Dest (section*.2) cvn/Title (Bibliography) /OUT pdfmark end'
+special1 83 'ps:SDict begin [/Count -0/Dest (section*.3) cvn/Title (References) /OUT pdfmark end'
+special1 88 'ps:SDict begin [/Count -0/Dest (section*.4) cvn/Title (Acknowledgments) /OUT pdfmark end'
+special1 117 'ps:SDict begin [/Count -0/Dest (section*.5) cvn/Title (Citing this as a tech report or white paper ) /OUT pdfmark end'
+special1 78 'ps:SDict begin [/PageMode /UseOutlines/Page 1/View [/Fit] /DOCVIEW pdfmark end'
+special1 47 'ps:SDict begin [ {Catalog}<<>> /PUT pdfmark end'
+special1 22 'ps:SDict begin H.S end'
+special1 27 'ps:SDict begin 11.5 H.A end'
+special1 71 'ps:SDict begin [/View [/XYZ H.V]/Dest (Doc-Start) cvn /DEST pdfmark end'
+y3 655360
+[
+[
+r4 13234664
+special1 22 'ps:SDict begin H.S end'
+special1 27 'ps:SDict begin 10.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.1) cvn /DEST pdfmark end'
+fd1 39 21345472714 589824 589824 0 8 '' 'ecbx0900'
+fn39
+(1.)
+]
+r4 14475176
+(INTR)
+r2 -19384
+(ODUCTION)
+]
+d3 1686003
+[
+r3 655360
+fn14
+(//)
+w3 218400
+(no)
+r2 -18200
+(w)
+w0
+(bib)
+w0
+(can)
+w0
+(b)
+r2 18200
+(e)
+w0
+(included)
+]
+d3 5753916
+[
+[
+[
+d3 -1749712
+[
+d3 -2988436
+special1 17 'color push gray 0'
+special1 17 'color push gray 0'
+d3 2988436
+[
+d3 -1346762
+[
+[
+r3 3575035
+d3 -1615460
+pr 26214 26273291
+y3 481687
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+fd1 38 33113516214 589824 589824 0 8 '' 'ecrm0900'
+fn38
+(Ingredien)
+r2 -16836
+(t)
+r3 164282
+y0
+sr 688127 26214
+]
+[
+r3 3353282
+(grams)
+fd1 42 6576317042 589824 589824 0 5 '' 'cmmi9'
+fn42
+(=)
+fn38
+(mole)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r3 6777981
+(grams)
+fn42
+(=)
+fn38
+(\()
+fd1 40 15755105707 589824 589824 0 4 '' 'cmr9'
+fn40
+(1)
+fn42
+(=)
+fn40
+(4)
+fn38
+(\))
+r3 202020
+(tsp)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 11350811
+(meq/qtr)
+r3 202020
+(tsp)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 14842776
+(Amoun)
+r2 -16836
+(t\(tsp\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 23469319
+(commen)
+r2 -16836
+(ts)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+]
+z3 232654
+pr 26214 26273291
+y0
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(K)
+r2 -16836
+(Cl)
+r3 1799098
+y0
+sr 688127 26214
+]
+[
+r3 4251879
+fn40
+(74)
+fn42
+(g)
+r2 21162
+(=mol)
+r3 140857
+d3 206440
+sr 688127 26214
+]
+[
+r4 10287858
+fn40
+(1)
+fn42
+(:)
+fn40
+(1)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 13948357
+fn38
+(15)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 17505975
+(.25)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 26247077
+d3 206440
+sr 688127 26214
+]
+]
+y3 688127
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(CitricA)
+r2 -16836
+(cid)
+r3 131072
+y0
+sr 688127 26214
+]
+[
+r3 3948777
+fn40
+(210)
+fn42
+(g)
+r2 21162
+(=mol)
+r3 140857
+d3 206440
+sr 688127 26214
+]
+[
+r4 10759422
+fn38
+(1)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 14251387
+(5)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 17505975
+(.25)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 26247077
+d3 206440
+sr 688127 26214
+]
+]
+y0
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(T)
+r3 -50506
+(aurine)
+r3 820984
+y0
+sr 688127 26214
+]
+[
+r3 3174183
+fn40
+(125)
+fn42
+(:)
+fn40
+(14)
+fn42
+(g)
+r2 21162
+(=mol)
+r3 140857
+d3 206440
+sr 688127 26214
+]
+[
+r4 9985012
+fn38
+(2.16)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 13948357
+(17)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 17809005
+(.1)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 18568744
+(calculated)
+w3 202020
+(from)
+w0
+(bulk)
+w0
+(densit)
+r2 -16836
+(y)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+]
+z0
+pr 26214 26273291
+d3 157286
+pr 26214 26273291
+]
+]
+]
+special1 9 'color pop'
+]
+special1 9 'color pop'
+y0
+[
+special1 17 'color push gray 0'
+d3 406224
+[
+(T)
+r3 -50506
+(ABLE)
+w3 189842
+(I:)
+w0
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+special1 22 'ps:SDict begin H.R end'
+special1 69 'ps:SDict begin [/View [/XYZ H.V]/Dest (table.1) cvn /DEST pdfmark end'
+special1 9 'color pop'
+w0
+(GI)
+r3 189830
+(crud)
+w0
+(remo)
+w2 -16836
+(v)
+r3 -33671
+(al:)
+r3 263271
+(h)
+w0
+(yp)
+w2 16835
+(o)
+w0
+(c)
+w2 -16836
+(hlorh)
+w0
+(ydria)
+w3 189842
+(and)
+x3 189843
+(pancreatic)
+w0
+(calci)
+\1C
+(cation.)
+r3 265300
+(With)
+w0
+(fo)
+w2 16835
+(o)
+w0
+(d)
+x0
+(to)
+w3 189842
+(aid)
+w0
+(digestion)
+w0
+(enzymes)
+w0
+(and)
+w0
+(em)
+r2 -16836
+(ulsi)
+\1C
+(ca-)
+]
+d3 688128
+[
+(tion.)
+r3 269360
+(Without)
+w3 202020
+(meals)
+w0
+(to)
+w0
+(dissolv)
+r2 -16836
+(e)
+w0
+(mineralizations.)
+]
+]
+d3 1094352
+special1 9 'color pop'
+]
+]
+]
+d3 1540096
+[
+r3 655360
+fn14
+(Best)
+w3 289445
+(I)
+r3 289374
+(can)
+w0
+(come)
+w0
+(up)
+w0
+(with)
+x3 289446
+(is)
+w0
+(RD)
+r2 -18200
+(A)
+r3 289373
+(for)
+x0
+(dogs)
+w0
+(is)
+w0
+(b)
+r2 18200
+(et)
+w2 -18200
+(w)
+w0
+(een)
+x3 289445
+fd1 7 11374260171 655360 655360 0 5 '' 'cmr10'
+fn7
+(50)
+w3 193006
+fd1 13 4110426232 655360 655360 0 6 '' 'cmsy10'
+fn13
+\00
+w0
+fn7
+(100)
+fd1 10 1350061076 655360 655360 0 6 '' 'cmmi10'
+fn10
+(mg)
+w2 23513
+(=k)
+r2 20631
+(g)
+w0
+(=day)
+r3 312958
+fn14
+(or)
+x0
+(all)
+w3 289446
+(from)
+x0
+(K)
+r2 -18200
+(Cl,)
+r3 307206
+(for)
+w0
+(a)
+x0
+(5kg)
+x0
+(Hershey)
+r3 -54600
+(,)
+]
+y3 753664
+[
+(250-500mg)
+w3 211515
+(or)
+x3 211514
+(up)
+w0
+(to)
+w0
+(a)
+x0
+(1/4)
+w0
+(sp)
+w2 18200
+(o)
+w0
+(on)
+w3 211515
+(full)
+w0
+(whic)
+r2 -18200
+(h)
+x0
+(sounds)
+w0
+(lik)
+r2 -18200
+(e)
+w0
+(an)
+x0
+(a)
+x2 -18200
+(wful)
+w0
+(lot.)
+r3 288905
+(A)
+x0
+(t)
+w0
+(.6)
+r3 211514
+(p)
+r2 18200
+(ercen)
+x0
+(t)
+w0
+(of)
+w0
+(dry)
+r3 211514
+(matter)
+w0
+(b)
+x0
+(y)
+w0
+(v)
+x0
+(olume,)
+r3 212892
+(that)
+r3 211514
+(is)
+w0
+(a)
+]
+y0
+[
+(lot)
+w3 218400
+(of)
+w0
+(fo)
+w2 18200
+(o)
+w0
+(d.)
+r3 291200
+(Although)
+r3 218400
+fn10
+(:)
+fn7
+(5)
+fn10
+(g)
+x2 23513
+(r)
+r2 18205
+(ams=:)
+fn7
+(006)
+w3 182040
+(=)
+w0
+(5)
+fn10
+(=)
+fn7
+(6)
+w3 145632
+fn13
+\03
+w0
+fn7
+(100)
+w3 182040
+(=)
+w0
+(80)
+fn10
+(g)
+x0
+(r)
+r2 18205
+(ams)
+w3 218400
+fn14
+(whic)
+r2 -18200
+(h)
+w0
+(I)
+w0
+(guess)
+w0
+(is)
+w0
+(reasonable.)
+]
+d3 7140011
+[
+[
+[
+d3 -1176244
+[
+d3 -4947959
+special1 17 'color push gray 0'
+special1 17 'color push red 0'
+d3 4947959
+[
+d3 -2326523
+[
+[
+r3 6803307
+d3 -2595222
+pr 26214 19816747
+y3 481687
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+fn38
+(Ingredien)
+r2 -16836
+(t)
+r3 2082061
+y0
+sr 688127 26214
+]
+[
+r3 5523281
+(grams)
+fn42
+(=)
+fn38
+(mole)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 8947980
+(grams)
+fn42
+(=)
+fn38
+(\()
+fn40
+(1)
+fn42
+(=)
+fn40
+(4)
+fn38
+(\))
+r3 202020
+(tsp)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 13520810
+(meq/qtr)
+r3 202020
+(tsp)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 17012775
+(commen)
+r2 -16836
+(ts)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+]
+z3 232654
+pr 26214 19816747
+y0
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(K)
+r2 -16836
+(Cl)
+r3 3716877
+y0
+sr 688127 26214
+]
+[
+r3 6421878
+fn40
+(74)
+fn42
+(g)
+r2 21162
+(=mol)
+r3 140857
+d3 206440
+sr 688127 26214
+]
+[
+r4 12457857
+fn40
+(1)
+fn42
+(:)
+fn40
+(1)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 16118356
+fn38
+(15)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 19790533
+d3 206440
+sr 688127 26214
+]
+]
+y3 688127
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(K)
+r2 -16836
+(Cl)
+r3 3716877
+y0
+sr 688127 26214
+]
+[
+r3 5395064
+fn40
+(39)
+fn42
+(g)
+r2 21162
+(=mol)
+r2 9785
+fn40
+(\()
+fn42
+(K)
+r3 41960
+fn40
+(\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 11313171
+fn42
+(:)
+fn40
+(58)
+r3 202020
+fn38
+(\(K\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 14973670
+(15)
+r3 202020
+(\(K\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 19790533
+d3 206440
+sr 688127 26214
+]
+]
+y0
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(K)
+r2 -16836
+(Cl)
+r3 3716877
+y0
+sr 688127 26214
+]
+[
+r3 5285027
+fn40
+(35)
+fn42
+(g)
+r2 21162
+(=mol)
+w2 9785
+fn40
+(\()
+fn42
+(C)
+r3 41960
+(l)
+w0
+fn40
+(\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 11178400
+fn42
+(:)
+fn40
+(52)
+r3 202020
+fn38
+(\(Cl\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 14838899
+(15)
+r3 202020
+(\(Cl\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 19790533
+d3 206440
+sr 688127 26214
+]
+]
+z0
+pr 26214 19816747
+y3 481687
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(CitricA)
+r2 -16836
+(cid)
+r3 2048851
+y0
+sr 688127 26214
+]
+[
+r3 6118776
+fn40
+(210)
+fn42
+(g)
+r2 21162
+(=mol)
+r3 140857
+d3 206440
+sr 688127 26214
+]
+[
+r4 12929421
+fn38
+(1)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 16421386
+(5)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 19790533
+d3 206440
+sr 688127 26214
+]
+]
+z0
+pr 26214 19816747
+y0
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(P)
+r2 -16836
+(otassium)
+r3 202020
+(citrate)
+r3 131072
+y0
+sr 688127 26214
+]
+[
+r3 6118776
+fn40
+(306)
+fn42
+(g)
+r2 21162
+(=mol)
+r3 140857
+d3 206440
+sr 688127 26214
+]
+[
+r4 13363523
+d3 206440
+sr 688127 26214
+]
+[
+r4 16855488
+d3 206440
+sr 688127 26214
+]
+[
+r4 19790533
+d3 206440
+sr 688127 26214
+]
+]
+d3 688127
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+fn38
+(P)
+r2 -16836
+(otassium)
+r3 202020
+(citrate)
+r3 131072
+y0
+sr 688127 26214
+]
+[
+r3 5091962
+fn40
+(102)
+fn42
+(g)
+r2 21162
+(=mol)
+r2 9785
+fn40
+(\()
+fn42
+(K)
+r3 41960
+fn40
+(\))
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 13363523
+d3 206440
+sr 688127 26214
+]
+[
+r4 16855488
+d3 206440
+sr 688127 26214
+]
+[
+r4 19790533
+d3 206440
+sr 688127 26214
+]
+]
+z0
+pr 26214 19816747
+]
+]
+]
+special1 9 'color pop'
+]
+special1 9 'color pop'
+d3 655360
+[
+special1 17 'color push gray 0'
+d3 406224
+[
+r3 7308090
+special1 17 'color push gray 0'
+fn38
+(T)
+r3 -50506
+(ABLE)
+w3 202020
+(I)
+r2 16835
+(I:)
+w0
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+special1 22 'ps:SDict begin H.R end'
+special1 69 'ps:SDict begin [/View [/XYZ H.V]/Dest (table.2) cvn /DEST pdfmark end'
+special1 9 'color pop'
+(Densit)
+x2 -16836
+(y)
+w0
+(and)
+w0
+(molecular)
+w0
+(w)
+x0
+(eigh)
+x0
+(ts)
+w0
+(of)
+w0
+(some)
+w0
+(of)
+w0
+(the)
+w0
+(supplemen)
+x0
+(ts)
+w0
+special1 9 'color pop'
+]
+]
+d3 520884
+special1 9 'color pop'
+]
+]
+]
+d4 10004604
+[
+[
+[
+d3 -1176244
+[
+d3 -7189960
+special1 17 'color push gray 0'
+special1 17 'color push gray 0'
+d3 7189960
+[
+d3 -3447524
+[
+[
+d3 -1357652
+[
+[
+d3 -2358570
+pr 26214 24863426
+y3 481687
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(P)
+r2 -16836
+(otassium)
+r3 202020
+(citrate)
+r3 131072
+y0
+sr 688127 26214
+]
+[
+r3 7106978
+(treatmen)
+r2 -16836
+(t)
+r3 202020
+(dogs)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 17335304
+fn40
+(150)
+fn42
+(mg)
+w2 21162
+(=k)
+r2 17294
+(g)
+w0
+(=day)
+r3 152234
+d3 206440
+sr 688127 26214
+]
+[
+r4 24066410
+fn38
+([)
+[
+[
+special1 20 'color push rgb 0 1 0'
+special1 22 'ps:SDict begin H.S end'
+(2)
+special1 24 'ps:SDict begin 0 H.L end'
+special1 140 'ps:SDict begin [/Subtype /Link/Dest (cite.Stevenson2000EffectsOD) cvn/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 0] H.B /ANN pdfmark end'
+special1 9 'color pop'
+]
+]
+r3 303030
+(])
+r3 131072
+d3 206440
+sr 688127 26214
+]
+]
+d3 688127
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+(P)
+r2 -16836
+(otassium)
+r3 202020
+(citrate)
+r3 131072
+y0
+sr 688127 26214
+]
+[
+r3 7106978
+(treatmen)
+r2 -16836
+(t)
+r3 202020
+(dogs)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 11390414
+fn40
+(680)
+fn42
+(mg)
+r3 155874
+fd1 44 25154310312 589824 589824 0 5 '' 'cmsy9'
+fn44
+\03
+r3 134712
+fn40
+(2)
+fn42
+(=)
+fn40
+(9)
+fn42
+(k)
+x2 17294
+(g)
+w2 21162
+(=day)
+r3 189552
+fn40
+(=)
+r3 168390
+(151)
+fn42
+(mg)
+w0
+(=k)
+x0
+(g)
+w0
+(=day)
+r3 152234
+d3 206440
+sr 688127 26214
+]
+[
+r4 22262582
+fn38
+(Pro)
+r2 16835
+(duct)
+[
+[
+d3 -250563
+fd1 63 37222462267 393216 393216 0 8 '' 'ecti0600'
+fn63
+(a)
+]
+]
+r3 426851
+d3 206440
+sr 688127 26214
+]
+]
+z3 232654
+pr 26214 24863426
+d3 157286
+pr 26214 24863426
+y0
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+fn38
+(P)
+r2 -16836
+(otassium)
+r3 2051851
+y0
+sr 688127 26214
+]
+[
+r3 5091962
+(minim)
+w2 -16836
+(um)
+x3 202020
+(h)
+w0
+(uman)
+x0
+(daily)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 17736386
+fn40
+(1)
+fn42
+(:)
+fn40
+(6)
+w3 134712
+fn44
+\00
+w0
+fn40
+(2)
+fn42
+(g)
+r2 21162
+(r)
+r2 16839
+(ams)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 24066410
+fn38
+([)
+[
+[
+special1 20 'color push rgb 0 1 0'
+special1 22 'ps:SDict begin H.S end'
+(1)
+special1 24 'ps:SDict begin 0 H.L end'
+special1 127 'ps:SDict begin [/Subtype /Link/Dest (cite.Cohn_2000) cvn/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 0] H.B /ANN pdfmark end'
+special1 9 'color pop'
+]
+]
+r3 303030
+(])
+r3 131072
+d3 206440
+sr 688127 26214
+]
+]
+z0
+pr 26214 24863426
+d3 523563
+[
+[
+y3 206440
+sr 730003 26214
+r3 131073
+d3 -206440
+(P)
+r2 -16836
+(otassium)
+r3 2051851
+y0
+sr 730003 26214
+]
+[
+r4 8610659
+(dog)
+r3 202020
+(RD)
+r2 -16836
+(A)
+r3 131072
+d3 206440
+sr 730003 26214
+]
+[
+r4 12934824
+fn40
+(1)
+fn42
+(g)
+w2 21162
+(=day)
+w0
+(=)
+fn40
+(16)
+fn42
+(k)
+x2 17294
+(g)
+r3 189552
+fn44
+\19
+r3 168390
+fn40
+(62)
+fn42
+(:)
+fn40
+(5)
+fn42
+(mg)
+w0
+(=k)
+x0
+(g)
+w0
+(=day)
+r3 152234
+d3 206440
+sr 730003 26214
+]
+[
+r4 21745623
+fn38
+(P)
+r2 -16836
+(et)
+r3 202020
+(Guide)
+[
+[
+d3 -250563
+fn63
+(b)
+]
+]
+r3 401812
+d3 206440
+sr 730003 26214
+]
+]
+d3 688127
+[
+[
+y3 206440
+sr 688127 26214
+r3 131073
+d3 -206440
+fn38
+(P)
+r2 -16836
+(otassium)
+r3 2051851
+y0
+sr 688127 26214
+]
+[
+r4 8610659
+(dog)
+r3 202020
+(RD)
+r2 -16836
+(A)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 13316588
+fn40
+(1)
+fn42
+(g)
+w2 21162
+(=day)
+w0
+(=)
+fn40
+(30)
+fn42
+(l)
+r2 9785
+(bs)
+w3 168390
+fn44
+\19
+w0
+fn40
+(73)
+fn42
+(mg)
+w2 21162
+(=k)
+r2 17294
+(g)
+w0
+(=day)
+r3 152234
+d3 206440
+sr 688127 26214
+]
+[
+r4 21581551
+fn38
+(W)
+r3 -50506
+(eb)
+w3 202020
+(P)
+r2 -16836
+(age)
+[
+[
+w0
+d3 -250563
+fn63
+(c)
+]
+]
+r3 603832
+d3 206440
+sr 688127 26214
+]
+]
+d3 730003
+[
+[
+y3 206440
+sr 730003 26214
+r3 131073
+d3 -206440
+fn38
+(P)
+r2 -16836
+(otassium)
+r3 2051851
+y0
+sr 730003 26214
+]
+[
+r3 8371603
+(dogs)
+r3 202020
+(RD)
+r2 -16836
+(A)
+r3 131072
+d3 206440
+sr 730003 26214
+]
+[
+r4 14052270
+fn40
+(1)
+fn42
+(:)
+fn40
+(5)
+fn42
+(g)
+w2 21162
+(=)
+r3 -33678
+(M)
+r3 63716
+(cal)
+r3 178175
+fn44
+\19
+r3 168390
+fn40
+(90)
+fn42
+(mg)
+w0
+(=k)
+r2 17294
+(g)
+w0
+(=day)
+r3 152234
+d3 206440
+sr 730003 26214
+]
+[
+r4 22011605
+fn38
+(AAF)
+r2 -16836
+(CO)
+[
+[
+r3 202020
+d3 -250563
+fn63
+(d)
+]
+]
+r3 628871
+d3 206440
+sr 730003 26214
+]
+]
+z0
+pr 26214 24863426
+]
+]
+d3 2778000
+[
+[
+special1 22 'ps:SDict begin H.S end'
+special1 26 'ps:SDict begin 9.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+[
+[
+r3 75501
+d3 -185030
+(a)
+]
+]
+]
+r3 556920
+fd1 64 24675731042 524288 524288 0 8 '' 'ecrm0800'
+f1 64
+(see)
+r3 185640
+special1 23 'color push cmyk 0 1 0 0'
+[
+d3 116480
+special1 22 'ps:SDict begin H.S end'
+]
+[
+special1 23 'color push cmyk 0 1 0 0'
+fd1 76 27711545425 524288 524288 0 8 '' 'ectt0800'
+f1 76
+(https://www.chewy.com/k-)
+w3 32768
+(plus-)
+w0
+(potassium-)
+w0
+(citrate-)
+w0
+(plus/dp/112519)
+special1 9 'color pop'
+]
+[
+r4 17117132
+d3 -364000
+special1 22 'ps:SDict begin H.R end'
+]
+r4 17117132
+special1 196 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://www.chewy.com/k-plus-potassium-citrate-plus/dp/112519\\040)>>/Subtype /Link H.B /ANN pdfmark end'
+special1 9 'color pop'
+]
+y3 644809
+[
+[
+special1 22 'ps:SDict begin H.S end'
+special1 26 'ps:SDict begin 9.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+[
+[
+r3 100540
+d3 -185030
+fn63
+(b)
+]
+]
+]
+r3 556920
+special1 23 'color push cmyk 0 1 0 0'
+[
+d3 116480
+special1 22 'ps:SDict begin H.S end'
+]
+[
+special1 23 'color push cmyk 0 1 0 0'
+f1 76
+(http://dels.nas.edu/resources/static-)
+r3 32768
+(assets/banr/miscellaneous/dog_nutrition_final_fix.pdf)
+special1 9 'color pop'
+]
+[
+r4 25094168
+d3 -364000
+special1 22 'ps:SDict begin H.R end'
+]
+r4 25094168
+special1 221 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(http://dels.nas.edu/resources/static-assets/banr/miscellaneous/dog_nutrition_final_fix.pdf)>>/Subtype /Link H.B /ANN pdfmark end'
+special1 9 'color pop'
+]
+d3 550779
+[
+[
+special1 22 'ps:SDict begin H.S end'
+special1 26 'ps:SDict begin 9.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+[
+[
+r3 100540
+d3 -185030
+fn63
+(c)
+]
+]
+]
+r3 556920
+special1 23 'color push cmyk 0 1 0 0'
+[
+d3 116480
+special1 22 'ps:SDict begin H.S end'
+]
+[
+special1 23 'color push cmyk 0 1 0 0'
+f1 76
+(https://www.vetinfo.com/daily-)
+w3 32768
+(nutritional-)
+w0
+(requirements-)
+w0
+(for-)
+w0
+(dogs.html)
+special1 9 'color pop'
+]
+[
+r4 19066352
+d3 -364000
+special1 22 'ps:SDict begin H.R end'
+]
+r4 19066352
+special1 199 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://www.vetinfo.com/daily-nutritional-requirements-for-dogs.html)>>/Subtype /Link H.B /ANN pdfmark end'
+special1 9 'color pop'
+]
+y0
+[
+[
+special1 22 'ps:SDict begin H.S end'
+special1 26 'ps:SDict begin 9.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+[
+[
+r3 75501
+d3 -185030
+fn63
+(d)
+]
+]
+]
+r3 556920
+special1 23 'color push cmyk 0 1 0 0'
+[
+d3 116480
+special1 22 'ps:SDict begin H.S end'
+]
+[
+special1 23 'color push cmyk 0 1 0 0'
+f1 76
+(https://www.aafco.org/Portals/0/SiteContent/Regulatory/Committees/Pet-)
+w3 32768
+(Food/Reports/Pet_Food_Report_2013_Midyear-)
+w0
+(Proposed_Revisions_to_AAFCO_Nutrient_Profiles.pdf)
+special1 9 'color pop'
+]
+[
+r4 44897596
+d3 -364000
+special1 22 'ps:SDict begin H.R end'
+]
+r4 44897596
+special4 296 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(\\040https://www.aafco.org/Portals/0/SiteContent/Regulatory/Committees/Pet-Food/Reports/Pet_Food_Report_2013_Midyear-Proposed_Revisions_to_AAFCO_Nutrient_Profiles.pdf)>>/Subtype /Link H.B /ANN pdfmark end'
+special1 9 'color pop'
+]
+]
+]
+]
+special1 9 'color pop'
+]
+special1 9 'color pop'
+d3 655360
+[
+special1 17 'color push gray 0'
+d3 406224
+[
+r3 3476607
+special1 17 'color push gray 0'
+fn38
+(T)
+r3 -50506
+(ABLE)
+x3 202020
+(I)
+w2 16835
+(I)
+w0
+(I:)
+x0
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+special1 22 'ps:SDict begin H.R end'
+special1 69 'ps:SDict begin [/View [/XYZ H.V]/Dest (table.3) cvn /DEST pdfmark end'
+special1 9 'color pop'
+x0
+(Some)
+x0
+(common)
+x0
+(n)
+w2 -16836
+(um)
+w0
+(b)
+w2 16835
+(ers)
+x0
+(for)
+x0
+(p)
+w0
+(otassium)
+x0
+(con)
+r2 -16836
+(taining)
+x0
+(drug)
+x0
+(doses)
+x0
+(under)
+x0
+(v)
+r3 -33671
+(arious)
+x0
+(conditions)
+x0
+special1 9 'color pop'
+]
+]
+d3 520884
+special1 9 'color pop'
+]
+]
+]
+]
+d3 1966080
+[
+r3 -1184071
+special1 17 'color push gray 0'
+[
+[
+[
+[
+[
+[
+r4 16547880
+fn14
+(1)
+]
+]
+]
+]
+]
+]
+r4 33423360
+special1 9 'color pop'
+]
+]
+]
+eop
+bop 2 0 0 0 0 0 0 0 0 0 42
+special1 254 'ps:SDict begin /product where{pop product(Distiller)search{pop pop pop version(.)search{exch pop exch pop(3011)eq{gsave newpath 0 0 moveto closepath clip/Courier findfont 10 scalefont setfont 72 72 moveto(.)show grestore}if}{pop}ifelse}{pop}ifelse}if end'
+[
+d3 -4063477
+[
+r3 -1249852
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+special1 22 'ps:SDict begin H.R end'
+special1 68 'ps:SDict begin [/View [/XYZ H.V]/Dest (page.2) cvn /DEST pdfmark end'
+special1 9 'color pop'
+]
+]
+d4 44695552
+[
+[
+d4 -47054848
+[
+[
+r3 -1184071
+special1 17 'color push gray 0'
+[
+[
+[
+d3 -226101
+[
+[
+[
+[
+fn14
+(M)
+x3 218400
+(Marc)
+w2 -18200
+(h)
+w0
+(ywk)
+r3 -36400
+(a,)
+x0
+(MJM-test-test)
+]
+]
+]
+[
+[
+[
+r4 21065560
+(July)
+w3 218400
+(8,)
+w0
+(2019)
+w0
+(v.)
+r3 582400
+(0.00)
+w0
+(NOT)
+w0
+(public)
+w0
+(NOTES)
+]
+]
+]
+]
+d3 252315
+pr 26214 33423360
+]
+]
+]
+r4 33423360
+special1 9 'color pop'
+]
+]
+d4 45088768
+[
+d4 -43384832
+[
+r3 -528711
+(@TECHREPOR)
+r3 -54600
+(T{mmarc)
+w2 -18200
+(h)
+w0
+(ywk)
+r3 -36400
+(a-MJM-test-test,)
+]
+y3 753664
+[
+r3 -528711
+(A)
+x2 -18200
+(UTHOR)
+w3 218400
+(=)
+w0
+({M.J.)
+w0
+(Marc)
+x0
+(h)
+x0
+(ywk)
+r3 -36400
+(a},)
+]
+y0
+[
+r3 -528711
+(TITLE)
+w3 218400
+(=)
+w0
+({)
+r3 436800
+(Citrate)
+w0
+(Recip)
+r2 18200
+(es)
+w0
+(},)
+]
+y0
+[
+r3 -528711
+(NUMBER)
+w3 218400
+(=)
+w0
+({MJM-test-test},)
+]
+y0
+[
+r3 -528711
+(VERSION)
+w3 218400
+(=)
+w0
+({)
+w0
+(0.00)
+w0
+(},)
+]
+y0
+[
+r3 -528711
+(INSTITUTION)
+w3 218400
+(=)
+w0
+({)
+w0
+(not)
+w0
+(institutionalized)
+w0
+(,)
+w0
+(indep)
+r2 18200
+(enden)
+r2 -18200
+(t},)
+]
+y0
+[
+r3 -528711
+(ADDRESS)
+w3 218400
+(=)
+w0
+({306)
+w0
+(Charles)
+w0
+(Co)
+x2 -18200
+(x)
+w0
+(,)
+w0
+(Can)
+x0
+(ton)
+w0
+(GA)
+w0
+(30115},)
+]
+y0
+[
+r3 -528711
+(NOTE)
+w3 218400
+(=)
+w0
+({)
+w0
+(Ma)
+r2 -18200
+(y)
+w0
+(b)
+r2 18200
+(e)
+w0
+(recycled)
+w0
+(in)
+w0
+(appropriate)
+w0
+(media)
+w0
+(},)
+]
+y0
+[
+r3 -528711
+(D)
+r2 -18200
+(A)
+r3 -54600
+(TE)
+w3 218400
+(=)
+w0
+({July)
+w0
+(8,)
+w0
+(2019},)
+]
+y0
+[
+r3 -528711
+(D)
+r2 -18200
+(A)
+r3 -54600
+(Y)
+w3 218400
+(=)
+w0
+({05},)
+]
+y0
+[
+r3 -528711
+(MONTH)
+w3 218400
+(=)
+w0
+({02},)
+]
+y0
+[
+r3 -528711
+(YEAR)
+w3 218400
+(=)
+w0
+({2019},)
+]
+y0
+[
+r3 -528711
+(A)
+x2 -18200
+(UTHOR1EMAIL)
+w3 218400
+(=)
+w0
+({marc)
+x0
+(h)
+x0
+(ywk)
+r3 -36400
+(a@hotmail.com},)
+]
+y0
+[
+r3 -528711
+(A)
+r2 -18200
+(UTHOR1ID)
+w3 218400
+(=)
+w0
+({orcid.org/0000-0001-9237-455X},)
+]
+y0
+[
+r3 -528711
+(P)
+r3 -54600
+(A)
+r2 -18200
+(GES)
+w3 218400
+(=)
+w0
+({)
+w0
+(3)
+r3 436800
+(},)
+]
+y0
+[
+r3 -528711
+(CONT)
+r3 -54600
+(A)
+x2 -18200
+(CT)
+w3 218400
+(=)
+w0
+({marc)
+x0
+(h)
+x0
+(ywk)
+r3 -36400
+(a@hotmail.com},)
+]
+y0
+[
+r3 -528711
+(FILENAME)
+w3 218400
+(=)
+w0
+({texfrag_1})
+]
+y0
+[
+r3 -528711
+(})
+]
+d3 2179877
+[
+[
+r4 12103739
+special1 22 'ps:SDict begin H.S end'
+special1 27 'ps:SDict begin 10.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.2) cvn /DEST pdfmark end'
+fn39
+(2.)
+]
+r4 13344251
+(BIBLIOGRAPHY)
+]
+d3 2636275
+[
+r3 7483065
+special1 22 'ps:SDict begin H.S end'
+special1 25 'ps:SDict begin 26 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.3) cvn /DEST pdfmark end'
+[
+d2 16384
+sr 32768 16089088
+r4 -14077952
+y2 8192
+sr 49152 12066816
+r4 -10055680
+y0
+sr 65536 8044544
+r3 -6033408
+y0
+sr 81920 4022272
+]
+]
+d3 1933312
+[
+[
+[
+r3 -1184071
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+fn38
+([1])
+special1 27 'ps:SDict begin 10.5 H.A end'
+special1 76 'ps:SDict begin [/View [/XYZ H.V]/Dest (cite.Cohn_2000) cvn /DEST pdfmark end'
+special1 9 'color pop'
+]
+]
+r3 -282197
+(Ja)
+w2 -16836
+(y)
+x3 530016
+(N.)
+r3 530017
+(Cohn,)
+r3 612015
+(P)
+w0
+(eter)
+x0
+(R.)
+x3 530017
+(K)
+w0
+(o)
+w0
+(w)
+w0
+(ey)
+r3 -50506
+(,)
+r3 612014
+(P)
+w0
+(aul)
+x0
+(K.)
+w3 530016
+(Whelton,)
+r3 612015
+(and)
+w0
+(L.)
+x0
+(Mic)
+x2 -16836
+(hael)
+w0
+(Prisan)
+x0
+(t.)
+r3 1246123
+(New)
+w0
+(guidelines)
+r3 530017
+(for)
+w0
+(p)
+r2 16835
+(otas-)
+]
+y3 688128
+[
+r3 -282197
+(sium)
+w3 419198
+(replacemen)
+r2 -16836
+(t)
+r3 419197
+(in)
+w0
+(clinical)
+w0
+(practice.)
+r3 915880
+fd1 77 21564426355 589824 589824 0 8 '' 'ecti0900'
+f1 77
+(A)
+r2 -15470
+(r)
+x2 -30940
+(chives)
+w3 416148
+(of)
+r3 416147
+(Internal)
+w0
+(Me)
+x0
+(dicine)
+fn38
+(,)
+r3 473492
+(160\(16\):2429,)
+r3 473491
+(sep)
+w3 419198
+(2000.)
+r3 915880
+(A)
+r3 -67341
+(v)
+r3 -33671
+(ailable)
+w0
+(from:)
+]
+y0
+[
+r3 -282197
+special1 23 'color push cmyk 0 1 0 0'
+[
+d3 131040
+special1 22 'ps:SDict begin H.S end'
+]
+[
+special1 23 'color push cmyk 0 1 0 0'
+fd1 78 16123003313 589824 589824 0 8 '' 'ectt0900'
+f1 78
+(https://doi.org/10.1001/archinte.160.16.2429)
+special1 9 'color pop'
+]
+[
+r4 13621608
+d3 -409500
+special1 22 'ps:SDict begin H.R end'
+]
+r4 13621608
+special1 175 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://doi.org/10.1001/archinte.160.16.2429)>>/Subtype /Link H.B /ANN pdfmark end'
+special1 9 'color pop'
+fn38
+(,)
+r3 202020
+special1 23 'color push cmyk 0 1 0 0'
+[
+d3 49140
+special1 22 'ps:SDict begin H.S end'
+]
+[
+special1 23 'color push cmyk 0 1 0 0'
+f1 78
+(doi:10.1001/archinte.160.16.2429)
+special1 9 'color pop'
+]
+[
+r4 9906624
+d3 -409500
+special1 22 'ps:SDict begin H.R end'
+]
+r4 9906624
+special1 177 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(http://dx.doi.org/10.1001/archinte.160.16.2429)>>/Subtype /Link H.B /ANN pdfmark end'
+special1 9 'color pop'
+fn38
+(.)
+]
+y0
+[
+[
+[
+r3 -1184071
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+([2])
+special1 27 'ps:SDict begin 10.5 H.A end'
+special1 89 'ps:SDict begin [/View [/XYZ H.V]/Dest (cite.Stevenson2000EffectsOD) cvn /DEST pdfmark end'
+special1 9 'color pop'
+]
+]
+r3 -282197
+(Abigail)
+r3 509209
+(E.)
+w3 509210
+(Stev)
+x2 -16836
+(enson,)
+r3 586005
+(D)
+w0
+(J)
+r3 508899
+(W)
+r3 -50506
+(rigglesw)
+x0
+(orth,)
+r3 586005
+(Brigitte)
+w0
+(H.)
+w3 509209
+(E.)
+w0
+(Smith,)
+r3 586006
+(and)
+w0
+(P)
+x0
+(eter)
+r3 509210
+(J.)
+w0
+(Markw)
+x0
+(ell.)
+r3 1184116
+(E)
+\1B
+(ects)
+r3 509210
+(of)
+w0
+(di-)
+]
+y0
+[
+r3 -282197
+(etary)
+w3 486932
+(p)
+r2 16835
+(otassium)
+w0
+(citrate)
+w0
+(supplemen)
+x2 -16836
+(tation)
+r3 486933
+(on)
+w0
+(urine)
+w0
+(ph)
+w0
+(and)
+w0
+(urinary)
+w0
+(relativ)
+x0
+(e)
+r3 486933
+(sup)
+r2 16835
+(ersaturation)
+w0
+(of)
+w0
+(calcium)
+w0
+(o)
+x0
+(xalate)
+]
+y0
+[
+r3 -282197
+(and)
+w3 469964
+(struvite)
+w0
+(in)
+r3 469965
+(health)
+r2 -16836
+(y)
+w0
+(dogs.)
+r3 1067165
+f1 77
+(A)
+r2 -15470
+(meric)
+x2 -30940
+(an)
+w3 462798
+(journal)
+w0
+(of)
+w0
+(veterinary)
+w0
+(r)
+x0
+(ese)
+x0
+(ar)
+x0
+(ch)
+fn38
+(,)
+w3 536949
+(61)
+r3 469965
+(4:430)
+\15
+(5,)
+w0
+(2000.)
+r3 1067166
+(A)
+r3 -67341
+(v)
+r3 -33671
+(ailable)
+r3 469964
+(from:)
+]
+y0
+[
+r3 -282197
+special1 23 'color push cmyk 0 1 0 0'
+[
+d3 131040
+special1 22 'ps:SDict begin H.S end'
+]
+[
+special1 23 'color push cmyk 0 1 0 0'
+f1 78
+(https://pdfs.semanticscholar.org/6617/cee005e5b607a86ab5d3fbdc2b3db9b55875.pdf)
+special1 9 'color pop'
+]
+[
+r4 24147396
+d3 -409500
+special1 22 'ps:SDict begin H.R end'
+]
+r4 24147396
+special1 209 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://pdfs.semanticscholar.org/6617/cee005e5b607a86ab5d3fbdc2b3db9b55875.pdf)>>/Subtype /Link H.B /ANN pdfmark end'
+special1 9 'color pop'
+fn38
+(.)
+]
+d3 2310949
+[
+r4 12800407
+special1 22 'ps:SDict begin H.S end'
+special1 27 'ps:SDict begin 10.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.4) cvn /DEST pdfmark end'
+fn39
+(A)
+w2 -19384
+(c)
+w0
+(kno)
+w0
+(wledgmen)
+w0
+(ts)
+]
+r3 -1184071
+d3 784855
+special1 22 'ps:SDict begin H.S end'
+special1 27 'ps:SDict begin 11.5 H.A end'
+special1 68 'ps:SDict begin [/View [/XYZ H.V]/Dest (Item.1) cvn /DEST pdfmark end'
+d3 901148
+[
+[
+[
+special1 17 'color push gray 0'
+[
+r3 866656
+fn14
+(1.)
+]
+r3 1376256
+special1 9 'color pop'
+]
+]
+r3 1638400
+(Pubmed)
+w3 218400
+(eutils)
+w0
+(facilities)
+w0
+(and)
+w0
+(the)
+w0
+(basic)
+w0
+(researc)
+x2 -18200
+(h)
+w0
+(it)
+w0
+(pro)
+x0
+(vides.)
+]
+d3 389544
+special1 22 'ps:SDict begin H.S end'
+special1 27 'ps:SDict begin 11.5 H.A end'
+special1 68 'ps:SDict begin [/View [/XYZ H.V]/Dest (Item.2) cvn /DEST pdfmark end'
+d3 888408
+[
+[
+[
+special1 17 'color push gray 0'
+[
+r3 866656
+(2.)
+]
+r3 1376256
+special1 9 'color pop'
+]
+]
+r3 1638400
+(F)
+r3 -54600
+(ree)
+x3 218400
+(soft)
+w2 -18200
+(w)
+w0
+(are)
+x0
+(including)
+x0
+(Lin)
+w0
+(ux,)
+x0
+(R,)
+x0
+(LaT)
+r3 -54600
+(ex)
+x0
+(etc.)
+]
+]
+d3 1966080
+[
+r3 -1184071
+special1 17 'color push gray 0'
+[
+[
+[
+[
+[
+[
+r4 16547880
+(2)
+]
+]
+]
+]
+]
+]
+r4 33423360
+special1 9 'color pop'
+]
+]
+]
+eop
+bop 3 0 0 0 0 0 0 0 0 0 16228
+special1 254 'ps:SDict begin /product where{pop product(Distiller)search{pop pop pop version(.)search{exch pop exch pop(3011)eq{gsave newpath 0 0 moveto closepath clip/Courier findfont 10 scalefont setfont 72 72 moveto(.)show grestore}if}{pop}ifelse}{pop}ifelse}if end'
+[
+d3 -4063477
+[
+r3 -1249852
+special1 17 'color push gray 0'
+special1 22 'ps:SDict begin H.S end'
+special1 22 'ps:SDict begin H.R end'
+special1 68 'ps:SDict begin [/View [/XYZ H.V]/Dest (page.3) cvn /DEST pdfmark end'
+special1 9 'color pop'
+]
+]
+d4 44695552
+[
+[
+d4 -47054848
+[
+[
+r3 -1184071
+special1 17 'color push gray 0'
+[
+[
+[
+d3 -226101
+[
+[
+[
+[
+fn14
+(M)
+x3 218400
+(Marc)
+w2 -18200
+(h)
+w0
+(ywk)
+r3 -36400
+(a,)
+x0
+(MJM-test-test)
+]
+]
+]
+[
+[
+[
+r4 21065560
+(July)
+w3 218400
+(8,)
+w0
+(2019)
+w0
+(v.)
+r3 582400
+(0.00)
+w0
+(NOT)
+w0
+(public)
+w0
+(NOTES)
+]
+]
+]
+]
+d3 252315
+pr 26214 33423360
+]
+]
+]
+r4 33423360
+special1 9 'color pop'
+]
+]
+d4 45088768
+[
+d4 -43384832
+[
+r3 6900038
+special1 22 'ps:SDict begin H.S end'
+special1 27 'ps:SDict begin 10.5 H.A end'
+special1 72 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.5) cvn /DEST pdfmark end'
+fn39
+(App)
+x2 19383
+(endix)
+w3 232596
+(A:)
+w0
+(Citing)
+w0
+(this)
+w0
+(as)
+w0
+(a)
+w0
+(tec)
+r2 -19384
+(h)
+w0
+(rep)
+x0
+(ort)
+w0
+(or)
+w0
+(white)
+w0
+(pap)
+x0
+(er)
+]
+d3 1686003
+[
+r3 -528711
+fn14
+(Note:)
+r3 291200
+(This)
+w3 218400
+(is)
+w0
+(mostly)
+w0
+(man)
+x2 -18200
+(ually)
+w0
+(en)
+x0
+(tered)
+w0
+(and)
+w0
+(not)
+w0
+(assured)
+w0
+(to)
+w0
+(b)
+r2 18200
+(e)
+w0
+(error)
+w0
+(free.)
+]
+d3 753664
+[
+r3 -528711
+(This)
+w3 218400
+(is)
+w0
+(tec)
+r2 -18200
+(h)
+w0
+(rep)
+r2 18200
+(ort)
+w0
+(MJM-test-test.)
+]
+d3 3731876
+[
+[
+[
+[
+r3 -1184071
+d3 -2752508
+special1 17 'color push gray 0'
+special1 17 'color push gray 0'
+d3 2752508
+[
+d3 -1228798
+[
+[
+d3 -1042023
+[
+[
+r3 7377485
+fn38
+(V)
+r3 -50506
+(ersion)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 11576202
+(Date)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 18039134
+(Commen)
+r2 -16836
+(ts)
+r3 5034421
+d3 206440
+sr 688127 26214
+]
+]
+y3 688127
+[
+[
+r3 8257770
+(0.01)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 10019146
+(2019-02-05)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 13135784
+(Mak)
+x2 -16836
+(e)
+w3 202020
+(from)
+w0
+(sk)
+x0
+(eleton)
+w0
+(co)
+x2 16835
+(de)
+w0
+(and)
+w0
+(new)
+w0
+(b)
+x0
+(ea)
+w2 -16836
+(v)
+w0
+(er)
+r3 202020
+(script)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+]
+y0
+[
+[
+r4 9133190
+(-)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 9623569
+(July)
+w3 202020
+(8,)
+w0
+(2019)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 15783291
+(v)
+r2 -16836
+(ersion)
+r3 404040
+(0.00)
+r3 202020
+(MJM-test-test)
+r3 2778579
+d3 206440
+sr 688127 26214
+]
+]
+y0
+[
+[
+r4 8560800
+(1.0)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 9918136
+(20xx-xx-xx)
+r3 131072
+d3 206440
+sr 688127 26214
+]
+[
+r4 15570944
+(First)
+w3 202020
+(revision)
+w0
+(for)
+w0
+(distribution)
+r3 2566231
+d3 206440
+sr 688127 26214
+]
+]
+]
+]
+]
+special1 9 'color pop'
+]
+r3 -1184071
+special1 9 'color pop'
+]
+]
+]
+]
+d3 1966080
+[
+r3 -1184071
+special1 17 'color push gray 0'
+[
+[
+[
+[
+[
+[
+r4 16547880
+fn14
+(3)
+]
+]
+]
+]
+]
+]
+r4 33423360
+special1 9 'color pop'
+]
+]
+]
+eop
+post 21067 25400000 473628672 1000 44921653 32239289 16 3
+fd1 78 16123003313 589824 589824 0 8 '' 'ectt0900'
+fd1 77 21564426355 589824 589824 0 8 '' 'ecti0900'
+fd1 76 27711545425 524288 524288 0 8 '' 'ectt0800'
+fd1 64 24675731042 524288 524288 0 8 '' 'ecrm0800'
+fd1 63 37222462267 393216 393216 0 8 '' 'ecti0600'
+fd1 44 25154310312 589824 589824 0 5 '' 'cmsy9'
+fd1 42 6576317042 589824 589824 0 5 '' 'cmmi9'
+fd1 40 15755105707 589824 589824 0 4 '' 'cmr9'
+fd1 39 21345472714 589824 589824 0 8 '' 'ecbx0900'
+fd1 38 33113516214 589824 589824 0 8 '' 'ecrm0900'
+fd1 14 1414365261 655360 655360 0 8 '' 'ecrm1000'
+fd1 13 4110426232 655360 655360 0 6 '' 'cmsy10'
+fd1 10 1350061076 655360 655360 0 6 '' 'cmmi10'
+fd1 7 11374260171 655360 655360 0 5 '' 'cmr10'
+post_post 22737 2 223 223 223 223 223

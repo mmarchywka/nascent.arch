@@ -1,0 +1,294 @@
+2020-09-05 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-05 & AMSNACK 0500AM b7ngnc cbbroth kroger pacific wild salmon carrot garlic 11PC .5 eggo3 2.0 bulk lecithin 900mg bulk taurine 70mg bs B-3 500mg nutricost pantothenate 400mg tryptophan 650mg leucine 1300mg lysinehcl 1300mg threonine \
+2020-09-05 & AMSNACKB 0500AM b7ngnc cbbroth kroger pacific wild salmon carrot garlic .5 11PC .125 eggo3 1.0 bulk lecithin 450mg bulk taurine 35mg bs B-3 250mg nutricost pantothenate 200mg tryptophan 320mg leucine 650mg lysinehcl 650mg threonine \
+2020-09-05 & GGAMSNACK 0500AM b7ngnc cbbroth kroger pacific wild salmon carrot .25 eggo3 \
+2020-09-05 & AAMSNACK 0500AM b7ngnc cbbroth kroger pacific wild salmon carrot .125 eggo3 \
+2020-09-05 & CUAMSNACK 0800AM cbbroth 2mg glycinate Cu SnAg 200mg arginine \
+2020-09-05 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-05 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-05 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-05 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-05 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-05 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-05 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-05 & PMDINNER 1220PM .6 KibbleAmJrLmUHP .4 KibbleLogic b20ngnc kroger pacific wild salmonbroth \
+2020-09-05 & PMSNACK 1220PM b7ngnc cbbroth 2x4160 shrimp .1 kroger pacific wild salmonbroth carrot garlic 11PC 2.0 bulk lecithin 900mg bulk taurine 10mg nutricost biotin 400mg tryptophan 400mg tyrosine 1300mg lysinehcl \
+2020-09-05 & PMSNACKB 1220PM b7ngnc cbbroth 1x4160 shrimp .1 kroger pacific wild salmonbroth carrot garlic .1 11PC 1.0 bulk lecithin 450mg bulk taurine 10mg nutricost biotin 200mg tryptophan 200mg tyrosine 650mg lysinehcl \
+2020-09-05 & RPMSNACK 1915PM cbbroth b7ngnc .1 kroger pacific wild salmon 800mg arginine 800mg tyrosine 400mg tryptophan 1300mg lysinehcl 650mg threonine 2 bulk lecithin 1 01PC 900mg bulk taurine 70mg bs B-3 500mg nutricost pantothenate 8mg K1bs \
+2020-09-05 & RPMSNACKB 1915PM cbbroth b7ngnc .1 kroger pacific wild salmon 400mg arginine 400mg tyrosine 200mg tryptophan 650mg lysinehcl 320mg threonine 1 bulk lecithin 0.5 01PC 450mg bulk taurine 35mg bs B-3 250mg nutricost pantothenate \
+2020-09-05 & ( EVENT ) \
+2020-09-05 & Greta 0500AM 5mg glycinate carlson Cu 400mg arginine cbbroth 0630AM cbbroth 2mg glycinate Cu SnAg 200mg arginine 1.0 CUAMSNACK 1220PM .2 GGAMSNACK 2x4160 shrimp 1.0 CUAMSNACK 200mg arginine canned 1445PM 1.0 CUAMSNACK 200mg arginine cbbroth 1700PM 5mg prednisone 1745PM 1.0 CUAMSNACK 200mg arginine cbbroth 1915PM cbbroth canned 2000PM 1.0 CUAMSNACK 200mg arginine cbbroth ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-05 & Beauty .375 AMSNACK .5 eggo3 0800AM .25 AMSNACK 1.0 PMDINNER .375 PMSNACK 1x4160 shrimp .75 RPMSNACK .5 PMDINNER .25 PMSNACK \
+2020-09-05 & Happy .125 AMSNACK .125 AMSNACKB .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-05 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-05 & Spicey 0800AM .125 AMSNACKB .125 PMSNACKB .125 RPMSNACKB \
+2020-09-05 & Dexter .125 PMSNACKB \
+2020-09-05 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-05 & Andy 1220PM 1 AAMSNACK .05 AMSNACKB 1700PM 50mg doxycycline .2 RPMSNACKB ( .125 01PC ctbrothbs .1 CURSNACK ) \
+2020-09-05 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-06 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-06 & AMSNACK 0505AM b20ngnc cbbroth .1 kroger pacific wild salmonbroth carrot garlic 11PC .5 eggo3 2.0 bulk lecithin 900mg bulk taurine 50mg NOW B-1 70mg bs B-3 500mg nutricost pantothenate carlson glycinate 2.5mg Cu 400mg tryptophan 1300mg lysinehcl 1300mg threonine \
+2020-09-06 & AAMSNACK 0505AM b20ngnc cbbroth .1 kroger pacific wild salmonbroth carrot .125 eggo3 \
+2020-09-06 & AMSNACKB 0505AM b20ngnc cbbroth .1 kroger pacific wild salmonbroth carrot garlic .5 11PC .125 eggo3 1.0 bulk lecithin 450mg bulk taurine 50mg NOW B-1 35mg bs B-3 250mg nutricost pantothenate carlson glycinate 2.5mg Cu 200mg tryptophan 650mg lysinehcl 6500mg threonine \
+2020-09-06 & BAMSNACK 0505AM b20ngnc cbbroth .1 kroger pacific wild salmonbroth carrot .5 eggo3 \
+2020-09-06 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-06 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-06 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-06 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-06 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-06 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-06 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-06 & PMDINNER 1230PM .6 KibbleAmJrLmUHP .4 KibbleLogic b20ngnc cbbroth .1 kroger pacific wild salmonbroth \
+2020-09-06 & PMSNACK 1210PM b7ngnc cbbroth 2x4160 shrimp .1 kroger pacific wild salmonbroth carrot garlic 11PC 2.0 bulk lecithin 900mg bulk taurine 10mg nutricost biotin 400mg bulk Mgcitrate 400mg tryptophan 250mg phenylalanine 400mg tyrosine 1300mg lysinehcl 650mg threonine \
+2020-09-06 & PMSNACKB 1210PM b7ngnc cbbroth .8x4160 shrimp .1 kroger pacific wild salmonbroth carrot garlic .5 11PC 1.0 bulk lecithin 450mg bulk taurine 10mg nutricost biotin 200mg bulk Mgcitrate 200mg tryptophan 125mg phenylalanine 200mg tyrosine 650mg lysinehcl 320mg threonine \
+2020-09-06 & RPMSNACK 1915PM cbbroth b7ngnc .1 kroger pacific wild salmon 400mg arginine 400mg tyrosine 400mg tryptophan 1300mg lysinehcl 650mg threonine 2 bulk lecithin .5 01PC 900mg bulk taurine 70mg bs B-3 500mg nutricost pantothenate \
+2020-09-06 & RPMSNACKB 1915PM cbbroth b7ngnc .1 kroger pacific wild salmon 200mg arginine 200mg tyrosine 200mg tryptophan 650mg lysinehcl 320mg threonine 1 bulk lecithin .25 01PC 450mg bulk taurine 35mg bs B-3 250mg nutricost pantothenate \
+2020-09-06 & ( EVENT ) \
+2020-09-06 & NOTE Chipper not coughing last day maybe and moving faster. \
+2020-09-06 & NOTE Andy moving around a little more although still coughing and tired. \
+2020-09-06 & Greta 0515AM cbbroth 0615AM 2mg glycinate Cu SnAg 300mg arginine 0700AM 5mg carlson glycinate Cu 400mg arginine SnAg 0845AM canned 1220PM 2mg glycinate Cu SnAg cbbroth canned 2x4160 shrimp 1640PM 5mg carlson glycinate Cu SnAg 400mg arginine 650mg lysinehcl canned cbbroth 1745PM 650mg lysinehcl 320mg threonine 200mg tyrosine cbbroth .375 RPMSNACK 1945PM 2mg glycinate Cu 650mg lysinehcl cbbroth canned \
+2020-09-06 & Beauty .375 AMSNACK 1.0 BAMSNACK 0845AM .25 AMSNACK 1.0 PMDINNER .375 PMSNACK 1x4160 shrimp 1730PM .25 PMSNACK .375 RPMSNACK 35mg bs B-3 \
+2020-09-06 & Happy .125 AMSNACK .125 AMSNACKB .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-06 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-06 & Spicey 0715AM .125 AMSNACKB .125 PMSNACKB .125 RPMSNACKB \
+2020-09-06 & ( Dexter .05 PMSNACK ) \
+2020-09-06 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-06 & Andy 1220PM 1 AAMSNACK .125 AMSNACKB 1210PM b7ngnc cbbrothbs .1 kroger pacific wild salmonbroth .2x4160 shrimp 1620PM 50mg doxycycline canned 1915PM 70mg lysinehcl SnAg .25 RPMSNACKB ( .125 01PC ctbrothbs .1 CURSNACK ) \
+2020-09-06 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-07 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-07 & AMSNACK 0455AM b7ngnc cbbroth .1 kroger pacific wild salmonbroth carrot garlic .5 11PC .5 eggo3 2.0 bulk lecithin 900mg bulk taurine 1.0 B-100 0mg K1bs 25mg optizn 400mg tryptophan 650mg leucine 1300mg lysinehcl 650mg threonine \
+2020-09-07 & AMSNACKB 0455AM b7ngnc cbbroth .1 kroger pacific wild salmonbroth carrot garlic .25 11PC .125 eggo3 1.0 bulk lecithin 450mg bulk taurine 0.5 B-100 0mg K1bs 10mg optizn 200mg tryptophan 320mg leucine 650mg lysinehcl 320mg threonine \
+2020-09-07 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-07 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-07 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-07 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-07 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-07 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-07 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-07 & PMDINNER 1210PM .6 KibbleAmJrLmUHP .4 KibbleLogic cbbroth \
+2020-09-07 & PMSNACK 1210PM b7ngnc cbbroth 2x4160 shrimp .1 kroger pacific wild salmonbroth carrot garlic 11PC 2.0 bulk lecithin 900mg bulk taurine 10mg nutricost biotin 400mg tryptophan 400mg tyrosine 800mg isoleucine 1300mg lysinehcl \
+2020-09-07 & PMSNACKB 1210PM b7ngnc cbbroth 1x4160 shrimp .1 kroger pacific wild salmonbroth carrot garlic 11PC 1.0 bulk lecithin 450mg bulk taurine 5mg nutricost biotin 200mg tryptophan 200mg tyrosine 400mg isoleucine 650mg lysinehcl \
+2020-09-07 & APMSNACK 1210PM b7ngnc cbbroth .5x4160 shrimp .1 kroger pacific wild salmonbroth carrot \
+2020-09-07 & BPMSNACK 1210PM b7ngnc cbbroth .5x4160 shrimp .1 kroger pacific wild salmonbroth carrot \
+2020-09-07 & RPMSNACK 1915PM cbbroth b7ngnc 800mg arginine 400mg tyrosine 400mg tryptophan 1300mg lysinehcl 800mg valine 250mg phenylalanine 2 bulk lecithin 1.0 01PC 900mg bulk taurine 500mg nutricost pantothenate 15mg K2 \
+2020-09-07 & RPMSNACKB 1915PM cbbroth b7ngnc 400mg arginine 200mg tyrosine 200mg tryptophan 650mg lysinehcl 400mg valine 125mg phenylalanine 1 bulk lecithin 0.5 01PC 450mg bulk taurine 250mg nutricost pantothenate \
+2020-09-07 & ( EVENT ) \
+2020-09-07 & NOTE Happy ate Greta optizn \
+2020-09-07 & Greta 0510AM SnAg canned cbbroth 0645AM SnAgOx 800mg arginine 320mg lysinehcl cbbroth 0745AM cbbroth 400mg arginine SnAg 0915AM cbbroth 400mg arginine 320mg lysinehcl 2mg glycinate Cu SnAg 1210PM cbbroth 1545PM 400mg arginine SnAg cbbroth 1700PM 5mg prednisone canned cbbroth SnAg 2000PM SnAg cbbroth ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-07 & Beauty .375 AMSNACK .5 eggo3 8mg K1bs carrot b7ngnc 0915AM .25 AMSNACK 1.0 PMDINNER .375 PMSNACK 1.0 BPMSNACK .375 RPMSNACK .25 PMSNACK 1x4160 shrimp 2030PM .375 RPMSNACK \
+2020-09-07 & Happy .125 AMSNACK 15mg optizn .125 AMSNACKB .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-07 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-07 & Spicey .125 AMSNACKB .125 PMSNACKB .125 RPMSNACK \
+2020-09-07 & Dexter .125 PMSNACKB \
+2020-09-07 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-07 & Andy 1220PM .125 AMSNACKB .125 eggo3 b7ngnc cbbroth 1.0 APMSNACK .125 PMSNACKB 1640PM 50mg doxycycline canned .25 RPMSNACKB ( .125 01PC ctbrothbs .1 CURSNACK ) \
+2020-09-07 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-08 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-08 & AMSNACK 0510AM b7ngnc cbbroth carrot garlic 11PC .5 eggo3 2.0 bulk lecithin 900mg bulk taurine 500mg nutricost pantothenate 400mg tryptophan 650mg leucine 1300mg lysinehcl 650mg threonine \
+2020-09-08 & AMSNACKB 0510AM b7ngnc cbbroth carrot garlic .5 11PC .25 eggo3 1.0 bulk lecithin 450mg bulk taurine 250mg nutricost pantothenate 200mg tryptophan 320mg leucine 650mg lysinehcl 320mg threonine \
+2020-09-08 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-08 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-08 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-08 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-08 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-08 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-08 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-08 & PMDINNER 1210PM .6 KibbleAmJrLmUHP .4 KibbleLogic b7ngnc cbbroth \
+2020-09-08 & PMSNACK 1210PM b7ngnc cbbroth 2x4160 shrimp carrot garlic 11PC 2.0 bulk lecithin 900mg bulk taurine 1.0 LESI 10mg nutricost biotin 400mg bulk Mgcitrate 400mg tryptophan 400mg tyrosine 800mg valine 1300mg lysinehcl \
+2020-09-08 & PMSNACKB 1210PM b7ngnc cbbroth 1x4160 shrimp carrot garlic .5 11PC 1.0 bulk lecithin 450mg bulk taurine 1.0 LESI 10mg nutricost biotin 200mg bulk Mgcitrate 200mg tryptophan 200mg tyrosine 400mg valine 650mg lysinehcl \
+2020-09-08 & ( EVENT ) \
+2020-09-08 & NOTE Greta continues to prefer SnAg to plain chicken breast broth but then will eat the solid chick chunks well. \
+2020-09-08 & RPMSNACK 1915PM cbbroth b7ngnc 800mg arginine 400mg tyrosine 400mg tryptophan 1300mg lysinehcl 2 bulk lecithin 0.5 01PC 900mg bulk taurine 500mg nutricost pantothenate 8mg K1bs \
+2020-09-08 & RPMSNACKB 1915PM cbbroth b7ngnc 400mg arginine 200mg tyrosine 200mg tryptophan 650mg lysinehcl 1 bulk lecithin 0.25 01PC 450mg bulk taurine 250mg nutricost pantothenate 4mg K1bs \
+2020-09-08 & Greta 0515AM 3 SnAg cbbroth 0810AM SnAg cbbroth 200mg arginine 160mg lysinehcl 1030AM SnAg cbbroth 1210PM cbbroth 4x4160 shrimp cbbroth 1530PM SnAg cbbroth 1630PM SnAg 2mg glycinate Cu 400mg arginine cbbroth 1915PM SnAg cbbroth .01 KIBBLEN 1945PM SnAg cbbroth ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-08 & Beauty .375 AMSNACK .5 eggo3 1030AM .25 AMSNACK 1.0 PMDINNER 1x4160 shrimp .375 PMSNACK .675 RPMSNACK \
+2020-09-08 & Happy .125 AMSNACK .125 AMSNACKB .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-08 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-08 & Spicey 0700AM .125 AMSNACKB .125 PMSNACKB .125 RPMSNACKB \
+2020-09-08 & Dexter .125 PMSNACKB \
+2020-09-08 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-08 & Andy 1220PM 0510AM .01 cbbroth .01 eggo3 diroban ( .125 AMSNACKB .125 eggo3 b7ngnc cbbroth 1.0 APMSNACK .125 PMSNACKB 1640PM 50mg doxycycline canned .25 RPMSNACKB .125 01PC ctbrothbs .1 CURSNACK ) \
+2020-09-08 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-09 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-09 & AMSNACK 0500AM b7ngnc cbbroth 2x4160 shrimp carrot garlic 11PC 2 bulk lecithin 900mg bulk taurine 50mg NOW B-1 70mg bs B-3 10mg nutricost biotin 25mg optizn 400mg tryptophan 1300mg lysinehcl 1300mg threonine \
+2020-09-09 & AMSNACKB 0500AM b7ngnc cbbroth 1x4160 shrimp carrot garlic .5 11PC 1 bulk lecithin 450mg bulk taurine 50mg NOW B-1 35mg bs B-3 10mg nutricost biotin 10mg optizn 200mg tryptophan 650mg lysinehcl 650mg threonine \
+2020-09-09 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-09 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-09 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-09 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-09 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-09 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-09 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-09 & PMDINNER 1150AM .6 KibbleAmJrLmUHP .4 KibbleLogic b7ngnc cbbroth \
+2020-09-09 & PMSNACK 1150AM b7ngnc cbbroth 2x4160 shrimp carrot garlic 11PC 2.0 bulk lecithin 900mg bulk taurine 70mg bs B-3 nopantothenate 400mg tryptophan 250mg phenylalanine 400mg tyrosine 1300mg lysinehcl 250mg methionine \
+2020-09-09 & PMSNACKB 1150AM b7ngnc cbbroth 1x4160 shrimp carrot garlic .5 11PC 1.0 bulk lecithin 450mg bulk taurine 35mg bs B-3 nopantothenate 200mg tryptophan 1250mg phenylalanine 200mg tyrosine 650mg lysinehcl 125mg methionine \
+2020-09-09 & RPMSNACK 1845PM cbbroth b7ngnc 800mg arginine 400mg tyrosine 400mg tryptophan 1300mg lysinehcl 650mg threonine 2 bulk lecithin 1 01PC 900mg bulk taurine 500mg nutricost pantothenate 16mg K1bs 70mg bs B-3 \
+2020-09-09 & RPMSNACKB 1845PM cbbroth b7ngnc 400mg arginine 200mg tyrosine 200mg tryptophan 650mg lysinehcl 320mg threonine 1 bulk lecithin .5 01PC 450mg bulk taurine 250mg nutricost pantothenate 8mg K1bs 35mg bs B-3 \
+2020-09-09 & ( EVENT ) \
+2020-09-09 & Greta 0510AM cbbroth SnAg 0630AM cbbroth 5mg optizn 200mg arginine SnAg 0730AM 10mg optizn SnAg cbbroth 1250PM cbbroth 320mg threonine 100mg tryptophan 100mg tyrosine 2 SnAg 1415PM 2 SnAg 200mg arginine 320mg lysinehcl 1530PM SnAg 2mg glycinate Cu 200mg arginine cbbroth 1845PM SnAg cbbroth 1910PM cbbroth .5 bulk lecithin 600mg taurine 70mg bs B-3 100mg tyrosine 100mg tryptophan 2mg K1bs 160mg threonine ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-09 & Beauty .375 AMSNACK 1000AM .25 AMSNACK 1.0 PMDINNER .375 PMSNACK 1415PM .25 PMSNACK .375 RPMSNACK .375 RPMSNACK \
+2020-09-09 & Happy .125 AMSNACK .125 AMSNACKB .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-09 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-09 & Spicey 0730AM .125 AMSNACKB .125 PMSNACKB .125 RPMSNACKB \
+2020-09-09 & Dexter 1230PM .125 PMSNACKB \
+2020-09-09 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-09 & Andy 0900AM diroban .25 RPMSNACKB ( 1220PM 0510AM .01 cbbroth .01 eggo3 diroban .125 AMSNACKB .125 eggo3 b7ngnc cbbroth 1.0 APMSNACK .125 PMSNACKB 1640PM 50mg doxycycline canned .25 RPMSNACKB .125 01PC ctbrothbs .1 CURSNACK ) \
+2020-09-09 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-10 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-10 & AMSNACK 0500AM b7ngnc cbbroth 2x4160 shrimp carrot garlic 11PC 2 bulk lecithin 900mg bulk taurine 1.0 B-100 carlson glycinate 2.5mg Cu 400mg tryptophan 650mg leucine 1300mg lysinehcl 650mg threonine \
+2020-09-10 & AMSNACKB 0500AM b7ngnc cbbroth 1x4160 shrimp carrot garlic 11PC 1 bulk lecithin 450mg bulk taurine 0.5 B-100 carlson glycinate 2.5mg Cu 200mg tryptophan 320mg leucine 650mg lysinehcl 320mg threonine \
+2020-09-10 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-10 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-10 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-10 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-10 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-10 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-10 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-10 & PMDINNER 1140AM .6 KibbleAmJrLmUHP .4 KibbleLogic b7ngnc cbbroth \
+2020-09-10 & PMSNACK 1140AM b7ngnc cbbroth 2x4160 shrimp carrot 11PC 2.0 bulk lecithin .5 oliveoil 900mg bulk taurine 70mg bs B-3 10mg nutricost biotin 25mg optizn 400mg tyrosine 800mg valine 1300mg lysinehcl \
+2020-09-10 & PMSNACKB 1140AM b7ngnc cbbroth 1x4160 shrimp carrot .5 11PC 1.0 bulk lecithin .25 oliveoil 450mg bulk taurine 35mg bs B-3 10mg nutricost biotin 10mg optizn 200mg tyrosine 400mg valine 650mg lysinehcl \
+2020-09-10 & ( EVENT ) \
+2020-09-10 & NOTE Happy has been coughing on and off for a while now although animated has wanted to come back from walks, her and Claire not usually wanting to go AM although both seem to run ok when they want. \
+2020-09-10 & NOTE Greta ate the canned food she liked that barb got more of today. Picky now, refused cbbroth with zinc although had some some SnAg. Did not want taurine AM as she did yesterday. \
+2020-09-10 & NOTE Beauty gait may be off a little but not limping AFAICT although stamina not full. \
+2020-09-10 & NOTE Spicey perking up still but coughing in AM and when picked up wrong way. \
+2020-09-10 & NOTE Andy looked better back from 2nd diroban - tired but not coughing much started eating by end of day. wagging tail not coughing at night right now. \
+2020-09-10 & Greta 0930AM SnAg 200mg arginine 2mg glycinate Cu cbbroth 1230PM canned SnAg cbbroth \
+2020-09-10 & Beauty .375 AMSNACK 1x4160 shrimp 0730AM .2 AMSNACK 1.0 PMDINNER .375 PMSNACK 1230PM .25 PMSNACK \
+2020-09-10 & Happy .125 AMSNACK .125 AMSNACKB .125 PMDINNER .125 PMSNACK \
+2020-09-10 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK \
+2020-09-10 & Spicey 0730AM .125 AMSNACKB .125 PMSNACKB \
+2020-09-10 & ( Dexter .05 PMSNACK ) \
+2020-09-10 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK ( .375 RPMSNACKB ) \
+2020-09-10 & Andy .375 AMSNACKB .125 PMSNACKB ( 1640PM 50mg doxycycline canned .25 RPMSNACKB .125 01PC ctbrothbs .1 CURSNACK ) \
+2020-09-10 & Chipper .375 AMSNACKB .375 PMSNACKB ( .25 RPMSNACKB ) \
+2020-09-18 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-18 & ( AMSNACK 0430AM b20ngnc ctbrothbs noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0mg noSNB-3 200mg B-6 1500mcg B-12 biotin nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate nochili nonwkelp notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2020-09-18 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-18 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-18 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-18 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-18 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-18 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-18 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-18 & ( PMDINNER 1230PM .6 KibbleAmJrLmUHP .4 KibbleLogic b20ngnc ctbrothbs ) \
+2020-09-18 & ( PMSNACK 1300PM b20ngnc ctbrothbs noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0mg noSNB-3 200mg B-6 1500mcg B-12 biotin nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate nochili nonwkelp notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2020-09-18 & RPMSNACK 1900PM cbbroth b7ngnc 800mg arginine 800mg tyrosine 400mg tryptophan 1300mg lysinehcl 650mg threonine 250mg phenylalanine 2 bulk lecithin .5 01PC 900mg bulk taurine 500mg nutricost pantothenate 16mg K1bs 70mg bs B-3 15mg K2 \
+2020-09-18 & RPMSNACKB 1900PM cbbroth b7ngnc 400mg arginine 400mg tyrosine 200mg tryptophan 650mg lysinehcl 320mg threonine 125mg phenylalanine 1 bulk lecithin .25 01PC 450mg bulk taurine 250mg nutricost pantothenate 8mg K1bs 35mg bs B-3 15mg K2 \
+2020-09-18 & ( EVENT ) \
+2020-09-18 & Greta 1030AM 2mg glycinate Cu clbrothbs 200mg arginine SnAg 1310PM SnAg 200mg arginine cbbroth 1615PM SnAg cbbroth .375 RPMSNACK 1940PM SnAg cbbroth ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-18 & Beauty .375 RPMSNACK ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-18 & Happy .125 RPMSNACK ( .125 AMSNACK 0930AMSNACK .25 PMDINNER .125 PMSNACK ) \
+2020-09-18 & Claire .125 RPMSNACK ( .125 AMSNACK 0930AMSNACK 1.0 PMDINNER .125 PMSNACK ) \
+2020-09-18 & Spicey .125 RPMSNACKB ( .08 AMSNACK 1230PM ctbrothbs .0625 PMSNACK ) \
+2020-09-18 & ( Dexter .05 PMSNACK ) \
+2020-09-18 & Autumn ( .125 AMSNACK 2 PMDINNER .125 PMSNACK ) .375 RPMSNACKB \
+2020-09-18 & Andy ( .375 AMSNACKB .125 PMSNACKB 1640PM 50mg doxycycline canned ) .25 RPMSNACKB \
+2020-09-18 & Chipper ( .375 AMSNACKB .375 PMSNACKB ) .25 RPMSNACKB \
+2020-09-19 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-19 & AMSNACK 0500AM b7ngnc cbbroth carrot garlic 11PC .5 eggo3 2 bulk lecithin 900mg bulk taurine 10mg nutricost biotin 1.0 B-100 25mg optizn 400mg tryptophan 650mg leucine 1300mg lysinehcl 1300mg threonine \
+2020-09-19 & AMSNACKB 0500AM b7ngnc cbbroth carrot garlic .5 11PC .25 eggo3 1 bulk lecithin 450mg bulk taurine 10mg nutricost biotin 0.5 B-100 12mg optizn 200mg tryptophan 320mg leucine 650mg lysinehcl 650mg threonine \
+2020-09-19 & BAMSNACK 0500AM b7ngnc cbbroth carrot .5 01PC .5 eggo3 1 bulk lecithin 450mg bulk taurine 8mg K1bs 200mg tryptophan 320mg leucine 650mg lysinehcl 650mg threonine \
+2020-09-19 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-19 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-19 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-19 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-19 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-19 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-19 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-19 & PMDINNER 1230PM .6 KibbleAmJrLmUHP .4 KibbleLogic b7ngnc ctbrothbs \
+2020-09-19 & PMSNACK 1230PM b7ngnc cbbroth 2x4150 shrimp carrot garlic 11PC 2 bulk lecithin 900mg taurine 70mg bs B-3 500mg nutricost pantothenate glycinate carlson 2.5mg Cu 800mg arginine 400mg tryptophan 800mg valine 1300mg lysinehcl \
+2020-09-19 & PMSNACKB 1230PM b7ngnc cbbroth 1x4150 shrimp carrot garlic .5 11PC 1 bulk lecithin 450mg taurine 35mg bs B-3 250mg nutricost pantothenate glycinate carlson 2.5mg Cu 400mg arginine 200mg tryptophan 200mg valine 650mg lysinehcl \
+2020-09-19 & GPMSNACK 1230PM b7ngnc cbbroth 1x4160 shrimp 2x4150 shrimp carrot \
+2020-09-19 & BPMSNACK 1230PM b7ngnc cbbroth carrot .5 01PC 1 bulk lecithin 450mg taurine 400mg arginine 200mg tryptophan 200mg valine 650mg lysinehcl \
+2020-09-19 & RPMSNACK 1900PM cbbroth b7ngnc 800mg arginine 800mg tyrosine 400mg tryptophan 1300mg lysinehcl 650mg threonine 250mg phenylalanine 2 bulk lecithin .5 01PC 900mg bulk taurine 500mg nutricost pantothenate 400mg bulk Mgcitrate \
+2020-09-19 & RPMSNACKB 1900PM cbbroth b7ngnc 400mg arginine 400mg tyrosine 200mg tryptophan 650mg lysinehcl 320mg threonine 125mg phenylalanine 1 bulk lecithin .5 01PC 450mg bulk taurine 250mg nutricost pantothenate 200mg bulk Mgcitrate \
+2020-09-19 & ( EVENT ) \
+2020-09-19 & Greta 0500AM SnAg cbbroth 2mg glycinate Cu 200mg arginine 12mg optizn cbbroth 0945AM cbbroth 200mg arginine 200mg lysinehcl SnAg 1400PM canned SnAg 1mg glycinate Cu cbbroth 1700PM kroger 20 iu D-3 1730PM 2x4150 shrimp 1mg glycinate Cu 200mg arginine SnAg ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-19 & Beauty .375 AMSNACK 1.0 BAMSNACK 0745AM .125 AMSNACK 1.0 PMDINNER .375 PMSNACK 1.0 BPMSNACK .75 RPMSNACK .25 PMSNACK \
+2020-09-19 & Happy .125 AMSNACK .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-19 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-19 & Spicey 0745AM .125 AMSNACKB .125 PMSNACKB .125 RPMSNACKB \
+2020-09-19 & Dexter .125 PMSNACKB \
+2020-09-19 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-19 & Andy .375 AMSNACKB .125 PMSNACKB 1640PM 50mg doxycycline canned .25 RPMSNACKB \
+2020-09-19 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-20 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-20 & AMSNACK 0510AM b7ngnc cbbroth carrot 11PC .5 eggo3 2.0 bulk lecithin 900mg bulk taurine 70mg bs B-3 50mg best naturals lipoicacid 400mg tryptophan 650mg leucine 1300mg lysinehcl 1300mg threonine \
+2020-09-20 & AMSNACKB 0510AM b7ngnc cbbroth carrot .5 11PC .25 eggo3 1.0 bulk lecithin 450mg bulk taurine 35mg bs B-3 20mg best naturals lipoicacid 200mg tryptophan 320mg leucine 650mg lysinehcl 650mg threonine \
+2020-09-20 & BAMSNACK 0510AM b7ngnc cbbroth carrot .5 01PC .5 eggo3 1.0 bulk lecithin 450mg bulk taurine 8mg K1bs 200mg tryptophan 320mg leucine 650mg lysinehcl 650mg threonine \
+2020-09-20 & GAMSNACK 0510AM b7ngnc cbbroth carrot .25 eggo3 \
+2020-09-20 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-20 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-20 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-20 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-20 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-20 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-20 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-20 & PMDINNER 1220PM .6 KibbleAmJrLmUHP .4 KibbleLogic b7ngnc cbbroth \
+2020-09-20 & PMSNACK 1220PM b7ngnc cbbroth 2x4150 shrimp carrot garlic 11PC 2 bulk lecithin 900mg bulk taurine 1.0 LESI 10mg nutricost biotin 400mg tryptophan 400mg tyrosine 800mg isoleucine 1300mg lysinehcl \
+2020-09-20 & PMSNACKB 1220PM b7ngnc cbbroth 1x4150 shrimp carrot garlic .5 11PC 1 bulk lecithin 450mg bulk taurine 1.0 LESI 10mg nutricost biotin 200mg tryptophan 200mg tyrosine 400mg isoleucine 650mg lysinehcl \
+2020-09-20 & GPMSNACK 1220PM b7ngnc cbbroth 2x4150 shrimp carrot \
+2020-09-20 & BPMSNACK 1220PM b7ngnc cbbroth 1x4150 shrimp carrot .5 01PC 1 bulk lecithin 450mg bulk taurine 200mg tryptophan 200mg tyrosine 400mg isoleucine 650mg lysinehcl \
+2020-09-20 & RPMSNACK 1930PM cbbroth b7ngnc 800mg arginine 400mg tyrosine 400mg tryptophan 1300mg lysinehcl 250mg phenylalanine 2 bulk lecithin .5 01PC 500mg nutricost pantothenate 70mg bs B-3 16mg K1bs 15mg K2 \
+2020-09-20 & RPMSNACKB 1930PM cbbroth b7ngnc 400mg arginine 200mg tyrosine 200mg tryptophan 650mg lysinehcl 125mg phenylalanine 1 bulk lecithin .5 01PC 250mg nutricost pantothenate 35mg bs B-3 8mg K1bs 15mg K2 \
+2020-09-20 & ( EVENT ) \
+2020-09-20 & Greta 0515AM 2mg glycinate Cu 200mg arginine cbbroth 0600AM SnAg cbbroth 1220PM SnAg 200mg lysinehcl 2mg glycinate Cu cbbroth 1730PM 2mg glycinate Cu SnAg cbbroth ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-20 & Beauty .375 AMSNACK 1.0 BAMSNACK 0630AM .25 AMSNACK 1.0 PMDINNER .375 PMSNACK 1.0 BPMSNACK 1730PM .25 PMSNACK .75 RPMSNACK \
+2020-09-20 & Happy .125 AMSNACK .125 AMSNACKB .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-20 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-20 & Spicey 0645AM .125 AMSNACKB .125 PMSNACKB .125 RPMSNACKB \
+2020-09-20 & Dexter .125 PMSNACKB \
+2020-09-20 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-20 & Andy .375 AMSNACKB .375 PMSNACKB 1640PM 50mg doxycycline canned .25 RPMSNACKB \
+2020-09-20 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-21 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-21 & AMSNACK 0500AM b7ngnc cbbroth carrot garlic 11PC .5 eggo3 bulk 2.0 lecithin 900mg bulk taurine 70mg bs B-3 500mg nutricost pantothenate glycinate carlson 2.5mg Cu 400mg tryptophan 650mg leucine 1300mg lysinehcl 320mg histidinehcl 650mg threonine \
+2020-09-21 & AMSNACKB 0500AM b7ngnc cbbroth carrot garlic .5 11PC .25 eggo3 1.0 bulk lecithin 450mg bulk taurine 35mg bs B-3 250mg nutricost pantothenate glycinate carlson 2.5mg Cu 200mg tryptophan 320mg leucine 650mg lysinehcl 160mg histidinehcl 320mg threonine \
+2020-09-21 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-21 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-21 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-21 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-21 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-21 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-21 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-21 & PMDINNER 1215PM .6 KibbleAmJrLmUHP .4 KibbleLogic b7ngnc cbbroth \
+2020-09-21 & PMSNACK 1215PM b7ngnc cbbroth 2x4150 shrimp carrot garlic 11PC 2.0 bulk lecithin 900mg bulk taurine 10mg nutricost biotin 25mg optizn 400mg tryptophan 800mg tyrosine 800mg valine 1300mg lysinehcl \
+2020-09-21 & PMSNACKB 1215PM b7ngnc cbbroth 1x4150 shrimp carrot garlic .5 11PC 1.0 bulk lecithin 450mg bulk taurine 10mg nutricost biotin 10mg optizn 200mg tryptophan 400mg tyrosine 400mg valine 650mg lysinehcl \
+2020-09-21 & RPMSNACK 1900PM cbbroth b7ngnc 800mg arginine 400mg tyrosine 400mg tryptophan 1300mg lysinehcl 250mg phenylalanine 650mg leucine 2 bulk lecithin 1 01PC 500mg nutricost pantothenate 70mg bs B-3 400mg bulk Mgcitrate 900mg taurine \
+2020-09-21 & RPMSNACKB 1900PM cbbroth b7ngnc 400mg arginine 200mg tyrosine 200mg tryptophan 650mg lysinehcl 125mg phenylalanine 320mg leucine 1 bulk lecithin .5 01PC 250mg nutricost pantothenate 35mg bs B-3 200mg bulk Mgcitrate 450mg taurine \
+2020-09-21 & ( EVENT ) \
+2020-09-21 & Greta 1220PM 10mg optizn cbbroth 2x4150 shrimp 1740PM 2x4150 shrimp 2mg glycinate Cu 400mg arginine cbbroth SnAg ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-21 & Beauty .375 AMSNACK .5 eggo3 0600AM .25 AMSNACK 1.0 PMDINNER .375 PMSNACK 1x4150 shrimp 1715PM .25 PMSNACK .375 RPMSNACK 2045PM .375 RPMSNACK \
+2020-09-21 & Happy .125 AMSNACK .125 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-21 & Claire .125 AMSNACK 1.0 PMDINNER .125 PMSNACK .125 RPMSNACK \
+2020-09-21 & Spicey 0600AM .125 AMSNACKB .125 PMSNACKB .125 RPMSNACKB \
+2020-09-21 & ( Dexter .05 PMSNACK ) \
+2020-09-21 & Autumn .125 AMSNACK 2 PMDINNER .125 PMSNACK .375 RPMSNACKB \
+2020-09-21 & Andy .375 AMSNACKB .375 PMSNACKB 1640PM 50mg doxycycline canned .25 RPMSNACKB \
+2020-09-21 & Chipper .375 AMSNACKB .375 PMSNACKB .25 RPMSNACKB \
+2020-09-22 & KIBBLEN .6 KibbleAmJrLmUHP .4 KibbleLogic \
+2020-09-22 & AMSNACK 0505AM b7ngnc cbbroth carrot garlic 11PC .5 eggo3 2.0 bulk lecithin 900mg bulk taurine 70mg bs B-3 500mg nutricost pantothenate carlson glycinate 2.5mg Cu 400mg tryptophan 650mg leucine 1300mg lysinehcl 650mg threonine \
+2020-09-22 & AMSNACKB 0505AM b7ngnc cbbroth carrot garlic .5 11PC .25 eggo3 1.0 bulk lecithin 450mg bulk taurine 35mg bs B-3 250mg nutricost pantothenate carlson glycinate 2.5mg Cu 200mg tryptophan 632mg leucine 650mg lysinehcl 320mg threonine \
+2020-09-22 & ( 0930AMSNACK 0830AM b20ngnc ctbrothbs chili ) \
+2020-09-22 & ( AKA KibbleDiamond Kibble Diamond Naturals Extreme Athlete Adult Chicken and Rice ) \
+2020-09-22 & ( AKA KibbleAmJourneyPuppy American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-22 & ( AKA KibbleAmJrLaPo American Journey Lamb and Sweet Potato Puppy ) \
+2020-09-22 & ( AKA KibbleAmJrLmUHP American Journey Landmark Ultra High Protein ) \
+2020-09-22 & ( AKA KibbleGreat GreatLife Performance Products Chicken by BarkStrong ) \
+2020-09-22 & ( AKA KibbleLogic Natures Logic Canine Chicken Meal Feast ) \
+2020-09-22 & ( PMDINNER 1230PM .6 KibbleAmJrLmUHP .4 KibbleLogic b20ngnc ctbrothbs ) \
+2020-09-22 & ( PMSNACK 1300PM b20ngnc ctbrothbs noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0mg noSNB-3 200mg B-6 1500mcg B-12 biotin nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate nochili nonwkelp notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2020-09-22 & ( EVENT ) \
+2020-09-22 & Greta 0600AM SnAg 200mg arginine 2mg glycinate Cu ( .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-22 & Beauty .375 AMSNACK .5 eggo3 b20ngnc carrot 0630AM .25 AMSNACK ( 0930AMSNACK 1.0 PMDINNER .25 PMSNACK ) \
+2020-09-22 & Happy .125 AMSNACK ( 0930AMSNACK .25 PMDINNER .125 PMSNACK ) \
+2020-09-22 & Claire .125 AMSNACK ( 0930AMSNACK 1.0 PMDINNER .125 PMSNACK ) \
+2020-09-22 & Spicey 0630AM .125 AMSNACKB ( 1230PM ctbrothbs .0625 PMSNACK ) \
+2020-09-22 & ( Dexter .05 PMSNACK ) \
+2020-09-22 & Autumn .125 AMSNACK ( 2 PMDINNER .125 PMSNACK .375 RPMSNACKB ) \
+2020-09-22 & Andy .375 AMSNACKB ( .375 PMSNACKB 1640PM 50mg doxycycline canned .25 RPMSNACKB ) \
+2020-09-22 & Chipper .375 AMSNACKB ( .375 PMSNACKB .25 RPMSNACKB ) \
+
+2020-09-28 & AMSNACK 0505AM b7ngnc cbbroth carrot garlic 11PC .5 eggo3 2.0 bulk lecithin 900mg bulk taurine 70mg bs B-3 500mg nutricost pantothenate carlson glycinate 2.5mg Cu 400mg tryptophan 650mg leucine 1300mg lysinehcl 650mg threonine
+2020-09-28 & Beauty .375 AMSNACK ( .5 eggo3 b20ngnc carrot 0630AM .25 AMSNACK 0930AMSNACK 1.0 PMDINNER .25 PMSNACK )

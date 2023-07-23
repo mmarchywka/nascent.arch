@@ -1,0 +1,3 @@
+
+cat mail_clip_file.txt | gawk -f pubmed.awk| sed -e 's/\[//g'| sed -e 's/\]//g' | sed -e's/\^//g'| sed -e 's/\\/\\mjm/g'| sed -e 's/[&@:/_]//g' | sed -e 's/#/\\#/g'| tr -d "[\200-\377]"  > mm_mail_clip.txt
+

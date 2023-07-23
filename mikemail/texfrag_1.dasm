@@ -1,0 +1,3205 @@
+[preamble]
+id: 2
+numerator: 25400000
+denominator: 473628672
+magnification: 1000
+comment: ' TeX output 2019.07.08:1713'
+
+[postamble]
+maxv: 685.450027pt
+maxh: 491.932510pt
+maxs: 16
+pages: 3
+
+[font definitions]
+fntdef: cmr10 at 10pt
+fntdef: cmmi10 at 10pt
+fntdef: cmsy10 at 10pt
+fntdef: ecrm1000 at 10pt
+fntdef: ecrm0900 at 9pt
+fntdef: ecbx0900 at 9pt
+fntdef: cmr9 at 9pt
+fntdef: cmmi9 at 9pt
+fntdef: cmsy9 at 9pt
+fntdef: ecti0600 at 6pt
+fntdef: ecrm0800 at 8pt
+fntdef: ectt0800 at 8pt
+fntdef: ecti0900 at 9pt
+fntdef: ectt0900 at 9pt
+
+[page 1 0 0 0 0 0 0 0 0 0]
+push:
+  xxx: '! systemdict /pdfmark known{userdict /?pdfmark systemdict /exec get put}{userdict /?pdfmark systemdict /pop get put userdict /pdfmark systemdict /cleartomark get put}ifelse'
+  xxx: 'ps:SDict begin [/Producer (dvips + Distiller)/Title ()/Subject ()/Creator (LaTeX with hyperref package)/Author ()/Keywords () /DOCINFO pdfmark end'
+  xxx: '! /DvipsToPDF{72.27 mul Resolution div} def/PDFToDvips{72.27 div Resolution mul} def/BPToDvips{72 div Resolution mul}def/BorderArrayPatch{[exch{dup dup type/integertype eq exch type/realtype eq or{BPToDvips}if}forall]}def/HyperBorder {1 PDFToDvips} def/H.V {pdf@hoff pdf@voff null} def/H.B {/Rect[pdf@llx pdf@lly pdf@urx pdf@ury]} def/H.S {currentpoint HyperBorder add /pdf@lly exch def dup DvipsToPDF 72 add /pdf@hoff exch def HyperBorder sub /pdf@llx exch def} def/H.L {2 sub dup/HyperBasePt exch def PDFToDvips /HyperBaseDvips exch def currentpoint HyperBaseDvips sub /pdf@ury exch def/pdf@urx exch def} def/H.A {H.L currentpoint exch pop vsize 72 sub exch DvipsToPDF HyperBasePt sub sub /pdf@voff exch def} def/H.R {currentpoint HyperBorder sub /pdf@ury exch def HyperBorder add /pdf@urx exch def currentpoint exch pop vsize 72 sub exch DvipsToPDF sub /pdf@voff exch def} def'
+pop:
+xxx: 'ps:SDict begin /product where{pop product(Distiller)search{pop pop pop version(.)search{exch pop exch pop(3011)eq{gsave newpath 0 0 moveto closepath clip/Courier findfont 10 scalefont setfont 72 72 moveto(.)show grestore}if}{pop}ifelse}{pop}ifelse}if end'
+push:
+  down: -62.003738pt
+  push:
+    right: -19.071228pt
+    xxx: 'color push gray 0'
+    xxx: 'ps:SDict begin H.S end'
+    xxx: 'ps:SDict begin H.R end'
+    xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (page.1) cvn /DEST pdfmark end'
+    xxx: 'color pop'
+  pop:
+pop:
+y: 682pt
+push:
+  down: -682pt
+  push:
+    xxx: '! /pgfH{/pgfheight exch def 0.75 setlinewidth [] 0 setdash /pgfshade {pgfA} def /pgfdir { dup 0 moveto dup 5 index lineto } bind def} bind def'
+    xxx: '! /pgfV{/pgfheight exch def 0.75 setlinewidth [] 0 setdash /pgfshade {pgfA} def /pgfdir { dup 0 exch moveto dup 5 index exch lineto } bind def} bind def'
+    xxx: '! /pgfA{ /pgfdiff 8 index round cvi 8 index round cvi sub 2 mul 1 add def 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div pgfheight 9 index 9 index 9 index 14 index pgfdiff { 3 index 3 index 3 index setrgbcolor pgfdir stroke 4 -1 roll 7 index add 4 -1 roll 6 index add 4 -1 roll 5 index add 4 -1 roll .5 sub } repeat mark 15 1 roll cleartomark exch pop }bind def '
+    xxx: '! /pgfR1{ newpath dup dup dup 0 360 arc clip newpath dup /pgfendx exch def /pgfendy exch def 0.875 setlinewidth [] 0 setdash /pgfshade {pgfR} def /pgfstartx exch def /pgfstarty exch def /pgfdiffx pgfendx pgfstartx sub def /pgfdiffy pgfendy pgfstarty sub def dup /pgfdomb exch def }bind def '
+    xxx: '! /pgfR2{ newpath 0.5 add pgfcircx pgfcircy 3 2 roll 0 360 arc setrgbcolor fill pop}bind def '
+    xxx: '! /pgfR{ /pgfdiff 8 index round cvi 8 index round cvi sub 4 mul 1 add def /pgfcircx pgfstartx 9 index pgfdiffx pgfdomb div mul add def /pgfcircy pgfstarty 9 index pgfdiffy pgfdomb div mul add def /pgfcircxe pgfstartx 8 index pgfdiffx pgfdomb div mul add def /pgfcircye pgfstarty 8 index pgfdiffy pgfdomb div mul add def /pgfxstep pgfcircxe pgfcircx sub pgfdiff div def /pgfystep pgfcircye pgfcircy sub pgfdiff div def 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div 2 index 6 index sub pgfdiff div 8 index 8 index 8 index 13 index pgfdiff { 3 index 3 index 3 index setrgbcolor pgfcircx pgfcircy 2 index 0 360 arc closepath stroke 4 -1 roll 6 index add 4 -1 roll 5 index add 4 -1 roll 4 index add 4 -1 roll .25 sub /pgfcircx pgfcircx pgfxstep add def /pgfcircy pgfcircy pgfystep add def } repeat mark 14 1 roll cleartomark exch pop }bind def'
+    xxx: '!  /pgfsc{}bind def/pgffc{}bind def/pgfstr{stroke}bind def/pgffill{fill}bind def/pgfeofill{eofill}bind def/pgfe{a dup 0 rlineto exch 0 exch rlineto neg 0 rlineto closepath}bind def/pgfw{setlinewidth}bind def/pgfs{save pgfpd 72 Resolution div 72 VResolution div neg scale magscale{1 DVImag div dup scale}if pgfx neg pgfy neg translate pgffoa .setopacityalpha}bind def/pgfr{pgfsd restore}bind def userdict begin/pgfo{pgfsd /pgfx currentpoint /pgfy exch def def @beginspecial}bind def /pgfc{newpath @endspecial pgfpd}bind def /pgfsd{globaldict /pgfdelta /delta where {pop delta} {0} ifelse put}bind def/pgfpd{/delta globaldict /pgfdelta get def}bind def /.setopacityalpha where {pop} {/.setopacityalpha{pop}def} ifelse /.pgfsetfillopacityalpha{/pgffoa exch def /pgffill{gsave pgffoa .setopacityalpha fill 1 .setopacityalpha newpath fill grestore newpath}bind def /pgfeofill{gsave pgffoa .setopacityalpha eofill 1 .setopacityalpha newpath eofill grestore newpath}bind def}bind def /.pgfsetstrokeopacityalpha{/pgfsoa exch def /pgfstr{gsave pgfsoa .setopacityalpha stroke grestore newpath}bind def}bind def /pgffoa 1 def /pgfsoa 1 def end '
+  pop:
+  y0:
+  push:
+    down: -718pt
+    push:
+      push:
+        right: -18.067490pt
+        xxx: 'color push gray 0'
+        push:
+          push:
+            push:
+              down: -3.450027pt
+              push:
+                push:
+                  push:
+                    push:
+                      fnt: ecrm1000 at 10pt
+                      set: 'M'
+                      x: 3.332520pt
+                      set: 'Marc'
+                      w: -0.277710pt
+                      set: 'h'
+                      w0:
+                      set: 'ywk'
+                      right: -0.555420pt
+                      set: 'a,'
+                      x0:
+                      set: 'MJM-test-test'
+                    pop:
+                  pop:
+                pop:
+                push:
+                  push:
+                    push:
+                      right: 321.434937pt
+                      set: 'July'
+                      w: 3.332520pt
+                      set: '8,'
+                      w0:
+                      set: '2019'
+                      w0:
+                      set: 'v.'
+                      right: 8.886719pt
+                      set: '0.00'
+                      w0:
+                      set: 'NOT'
+                      w0:
+                      set: 'public'
+                      w0:
+                      set: 'NOTES'
+                    pop:
+                  pop:
+                pop:
+              pop:
+              down: 3.850021pt
+              putrule: 0.399994pt 510pt
+            pop:
+          pop:
+        pop:
+        right: 510pt
+        xxx: 'color pop'
+      pop:
+    pop:
+    down: 688pt
+    push:
+      right: -18.067490pt
+      down: -672pt
+      xxx: 'color push gray 0'
+      xxx: '! /pgf1{gsave exec 1.0 pgfw 2.00002 0.0 moveto -6.00006 4.00005 lineto -3.00003 0.0 lineto -6.00006 -4.00005 lineto pgffill  grestore} bind def'
+      xxx: '! /pgf2{gsave exec 1.0 pgfw 0.8 pgfw [ ] 0.0 setdash 1 setlinecap 1 setlinejoin -3.00003 4.00005 moveto -2.75002 2.50002 0.0 0.24998 0.75 0.0 curveto 0.0 -0.24998 -2.75002 -2.50002 -3.00003 -4.00005 curveto pgfstr  grestore} bind def'
+      xxx: '! /pgf3{gsave exec 1.0 pgfw [ ] 0.0 setdash 0.0 -5.00005 moveto 0.0 5.00005 lineto pgfstr  grestore} bind def'
+      xxx: '! /pgf4{gsave exec 1.0 pgfw [ ] 0.0 setdash -3.00003 -5.00005 moveto 0.0 -5.00005 lineto 0.0 5.00005 lineto -3.00003 5.00005 lineto pgfstr  grestore} bind def'
+      xxx: '! /pgf5{gsave exec 1.0 pgfw [ ] 0.0 setdash -2.00002 -5.00005 moveto 1.0 -3.00003 1.0 3.00003 -2.00002 5.00005 curveto pgfstr  grestore} bind def'
+      xxx: '! /pgf6{gsave exec 1.0 pgfw [ ] 0.0 setdash -4.50003 -5.00005 moveto 0.49998 0.0 lineto -4.50003 5.00005 lineto pgfstr  grestore} bind def'
+      xxx: '! /pgf7{gsave exec 1.0 pgfw -2.50002 0.0 translate [ ] 0.0 setdash 3.00003 0.0 moveto 3.00003 1.65689 1.65689 3.00003 0.0 3.00003 curveto -1.65689 3.00003 -3.00003 1.65689 -3.00003 0.0 curveto -3.00003 -1.65689 -1.65689 -3.00003 0.0 -3.00003 curveto 1.65689 -3.00003 3.00003 -1.65689 3.00003 0.0 curveto closepath gsave pgffc pgffill grestore gsave pgfsc pgfstr grestore newpath  grestore} bind def'
+      xxx: '! /pgf8{gsave exec 1.0 pgfw [ ] 0.0 setdash 1.0 0.0 moveto -5.00005 3.00003 lineto -11.00012 0.0 lineto -5.00005 -3.00003 lineto closepath gsave pgffc pgffill grestore gsave pgfsc pgfstr grestore newpath  grestore} bind def'
+      xxx: 'ps:SDict begin [/Count -0/Dest (section*.1) cvn/Title (Introduction ) /OUT pdfmark end'
+      xxx: 'ps:SDict begin [/Count -0/Dest (section*.2) cvn/Title (Bibliography) /OUT pdfmark end'
+      xxx: 'ps:SDict begin [/Count -0/Dest (section*.3) cvn/Title (References) /OUT pdfmark end'
+      xxx: 'ps:SDict begin [/Count -0/Dest (section*.4) cvn/Title (Acknowledgments) /OUT pdfmark end'
+      xxx: 'ps:SDict begin [/Count -0/Dest (section*.5) cvn/Title (Citing this as a tech report or white paper ) /OUT pdfmark end'
+      xxx: 'ps:SDict begin [/PageMode /UseOutlines/Page 1/View [/Fit] /DOCVIEW pdfmark end'
+      xxx: 'ps:SDict begin [ {Catalog}<<>> /PUT pdfmark end'
+      xxx: 'ps:SDict begin H.S end'
+      xxx: 'ps:SDict begin 11.5 H.A end'
+      xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (Doc-Start) cvn /DEST pdfmark end'
+      y: 10pt
+      push:
+        push:
+          right: 201.944946pt
+          xxx: 'ps:SDict begin H.S end'
+          xxx: 'ps:SDict begin 10.5 H.A end'
+          xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.1) cvn /DEST pdfmark end'
+          fnt: ecbx0900 at 9pt
+          set: '1.'
+        pop:
+        right: 220.873657pt
+        set: 'INTR'
+        right: -0.295776pt
+        set: 'ODUCTION'
+      pop:
+      down: 25.726364pt
+      push:
+        right: 10pt
+        fnt: ecrm1000 at 10pt
+        set: '//'
+        w: 3.332520pt
+        set: 'no'
+        right: -0.277710pt
+        set: 'w'
+        w0:
+        set: 'bib'
+        w0:
+        set: 'can'
+        w0:
+        set: 'b'
+        right: 0.277710pt
+        set: 'e'
+        w0:
+        set: 'included'
+      pop:
+      down: 87.797791pt
+      push:
+        push:
+          push:
+            down: -26.698486pt
+            push:
+              down: -45.599915pt
+              xxx: 'color push gray 0'
+              xxx: 'color push gray 0'
+              down: 45.599915pt
+              push:
+                down: -20.549957pt
+                push:
+                  push:
+                    right: 54.550705pt
+                    down: -24.649963pt
+                    putrule: 0.399994pt 400.898605pt
+                    y: 7.349960pt
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        fnt: ecrm0900 at 9pt
+                        set: 'Ingredien'
+                        right: -0.256897pt
+                        set: 't'
+                        right: 2.506744pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 51.167023pt
+                        set: 'grams'
+                        fnt: cmmi9 at 9pt
+                        set: '='
+                        fnt: ecrm0900 at 9pt
+                        set: 'mole'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 103.423782pt
+                        set: 'grams'
+                        fnt: cmmi9 at 9pt
+                        set: '='
+                        fnt: ecrm0900 at 9pt
+                        set: '('
+                        fnt: cmr9 at 9pt
+                        set: '1'
+                        fnt: cmmi9 at 9pt
+                        set: '='
+                        fnt: cmr9 at 9pt
+                        set: '4'
+                        fnt: ecrm0900 at 9pt
+                        set: ')'
+                        right: 3.082581pt
+                        set: 'tsp'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 173.199631pt
+                        set: 'meq/qtr'
+                        right: 3.082581pt
+                        set: 'tsp'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 226.482788pt
+                        set: 'Amoun'
+                        right: -0.256897pt
+                        set: 't(tsp)'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 358.113388pt
+                        set: 'commen'
+                        right: -0.256897pt
+                        set: 'ts'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    z: 3.550018pt
+                    putrule: 0.399994pt 400.898605pt
+                    y0:
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'K'
+                        right: -0.256897pt
+                        set: 'Cl'
+                        right: 27.452057pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 64.878525pt
+                        fnt: cmr9 at 9pt
+                        set: '74'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 2.149307pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 156.980255pt
+                        fnt: cmr9 at 9pt
+                        set: '1'
+                        fnt: cmmi9 at 9pt
+                        set: ':'
+                        fnt: cmr9 at 9pt
+                        set: '1'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 212.835037pt
+                        fnt: ecrm0900 at 9pt
+                        set: '15'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 267.119980pt
+                        set: '.25'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 400.498611pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    y: 10.499985pt
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'CitricA'
+                        right: -0.256897pt
+                        set: 'cid'
+                        right: 2pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 60.253555pt
+                        fnt: cmr9 at 9pt
+                        set: '210'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 2.149307pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 164.175751pt
+                        fnt: ecrm0900 at 9pt
+                        set: '1'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 217.458908pt
+                        set: '5'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 267.119980pt
+                        set: '.25'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 400.498611pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    y0:
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'T'
+                        right: -0.770660pt
+                        set: 'aurine'
+                        right: 12.527222pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 48.434189pt
+                        fnt: cmr9 at 9pt
+                        set: '125'
+                        fnt: cmmi9 at 9pt
+                        set: ':'
+                        fnt: cmr9 at 9pt
+                        set: '14'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 2.149307pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 152.359192pt
+                        fnt: ecrm0900 at 9pt
+                        set: '2.16'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 212.835037pt
+                        set: '17'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 271.743851pt
+                        set: '.1'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 283.336548pt
+                        set: 'calculated'
+                        w: 3.082581pt
+                        set: 'from'
+                        w0:
+                        set: 'bulk'
+                        w0:
+                        set: 'densit'
+                        right: -0.256897pt
+                        set: 'y'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    z0:
+                    putrule: 0.399994pt 400.898605pt
+                    down: 2.399994pt
+                    putrule: 0.399994pt 400.898605pt
+                  pop:
+                pop:
+              pop:
+              xxx: 'color pop'
+            pop:
+            xxx: 'color pop'
+            y0:
+            push:
+              xxx: 'color push gray 0'
+              down: 6.198486pt
+              push:
+                set: 'T'
+                right: -0.770660pt
+                set: 'ABLE'
+                w: 2.896759pt
+                set: 'I:'
+                w0:
+                xxx: 'color push gray 0'
+                xxx: 'ps:SDict begin H.S end'
+                xxx: 'ps:SDict begin H.R end'
+                xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (table.1) cvn /DEST pdfmark end'
+                xxx: 'color pop'
+                w0:
+                set: 'GI'
+                right: 2.896576pt
+                set: 'crud'
+                w0:
+                set: 'remo'
+                w: -0.256897pt
+                set: 'v'
+                right: -0.513779pt
+                set: 'al:'
+                right: 4.017197pt
+                set: 'h'
+                w0:
+                set: 'yp'
+                w: 0.256882pt
+                set: 'o'
+                w0:
+                set: 'c'
+                w: -0.256897pt
+                set: 'hlorh'
+                w0:
+                set: 'ydria'
+                w: 2.896759pt
+                set: 'and'
+                x: 2.896774pt
+                set: 'pancreatic'
+                w0:
+                set: 'calci\x1ccation.'
+                right: 4.048157pt
+                set: 'With'
+                w0:
+                set: 'fo'
+                w: 0.256882pt
+                set: 'o'
+                w0:
+                set: 'd'
+                x0:
+                set: 'to'
+                w: 2.896759pt
+                set: 'aid'
+                w0:
+                set: 'digestion'
+                w0:
+                set: 'enzymes'
+                w0:
+                set: 'and'
+                w0:
+                set: 'em'
+                right: -0.256897pt
+                set: 'ulsi\x1cca-'
+              pop:
+              down: 10.500000pt
+              push:
+                set: 'tion.'
+                right: 4.110107pt
+                set: 'Without'
+                w: 3.082581pt
+                set: 'meals'
+                w0:
+                set: 'to'
+                w0:
+                set: 'dissolv'
+                right: -0.256897pt
+                set: 'e'
+                w0:
+                set: 'mineralizations.'
+              pop:
+            pop:
+            down: 16.698486pt
+            xxx: 'color pop'
+          pop:
+        pop:
+      pop:
+      down: 23.500000pt
+      push:
+        right: 10pt
+        fnt: ecrm1000 at 10pt
+        set: 'Best'
+        w: 4.416580pt
+        set: 'I'
+        right: 4.415497pt
+        set: 'can'
+        w0:
+        set: 'come'
+        w0:
+        set: 'up'
+        w0:
+        set: 'with'
+        x: 4.416595pt
+        set: 'is'
+        w0:
+        set: 'RD'
+        right: -0.277710pt
+        set: 'A'
+        right: 4.415482pt
+        set: 'for'
+        x0:
+        set: 'dogs'
+        w0:
+        set: 'is'
+        w0:
+        set: 'b'
+        right: 0.277710pt
+        set: 'et'
+        w: -0.277710pt
+        set: 'w'
+        w0:
+        set: 'een'
+        x: 4.416580pt
+        fnt: cmr10 at 10pt
+        set: '50'
+        w: 2.945038pt
+        fnt: cmsy10 at 10pt
+        set: '\x00'
+        w0:
+        fnt: cmr10 at 10pt
+        set: '100'
+        fnt: cmmi10 at 10pt
+        set: 'mg'
+        w: 0.358780pt
+        set: '=k'
+        right: 0.314804pt
+        set: 'g'
+        w0:
+        set: '=day'
+        right: 4.775360pt
+        fnt: ecrm1000 at 10pt
+        set: 'or'
+        x0:
+        set: 'all'
+        w: 4.416595pt
+        set: 'from'
+        x0:
+        set: 'K'
+        right: -0.277710pt
+        set: 'Cl,'
+        right: 4.687592pt
+        set: 'for'
+        w0:
+        set: 'a'
+        x0:
+        set: '5kg'
+        x0:
+        set: 'Hershey'
+        right: -0.833130pt
+        set: ','
+      pop:
+      y: 11.500000pt
+      push:
+        set: '250-500mg'
+        w: 3.227463pt
+        set: 'or'
+        x: 3.227448pt
+        set: 'up'
+        w0:
+        set: 'to'
+        w0:
+        set: 'a'
+        x0:
+        set: '1/4'
+        w0:
+        set: 'sp'
+        w: 0.277710pt
+        set: 'o'
+        w0:
+        set: 'on'
+        w: 3.227463pt
+        set: 'full'
+        w0:
+        set: 'whic'
+        right: -0.277710pt
+        set: 'h'
+        x0:
+        set: 'sounds'
+        w0:
+        set: 'lik'
+        right: -0.277710pt
+        set: 'e'
+        w0:
+        set: 'an'
+        x0:
+        set: 'a'
+        x: -0.277710pt
+        set: 'wful'
+        w0:
+        set: 'lot.'
+        right: 4.408340pt
+        set: 'A'
+        x0:
+        set: 't'
+        w0:
+        set: '.6'
+        right: 3.227448pt
+        set: 'p'
+        right: 0.277710pt
+        set: 'ercen'
+        x0:
+        set: 't'
+        w0:
+        set: 'of'
+        w0:
+        set: 'dry'
+        right: 3.227448pt
+        set: 'matter'
+        w0:
+        set: 'b'
+        x0:
+        set: 'y'
+        w0:
+        set: 'v'
+        x0:
+        set: 'olume,'
+        right: 3.248474pt
+        set: 'that'
+        right: 3.227448pt
+        set: 'is'
+        w0:
+        set: 'a'
+      pop:
+      y0:
+      push:
+        set: 'lot'
+        w: 3.332520pt
+        set: 'of'
+        w0:
+        set: 'fo'
+        w: 0.277710pt
+        set: 'o'
+        w0:
+        set: 'd.'
+        right: 4.443359pt
+        set: 'Although'
+        right: 3.332520pt
+        fnt: cmmi10 at 10pt
+        set: ':'
+        fnt: cmr10 at 10pt
+        set: '5'
+        fnt: cmmi10 at 10pt
+        set: 'g'
+        x: 0.358780pt
+        set: 'r'
+        right: 0.277786pt
+        set: 'ams=:'
+        fnt: cmr10 at 10pt
+        set: '006'
+        w: 2.777710pt
+        set: '='
+        w0:
+        set: '5'
+        fnt: cmmi10 at 10pt
+        set: '='
+        fnt: cmr10 at 10pt
+        set: '6'
+        w: 2.222168pt
+        fnt: cmsy10 at 10pt
+        set: '\x03'
+        w0:
+        fnt: cmr10 at 10pt
+        set: '100'
+        w: 2.777710pt
+        set: '='
+        w0:
+        set: '80'
+        fnt: cmmi10 at 10pt
+        set: 'g'
+        x0:
+        set: 'r'
+        right: 0.277786pt
+        set: 'ams'
+        w: 3.332520pt
+        fnt: ecrm1000 at 10pt
+        set: 'whic'
+        right: -0.277710pt
+        set: 'h'
+        w0:
+        set: 'I'
+        w0:
+        set: 'guess'
+        w0:
+        set: 'is'
+        w0:
+        set: 'reasonable.'
+      pop:
+      down: 108.947922pt
+      push:
+        push:
+          push:
+            down: -17.948059pt
+            push:
+              down: -75.499863pt
+              xxx: 'color push gray 0'
+              xxx: 'color push gray 0'
+              down: 75.499863pt
+              push:
+                down: -35.499924pt
+                push:
+                  push:
+                    right: 103.810226pt
+                    down: -39.599945pt
+                    putrule: 0.399994pt 302.379562pt
+                    y: 7.349960pt
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        fnt: ecrm0900 at 9pt
+                        set: 'Ingredien'
+                        right: -0.256897pt
+                        set: 't'
+                        right: 31.769730pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 84.278580pt
+                        set: 'grams'
+                        fnt: cmmi9 at 9pt
+                        set: '='
+                        fnt: ecrm0900 at 9pt
+                        set: 'mole'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 136.535339pt
+                        set: 'grams'
+                        fnt: cmmi9 at 9pt
+                        set: '='
+                        fnt: ecrm0900 at 9pt
+                        set: '('
+                        fnt: cmr9 at 9pt
+                        set: '1'
+                        fnt: cmmi9 at 9pt
+                        set: '='
+                        fnt: cmr9 at 9pt
+                        set: '4'
+                        fnt: ecrm0900 at 9pt
+                        set: ')'
+                        right: 3.082581pt
+                        set: 'tsp'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 206.311188pt
+                        set: 'meq/qtr'
+                        right: 3.082581pt
+                        set: 'tsp'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 259.594345pt
+                        set: 'commen'
+                        right: -0.256897pt
+                        set: 'ts'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    z: 3.550018pt
+                    putrule: 0.399994pt 302.379562pt
+                    y0:
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'K'
+                        right: -0.256897pt
+                        set: 'Cl'
+                        right: 56.715042pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 97.990082pt
+                        fnt: cmr9 at 9pt
+                        set: '74'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 2.149307pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 190.091812pt
+                        fnt: cmr9 at 9pt
+                        set: '1'
+                        fnt: cmmi9 at 9pt
+                        set: ':'
+                        fnt: cmr9 at 9pt
+                        set: '1'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 245.946594pt
+                        fnt: ecrm0900 at 9pt
+                        set: '15'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 301.979568pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    y: 10.499985pt
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'K'
+                        right: -0.256897pt
+                        set: 'Cl'
+                        right: 56.715042pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 82.322144pt
+                        fnt: cmr9 at 9pt
+                        set: '39'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 0.149307pt
+                        fnt: cmr9 at 9pt
+                        set: '('
+                        fnt: cmmi9 at 9pt
+                        set: 'K'
+                        right: 0.640259pt
+                        fnt: cmr9 at 9pt
+                        set: ')'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 172.625290pt
+                        fnt: cmmi9 at 9pt
+                        set: ':'
+                        fnt: cmr9 at 9pt
+                        set: '58'
+                        right: 3.082581pt
+                        fnt: ecrm0900 at 9pt
+                        set: '(K)'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 228.480072pt
+                        set: '15'
+                        right: 3.082581pt
+                        set: '(K)'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 301.979568pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    y0:
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'K'
+                        right: -0.256897pt
+                        set: 'Cl'
+                        right: 56.715042pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 80.643112pt
+                        fnt: cmr9 at 9pt
+                        set: '35'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        w: 0.149307pt
+                        fnt: cmr9 at 9pt
+                        set: '('
+                        fnt: cmmi9 at 9pt
+                        set: 'C'
+                        right: 0.640259pt
+                        set: 'l'
+                        w0:
+                        fnt: cmr9 at 9pt
+                        set: ')'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 170.568848pt
+                        fnt: cmmi9 at 9pt
+                        set: ':'
+                        fnt: cmr9 at 9pt
+                        set: '52'
+                        right: 3.082581pt
+                        fnt: ecrm0900 at 9pt
+                        set: '(Cl)'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 226.423630pt
+                        set: '15'
+                        right: 3.082581pt
+                        set: '(Cl)'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 301.979568pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    z0:
+                    putrule: 0.399994pt 302.379562pt
+                    y: 7.349960pt
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'CitricA'
+                        right: -0.256897pt
+                        set: 'cid'
+                        right: 31.262985pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 93.365112pt
+                        fnt: cmr9 at 9pt
+                        set: '210'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 2.149307pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 197.287308pt
+                        fnt: ecrm0900 at 9pt
+                        set: '1'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 250.570465pt
+                        set: '5'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 301.979568pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    z0:
+                    putrule: 0.399994pt 302.379562pt
+                    y0:
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        set: 'P'
+                        right: -0.256897pt
+                        set: 'otassium'
+                        right: 3.082581pt
+                        set: 'citrate'
+                        right: 2pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 93.365112pt
+                        fnt: cmr9 at 9pt
+                        set: '306'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 2.149307pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 203.911179pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 257.194336pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 301.979568pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    down: 10.499985pt
+                    push:
+                      push:
+                        y: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                        right: 2.000015pt
+                        down: -3.150024pt
+                        fnt: ecrm0900 at 9pt
+                        set: 'P'
+                        right: -0.256897pt
+                        set: 'otassium'
+                        right: 3.082581pt
+                        set: 'citrate'
+                        right: 2pt
+                        y0:
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 77.697174pt
+                        fnt: cmr9 at 9pt
+                        set: '102'
+                        fnt: cmmi9 at 9pt
+                        set: 'g'
+                        right: 0.322906pt
+                        set: '=mol'
+                        right: 0.149307pt
+                        fnt: cmr9 at 9pt
+                        set: '('
+                        fnt: cmmi9 at 9pt
+                        set: 'K'
+                        right: 0.640259pt
+                        fnt: cmr9 at 9pt
+                        set: ')'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 203.911179pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 257.194336pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 301.979568pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    z0:
+                    putrule: 0.399994pt 302.379562pt
+                  pop:
+                pop:
+              pop:
+              xxx: 'color pop'
+            pop:
+            xxx: 'color pop'
+            down: 10pt
+            push:
+              xxx: 'color push gray 0'
+              down: 6.198486pt
+              push:
+                right: 111.512604pt
+                xxx: 'color push gray 0'
+                fnt: ecrm0900 at 9pt
+                set: 'T'
+                right: -0.770660pt
+                set: 'ABLE'
+                w: 3.082581pt
+                set: 'I'
+                right: 0.256882pt
+                set: 'I:'
+                w0:
+                xxx: 'color push gray 0'
+                xxx: 'ps:SDict begin H.S end'
+                xxx: 'ps:SDict begin H.R end'
+                xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (table.2) cvn /DEST pdfmark end'
+                xxx: 'color pop'
+                set: 'Densit'
+                x: -0.256897pt
+                set: 'y'
+                w0:
+                set: 'and'
+                w0:
+                set: 'molecular'
+                w0:
+                set: 'w'
+                x0:
+                set: 'eigh'
+                x0:
+                set: 'ts'
+                w0:
+                set: 'of'
+                w0:
+                set: 'some'
+                w0:
+                set: 'of'
+                w0:
+                set: 'the'
+                w0:
+                set: 'supplemen'
+                x0:
+                set: 'ts'
+                w0:
+                xxx: 'color pop'
+              pop:
+            pop:
+            down: 7.948059pt
+            xxx: 'color pop'
+          pop:
+        pop:
+      pop:
+      down: 152.658142pt
+      push:
+        push:
+          push:
+            down: -17.948059pt
+            push:
+              down: -109.710083pt
+              xxx: 'color push gray 0'
+              xxx: 'color push gray 0'
+              down: 109.710083pt
+              push:
+                down: -52.605042pt
+                push:
+                  push:
+                    down: -20.716125pt
+                    push:
+                      push:
+                        down: -35.988922pt
+                        putrule: 0.399994pt 379.385773pt
+                        y: 7.349960pt
+                        push:
+                          push:
+                            y: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                            right: 2.000015pt
+                            down: -3.150024pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'otassium'
+                            right: 3.082581pt
+                            set: 'citrate'
+                            right: 2pt
+                            y0:
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 108.443878pt
+                            set: 'treatmen'
+                            right: -0.256897pt
+                            set: 't'
+                            right: 3.082581pt
+                            set: 'dogs'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 264.515747pt
+                            fnt: cmr9 at 9pt
+                            set: '150'
+                            fnt: cmmi9 at 9pt
+                            set: 'mg'
+                            w: 0.322906pt
+                            set: '=k'
+                            right: 0.263885pt
+                            set: 'g'
+                            w0:
+                            set: '=day'
+                            right: 2.322906pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 367.224274pt
+                            fnt: ecrm0900 at 9pt
+                            set: '['
+                            push:
+                              push:
+                                xxx: 'color push rgb 0 1 0'
+                                xxx: 'ps:SDict begin H.S end'
+                                set: '2'
+                                xxx: 'ps:SDict begin 0 H.L end'
+                                xxx: 'ps:SDict begin [/Subtype /Link/Dest (cite.Stevenson2000EffectsOD) cvn/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 0] H.B /ANN pdfmark end'
+                                xxx: 'color pop'
+                              pop:
+                            pop:
+                            right: 4.623871pt
+                            set: ']'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                        pop:
+                        down: 10.499985pt
+                        push:
+                          push:
+                            y: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                            right: 2.000015pt
+                            down: -3.150024pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'otassium'
+                            right: 3.082581pt
+                            set: 'citrate'
+                            right: 2pt
+                            y0:
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 108.443878pt
+                            set: 'treatmen'
+                            right: -0.256897pt
+                            set: 't'
+                            right: 3.082581pt
+                            set: 'dogs'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 173.803925pt
+                            fnt: cmr9 at 9pt
+                            set: '680'
+                            fnt: cmmi9 at 9pt
+                            set: 'mg'
+                            right: 2.378448pt
+                            fnt: cmsy9 at 9pt
+                            set: '\x03'
+                            right: 2.055542pt
+                            fnt: cmr9 at 9pt
+                            set: '2'
+                            fnt: cmmi9 at 9pt
+                            set: '='
+                            fnt: cmr9 at 9pt
+                            set: '9'
+                            fnt: cmmi9 at 9pt
+                            set: 'k'
+                            x: 0.263885pt
+                            set: 'g'
+                            w: 0.322906pt
+                            set: '=day'
+                            right: 2.892334pt
+                            fnt: cmr9 at 9pt
+                            set: '='
+                            right: 2.569427pt
+                            set: '151'
+                            fnt: cmmi9 at 9pt
+                            set: 'mg'
+                            w0:
+                            set: '=k'
+                            x0:
+                            set: 'g'
+                            w0:
+                            set: '=day'
+                            right: 2.322906pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 339.700043pt
+                            fnt: ecrm0900 at 9pt
+                            set: 'Pro'
+                            right: 0.256882pt
+                            set: 'duct'
+                            push:
+                              push:
+                                down: -3.823288pt
+                                fnt: ecti0600 at 6pt
+                                set: 'a'
+                              pop:
+                            pop:
+                            right: 6.513229pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                        pop:
+                        z: 3.550018pt
+                        putrule: 0.399994pt 379.385773pt
+                        down: 2.399994pt
+                        putrule: 0.399994pt 379.385773pt
+                        y0:
+                        push:
+                          push:
+                            y: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                            right: 2.000015pt
+                            down: -3.150024pt
+                            fnt: ecrm0900 at 9pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'otassium'
+                            right: 31.308762pt
+                            y0:
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 77.697174pt
+                            set: 'minim'
+                            w: -0.256897pt
+                            set: 'um'
+                            x: 3.082581pt
+                            set: 'h'
+                            w0:
+                            set: 'uman'
+                            x0:
+                            set: 'daily'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 270.635773pt
+                            fnt: cmr9 at 9pt
+                            set: '1'
+                            fnt: cmmi9 at 9pt
+                            set: ':'
+                            fnt: cmr9 at 9pt
+                            set: '6'
+                            w: 2.055542pt
+                            fnt: cmsy9 at 9pt
+                            set: '\x00'
+                            w0:
+                            fnt: cmr9 at 9pt
+                            set: '2'
+                            fnt: cmmi9 at 9pt
+                            set: 'g'
+                            right: 0.322906pt
+                            set: 'r'
+                            right: 0.256943pt
+                            set: 'ams'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 367.224274pt
+                            fnt: ecrm0900 at 9pt
+                            set: '['
+                            push:
+                              push:
+                                xxx: 'color push rgb 0 1 0'
+                                xxx: 'ps:SDict begin H.S end'
+                                set: '1'
+                                xxx: 'ps:SDict begin 0 H.L end'
+                                xxx: 'ps:SDict begin [/Subtype /Link/Dest (cite.Cohn_2000) cvn/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 0] H.B /ANN pdfmark end'
+                                xxx: 'color pop'
+                              pop:
+                            pop:
+                            right: 4.623871pt
+                            set: ']'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                        pop:
+                        z0:
+                        putrule: 0.399994pt 379.385773pt
+                        down: 7.988937pt
+                        push:
+                          push:
+                            y: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                            right: 2.000015pt
+                            down: -3.150024pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'otassium'
+                            right: 31.308762pt
+                            y0:
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                          push:
+                            right: 131.388229pt
+                            set: 'dog'
+                            right: 3.082581pt
+                            set: 'RD'
+                            right: -0.256897pt
+                            set: 'A'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                          push:
+                            right: 197.369751pt
+                            fnt: cmr9 at 9pt
+                            set: '1'
+                            fnt: cmmi9 at 9pt
+                            set: 'g'
+                            w: 0.322906pt
+                            set: '=day'
+                            w0:
+                            set: '='
+                            fnt: cmr9 at 9pt
+                            set: '16'
+                            fnt: cmmi9 at 9pt
+                            set: 'k'
+                            x: 0.263885pt
+                            set: 'g'
+                            right: 2.892334pt
+                            fnt: cmsy9 at 9pt
+                            set: '\x19'
+                            right: 2.569427pt
+                            fnt: cmr9 at 9pt
+                            set: '62'
+                            fnt: cmmi9 at 9pt
+                            set: ':'
+                            fnt: cmr9 at 9pt
+                            set: '5'
+                            fnt: cmmi9 at 9pt
+                            set: 'mg'
+                            w0:
+                            set: '=k'
+                            x0:
+                            set: 'g'
+                            w0:
+                            set: '=day'
+                            right: 2.322906pt
+                            down: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                          push:
+                            right: 331.811874pt
+                            fnt: ecrm0900 at 9pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'et'
+                            right: 3.082581pt
+                            set: 'Guide'
+                            push:
+                              push:
+                                down: -3.823288pt
+                                fnt: ecti0600 at 6pt
+                                set: 'b'
+                              pop:
+                            pop:
+                            right: 6.131165pt
+                            down: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                        pop:
+                        down: 10.499985pt
+                        push:
+                          push:
+                            y: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                            right: 2.000015pt
+                            down: -3.150024pt
+                            fnt: ecrm0900 at 9pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'otassium'
+                            right: 31.308762pt
+                            y0:
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 131.388229pt
+                            set: 'dog'
+                            right: 3.082581pt
+                            set: 'RD'
+                            right: -0.256897pt
+                            set: 'A'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 203.195007pt
+                            fnt: cmr9 at 9pt
+                            set: '1'
+                            fnt: cmmi9 at 9pt
+                            set: 'g'
+                            w: 0.322906pt
+                            set: '=day'
+                            w0:
+                            set: '='
+                            fnt: cmr9 at 9pt
+                            set: '30'
+                            fnt: cmmi9 at 9pt
+                            set: 'l'
+                            right: 0.149307pt
+                            set: 'bs'
+                            w: 2.569427pt
+                            fnt: cmsy9 at 9pt
+                            set: '\x19'
+                            w0:
+                            fnt: cmr9 at 9pt
+                            set: '73'
+                            fnt: cmmi9 at 9pt
+                            set: 'mg'
+                            w: 0.322906pt
+                            set: '=k'
+                            right: 0.263885pt
+                            set: 'g'
+                            w0:
+                            set: '=day'
+                            right: 2.322906pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                          push:
+                            right: 329.308334pt
+                            fnt: ecrm0900 at 9pt
+                            set: 'W'
+                            right: -0.770660pt
+                            set: 'eb'
+                            w: 3.082581pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'age'
+                            push:
+                              push:
+                                w0:
+                                down: -3.823288pt
+                                fnt: ecti0600 at 6pt
+                                set: 'c'
+                              pop:
+                            pop:
+                            right: 9.213745pt
+                            down: 3.150024pt
+                            setrule: 10.499985pt 0.399994pt
+                          pop:
+                        pop:
+                        down: 11.138962pt
+                        push:
+                          push:
+                            y: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                            right: 2.000015pt
+                            down: -3.150024pt
+                            fnt: ecrm0900 at 9pt
+                            set: 'P'
+                            right: -0.256897pt
+                            set: 'otassium'
+                            right: 31.308762pt
+                            y0:
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                          push:
+                            right: 127.740524pt
+                            set: 'dogs'
+                            right: 3.082581pt
+                            set: 'RD'
+                            right: -0.256897pt
+                            set: 'A'
+                            right: 2pt
+                            down: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                          push:
+                            right: 214.420624pt
+                            fnt: cmr9 at 9pt
+                            set: '1'
+                            fnt: cmmi9 at 9pt
+                            set: ':'
+                            fnt: cmr9 at 9pt
+                            set: '5'
+                            fnt: cmmi9 at 9pt
+                            set: 'g'
+                            w: 0.322906pt
+                            set: '='
+                            right: -0.513885pt
+                            set: 'M'
+                            right: 0.972229pt
+                            set: 'cal'
+                            right: 2.718735pt
+                            fnt: cmsy9 at 9pt
+                            set: '\x19'
+                            right: 2.569427pt
+                            fnt: cmr9 at 9pt
+                            set: '90'
+                            fnt: cmmi9 at 9pt
+                            set: 'mg'
+                            w0:
+                            set: '=k'
+                            right: 0.263885pt
+                            set: 'g'
+                            w0:
+                            set: '=day'
+                            right: 2.322906pt
+                            down: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                          push:
+                            right: 335.870438pt
+                            fnt: ecrm0900 at 9pt
+                            set: 'AAF'
+                            right: -0.256897pt
+                            set: 'CO'
+                            push:
+                              push:
+                                right: 3.082581pt
+                                down: -3.823288pt
+                                fnt: ecti0600 at 6pt
+                                set: 'd'
+                              pop:
+                            pop:
+                            right: 9.595810pt
+                            down: 3.150024pt
+                            setrule: 11.138962pt 0.399994pt
+                          pop:
+                        pop:
+                        z0:
+                        putrule: 0.399994pt 379.385773pt
+                      pop:
+                    pop:
+                    down: 42.388916pt
+                    push:
+                      push:
+                        xxx: 'ps:SDict begin H.S end'
+                        xxx: 'ps:SDict begin 9.5 H.A end'
+                        xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+                        push:
+                          push:
+                            right: 1.152054pt
+                            down: -2.823334pt
+                            set: 'a'
+                          pop:
+                        pop:
+                      pop:
+                      right: 8.497925pt
+                      fnt: ecrm0800 at 8pt
+                      set: 'see'
+                      right: 2.832642pt
+                      xxx: 'color push cmyk 0 1 0 0'
+                      push:
+                        down: 1.777344pt
+                        xxx: 'ps:SDict begin H.S end'
+                      pop:
+                      push:
+                        xxx: 'color push cmyk 0 1 0 0'
+                        fnt: ectt0800 at 8pt
+                        set: 'https://www.chewy.com/k-'
+                        w: 0.500000pt
+                        set: 'plus-'
+                        w0:
+                        set: 'potassium-'
+                        w0:
+                        set: 'citrate-'
+                        w0:
+                        set: 'plus/dp/112519'
+                        xxx: 'color pop'
+                      pop:
+                      push:
+                        right: 261.186707pt
+                        down: -5.554199pt
+                        xxx: 'ps:SDict begin H.R end'
+                      pop:
+                      right: 261.186707pt
+                      xxx: 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://www.chewy.com/k-plus-potassium-citrate-plus/dp/112519\\040)>>/Subtype /Link H.B /ANN pdfmark end'
+                      xxx: 'color pop'
+                    pop:
+                    y: 9.839005pt
+                    push:
+                      push:
+                        xxx: 'ps:SDict begin H.S end'
+                        xxx: 'ps:SDict begin 9.5 H.A end'
+                        xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+                        push:
+                          push:
+                            right: 1.534119pt
+                            down: -2.823334pt
+                            fnt: ecti0600 at 6pt
+                            set: 'b'
+                          pop:
+                        pop:
+                      pop:
+                      right: 8.497925pt
+                      xxx: 'color push cmyk 0 1 0 0'
+                      push:
+                        down: 1.777344pt
+                        xxx: 'ps:SDict begin H.S end'
+                      pop:
+                      push:
+                        xxx: 'color push cmyk 0 1 0 0'
+                        fnt: ectt0800 at 8pt
+                        set: 'http://dels.nas.edu/resources/static-'
+                        right: 0.500000pt
+                        set: 'assets/banr/miscellaneous/dog_nutrition_final_fix.pdf'
+                        xxx: 'color pop'
+                      pop:
+                      push:
+                        right: 382.906616pt
+                        down: -5.554199pt
+                        xxx: 'ps:SDict begin H.R end'
+                      pop:
+                      right: 382.906616pt
+                      xxx: 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(http://dels.nas.edu/resources/static-assets/banr/miscellaneous/dog_nutrition_final_fix.pdf)>>/Subtype /Link H.B /ANN pdfmark end'
+                      xxx: 'color pop'
+                    pop:
+                    down: 8.404221pt
+                    push:
+                      push:
+                        xxx: 'ps:SDict begin H.S end'
+                        xxx: 'ps:SDict begin 9.5 H.A end'
+                        xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+                        push:
+                          push:
+                            right: 1.534119pt
+                            down: -2.823334pt
+                            fnt: ecti0600 at 6pt
+                            set: 'c'
+                          pop:
+                        pop:
+                      pop:
+                      right: 8.497925pt
+                      xxx: 'color push cmyk 0 1 0 0'
+                      push:
+                        down: 1.777344pt
+                        xxx: 'ps:SDict begin H.S end'
+                      pop:
+                      push:
+                        xxx: 'color push cmyk 0 1 0 0'
+                        fnt: ectt0800 at 8pt
+                        set: 'https://www.vetinfo.com/daily-'
+                        w: 0.500000pt
+                        set: 'nutritional-'
+                        w0:
+                        set: 'requirements-'
+                        w0:
+                        set: 'for-'
+                        w0:
+                        set: 'dogs.html'
+                        xxx: 'color pop'
+                      pop:
+                      push:
+                        right: 290.929443pt
+                        down: -5.554199pt
+                        xxx: 'ps:SDict begin H.R end'
+                      pop:
+                      right: 290.929443pt
+                      xxx: 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://www.vetinfo.com/daily-nutritional-requirements-for-dogs.html)>>/Subtype /Link H.B /ANN pdfmark end'
+                      xxx: 'color pop'
+                    pop:
+                    y0:
+                    push:
+                      push:
+                        xxx: 'ps:SDict begin H.S end'
+                        xxx: 'ps:SDict begin 9.5 H.A end'
+                        xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (footnote@0) cvn /DEST pdfmark end'
+                        push:
+                          push:
+                            right: 1.152054pt
+                            down: -2.823334pt
+                            fnt: ecti0600 at 6pt
+                            set: 'd'
+                          pop:
+                        pop:
+                      pop:
+                      right: 8.497925pt
+                      xxx: 'color push cmyk 0 1 0 0'
+                      push:
+                        down: 1.777344pt
+                        xxx: 'ps:SDict begin H.S end'
+                      pop:
+                      push:
+                        xxx: 'color push cmyk 0 1 0 0'
+                        fnt: ectt0800 at 8pt
+                        set: 'https://www.aafco.org/Portals/0/SiteContent/Regulatory/Committees/Pet-'
+                        w: 0.500000pt
+                        set: 'Food/Reports/Pet_Food_Report_2013_Midyear-'
+                        w0:
+                        set: 'Proposed_Revisions_to_AAFCO_Nutrient_Profiles.pdf'
+                        xxx: 'color pop'
+                      pop:
+                      push:
+                        right: 685.082947pt
+                        down: -5.554199pt
+                        xxx: 'ps:SDict begin H.R end'
+                      pop:
+                      right: 685.082947pt
+                      xxx: 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(\\040https://www.aafco.org/Portals/0/SiteContent/Regulatory/Committees/Pet-Food/Reports/Pet_Food_Report_2013_Midyear-Proposed_Revisions_to_AAFCO_Nutrient_Profiles.pdf)>>/Subtype /Link H.B /ANN pdfmark end'
+                      xxx: 'color pop'
+                    pop:
+                  pop:
+                pop:
+              pop:
+              xxx: 'color pop'
+            pop:
+            xxx: 'color pop'
+            down: 10pt
+            push:
+              xxx: 'color push gray 0'
+              down: 6.198486pt
+              push:
+                right: 53.048813pt
+                xxx: 'color push gray 0'
+                fnt: ecrm0900 at 9pt
+                set: 'T'
+                right: -0.770660pt
+                set: 'ABLE'
+                x: 3.082581pt
+                set: 'I'
+                w: 0.256882pt
+                set: 'I'
+                w0:
+                set: 'I:'
+                x0:
+                xxx: 'color push gray 0'
+                xxx: 'ps:SDict begin H.S end'
+                xxx: 'ps:SDict begin H.R end'
+                xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (table.3) cvn /DEST pdfmark end'
+                xxx: 'color pop'
+                x0:
+                set: 'Some'
+                x0:
+                set: 'common'
+                x0:
+                set: 'n'
+                w: -0.256897pt
+                set: 'um'
+                w0:
+                set: 'b'
+                w: 0.256882pt
+                set: 'ers'
+                x0:
+                set: 'for'
+                x0:
+                set: 'p'
+                w0:
+                set: 'otassium'
+                x0:
+                set: 'con'
+                right: -0.256897pt
+                set: 'taining'
+                x0:
+                set: 'drug'
+                x0:
+                set: 'doses'
+                x0:
+                set: 'under'
+                x0:
+                set: 'v'
+                right: -0.513779pt
+                set: 'arious'
+                x0:
+                set: 'conditions'
+                x0:
+                xxx: 'color pop'
+              pop:
+            pop:
+            down: 7.948059pt
+            xxx: 'color pop'
+          pop:
+        pop:
+      pop:
+    pop:
+    down: 30pt
+    push:
+      right: -18.067490pt
+      xxx: 'color push gray 0'
+      push:
+        push:
+          push:
+            push:
+              push:
+                push:
+                  right: 252.500610pt
+                  fnt: ecrm1000 at 10pt
+                  set: '1'
+                pop:
+              pop:
+            pop:
+          pop:
+        pop:
+      pop:
+      right: 510pt
+      xxx: 'color pop'
+    pop:
+  pop:
+pop:
+
+[page 2 0 0 0 0 0 0 0 0 0]
+xxx: 'ps:SDict begin /product where{pop product(Distiller)search{pop pop pop version(.)search{exch pop exch pop(3011)eq{gsave newpath 0 0 moveto closepath clip/Courier findfont 10 scalefont setfont 72 72 moveto(.)show grestore}if}{pop}ifelse}{pop}ifelse}if end'
+push:
+  down: -62.003738pt
+  push:
+    right: -19.071228pt
+    xxx: 'color push gray 0'
+    xxx: 'ps:SDict begin H.S end'
+    xxx: 'ps:SDict begin H.R end'
+    xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (page.2) cvn /DEST pdfmark end'
+    xxx: 'color pop'
+  pop:
+pop:
+down: 682pt
+push:
+  push:
+    down: -718pt
+    push:
+      push:
+        right: -18.067490pt
+        xxx: 'color push gray 0'
+        push:
+          push:
+            push:
+              down: -3.450027pt
+              push:
+                push:
+                  push:
+                    push:
+                      fnt: ecrm1000 at 10pt
+                      set: 'M'
+                      x: 3.332520pt
+                      set: 'Marc'
+                      w: -0.277710pt
+                      set: 'h'
+                      w0:
+                      set: 'ywk'
+                      right: -0.555420pt
+                      set: 'a,'
+                      x0:
+                      set: 'MJM-test-test'
+                    pop:
+                  pop:
+                pop:
+                push:
+                  push:
+                    push:
+                      right: 321.434937pt
+                      set: 'July'
+                      w: 3.332520pt
+                      set: '8,'
+                      w0:
+                      set: '2019'
+                      w0:
+                      set: 'v.'
+                      right: 8.886719pt
+                      set: '0.00'
+                      w0:
+                      set: 'NOT'
+                      w0:
+                      set: 'public'
+                      w0:
+                      set: 'NOTES'
+                    pop:
+                  pop:
+                pop:
+              pop:
+              down: 3.850021pt
+              putrule: 0.399994pt 510pt
+            pop:
+          pop:
+        pop:
+        right: 510pt
+        xxx: 'color pop'
+      pop:
+    pop:
+    down: 688pt
+    push:
+      down: -662pt
+      push:
+        right: -8.067490pt
+        set: '@TECHREPOR'
+        right: -0.833130pt
+        set: 'T{mmarc'
+        w: -0.277710pt
+        set: 'h'
+        w0:
+        set: 'ywk'
+        right: -0.555420pt
+        set: 'a-MJM-test-test,'
+      pop:
+      y: 11.500000pt
+      push:
+        right: -8.067490pt
+        set: 'A'
+        x: -0.277710pt
+        set: 'UTHOR'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{M.J.'
+        w0:
+        set: 'Marc'
+        x0:
+        set: 'h'
+        x0:
+        set: 'ywk'
+        right: -0.555420pt
+        set: 'a},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'TITLE'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{'
+        right: 6.665039pt
+        set: 'Citrate'
+        w0:
+        set: 'Recip'
+        right: 0.277710pt
+        set: 'es'
+        w0:
+        set: '},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'NUMBER'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{MJM-test-test},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'VERSION'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{'
+        w0:
+        set: '0.00'
+        w0:
+        set: '},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'INSTITUTION'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{'
+        w0:
+        set: 'not'
+        w0:
+        set: 'institutionalized'
+        w0:
+        set: ','
+        w0:
+        set: 'indep'
+        right: 0.277710pt
+        set: 'enden'
+        right: -0.277710pt
+        set: 't},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'ADDRESS'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{306'
+        w0:
+        set: 'Charles'
+        w0:
+        set: 'Co'
+        x: -0.277710pt
+        set: 'x'
+        w0:
+        set: ','
+        w0:
+        set: 'Can'
+        x0:
+        set: 'ton'
+        w0:
+        set: 'GA'
+        w0:
+        set: '30115},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'NOTE'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{'
+        w0:
+        set: 'Ma'
+        right: -0.277710pt
+        set: 'y'
+        w0:
+        set: 'b'
+        right: 0.277710pt
+        set: 'e'
+        w0:
+        set: 'recycled'
+        w0:
+        set: 'in'
+        w0:
+        set: 'appropriate'
+        w0:
+        set: 'media'
+        w0:
+        set: '},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'D'
+        right: -0.277710pt
+        set: 'A'
+        right: -0.833130pt
+        set: 'TE'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{July'
+        w0:
+        set: '8,'
+        w0:
+        set: '2019},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'D'
+        right: -0.277710pt
+        set: 'A'
+        right: -0.833130pt
+        set: 'Y'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{05},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'MONTH'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{02},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'YEAR'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{2019},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'A'
+        x: -0.277710pt
+        set: 'UTHOR1EMAIL'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{marc'
+        x0:
+        set: 'h'
+        x0:
+        set: 'ywk'
+        right: -0.555420pt
+        set: 'a@hotmail.com},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'A'
+        right: -0.277710pt
+        set: 'UTHOR1ID'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{orcid.org/0000-0001-9237-455X},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'P'
+        right: -0.833130pt
+        set: 'A'
+        right: -0.277710pt
+        set: 'GES'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{'
+        w0:
+        set: '3'
+        right: 6.665039pt
+        set: '},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'CONT'
+        right: -0.833130pt
+        set: 'A'
+        x: -0.277710pt
+        set: 'CT'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{marc'
+        x0:
+        set: 'h'
+        x0:
+        set: 'ywk'
+        right: -0.555420pt
+        set: 'a@hotmail.com},'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: 'FILENAME'
+        w: 3.332520pt
+        set: '='
+        w0:
+        set: '{texfrag_1}'
+      pop:
+      y0:
+      push:
+        right: -8.067490pt
+        set: '}'
+      pop:
+      down: 33.262283pt
+      push:
+        push:
+          right: 184.688400pt
+          xxx: 'ps:SDict begin H.S end'
+          xxx: 'ps:SDict begin 10.5 H.A end'
+          xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.2) cvn /DEST pdfmark end'
+          fnt: ecbx0900 at 9pt
+          set: '2.'
+        pop:
+        right: 203.617111pt
+        set: 'BIBLIOGRAPHY'
+      pop:
+      down: 40.226364pt
+      push:
+        right: 114.182510pt
+        xxx: 'ps:SDict begin H.S end'
+        xxx: 'ps:SDict begin 26 H.A end'
+        xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.3) cvn /DEST pdfmark end'
+        push:
+          down: 0.250000pt
+          setrule: 0.500000pt 245.500000pt
+          right: -214.812500pt
+          y: 0.125000pt
+          setrule: 0.750000pt 184.125000pt
+          right: -153.437500pt
+          y0:
+          setrule: 1pt 122.750000pt
+          right: -92.062500pt
+          y0:
+          setrule: 1.250000pt 61.375000pt
+        pop:
+      pop:
+      down: 29.500000pt
+      push:
+        push:
+          push:
+            right: -18.067490pt
+            xxx: 'color push gray 0'
+            xxx: 'ps:SDict begin H.S end'
+            fnt: ecrm0900 at 9pt
+            set: '[1]'
+            xxx: 'ps:SDict begin 10.5 H.A end'
+            xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (cite.Cohn_2000) cvn /DEST pdfmark end'
+            xxx: 'color pop'
+          pop:
+        pop:
+        right: -4.305984pt
+        set: 'Ja'
+        w: -0.256897pt
+        set: 'y'
+        x: 8.087402pt
+        set: 'N.'
+        right: 8.087418pt
+        set: 'Cohn,'
+        right: 9.338608pt
+        set: 'P'
+        w0:
+        set: 'eter'
+        x0:
+        set: 'R.'
+        x: 8.087418pt
+        set: 'K'
+        w0:
+        set: 'o'
+        w0:
+        set: 'w'
+        w0:
+        set: 'ey'
+        right: -0.770660pt
+        set: ','
+        right: 9.338593pt
+        set: 'P'
+        w0:
+        set: 'aul'
+        x0:
+        set: 'K.'
+        w: 8.087402pt
+        set: 'Whelton,'
+        right: 9.338608pt
+        set: 'and'
+        w0:
+        set: 'L.'
+        x0:
+        set: 'Mic'
+        x: -0.256897pt
+        set: 'hael'
+        w0:
+        set: 'Prisan'
+        x0:
+        set: 't.'
+        right: 19.014328pt
+        set: 'New'
+        w0:
+        set: 'guidelines'
+        right: 8.087418pt
+        set: 'for'
+        w0:
+        set: 'p'
+        right: 0.256882pt
+        set: 'otas-'
+      pop:
+      y: 10.500000pt
+      push:
+        right: -4.305984pt
+        set: 'sium'
+        w: 6.396454pt
+        set: 'replacemen'
+        right: -0.256897pt
+        set: 't'
+        right: 6.396439pt
+        set: 'in'
+        w0:
+        set: 'clinical'
+        w0:
+        set: 'practice.'
+        right: 13.975220pt
+        fnt: ecti0900 at 9pt
+        set: 'A'
+        right: -0.236053pt
+        set: 'r'
+        x: -0.472107pt
+        set: 'chives'
+        w: 6.349915pt
+        set: 'of'
+        right: 6.349899pt
+        set: 'Internal'
+        w0:
+        set: 'Me'
+        x0:
+        set: 'dicine'
+        fnt: ecrm0900 at 9pt
+        set: ','
+        right: 7.224915pt
+        set: '160(16):2429,'
+        right: 7.224899pt
+        set: 'sep'
+        w: 6.396454pt
+        set: '2000.'
+        right: 13.975220pt
+        set: 'A'
+        right: -1.027542pt
+        set: 'v'
+        right: -0.513779pt
+        set: 'ailable'
+        w0:
+        set: 'from:'
+      pop:
+      y0:
+      push:
+        right: -4.305984pt
+        xxx: 'color push cmyk 0 1 0 0'
+        push:
+          down: 1.999512pt
+          xxx: 'ps:SDict begin H.S end'
+        pop:
+        push:
+          xxx: 'color push cmyk 0 1 0 0'
+          fnt: ectt0900 at 9pt
+          set: 'https://doi.org/10.1001/archinte.160.16.2429'
+          xxx: 'color pop'
+        pop:
+        push:
+          right: 207.849243pt
+          down: -6.248474pt
+          xxx: 'ps:SDict begin H.R end'
+        pop:
+        right: 207.849243pt
+        xxx: 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://doi.org/10.1001/archinte.160.16.2429)>>/Subtype /Link H.B /ANN pdfmark end'
+        xxx: 'color pop'
+        fnt: ecrm0900 at 9pt
+        set: ','
+        right: 3.082581pt
+        xxx: 'color push cmyk 0 1 0 0'
+        push:
+          down: 0.749817pt
+          xxx: 'ps:SDict begin H.S end'
+        pop:
+        push:
+          xxx: 'color push cmyk 0 1 0 0'
+          fnt: ectt0900 at 9pt
+          set: 'doi:10.1001/archinte.160.16.2429'
+          xxx: 'color pop'
+        pop:
+        push:
+          right: 151.163086pt
+          down: -6.248474pt
+          xxx: 'ps:SDict begin H.R end'
+        pop:
+        right: 151.163086pt
+        xxx: 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(http://dx.doi.org/10.1001/archinte.160.16.2429)>>/Subtype /Link H.B /ANN pdfmark end'
+        xxx: 'color pop'
+        fnt: ecrm0900 at 9pt
+        set: '.'
+      pop:
+      y0:
+      push:
+        push:
+          push:
+            right: -18.067490pt
+            xxx: 'color push gray 0'
+            xxx: 'ps:SDict begin H.S end'
+            set: '[2]'
+            xxx: 'ps:SDict begin 10.5 H.A end'
+            xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (cite.Stevenson2000EffectsOD) cvn /DEST pdfmark end'
+            xxx: 'color pop'
+          pop:
+        pop:
+        right: -4.305984pt
+        set: 'Abigail'
+        right: 7.769913pt
+        set: 'E.'
+        w: 7.769928pt
+        set: 'Stev'
+        x: -0.256897pt
+        set: 'enson,'
+        right: 8.941727pt
+        set: 'D'
+        w0:
+        set: 'J'
+        right: 7.765182pt
+        set: 'W'
+        right: -0.770660pt
+        set: 'rigglesw'
+        x0:
+        set: 'orth,'
+        right: 8.941727pt
+        set: 'Brigitte'
+        w0:
+        set: 'H.'
+        w: 7.769913pt
+        set: 'E.'
+        w0:
+        set: 'Smith,'
+        right: 8.941742pt
+        set: 'and'
+        w0:
+        set: 'P'
+        x0:
+        set: 'eter'
+        right: 7.769928pt
+        set: 'J.'
+        w0:
+        set: 'Markw'
+        x0:
+        set: 'ell.'
+        right: 18.068176pt
+        set: 'E\x1bects'
+        right: 7.769928pt
+        set: 'of'
+        w0:
+        set: 'di-'
+      pop:
+      y0:
+      push:
+        right: -4.305984pt
+        set: 'etary'
+        w: 7.429993pt
+        set: 'p'
+        right: 0.256882pt
+        set: 'otassium'
+        w0:
+        set: 'citrate'
+        w0:
+        set: 'supplemen'
+        x: -0.256897pt
+        set: 'tation'
+        right: 7.430008pt
+        set: 'on'
+        w0:
+        set: 'urine'
+        w0:
+        set: 'ph'
+        w0:
+        set: 'and'
+        w0:
+        set: 'urinary'
+        w0:
+        set: 'relativ'
+        x0:
+        set: 'e'
+        right: 7.430008pt
+        set: 'sup'
+        right: 0.256882pt
+        set: 'ersaturation'
+        w0:
+        set: 'of'
+        w0:
+        set: 'calcium'
+        w0:
+        set: 'o'
+        x0:
+        set: 'xalate'
+      pop:
+      y0:
+      push:
+        right: -4.305984pt
+        set: 'and'
+        w: 7.171082pt
+        set: 'struvite'
+        w0:
+        set: 'in'
+        right: 7.171097pt
+        set: 'health'
+        right: -0.256897pt
+        set: 'y'
+        w0:
+        set: 'dogs.'
+        right: 16.283646pt
+        fnt: ecti0900 at 9pt
+        set: 'A'
+        right: -0.236053pt
+        set: 'meric'
+        x: -0.472107pt
+        set: 'an'
+        w: 7.061737pt
+        set: 'journal'
+        w0:
+        set: 'of'
+        w0:
+        set: 'veterinary'
+        w0:
+        set: 'r'
+        x0:
+        set: 'ese'
+        x0:
+        set: 'ar'
+        x0:
+        set: 'ch'
+        fnt: ecrm0900 at 9pt
+        set: ','
+        w: 8.193192pt
+        set: '61'
+        right: 7.171097pt
+        set: '4:430\x155,'
+        w0:
+        set: '2000.'
+        right: 16.283661pt
+        set: 'A'
+        right: -1.027542pt
+        set: 'v'
+        right: -0.513779pt
+        set: 'ailable'
+        right: 7.171082pt
+        set: 'from:'
+      pop:
+      y0:
+      push:
+        right: -4.305984pt
+        xxx: 'color push cmyk 0 1 0 0'
+        push:
+          down: 1.999512pt
+          xxx: 'ps:SDict begin H.S end'
+        pop:
+        push:
+          xxx: 'color push cmyk 0 1 0 0'
+          fnt: ectt0900 at 9pt
+          set: 'https://pdfs.semanticscholar.org/6617/cee005e5b607a86ab5d3fbdc2b3db9b55875.pdf'
+          xxx: 'color pop'
+        pop:
+        push:
+          right: 368.460022pt
+          down: -6.248474pt
+          xxx: 'ps:SDict begin H.R end'
+        pop:
+        right: 368.460022pt
+        xxx: 'ps:SDict begin [/H /I/Border [0 0 0]BorderArrayPatch/Color [0 1 1]/Action <</Subtype/URI/URI(https://pdfs.semanticscholar.org/6617/cee005e5b607a86ab5d3fbdc2b3db9b55875.pdf)>>/Subtype /Link H.B /ANN pdfmark end'
+        xxx: 'color pop'
+        fnt: ecrm0900 at 9pt
+        set: '.'
+      pop:
+      down: 35.262283pt
+      push:
+        right: 195.318710pt
+        xxx: 'ps:SDict begin H.S end'
+        xxx: 'ps:SDict begin 10.5 H.A end'
+        xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.4) cvn /DEST pdfmark end'
+        fnt: ecbx0900 at 9pt
+        set: 'A'
+        w: -0.295776pt
+        set: 'c'
+        w0:
+        set: 'kno'
+        w0:
+        set: 'wledgmen'
+        w0:
+        set: 'ts'
+      pop:
+      right: -18.067490pt
+      down: 11.975937pt
+      xxx: 'ps:SDict begin H.S end'
+      xxx: 'ps:SDict begin 11.5 H.A end'
+      xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (Item.1) cvn /DEST pdfmark end'
+      down: 13.750427pt
+      push:
+        push:
+          push:
+            xxx: 'color push gray 0'
+            push:
+              right: 13.224121pt
+              fnt: ecrm1000 at 10pt
+              set: '1.'
+            pop:
+            right: 21pt
+            xxx: 'color pop'
+          pop:
+        pop:
+        right: 25pt
+        set: 'Pubmed'
+        w: 3.332520pt
+        set: 'eutils'
+        w0:
+        set: 'facilities'
+        w0:
+        set: 'and'
+        w0:
+        set: 'the'
+        w0:
+        set: 'basic'
+        w0:
+        set: 'researc'
+        x: -0.277710pt
+        set: 'h'
+        w0:
+        set: 'it'
+        w0:
+        set: 'pro'
+        x0:
+        set: 'vides.'
+      pop:
+      down: 5.943970pt
+      xxx: 'ps:SDict begin H.S end'
+      xxx: 'ps:SDict begin 11.5 H.A end'
+      xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (Item.2) cvn /DEST pdfmark end'
+      down: 13.556030pt
+      push:
+        push:
+          push:
+            xxx: 'color push gray 0'
+            push:
+              right: 13.224121pt
+              set: '2.'
+            pop:
+            right: 21pt
+            xxx: 'color pop'
+          pop:
+        pop:
+        right: 25pt
+        set: 'F'
+        right: -0.833130pt
+        set: 'ree'
+        x: 3.332520pt
+        set: 'soft'
+        w: -0.277710pt
+        set: 'w'
+        w0:
+        set: 'are'
+        x0:
+        set: 'including'
+        x0:
+        set: 'Lin'
+        w0:
+        set: 'ux,'
+        x0:
+        set: 'R,'
+        x0:
+        set: 'LaT'
+        right: -0.833130pt
+        set: 'ex'
+        x0:
+        set: 'etc.'
+      pop:
+    pop:
+    down: 30pt
+    push:
+      right: -18.067490pt
+      xxx: 'color push gray 0'
+      push:
+        push:
+          push:
+            push:
+              push:
+                push:
+                  right: 252.500610pt
+                  set: '2'
+                pop:
+              pop:
+            pop:
+          pop:
+        pop:
+      pop:
+      right: 510pt
+      xxx: 'color pop'
+    pop:
+  pop:
+pop:
+
+[page 3 0 0 0 0 0 0 0 0 0]
+xxx: 'ps:SDict begin /product where{pop product(Distiller)search{pop pop pop version(.)search{exch pop exch pop(3011)eq{gsave newpath 0 0 moveto closepath clip/Courier findfont 10 scalefont setfont 72 72 moveto(.)show grestore}if}{pop}ifelse}{pop}ifelse}if end'
+push:
+  down: -62.003738pt
+  push:
+    right: -19.071228pt
+    xxx: 'color push gray 0'
+    xxx: 'ps:SDict begin H.S end'
+    xxx: 'ps:SDict begin H.R end'
+    xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (page.3) cvn /DEST pdfmark end'
+    xxx: 'color pop'
+  pop:
+pop:
+down: 682pt
+push:
+  push:
+    down: -718pt
+    push:
+      push:
+        right: -18.067490pt
+        xxx: 'color push gray 0'
+        push:
+          push:
+            push:
+              down: -3.450027pt
+              push:
+                push:
+                  push:
+                    push:
+                      fnt: ecrm1000 at 10pt
+                      set: 'M'
+                      x: 3.332520pt
+                      set: 'Marc'
+                      w: -0.277710pt
+                      set: 'h'
+                      w0:
+                      set: 'ywk'
+                      right: -0.555420pt
+                      set: 'a,'
+                      x0:
+                      set: 'MJM-test-test'
+                    pop:
+                  pop:
+                pop:
+                push:
+                  push:
+                    push:
+                      right: 321.434937pt
+                      set: 'July'
+                      w: 3.332520pt
+                      set: '8,'
+                      w0:
+                      set: '2019'
+                      w0:
+                      set: 'v.'
+                      right: 8.886719pt
+                      set: '0.00'
+                      w0:
+                      set: 'NOT'
+                      w0:
+                      set: 'public'
+                      w0:
+                      set: 'NOTES'
+                    pop:
+                  pop:
+                pop:
+              pop:
+              down: 3.850021pt
+              putrule: 0.399994pt 510pt
+            pop:
+          pop:
+        pop:
+        right: 510pt
+        xxx: 'color pop'
+      pop:
+    pop:
+    down: 688pt
+    push:
+      down: -662pt
+      push:
+        right: 105.286224pt
+        xxx: 'ps:SDict begin H.S end'
+        xxx: 'ps:SDict begin 10.5 H.A end'
+        xxx: 'ps:SDict begin [/View [/XYZ H.V]/Dest (section*.5) cvn /DEST pdfmark end'
+        fnt: ecbx0900 at 9pt
+        set: 'App'
+        x: 0.295761pt
+        set: 'endix'
+        w: 3.549133pt
+        set: 'A:'
+        w0:
+        set: 'Citing'
+        w0:
+        set: 'this'
+        w0:
+        set: 'as'
+        w0:
+        set: 'a'
+        w0:
+        set: 'tec'
+        right: -0.295776pt
+        set: 'h'
+        w0:
+        set: 'rep'
+        x0:
+        set: 'ort'
+        w0:
+        set: 'or'
+        w0:
+        set: 'white'
+        w0:
+        set: 'pap'
+        x0:
+        set: 'er'
+      pop:
+      down: 25.726364pt
+      push:
+        right: -8.067490pt
+        fnt: ecrm1000 at 10pt
+        set: 'Note:'
+        right: 4.443359pt
+        set: 'This'
+        w: 3.332520pt
+        set: 'is'
+        w0:
+        set: 'mostly'
+        w0:
+        set: 'man'
+        x: -0.277710pt
+        set: 'ually'
+        w0:
+        set: 'en'
+        x0:
+        set: 'tered'
+        w0:
+        set: 'and'
+        w0:
+        set: 'not'
+        w0:
+        set: 'assured'
+        w0:
+        set: 'to'
+        w0:
+        set: 'b'
+        right: 0.277710pt
+        set: 'e'
+        w0:
+        set: 'error'
+        w0:
+        set: 'free.'
+      pop:
+      down: 11.500000pt
+      push:
+        right: -8.067490pt
+        set: 'This'
+        w: 3.332520pt
+        set: 'is'
+        w0:
+        set: 'tec'
+        right: -0.277710pt
+        set: 'h'
+        w0:
+        set: 'rep'
+        right: 0.277710pt
+        set: 'ort'
+        w0:
+        set: 'MJM-test-test.'
+      pop:
+      down: 56.943909pt
+      push:
+        push:
+          push:
+            push:
+              right: -18.067490pt
+              down: -41.999939pt
+              xxx: 'color push gray 0'
+              xxx: 'color push gray 0'
+              down: 41.999939pt
+              push:
+                down: -18.749969pt
+                push:
+                  push:
+                    down: -15.900009pt
+                    push:
+                      push:
+                        right: 112.571487pt
+                        fnt: ecrm0900 at 9pt
+                        set: 'V'
+                        right: -0.770660pt
+                        set: 'ersion'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 176.638824pt
+                        set: 'Date'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 275.255341pt
+                        set: 'Commen'
+                        right: -0.256897pt
+                        set: 'ts'
+                        right: 76.819168pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    y: 10.499985pt
+                    push:
+                      push:
+                        right: 126.003571pt
+                        set: '0.01'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 152.880035pt
+                        set: '2019-02-05'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 200.436157pt
+                        set: 'Mak'
+                        x: -0.256897pt
+                        set: 'e'
+                        w: 3.082581pt
+                        set: 'from'
+                        w0:
+                        set: 'sk'
+                        x0:
+                        set: 'eleton'
+                        w0:
+                        set: 'co'
+                        x: 0.256882pt
+                        set: 'de'
+                        w0:
+                        set: 'and'
+                        w0:
+                        set: 'new'
+                        w0:
+                        set: 'b'
+                        x0:
+                        set: 'ea'
+                        w: -0.256897pt
+                        set: 'v'
+                        w0:
+                        set: 'er'
+                        right: 3.082581pt
+                        set: 'script'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    y0:
+                    push:
+                      push:
+                        right: 139.361420pt
+                        set: '-'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 146.844009pt
+                        set: 'July'
+                        w: 3.082581pt
+                        set: '8,'
+                        w0:
+                        set: '2019'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 240.833908pt
+                        set: 'v'
+                        right: -0.256897pt
+                        set: 'ersion'
+                        right: 6.165161pt
+                        set: '0.00'
+                        right: 3.082581pt
+                        set: 'MJM-test-test'
+                        right: 42.397751pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                    y0:
+                    push:
+                      push:
+                        right: 130.627441pt
+                        set: '1.0'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 151.338745pt
+                        set: '20xx-xx-xx'
+                        right: 2pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                      push:
+                        right: 237.593750pt
+                        set: 'First'
+                        w: 3.082581pt
+                        set: 'revision'
+                        w0:
+                        set: 'for'
+                        w0:
+                        set: 'distribution'
+                        right: 39.157578pt
+                        down: 3.150024pt
+                        setrule: 10.499985pt 0.399994pt
+                      pop:
+                    pop:
+                  pop:
+                pop:
+              pop:
+              xxx: 'color pop'
+            pop:
+            right: -18.067490pt
+            xxx: 'color pop'
+          pop:
+        pop:
+      pop:
+    pop:
+    down: 30pt
+    push:
+      right: -18.067490pt
+      xxx: 'color push gray 0'
+      push:
+        push:
+          push:
+            push:
+              push:
+                push:
+                  right: 252.500610pt
+                  fnt: ecrm1000 at 10pt
+                  set: '3'
+                pop:
+              pop:
+            pop:
+          pop:
+        pop:
+      pop:
+      right: 510pt
+      xxx: 'color pop'
+    pop:
+  pop:
+pop:

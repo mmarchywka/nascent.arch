@@ -1,0 +1,7 @@
+# https://gist.github.com/VladimirPal/9068b922c70a6b5e604c8d2eb099ddb7
+user marchywka@hotmail.com
+password DELETED 
+port 993
+#hostname imaps://imap.gmail.com
+hostname imap-mail.outlook.com
+folder test 

@@ -1,0 +1,403 @@
+
+#!/bin/bash
+
+SELF="$0"
+SRC=mikemail.h
+DEST=mikemail.out
+MAINDEF="TEST_mikemail__"
+
+. cpp_proj_defines
+
+sym="HAVE_MIKE_MUTT_SERVER"
+
+#LINK="$MMCD_LINK -L /home/ubuntu/dev/mailcore/mailcore2-master/build/src -lMailCore" 
+#LINK="$MMCD_LINK" #  -L /home/ubuntu/dev/mailcore/mailcore2-master/build/src -lMailCore" 
+#LINK="$LINK -lz" 
+LINK="$MMCD_LINK  -lz" 
+#LINK=" -Wl,-static $MMCD_LINK -lz" 
+#LINK="$LINK -L /home/ubuntu/dev/mailcore/mailcore2-master/libetpan/libetpan/src/.libs -letpan " 
+
+# 2023-05-30 new compiler  get repo libetpan
+#LINK="$LINK -L /home/ubuntu/dev/libetpan/libetpan/src/.libs -letpan " 
+LINK="$LINK -letpan " 
+LINK="$LINK -lxml2 -lsasl2 -ltidy -lctemplate -lpthread -luuid "  
+# from beaver
+#LINK="$LINK -licudata -licui18n -licuio -licu-le-hb  -liculx -licutest -licutu -licuuc "
+# 2023-05-30 new compiler 
+#LINK="$LINK -licudata -licui18n -licuio  -liculx -licutest -licutu -licuuc "
+#LINK="$LINK -L /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0" 
+LINK="$LINK -L ." 
+LINK="$LINK -licudata -licui18n -licuio  -licutest -licutu -licuuc "
+LINK="$LINK  -lssl -lcrypto -lglib-2.0" 
+LINK="$LINK   -lboost_filesystem -lboost_system " 
+
+if [ "$sym" != "" ]
+then 
+LINK="$LINK -L /home/ubuntu/dev/neomutt/neomutt-20200501 -lneomutt " 
+fi
+
+COMPILER="$MMCD_COMPILER"
+INCDIR="$MMCD_INCDIR " # " -I.. " 
+#INCDIR="$MMCD_INCDIR -I/home/ubuntu/dev/mailcore/mailcore2-master/build/src/include " # " -I.. " 
+#INCDIR="$INCDIR -I/home/ubuntu/dev/mailcore/mailcore2-master/libetpan/libetpan/include " # " -I.. " 
+
+# mjm_blob was moved to toobib??? 
+INCDIR="$INCDIR  -I../toobib -I../muqed_util -I/home/ubuntu/dev/libetpan/libetpan/include " # " -I.. " 
+
+if [ "$sym" != "" ]
+then 
+INCDIR="$INCDIR -I/home/ubuntu/dev/neomutt/neomutt-20200501 " 
+fi
+
+
+# pickup toobib wtf
+#INCDIR="$INCDIR -I../toobib -I/home/ubuntu/dev/libetpan/libetpan/include " # " -I.. " 
+
+# make stderr line buffered to ease reading mt code output, also in source  
+# hcache for neomutt 
+MOREFLAGS=" -DxxUSE_HCACHE  -DxxLINE_LOCK_MM_ERR "
+
+if [ "$sym" != "" ]
+then 
+MOREFLAGS="$MOREFLAGS -D$sym "
+fi
+
+
+
+# just move it local for now 
+#SRC=$MMCD_SRCDIR/$SRC
+SRC=./$SRC
+
+WARNS=$MMCD_WARNS
+
+DEBUG="$MMCD_DEBUG" # " -gdwarf-3 -O0 "
+OPT="$MMCD_OPT" # " -O3 "
+PROFILE="$MMCD_PROFILE" # " -O3 -gdwarf-3 -pg "
+FLAGS="$DEBUG"
+
+RUN_DATA="mikemail.txt"
+compile()
+{
+mmcd_h_compile
+}
+run()
+{
+"./$DEST" -source "$RUN_DATA" -quit  
+}
+
+wd=`pwd`
+bd="$SE_DATA_EXCHANGE/mikemail/gm2/"
+bd="$SE_DATA_EXCHANGE/mikemail/hot/"
+bd="$SE_DATA_EXCHANGE/mikemail/hot2/"
+bd="$SE_DATA_EXCHANGE/mikemail/hot3/"
+bd="./junk2/"
+creds="$wd/gmail.tex"
+creds="$wd/hotmail.tex"
+#creds="$wd/hotmailn.tex"
+#creds="$wd/yahoo.tex"
+download_one()
+{
+cd $bd
+#eff=`echo $1 |  sed -e 's/\(\[\|\]\| \)/x/g'`
+eff=`echo $1 |  sed -e 's/\(\[\|\]\| \|\/\)/x/g'`
+echo eff is $eff
+sleep 1
+cat -  > dloat.txt << ---xxx---
+read-server foo "$creds"
+download-folder foo "$1" ${bd}oldcrap_$eff ${bd}mboxx_$eff 25 
+join
+quit
+---xxx---
+
+#echo ./mikemail.out -source dloat.txt
+$wd/mikemail.out -source dloat.txt
+#> #echo ./mikemail.out -cmd "read-server foo $creds" -cmd "download-folder foo \"$1\" oldcrap_$eff mboxx_$eff 25" -quit
+# > #./mikemail.out -cmd \"read-server foo $creds\" -cmd \"download-folder foo \"$1\"\" oldcrap_$eff mboxx_$eff 25\" -quit
+#echo ./mikemail.out -cmd "read-server foo $creds" -cmd "download-folder foo \"$1\" ${bd}oldcrap_$eff mboxx_$eff 25"
+}
+
+download_all()
+{
+cd $bd
+$wd/mikemail.out -cmd "read-server foo $creds" -cmd "start-session foo INBOX" -cmd "list-folders foo la" -cmd list -cmd "write-ragged ${bd}lalala la" -quit
+cat lalala | sed -e 's/^[^|]*|//' | sed -e 's/|.*//' | while read 
+ do  
+echo $REPLY
+download_one "$REPLY"
+done
+
+} #download_all
+
+
+# test run parameters 
+SERVER="hotmail.tex"
+VERBOSITY=0
+FOLDER="INBOX"
+MBOXX="mboxx"
+NTHREADS=25
+EXENAME="./mikemail.out" 
+##############################################
+diet_template() 
+{
+didir="$1"
+cat << ---xxx---
+# not meant to be stand-alone ui does not have things like source features
+# the current data file but may be an abbreviated one for updates
+# prior to merge
+load-form $didir/data.txt
+# need to load units first  to compile nouns
+load-units $didir/units.txt
+load-nouns $didir/aka_nouns.txt
+load-nouns $didir/canon_nouns.txt
+load-ignores $didir/ignores.txt
+load-reserveds $didir/reserveds.txt
+dates 2020-01-01 2020-12-31
+# first flag is for report second is for output choices 
+#eval 8 8 
+#parse
+#markup
+#blank
+#template
+---xxx---
+} # dieet_template
+
+
+diet_rules_here()
+{
+x=`pwd`
+dbase="$x"
+nounloc=`find $dbase -type f -name "canon_nouns.txt"| head -n 1` 
+nuserloc=`find $dbase -type f -name "newuser.txt"| head -n 1` 
+udataloc=`find $dbase -type d -name "udata"| head -n 1` 
+if [ "$udataloc" == "" ]
+then
+if [ "$nounloc" != "" ]
+then
+y=`dirname $nounloc`
+mkdir "$y/udata"
+udataloc=`find $dbase -type d -name "udata"| head -n 1` 
+fi
+fi
+
+y=`dirname $nounloc`
+z=`dirname $nuserloc`
+w=`echo $udataloc/`
+echo "#"  $y $z $w 
+diet_rules_skeleton "$y" "$z" "$w"
+}
+diet_rules_skeleton()
+{
+du="$1" # diet
+ddi="$2" # /home/documents/cpp/proj/mikemail/diet/
+ddt="$2" # /home/documents/cpp/proj/mikemail/diet/
+ddu="$3" # /home/documents/cpp/proj/mikemail/udata/
+cat << ---xxx---
+users fn $du/users.txt
+handler default default desc crap script "cat -" dump 1 
+# name,type, ctor name-value pairs... 
+handler remote default bfile crapremote.zip sane 0x0ff desc remote_script_executer dump 1 
+#handler diet diet desc "dietformhandler" noun-file diet/canon_nouns.txt units-file diet/units.txt ignores-file diet/ignores.txt reserveds-file diet/reserveds.txt dir /home/documents/cpp/proj/mikemail/udata/
+handler diet diet desc "dietformhandler" noun-file $ddi/canon_nouns.txt,$ddi/aka_nouns.txt units-file $ddi/units.txt ignores-file $ddi/ignores.txt reserveds-file $ddi/reserveds.txt dir $ddu 
+handler file file desc file_server 
+handler user user desc userhandler new-user-fn $ddt/newuser.txt welcome-fn $ddt/welcome.txt register-fn $ddt/register.txt badcmd-fn $ddt/badcmd.txt 
+# ls diet canon_nouns.txt  diary.txt  ignores.txt  reserveds.txt
+handler default desc moo script df dump 1 
+#rule n 3 str xmarchywka location from: code user 
+# first one is always the starting point 
+# state name, regex speccs, T/F next rule, code for handler if exit 
+rule start str register loc subject: handler user false remote 
+rule remote str script loc subject: handler remote false user 
+rule file str file loc subject: handler file false diet 
+rule user user ubits B4 handler user false file 
+rule diet str diet loc subject: handler diet false fail 
+rule fail handler user 
+# obsolste stupid things 
+#pair 0 0
+#pair 1 1 
+#pair 2 2 
+#pair 3 3 
+#pair 0 0
+# these should have a name or be on the handler line. 
+# these are kind of dumb since they have to map one to one with
+# a handler. When passed during a handle, they also have user info added
+# in copies speciic to the mesage 
+#vars remote sane 0x0ff
+#vars remote sane 0x0ff
+#vars remote sane 0x0ff
+#vars remote sane 0x0ff
+#vars foo doo dee duu
+#vars doh rey me fa
+#vars doh rey me fa
+#vars doh rey me fa
+---xxx---
+
+
+
+} # diet_rules_skeleton
+
+mikemail_server()
+{
+ #  cat xxx | grep "^ 0 html " | wc
+#   8916 /home/documents/cpp/mjm/hlib/mjm_pawnoff.h400
+#  12526 ./../mjsonu/mjsonu.h312
+# 189673 ./mjm_xref_json.h224
+# 189807 ./mjm_xref_json.h206
+
+
+#ZZ
+while [  -e "run_mikemail_server" ]
+do
+cd /home/guest/
+lof="/home/scripts/script_data//mikemail/toobib_logs/toobib_log.txt"
+cat "$lof" > start_time_file
+#./mikemail.out -source mutttoobib.txt  -quit  2>&1 | grep -v "xref_json" | grep -v "* 0 html " | grep -v " GLOBAL " > xxx_server_out 
+mikemail.out -source /home/documents/cpp/proj/mikemail/mutttoobib.txt  -quit  2>&1 | grep -v "xref_json" | grep -v "* 0 html " | grep -v " GLOBAL " > xxx_server_out 
+if [ "$lof" -nt "start_time_file" ]
+then
+diff "$lof" "start_time_file"
+ls -al xxx_server_out
+fi
+sleep 30
+done
+}
+
+
+###############################################
+help()
+{
+echo Usage $0 
+cat "$0" | grep "=="  | grep -v grep | sed -e 's/.*==[^"]*"//'  # | sed -e 's/[#\]]//g' 
+}
+while [ "$*" != "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-compile" ]
+then
+compile
+shift
+fi
+if [ "$1" == "-opt" ]
+then
+FLAGS=$OPT
+shift
+fi
+
+if [ "$1" == "-diet-template" ]
+then
+diet_template "$2" >> "$3"
+shift
+shift
+shift
+fi
+
+
+if [ "$1" == "-diet-rules" ]
+then
+diet_rules_skeleton "$2" "$3" "$4"
+shift ; shift ; shift; shift 
+fi
+
+if [ "$1" == "-diet-rules-here" ]
+then
+diet_rules_here
+shift 
+fi
+
+
+
+if [ "$1" == "-build-diet" ]
+then
+
+echo g++ -std=gnu++11 -DTEST_MJM_DIET_DIARY_FORM -I. -I../muqed_util -I../../muqed_util   -I../../mjm/hlib -I../../mjm/num  -Wall -gdwarf-3 -O0  -x c++ mjm_diet_diary_form.h -o mjm_diet_diary_form.out  -lpthread -lreadline -lboost_filesystem -lboost_system
+g++ -std=gnu++11 -DTEST_MJM_DIET_DIARY_FORM -I. -I../muqed_util -I../../muqed_util   -I../../mjm/hlib -I../../mjm/num  -Wall -gdwarf-3 -O0  -x c++ mjm_diet_diary_form.h -o mjm_diet_diary_form.out  -lpthread -lreadline -lboost_filesystem -lboost_system
+#g++ -std=gnu++11 -DTEST_MJM_DIET_DIARY_FORM -I. -I../../mjm/hlib -I../../mjm/num  -Wall -gdwarf-3 -O0  -x c++ mjm_diet_diary_form.h -o mjm_diet_diary_form.out  -lpthread -lreadline -lboost_filesystem -lboost_system
+shift
+fi
+
+
+if [ "$1" == "-mikemail-server" ]
+then
+shift
+mikemail_server
+fi
+
+
+if [ "$1" == "-crap" ]
+then
+shift
+pdflatex --output-format=dvi  crap.tex
+fi
+
+
+if [ "$1" == "-run" ]
+then
+shift
+#run  $*
+run 
+#shift
+fi
+
+if [ "$1" == "-download_all" ] # try to download all folders from a cred file 
+then
+#SERVER="$2"
+download_all
+shift
+fi
+
+# 3226  ./run_mikemail -opt -compile
+# 3227  ./mikemail.out -cmd "read-server foo hotmail.tex" -cmd "verbosity 0" -cmd "download-folder foo INBOX oldcrap mboxx 25"
+# 3228  ./mikemail.out -cmd "load-mbox - mboxx" -cmd "cm" -cmd "tree-att - - "
+
+if [ "$1" == "-server" ]
+then
+SERVER="$2"
+shift; shift
+fi
+
+if [ "$1" == "-verbosity" ]
+then
+VERBOSITY="$2"
+shift; shift
+fi
+if [ "$1" == "-folder" ]
+then
+FOLDER="$2"
+shift; shift
+fi
+if [ "$1" == "-nthreads" ]
+then
+NTHREADS="$2"
+shift; shift
+fi
+
+
+
+if [ "$1" == "-download" ]
+then
+shift
+echo may want to delete the file oldcrap for fresh download otherwise just incremental 
+#./mikemail.out -cmd "read-server foo hotmail.tex" -cmd "verbosity 0" -cmd "download-folder foo INBOX oldcrap mboxx 25"
+echo $EXENAME -cmd "verbosity $VERBOSITY" -cmd "read-server foo $SERVER"  -cmd "download-folder foo $FOLDER oldcrap $MBOXX $NTHREADS"
+$EXENAME -cmd "verbosity $VERBOSITY" -cmd "read-server foo $SERVER"  -cmd "download-folder foo $FOLDER oldcrap $MBOXX $NTHREADS"
+fi
+
+if [ "$1" == "-browse" ]
+then
+shift
+echo $EXENAME -cmd "load-mbox - $MBOXX" -cmd "cm" -cmd "tree-att - - "
+$EXENAME -cmd "load-mbox - $MBOXX" -cmd "cm" -cmd "tree-att - - "
+fi
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+done
+

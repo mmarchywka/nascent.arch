@@ -1,0 +1,23 @@
+read-ragged foorag /home/documents/cpp/proj/mikemail/diet_rules.txt
+mmp-config mproc foorag
+mmp-config mproc foorag 1
+# the final parameter is flags for the proc. Bit zero means do nithing
+#void cmd_mutt_proc(Cip & cip , LocalVar & lv )
+#{
+#const StrTy config=cip.p1;
+#const IdxTy flags=myatoi(cip.p2);
+#const IdxTy mflags=myatoi(cip.wif(4)); // 0;
+#const bool unread_only=Bit(flags,0);
+#const bool reset_on_fail=Bit(flags,1);
+#const bool server_update=!Bit(flags,2);
+#const StrTy fn=cip.wif(3);
+
+#mutt-proc proc_yahoo 5 mproc 1
+#mutt-proc proc_yahoo 1 mproc 0 
+#mutt-proc proc_yahoo 5 mproc 0 
+#mutt-proc proc_yahoo 5 mproc 1
+#mutt-proc proc_yahoo 1 mproc 0 
+#mutt-proc proc_yahoo 5 mproc 0 
+# try to archive 
+mutt-proc proc_yahoo 9 mproc 0 imaps://imap.mail.yahoo.com:993/old
+

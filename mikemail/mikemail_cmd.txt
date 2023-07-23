@@ -1,0 +1,438 @@
+#!/bin/bash
+# copied from mail_cmd 2020-11-29
+# send mail to an account monitored by mikemail
+# use neomutt to send registration, file request, diet stu
+# and user browser to check for response. 
+# autogenrated with mkscriptu at Sat May  9 05:18:21 EDT 2020 
+
+# really not needed as should have been done 
+. setup
+
+#cpwd=`dirname $0`
+TDIR="/tmp"
+REALZERO=`realpath $BASH_SOURCE`
+cpwd=`realpath $BASH_SOURCE`
+fname=`basename "$cpwd"`
+cpwd=`dirname "$cpwd"`
+UHOME=`echo ~`
+echo $UHOME  $cpwd
+PWK= [ deleted for security ]
+ZIP="temp_msg_xxx.zip"
+RZIP="temp_msg_xxx_rec.zip"
+TEMP1=".temp_"${fname}"1"
+TEMP2=".temp_"${fname}"2"
+ERR1=".temp_"${fname}"_err"
+TEMPMAIL=".temp_"${fname}"_mail"
+OUTPUTFILE=".temp_"${fname}"_output"
+RDIR="receive"
+CEDIR="/home/robouser/enochmail/"
+SUBJ="mailcmd"
+#DEST="marchywka@yahoo.com"
+DEST="mjm_mailproc@yahoo.com"
+#DESTPW="Generic3!"
+#DESTHOST="imap.mail.yahoo.com"
+#DESTPORT="993"
+# protocol imap:
+#REPLYADR="marchywka@hotmail.com"
+#dd=$INSDIR # "/home/documents/cpp/proj/mikemail"
+INSDIR=`dirname $BASH_SOURCE`
+abss=`echo $INSDIR | grep "^/"`
+if [ "$abss" == "" ]
+then
+INSDIR=`pwd`/$INSDIR
+fi 
+echo INSDIR $INSDIR 
+#CRDIR="/home/robouser/enochmail/receive"
+CRDIR="$INSDIR"
+SMUTT=neomutt
+x=`which mutt`
+y=`find $cpwd -name neomuttrc_yahoo`
+if [ "$x" != "" ]
+then
+RMUTT="mutt"
+else
+RMUTT="neomutt"
+fi
+if [ "$y" != "" ]
+then
+RMUTT="$RMUTT -F $cpwd/neomuttrc_yahoo"
+fi
+echo setting RMUTT = $RMUTT
+DOAPHRASE="he is dead jim"
+#MDA="$0 -mda"
+#MDA="/home/robouser/enochmail/mail_cmd -mda "
+#MDA="$REALZERO -mda "
+#echo MDA=$MDA
+#FM="./fm/fetchmail-6.4.4/fetchmail"
+#FM="/home/marchywka/junk/mom/fm/fetchmail-6.4.4/fetchmail"
+#FM="/home/robouser/enochmail/fm/fetchmail-6.4.4/fetchmail"
+#FM="fetchmail"
+#FM_OPT=" --ssl --sslproto TLS1 --nosslcertck --all   --keep"
+#FM_OPT=" --ssl --sslproto TLS1 --nosslcertck  --keep"
+FM_OPT=" --ssl --sslproto TLS1  --keep"
+#FM_OPT=" --ssl --sslproto TLS1 --nosslcertck "
+#WAITSEC=60
+help()
+{
+echo Usage $0 
+grep "^if.*==.*\"-" $0
+}
+smsg()
+{
+echo $* 1>&2
+cat - 1>&2
+}
+
+w_to_l()
+{
+while [ "$1" != "" ]
+do
+echo $1
+shift
+done
+
+}
+
+invoke_mikemail()
+{
+#3151  ./mikemail.out -source muttdiet.txt -quit
+dd=$INSDIR # "/home/documents/cpp/proj/mikemail"
+cd "$dd"
+$dd/mikemail.out -source $dd/muttdiet.txt -quit
+}
+invoke_mikemail_loop()
+{
+while [ 1 == 1 ]
+do
+invoke_mikemail
+sleep 30
+done
+
+}
+
+
+nohup_mikemail()
+{
+cd $CRDIR
+#nohup $0 -mikemail  < ./empty.txt 2>&1 > nohup_mikemail_logfile &
+nohup $0 -mikemailloop  < /dev/null  2>&1 > nohup_mikemail_logfile &
+#disown -h %1
+}
+
+
+sign_file()
+{
+fn="$1"
+echo $PWK | gpg --passphrase-fd 0 -b "$fn"
+} # sign_file
+
+make_payload()
+{
+rm "$ZIP"
+while [ "$1" != "" ]
+do
+fn="$1"
+sig="$1.sig"
+rm -f "$sig"
+# https://unix.stackexchange.com/questions/60213/gpg-asks-for-password-even-with-passphrase
+echo $PWK | gpg --passphrase-fd 0 -b "$fn" 
+ #2296  gpg --verify pt.txt.sig pt.txt
+w_to_l "$fn" "$sig" | zip -@ "$ZIP"
+shift
+done
+unzip -l "$ZIP"
+base64 "$ZIP" > "$TEMP1"
+}
+
+send_text()
+{
+$SMUTT -s "$SUBJ"  "$DEST"  < "$TEMP1" 
+#neomutt -s "test" -a hist_doing --  marchywka@hotmail.com  < def.txt
+#rec_script.txt:marchywka@marchywka-Latitude-E6510:~/junk$ mutt -F neomuttrc_yahoo -s "test" -a foo.au.gz --  marchywka@hotmail.com  < def.txt
+}
+cdassure()
+{
+x=`pwd`
+y="$1"
+if [ -e "$y" ]
+then
+cd "$y"
+else
+echo not exist so make "$y"
+mkdir "$y"
+cd "$y"
+fi
+z=`pwd| grep "$y"`
+if [ "$z" == "" ]
+then
+echo pwd is `pwd` does not contain "$y"
+else
+if [ "$1" == "clean" ]
+then 
+rm *
+fi 
+fi
+
+}
+execute_payload()
+{
+old=`pwd`
+#cdassure "$RDIR"
+echo execute  pwd $old versus `pwd`
+cd $CRDIR
+echo execute pwd $old FORCE TO  `pwd`
+cp script.txt "$TEMP1"
+reply_text
+echo execute script.txt 
+#. ./script.txt 2>&1 > $OUTPUTFILE
+. ./script.txt 
+# ./script.txt
+echo done script.txt 
+
+cd "$old"
+}
+
+unpack_payload()
+{
+base64 --decode --ignore-garbage  "$CEDIR/$TEMPMAIL"  > "$RZIP"
+old=`pwd`
+T2="$old/$TEMP2"
+#cdassure "$RDIR"
+echo unpack old $old and now `pwd`
+nexist=`find -type f | wc`
+echo already have $nexist files `pwd`
+unzip -B  "$old/$RZIP"
+ls -al 
+find -type f | grep -v "\.sig$" | while read
+do
+f="$REPLY"
+s="$f.sig"
+gpg --verify "$s" "$f" 2>&1 > "$TEMP1"
+rc="$?"
+gr=`cat "$TEMP1" | grep -i "bad signature"`
+#if [ "$rc" != 0 ]
+if [ "$gr" != "" ]
+then
+echo $DOAPHRASE $s $f
+fi
+done > "$T2"
+check_security "$T2"
+cd $old
+echo after unpack  check pwd=`pwd`
+}
+check_security()
+{
+T2="$1"
+echo dump of $T2
+#cat "$T2"
+echo end dump of $T2
+x=`cat "$T2" | grep "$DOAPHRASE" `
+doa=` echo $x | wc -l  `
+echo doa   $doa doa $x
+#cd $old
+echo after security check pwd=`pwd`
+}
+must_exist()
+{
+while [ "$1" != "" ]
+do
+if [ -e "$1" ]
+then
+echo $1
+else
+echo missing $1 | smsg
+fi
+shift
+done
+
+}
+reply_files()
+{
+echo reply files  $*
+exists=`must_exist $*`
+#$RMUTT -s "$SUBJ"  -a $* --  "$REPLYADR"  2>&1  << ---xxx---
+#$RMUTT -s "$SUBJ"  -a $exists --  "$REPLYADR"  2>&1  << ---xxx---
+$RMUTT -s "$SUBJ"  -a $exists --  "$DEST"  2>&1  << ---xxx---
+script sent files
+from list $*
+some may be missing 
+---xxx---
+
+}
+
+reply_text()
+{
+#$RMUTT -s "$SUBJ"  "$REPLYADR"  < "$TEMP1" 
+$RMUTT -s "$SUBJ"  "$DEST"  < "$TEMP1" 
+#neomutt -s "test" -a hist_doing --  marchywka@hotmail.com  < def.txt
+#rec_script.txt:marchywka@marchywka-Latitude-E6510:~/junk$ mutt -F neomuttrc_yahoo -s "test" -a foo.au.gz --  marchywka@hotmail.com  < def.txt
+}
+
+
+
+killif()
+{
+if [ "$1" != "" ]
+then
+kill $*
+echo kill $*
+fi
+}
+killif9()
+{
+if [ "$1" != "" ]
+then
+kill -9  $*
+echo kill -9  $*
+fi
+}
+
+
+
+#########################################################
+#########################################################
+send_all()
+{
+make_payload $*
+send_text
+}
+
+loop_local()
+{
+make_payload $*
+#cp "$ZIP" "$RZIP"
+cp "$TEMP1" "$TEMPMAIL"
+unpack_payload
+
+}
+
+#output_all on
+
+
+fick_bash()
+{
+find $CRDIR -name "*.jpg"
+}
+
+done=
+set_exit()
+{
+done=1
+}
+
+send_remote_cmd()
+{
+cd "$TDIR"
+echo now in tmp `pwd` 
+tgtname="script.txt"
+tscript="$TDIR/$tgtname"
+remote_script_func > "$tscript"
+echo now  custom command 
+cat - >> "$tscript"
+echo now sending 
+mail_cmd -send "$tgtname" $*
+}
+
+
+while [ "$*" != "" ] && [ "$done" == "" ]
+do
+start="$*"
+if [ "$1" == "-help" ]
+then
+help
+shift
+fi
+
+if [ "$1" == "-sign" ]
+then
+shift
+sign_file "$1"
+shift
+fi
+
+if [ "$1" == "-mikemail" ]
+then
+invoke_mikemail
+shift
+fi
+
+if [ "$1" == "-mikemailloop" ]
+then
+invoke_mikemail_loop
+shift
+fi
+
+if [ "$1" == "-spawn-mikemail" ]
+then
+nohup_mikemail
+shift
+fi
+
+# the file list needs to include script.txt to execute. 
+if [ "$1" == "-send" ]
+then
+shift
+SUBJ="enclosed script"
+send_all $*
+set_exit
+fi
+
+#$SMUTT -s "$SUBJ"  "$DEST"  < "$TEMP1" 
+
+# the file list needs to include script.txt to execute. 
+if [ "$1" == "-report" ]
+then
+shift
+SUBJ="diet report eval-week 255 127"
+SUBJ="diet report eval 255 127"
+echo > "$TEMP1"
+send_text
+fi
+
+if [ "$1" == "-reply" ]
+then
+shift
+reply_files $*
+set_exit
+fi
+
+if [ "$1" == "-archive" ]
+then
+shift
+SUBJ=" archive $*"
+reply_files $*
+set_exit
+fi
+
+
+if [ "$1" == "-upload" ]
+then
+shift
+fn="$1"
+SUBJ=" diet upload 3 $fn "
+reply_files "$fn"
+shift 
+#set_exit
+fi
+
+if [ "$1" == "-download" ]
+then
+shift
+fn="$1"
+SUBJ=" diet download  "
+echo > "$TEMP1"
+send_text
+#set_exit
+fi
+
+
+
+if [ "$*" == "$start" ]
+then
+help
+exit -1
+fi
+
+done
+
+

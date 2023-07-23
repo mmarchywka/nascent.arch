@@ -1,0 +1,6 @@
+user mjm_mailproc@yahoo.com
+password DELETED 
+port 993
+#hostname imaps://imap.mail.yahoo.com
+hostname imap.mail.yahoo.com
+folder INBOX

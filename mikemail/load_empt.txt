@@ -1,0 +1,8 @@
+load-form diet/null.txt
+load-nouns diet/canon_nouns.txt
+load-ignores diet/ignores.txt
+load-reserveds diet/reserveds.txt
+parse
+markup
+blank
+template

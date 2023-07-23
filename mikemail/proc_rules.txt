@@ -1,0 +1,11 @@
+handler default desc crap script "cat -" dump 1 
+handler default desc foo script pwd dump 1
+handler default desc doo script ls dump 1 
+handler default desc moo script df dump 1 
+rule n 0 str marchywka location from: code 2
+pair 0 0
+pair 0 0
+pair 0 0
+pair 0 0
+vars foo doo dee duu
+vars doh rey me fa

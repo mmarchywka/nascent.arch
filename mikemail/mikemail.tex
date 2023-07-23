@@ -1,0 +1,158 @@
+
+\newcommand{\mjmx}[1]{ } 
+\newcommand{\mjmstart}[1]{
+
+\special{::mjm blockstart #1}
+
+}
+\newcommand{\mjmend}[1]{
+
+\special{::mjm blockend #1}
+
+}
+\mjmx{\newcommand{\makemjmblockclass}[1]{
+\newcommand{\\#1}[2]{
+\mjmstart{ #1 \#1}
+
+\#2
+
+\mjmend{ #1 \#1}
+
+} % title
+}
+} 
+
+\newcounter{mjmtitlecounter}
+\newcommand{\mjmtitle}[1]{
+\stepcounter{mjmtitlecounter}
+\mjmstart{title\arabic{mjmtitlecounter}}
+
+\large \bf
+
+#1
+
+\normalsize \normalfont
+
+%\mjmend{title#1}
+\mjmend{title\arabic{mjmtitlecounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcounter{mjmboilercounter}
+\newcommand{\mjmboilerplate}[1]{
+\stepcounter{mjmboilercounter}
+\mjmstart{boiler\arabic{mjmboilercounter}}
+
+#1
+
+%\mjmend{title#1}
+\mjmend{boiler\arabic{mjmboilercounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcounter{mjmheadercounter}
+\newcommand{\mjmheader}[1]{
+\stepcounter{mjmheadercounter}
+\mjmstart{header\arabic{mjmheadercounter}}
+
+#1
+
+%\mjmend{title#1}
+\mjmend{header\arabic{mjmheadercounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcounter{mjmauthorscounter}
+\newcommand{\mjmauthors}[1]{
+\stepcounter{mjmauthorscounter}
+\mjmstart{authors\arabic{mjmauthorscounter}}
+
+#1
+
+%\mjmend{title#1}
+\mjmend{authors\arabic{mjmauthorscounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newcounter{mjmcitationcounter}
+\newcommand{\mjmcitation}[1]{
+\stepcounter{mjmcitationcounter}
+\mjmstart{citation\arabic{mjmcitationcounter}}
+
+#1
+
+%\mjmend{title#1}
+\mjmend{citation\arabic{mjmcitationcounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcounter{mjmreferencescounter}
+\newcommand{\mjmreferences}[1]{
+\stepcounter{mjmreferencescounter}
+\mjmstart{references\arabic{mjmreferencescounter}}
+
+#1
+
+%\mjmend{title#1}
+\mjmend{references\arabic{mjmreferencescounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcounter{mjmabscounter}
+\newcommand{\mjmabstract}[1]{
+\stepcounter{mjmabscounter}
+\mjmstart{abstract\arabic{mjmabscounter}}
+
+#1
+
+%\mjmend{title#1}
+\mjmend{abstract\arabic{mjmabscounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcounter{mjmpcounter}
+\newcommand{\mjmp}[1]{
+\stepcounter{mjmpcounter}
+\mjmstart{p\arabic{mjmpcounter}}
+
+#1
+
+\mjmend{p\arabic{mjmpcounter}}
+
+} % title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+
+
+
+\newcommand{\mjmsection}[2]{
+
+\mjmstart{ secion#1}
+
+#2
+
+\mjmend{ section#1}
+
+} % title
+
+
+
+%\makemjmblockclass{mjmsection}
+%\makemjmblockclass{\mjmtitle}

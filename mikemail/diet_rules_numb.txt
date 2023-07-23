@@ -1,0 +1,22 @@
+users fn diet/users.txt
+handler default desc crap script "cat -" dump 1 
+#handler diet desc "dietformhandler" noun-file diet/canon_nouns.txt units-file diet/units.txt ignores-file diet/ignores.txt reserveds-file diet/reserveds.txt dir /home/documents/cpp/proj/mikemail/udata/
+handler diet desc "dietformhandler" noun-file diet/canon_nouns.txt,diet/aka_nouns.txt units-file diet/units.txt ignores-file diet/ignores.txt reserveds-file diet/reserveds.txt dir /home/documents/cpp/proj/mikemail/udata/
+handler file desc file_server 
+handler user desc userhandler new-user-fn diet/newuser.txt welcome-fn diet/welcome.txt register-fn diet/register.txt badcmd-fn diet/badcmd.txt 
+# ls diet canon_nouns.txt  diary.txt  ignores.txt  reserveds.txt
+handler default desc moo script df dump 1 
+#rule n 3 str xmarchywka location from: code 3 
+rule n 1 str file location subject: code 2 false 2
+rule n 0 str register location subject: code 3 false 3 
+rule n 3 user ubits B4 code 3 true 1
+rule n 2 str diet location subject: code 1 
+pair 0 0
+pair 1 1 
+pair 2 2 
+pair 3 3 
+pair 0 0
+vars foo doo dee duu
+vars doh rey me fa
+vars doh rey me fa
+vars doh rey me fa

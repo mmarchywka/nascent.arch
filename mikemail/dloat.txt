@@ -1,0 +1,4 @@
+read-server foo "gmail.tex"
+download-folder foo "roomates" /home/marchywka/intermediates/mikemail/gm2/oldcrap_roomates /home/marchywka/intermediates/mikemail/gm2/mboxx_roomates 25 
+join
+quit

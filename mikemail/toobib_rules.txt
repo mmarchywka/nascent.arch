@@ -1,0 +1,41 @@
+users fn diet/users.txt
+handler default default desc crap script "cat -" dump 1 
+# name,type, ctor name-value pairs... 
+#handler remote default bfile crapremote.zip sane 0x0ff desc remote_script_executer dump 1 
+#handler diet diet desc "dietformhandler" noun-file diet/canon_nouns.txt units-file diet/units.txt ignores-file diet/ignores.txt reserveds-file diet/reserveds.txt dir /home/documents/cpp/proj/mikemail/udata/
+#handler diet diet desc "dietformhandler" noun-file /home/documents/cpp/proj/mikemail/diet/canon_nouns.txt,/home/documents/cpp/proj/mikemail/diet/aka_nouns.txt units-file /home/documents/cpp/proj/mikemail/diet/units.txt ignores-file /home/documents/cpp/proj/mikemail/diet/ignores.txt reserveds-file /home/documents/cpp/proj/mikemail/diet/reserveds.txt dir /home/documents/cpp/proj/mikemail/udata/
+$handler diet diet desc "dietformhandlerdummy" 
+#handler file file desc file_server 
+handler user user desc userhandler new-user-fn diet/newuser.txt welcome-fn diet/welcome.txt register-fn diet/register.txt badcmd-fn diet/badcmd.txt 
+handler toobib toobib desc toobib_bibtex_finder log-file /home/scripts/script_data/mikemail/toobib_logs/toobib_log.txt blob-file /home/scripts/script_data/mikemail/toobib_logs/toobib_blob.txt mode loud
+# ls diet canon_nouns.txt  diary.txt  ignores.txt  reserveds.txt
+handler default desc moo script df dump 1 
+#rule n 3 str xmarchywka location from: code user 
+# first one is always the starting point 
+# state name, regex speccs, T/F next rule, code for handler if exit 
+rule start str toobib loc subject: handler toobib false startlog 
+#rule start str register loc subject: handler user false remote 
+rule startlog str register loc subject: handler user false remote 
+rule remote str script loc subject: handler remote false user 
+rule file str file loc subject: handler file false diet 
+rule user user ubits B4 handler user false file 
+rule diet str diet loc subject: handler diet false fail 
+rule fail handler user 
+# obsolste stupid things 
+#pair 0 0
+#pair 1 1 
+#pair 2 2 
+#pair 3 3 
+#pair 0 0
+# these should have a name or be on the handler line. 
+# these are kind of dumb since they have to map one to one with
+# a handler. When passed during a handle, they also have user info added
+# in copies speciic to the mesage 
+#vars remote sane 0x0ff
+#vars remote sane 0x0ff
+#vars remote sane 0x0ff
+#vars remote sane 0x0ff
+#vars foo doo dee duu
+#vars doh rey me fa
+#vars doh rey me fa
+#vars doh rey me fa
