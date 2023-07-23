@@ -1,0 +1,76 @@
+
+ eutilsnew -out yyy -db protein -v  -report fasta "secreted refseq"
+
+ 3340  ./mjm_string_seq.out -cmd "stream-script rag yyy \"grep -o -n W..W..W..C \\| sed -e 's/:/ /g' \\|awk '{print \$1}' \"" -cmd "write-ragged raggu rag" -cmd quit
+ 3341  cat raggu | grep -v "|0|"
+ 3342  history
+ 3343  vi README.txt
+ 3344  cat raggu | grep -v "|0|" | sed -e 's/|/ /g' | sort -k 2 -g
+
+92067 1 XP_042681917.1 complement component C7 isoform X2 [Centrocercus urophasianus]
+92068 1 XP_042681916.1 complement component C7 isoform X1 [Centrocercus urophasianus]
+161832 2 XP_041369893.1 uncharacterized protein LOC121383861 [Gigantopelta aegis]
+28972 2 NP_001309747.1 netrin receptor UNC5D isoform 2 [Homo sapiens]
+4793 2 NP_003719.3 netrin receptor UNC5C precursor [Homo sapiens]
+77162 2 NP_543148.2 netrin receptor UNC5D isoform 1 precursor [Homo sapiens]
+131056 3 NP_789861.1 thrombospondin-2 precursor [Bos taurus]
+30602 3 NP_783573.4 adhesion G protein-coupled receptor B3 precursor [Mus musculus]
+41381 3 NP_776621.1 thrombospondin-1 precursor [Bos taurus]
+29704 4 NP_001243277.1 semaphorin-5B isoform 3 precursor [Homo sapiens]
+29705 5 NP_001243275.1 semaphorin-5B isoform 1 [Homo sapiens]
+30503 5 NP_001243276.1 semaphorin-5B isoform 2 [Homo sapiens]
+30611 5 NP_001019891.2 hemicentin-1 precursor [Mus musculus]
+5123 5 NP_001026872.2 semaphorin-5B isoform 1 [Homo sapiens]
+34477 20 NP_777131.1 SCO-spondin precursor [Bos taurus]
+
+
+ 3390  eutilsnew -out yyy -db protein -v  -report fasta "calcium refseq"
+ 3391  ./mjm_string_seq.out -cmd "stream-script rag yyy \"grep -o -n W..W..C \\| sed -e 's/:/ /g' \\|awk '{print \$1}' \"" -cmd "write-ragged raggu rag" -cmd quit
+ 3392  cat raggu | grep -v "|0|" | sed -e 's/|/ /g' | sort -k 2 -g
+ 3393  vi results.txt 
+
+
+48440 2 XP_011512418.1 complement component C6 isoform X2 [Homo sapiens]
+48441 2 XP_011512417.1 complement component C6 isoform X2 [Homo sapiens]
+48442 2 XP_011512416.1 complement component C6 isoform X1 [Homo sapiens]
+48636 2 XP_006714559.1 complement component C6 isoform X3 [Homo sapiens]
+49654 2 XP_035463117.1 complement component C9 [Scophthalmus maximus]
+5724 2 XP_032222941.1 uncharacterized protein LOC5521805 isoform X2 [Nematostella vectensis]
+5725 2 XP_032222939.1 uncharacterized protein LOC5521805 isoform X1 [Nematostella vectensis]
+5726 2 XP_032222938.1 uncharacterized protein LOC5521805 isoform X1 [Nematostella vectensis]
+5727 2 XP_032222937.1 uncharacterized protein LOC5521805 isoform X1 [Nematostella vectensis]
+8465 2 NP_001108603.2 complement component C6 precursor [Homo sapiens]
+8469 2 NP_000056.2 complement component C6 precursor [Homo sapiens]
+9101 2 NP_000553.1 complement component C8 alpha chain preproprotein [Homo sapiens]
+9385 2 NP_000057.3 complement component C8 beta chain isoform 1 preproprotein [Homo sapiens]
+47306 3 XP_035001048.1 thrombospondin-2 [Hippoglossus stenolepis]
+43696 6 NP_001019891.2 hemicentin-1 precursor [Mus musculus]
+48550 6 XP_011508340.1 hemicentin-1 isoform X1 [Homo sapiens]
+31875 26 NP_775604.3 SCO-spondin precursor [Mus musculus]
+
+
+3405  ./mjm_string_seq.out -cmd "stream-fasta - yyy" -cmd quit  | grep -n "W..W..W..C\|>.*"| grep -v -B 1  ">" | highlight -red W..W..W..C  | more
+ 3406  ./mjm_string_seq.out -cmd "stream-script rag yyy \"grep -o -n W..W..W..C \\| sed -e 's/:/ /g' \\|awk '{print \$1}' \"" -cmd "write-ragged raggu rag" -cmd quit
+ 3407  cat raggu | grep -v "|0|" | sed -e 's/|/ /g' | sort -k 2 -g -r |more
+
+
+661 28 XP_023933310.1 SCO-spondin [Lingula anatina]
+817 22 XP_014342845.1 PREDICTED: SCO-spondin [Latimeria chalumnae]
+802 21 XP_015209797.1 PREDICTED: SCO-spondin [Lepisosteus oculatus]
+778 21 XP_016853836.1 PREDICTED: SCO-spondin [Anolis carolinensis]
+684 21 XP_023420828.1 LOW QUALITY PROTEIN: SCO-spondin [Cavia porcellus]
+507 21 XP_031310401.1 LOW QUALITY PROTEIN: SCO-spondin [Camelus dromedarius]
+499 21 XP_031759770.1 SCO-spondin [Xenopus tropicalis]
+476 21 XP_032339113.1 LOW QUALITY PROTEIN: SCO-spondin [Camelus ferus]
+40 21 XP_048698133.1 LOW QUALITY PROTEIN: SCO-spondin-like [Caretta caretta]
+275 21 XP_039610072.1 SCO-spondin [Polypterus senegalus]
+233 21 XP_018096756.1 SCO-spondin isoform X1 [Xenopus laevis]
+232 21 XP_018096757.1 SCO-spondin isoform X2 [Xenopus laevis]
+231 21 XP_018096758.1 SCO-spondin isoform X4 [Xenopus laevis]
+229 21 XP_041421627.1 SCO-spondin isoform X3 [Xenopus laevis]
+175 21 XP_043397830.1 LOW QUALITY PROTEIN: SCO-spondin [Chelonia mydas]
+929 20 CAF33425.1 SCO-spondin [Rattus norvegicus]
+927 20 CAD42654.1 SCO-spondin [Mus musculus]
+923 20 CAC94914.1 SCO-spondin [Bos taurus]
+92 20 XP_047185937.1 SCO-spondin [Scophthalmus maximus]
+

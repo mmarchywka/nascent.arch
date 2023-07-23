@@ -1,0 +1,1387 @@
+<svg style="overflow: hidden; -moz-user-select: none; cursor: default; position: relative; background-color: rgb(255, 255, 255);" xmlns="http://www.w3.org/2000/svg" width="611" version="1.1" height="1269"><desc> test foo</desc><rect fill-opacity="1" stroke-width="1" stroke-opacity="1" style="" stroke="#00808080" fill="#00808080" ry="0" rx="0" r="0" height="1269" width="611" y="0" x="0"></rect>
+<text transform="rotate(90,25,200)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="200" x="25" style="text-anchor:left;">j0>seq63;size=402;counts=29;data</text>
+<path d="M100 200 L100 181" stroke="blue" stroke-width="1"/>
+<path d="M100.05 200 L100.05 959" stroke="black" stroke-opacity="0.9"  stroke-width="0.9"/>
+<text transform="rotate(90,100.5,200.759)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200.759" x="100.5" style="text-anchor:start;"> base=0</text><path d="M101 200 L101 181" stroke="blue" stroke-width="1"/>
+<path d="M102 200 L102 180" stroke="blue" stroke-width="1"/>
+<path d="M103 200 L103 180" stroke="blue" stroke-width="1"/>
+<path d="M104 200 L104 180" stroke="blue" stroke-width="1"/>
+<path d="M105 200 L105 180" stroke="blue" stroke-width="1"/>
+<path d="M106 200 L106 180" stroke="blue" stroke-width="1"/>
+<path d="M107 200 L107 180" stroke="blue" stroke-width="1"/>
+<path d="M108 200 L108 180" stroke="blue" stroke-width="1"/>
+<path d="M109 200 L109 180" stroke="blue" stroke-width="1"/>
+<path d="M110 200 L110 180" stroke="blue" stroke-width="1"/>
+<path d="M111 200 L111 180" stroke="blue" stroke-width="1"/>
+<path d="M112 200 L112 180" stroke="blue" stroke-width="1"/>
+<path d="M113 200 L113 180" stroke="blue" stroke-width="1"/>
+<path d="M114 200 L114 180" stroke="blue" stroke-width="1"/>
+<path d="M115 200 L115 180" stroke="blue" stroke-width="1"/>
+<path d="M116 200 L116 180" stroke="blue" stroke-width="1"/>
+<path d="M117 200 L117 180" stroke="blue" stroke-width="1"/>
+<path d="M118 200 L118 180" stroke="blue" stroke-width="1"/>
+<path d="M119 200 L119 180" stroke="blue" stroke-width="1"/>
+<path d="M120 200 L120 180" stroke="blue" stroke-width="1"/>
+<path d="M121 200 L121 180" stroke="blue" stroke-width="1"/>
+<path d="M122 200 L122 180" stroke="blue" stroke-width="1"/>
+<path d="M123 200 L123 180" stroke="blue" stroke-width="1"/>
+<path d="M124 200 L124 180" stroke="blue" stroke-width="1"/>
+<path d="M125 200 L125 180" stroke="blue" stroke-width="1"/>
+<path d="M126 200 L126 180" stroke="blue" stroke-width="1"/>
+<path d="M127 200 L127 180" stroke="blue" stroke-width="1"/>
+<path d="M128 200 L128 180" stroke="blue" stroke-width="1"/>
+<path d="M129 200 L129 180" stroke="blue" stroke-width="1"/>
+<path d="M130 200 L130 180" stroke="blue" stroke-width="1"/>
+<path d="M131 200 L131 180" stroke="blue" stroke-width="1"/>
+<path d="M132 200 L132 180" stroke="blue" stroke-width="1"/>
+<path d="M133 200 L133 180" stroke="blue" stroke-width="1"/>
+<path d="M134 200 L134 180" stroke="blue" stroke-width="1"/>
+<path d="M135 200 L135 180" stroke="blue" stroke-width="1"/>
+<path d="M136 200 L136 180" stroke="blue" stroke-width="1"/>
+<path d="M137 200 L137 180" stroke="blue" stroke-width="1"/>
+<path d="M138 200 L138 180" stroke="blue" stroke-width="1"/>
+<path d="M139 200 L139 180" stroke="blue" stroke-width="1"/>
+<path d="M140 200 L140 180" stroke="blue" stroke-width="1"/>
+<path d="M141 200 L141 180" stroke="blue" stroke-width="1"/>
+<path d="M142 200 L142 180" stroke="blue" stroke-width="1"/>
+<path d="M143 200 L143 180" stroke="blue" stroke-width="1"/>
+<path d="M144 200 L144 180" stroke="blue" stroke-width="1"/>
+<path d="M145 200 L145 180" stroke="blue" stroke-width="1"/>
+<path d="M146 200 L146 180" stroke="blue" stroke-width="1"/>
+<path d="M147 200 L147 180" stroke="blue" stroke-width="1"/>
+<path d="M148 200 L148 180" stroke="blue" stroke-width="1"/>
+<path d="M149 200 L149 180" stroke="blue" stroke-width="1"/>
+<path d="M150 200 L150 180" stroke="blue" stroke-width="1"/>
+<path d="M151 200 L151 180" stroke="blue" stroke-width="1"/>
+<path d="M152 200 L152 180" stroke="blue" stroke-width="1"/>
+<path d="M153 200 L153 180" stroke="blue" stroke-width="1"/>
+<path d="M154 200 L154 180" stroke="blue" stroke-width="1"/>
+<path d="M155 200 L155 180" stroke="blue" stroke-width="1"/>
+<path d="M156 200 L156 180" stroke="blue" stroke-width="1"/>
+<path d="M157 200 L157 180" stroke="blue" stroke-width="1"/>
+<path d="M158 200 L158 180" stroke="blue" stroke-width="1"/>
+<path d="M159 200 L159 180" stroke="blue" stroke-width="1"/>
+<path d="M160 200 L160 180" stroke="blue" stroke-width="1"/>
+<path d="M161 200 L161 180" stroke="blue" stroke-width="1"/>
+<path d="M162 200 L162 180" stroke="blue" stroke-width="1"/>
+<path d="M163 200 L163 180" stroke="blue" stroke-width="1"/>
+<path d="M164 200 L164 180" stroke="blue" stroke-width="1"/>
+<path d="M165 200 L165 180" stroke="blue" stroke-width="1"/>
+<path d="M166 200 L166 180" stroke="blue" stroke-width="1"/>
+<path d="M167 200 L167 180" stroke="blue" stroke-width="1"/>
+<path d="M168 200 L168 180" stroke="blue" stroke-width="1"/>
+<path d="M169 200 L169 180" stroke="blue" stroke-width="1"/>
+<path d="M170 200 L170 180" stroke="blue" stroke-width="1"/>
+<path d="M171 200 L171 199" stroke="blue" stroke-width="1"/>
+<path d="M172 200 L172 180" stroke="blue" stroke-width="1"/>
+<path d="M173 200 L173 180" stroke="blue" stroke-width="1"/>
+<path d="M174 200 L174 180" stroke="blue" stroke-width="1"/>
+<path d="M175 200 L175 180" stroke="blue" stroke-width="1"/>
+<path d="M176 200 L176 180" stroke="blue" stroke-width="1"/>
+<path d="M177 200 L177 180" stroke="blue" stroke-width="1"/>
+<path d="M178 200 L178 180" stroke="blue" stroke-width="1"/>
+<path d="M179 200 L179 180" stroke="blue" stroke-width="1"/>
+<path d="M180 200 L180 180" stroke="blue" stroke-width="1"/>
+<path d="M181 200 L181 180" stroke="blue" stroke-width="1"/>
+<path d="M182 200 L182 180" stroke="blue" stroke-width="1"/>
+<path d="M183 200 L183 180" stroke="blue" stroke-width="1"/>
+<path d="M184 200 L184 180" stroke="blue" stroke-width="1"/>
+<path d="M185 200 L185 180" stroke="blue" stroke-width="1"/>
+<path d="M186 200 L186 180" stroke="blue" stroke-width="1"/>
+<path d="M187 200 L187 180" stroke="blue" stroke-width="1"/>
+<path d="M188 200 L188 180" stroke="blue" stroke-width="1"/>
+<path d="M189 200 L189 180" stroke="blue" stroke-width="1"/>
+<path d="M190 200 L190 180" stroke="blue" stroke-width="1"/>
+<path d="M191 200 L191 180" stroke="blue" stroke-width="1"/>
+<path d="M192 200 L192 180" stroke="blue" stroke-width="1"/>
+<path d="M193 200 L193 180" stroke="blue" stroke-width="1"/>
+<path d="M194 200 L194 181" stroke="blue" stroke-width="1"/>
+<path d="M195 200 L195 180" stroke="blue" stroke-width="1"/>
+<path d="M196 200 L196 180" stroke="blue" stroke-width="1"/>
+<path d="M197 200 L197 180" stroke="blue" stroke-width="1"/>
+<path d="M198 200 L198 180" stroke="blue" stroke-width="1"/>
+<path d="M199 200 L199 180" stroke="blue" stroke-width="1"/>
+<path d="M200 200 L200 180" stroke="blue" stroke-width="1"/>
+<path d="M201 200 L201 180" stroke="blue" stroke-width="1"/>
+<path d="M202 200 L202 180" stroke="blue" stroke-width="1"/>
+<path d="M203 200 L203 180" stroke="blue" stroke-width="1"/>
+<path d="M204 200 L204 180" stroke="blue" stroke-width="1"/>
+<path d="M205 200 L205 180" stroke="blue" stroke-width="1"/>
+<path d="M206 200 L206 180" stroke="blue" stroke-width="1"/>
+<path d="M207 200 L207 180" stroke="blue" stroke-width="1"/>
+<path d="M208 200 L208 180" stroke="blue" stroke-width="1"/>
+<path d="M209 200 L209 180" stroke="blue" stroke-width="1"/>
+<path d="M210 200 L210 180" stroke="blue" stroke-width="1"/>
+<path d="M211 200 L211 180" stroke="blue" stroke-width="1"/>
+<path d="M212 200 L212 180" stroke="blue" stroke-width="1"/>
+<path d="M213 200 L213 180" stroke="blue" stroke-width="1"/>
+<path d="M214 200 L214 180" stroke="blue" stroke-width="1"/>
+<path d="M215 200 L215 180" stroke="blue" stroke-width="1"/>
+<path d="M216 200 L216 180" stroke="blue" stroke-width="1"/>
+<path d="M217 200 L217 180" stroke="blue" stroke-width="1"/>
+<path d="M218 200 L218 180" stroke="blue" stroke-width="1"/>
+<path d="M219 200 L219 180" stroke="blue" stroke-width="1"/>
+<path d="M220 200 L220 180" stroke="blue" stroke-width="1"/>
+<path d="M221 200 L221 180" stroke="blue" stroke-width="1"/>
+<path d="M222 200 L222 180" stroke="blue" stroke-width="1"/>
+<path d="M223 200 L223 180" stroke="blue" stroke-width="1"/>
+<path d="M224 200 L224 180" stroke="blue" stroke-width="1"/>
+<path d="M225 200 L225 180" stroke="blue" stroke-width="1"/>
+<path d="M226 200 L226 180" stroke="blue" stroke-width="1"/>
+<path d="M227 200 L227 180" stroke="blue" stroke-width="1"/>
+<path d="M228 200 L228 180" stroke="blue" stroke-width="1"/>
+<path d="M229 200 L229 180" stroke="blue" stroke-width="1"/>
+<path d="M230 200 L230 180" stroke="blue" stroke-width="1"/>
+<path d="M231 200 L231 180" stroke="blue" stroke-width="1"/>
+<path d="M232 200 L232 180" stroke="blue" stroke-width="1"/>
+<path d="M233 200 L233 180" stroke="blue" stroke-width="1"/>
+<path d="M234 200 L234 180" stroke="blue" stroke-width="1"/>
+<path d="M235 200 L235 180" stroke="blue" stroke-width="1"/>
+<path d="M236 200 L236 180" stroke="blue" stroke-width="1"/>
+<path d="M237 200 L237 180" stroke="blue" stroke-width="1"/>
+<path d="M238 200 L238 180" stroke="blue" stroke-width="1"/>
+<path d="M239 200 L239 180" stroke="blue" stroke-width="1"/>
+<path d="M240 200 L240 180" stroke="blue" stroke-width="1"/>
+<path d="M241 200 L241 180" stroke="blue" stroke-width="1"/>
+<path d="M242 200 L242 180" stroke="blue" stroke-width="1"/>
+<path d="M243 200 L243 180" stroke="blue" stroke-width="1"/>
+<path d="M244 200 L244 180" stroke="blue" stroke-width="1"/>
+<path d="M245 200 L245 180" stroke="blue" stroke-width="1"/>
+<path d="M246 200 L246 180" stroke="blue" stroke-width="1"/>
+<path d="M247 200 L247 180" stroke="blue" stroke-width="1"/>
+<path d="M248 200 L248 180" stroke="blue" stroke-width="1"/>
+<path d="M249 200 L249 180" stroke="blue" stroke-width="1"/>
+<path d="M250 200 L250 180" stroke="blue" stroke-width="1"/>
+<path d="M251 200 L251 180" stroke="blue" stroke-width="1"/>
+<path d="M252 200 L252 180" stroke="blue" stroke-width="1"/>
+<path d="M253 200 L253 180" stroke="blue" stroke-width="1"/>
+<path d="M254 200 L254 180" stroke="blue" stroke-width="1"/>
+<path d="M255 200 L255 180" stroke="blue" stroke-width="1"/>
+<path d="M256 200 L256 180" stroke="blue" stroke-width="1"/>
+<path d="M257 200 L257 180" stroke="blue" stroke-width="1"/>
+<path d="M258 200 L258 180" stroke="blue" stroke-width="1"/>
+<path d="M259 200 L259 180" stroke="blue" stroke-width="1"/>
+<path d="M260 200 L260 180" stroke="blue" stroke-width="1"/>
+<path d="M261 200 L261 180" stroke="blue" stroke-width="1"/>
+<path d="M262 200 L262 180" stroke="blue" stroke-width="1"/>
+<path d="M263 200 L263 180" stroke="blue" stroke-width="1"/>
+<path d="M264 200 L264 180" stroke="blue" stroke-width="1"/>
+<path d="M265 200 L265 180" stroke="blue" stroke-width="1"/>
+<path d="M266 200 L266 180" stroke="blue" stroke-width="1"/>
+<path d="M267 200 L267 180" stroke="blue" stroke-width="1"/>
+<path d="M268 200 L268 180" stroke="blue" stroke-width="1"/>
+<path d="M269 200 L269 180" stroke="blue" stroke-width="1"/>
+<path d="M270 200 L270 180" stroke="blue" stroke-width="1"/>
+<path d="M271 200 L271 180" stroke="blue" stroke-width="1"/>
+<path d="M272 200 L272 180" stroke="blue" stroke-width="1"/>
+<path d="M273 200 L273 180" stroke="blue" stroke-width="1"/>
+<path d="M274 200 L274 180" stroke="blue" stroke-width="1"/>
+<path d="M275 200 L275 180" stroke="blue" stroke-width="1"/>
+<path d="M276 200 L276 180" stroke="blue" stroke-width="1"/>
+<path d="M277 200 L277 180" stroke="blue" stroke-width="1"/>
+<path d="M278 200 L278 180" stroke="blue" stroke-width="1"/>
+<path d="M279 200 L279 180" stroke="blue" stroke-width="1"/>
+<path d="M280 200 L280 180" stroke="blue" stroke-width="1"/>
+<path d="M281 200 L281 180" stroke="blue" stroke-width="1"/>
+<path d="M282 200 L282 180" stroke="blue" stroke-width="1"/>
+<path d="M283 200 L283 180" stroke="blue" stroke-width="1"/>
+<path d="M284 200 L284 180" stroke="blue" stroke-width="1"/>
+<path d="M285 200 L285 180" stroke="blue" stroke-width="1"/>
+<path d="M286 200 L286 180" stroke="blue" stroke-width="1"/>
+<path d="M287 200 L287 180" stroke="blue" stroke-width="1"/>
+<path d="M288 200 L288 180" stroke="blue" stroke-width="1"/>
+<path d="M289 200 L289 180" stroke="blue" stroke-width="1"/>
+<path d="M290 200 L290 180" stroke="blue" stroke-width="1"/>
+<path d="M291 200 L291 180" stroke="blue" stroke-width="1"/>
+<path d="M292 200 L292 180" stroke="blue" stroke-width="1"/>
+<path d="M293 200 L293 180" stroke="blue" stroke-width="1"/>
+<path d="M294 200 L294 180" stroke="blue" stroke-width="1"/>
+<path d="M295 200 L295 180" stroke="blue" stroke-width="1"/>
+<path d="M296 200 L296 180" stroke="blue" stroke-width="1"/>
+<path d="M297 200 L297 180" stroke="blue" stroke-width="1"/>
+<path d="M298 200 L298 180" stroke="blue" stroke-width="1"/>
+<path d="M299 200 L299 180" stroke="blue" stroke-width="1"/>
+<path d="M300 200 L300 180" stroke="blue" stroke-width="1"/>
+<path d="M301 200 L301 180" stroke="blue" stroke-width="1"/>
+<path d="M302 200 L302 180" stroke="blue" stroke-width="1"/>
+<path d="M303 200 L303 180" stroke="blue" stroke-width="1"/>
+<path d="M304 200 L304 180" stroke="blue" stroke-width="1"/>
+<path d="M305 200 L305 180" stroke="blue" stroke-width="1"/>
+<path d="M306 200 L306 180" stroke="blue" stroke-width="1"/>
+<path d="M307 200 L307 180" stroke="blue" stroke-width="1"/>
+<path d="M308 200 L308 180" stroke="blue" stroke-width="1"/>
+<path d="M309 200 L309 180" stroke="blue" stroke-width="1"/>
+<path d="M310 200 L310 180" stroke="blue" stroke-width="1"/>
+<path d="M311 200 L311 184" stroke="blue" stroke-width="1"/>
+<path d="M312 200 L312 180" stroke="blue" stroke-width="1"/>
+<path d="M313 200 L313 180" stroke="blue" stroke-width="1"/>
+<path d="M314 200 L314 180" stroke="blue" stroke-width="1"/>
+<path d="M315 200 L315 180" stroke="blue" stroke-width="1"/>
+<path d="M316 200 L316 180" stroke="blue" stroke-width="1"/>
+<path d="M317 200 L317 180" stroke="blue" stroke-width="1"/>
+<path d="M318 200 L318 180" stroke="blue" stroke-width="1"/>
+<path d="M319 200 L319 181" stroke="blue" stroke-width="1"/>
+<path d="M320 200 L320 180" stroke="blue" stroke-width="1"/>
+<path d="M321 200 L321 180" stroke="blue" stroke-width="1"/>
+<path d="M322 200 L322 180" stroke="blue" stroke-width="1"/>
+<path d="M323 200 L323 180" stroke="blue" stroke-width="1"/>
+<path d="M324 200 L324 180" stroke="blue" stroke-width="1"/>
+<path d="M325 200 L325 180" stroke="blue" stroke-width="1"/>
+<path d="M326 200 L326 180" stroke="blue" stroke-width="1"/>
+<path d="M327 200 L327 181" stroke="blue" stroke-width="1"/>
+<path d="M328 200 L328 181" stroke="blue" stroke-width="1"/>
+<path d="M329 200 L329 181" stroke="blue" stroke-width="1"/>
+<path d="M330 200 L330 181" stroke="blue" stroke-width="1"/>
+<path d="M331 200 L331 181" stroke="blue" stroke-width="1"/>
+<path d="M332 200 L332 181" stroke="blue" stroke-width="1"/>
+<path d="M333 200 L333 197" stroke="blue" stroke-width="1"/>
+<path d="M334 200 L334 180" stroke="blue" stroke-width="1"/>
+<path d="M335 200 L335 180" stroke="blue" stroke-width="1"/>
+<path d="M336 200 L336 180" stroke="blue" stroke-width="1"/>
+<path d="M337 200 L337 180" stroke="blue" stroke-width="1"/>
+<path d="M338 200 L338 180" stroke="blue" stroke-width="1"/>
+<path d="M339 200 L339 180" stroke="blue" stroke-width="1"/>
+<path d="M340 200 L340 180" stroke="blue" stroke-width="1"/>
+<path d="M341 200 L341 180" stroke="blue" stroke-width="1"/>
+<path d="M342 200 L342 180" stroke="blue" stroke-width="1"/>
+<path d="M343 200 L343 180" stroke="blue" stroke-width="1"/>
+<path d="M344 200 L344 180" stroke="blue" stroke-width="1"/>
+<path d="M345 200 L345 180" stroke="blue" stroke-width="1"/>
+<path d="M346 200 L346 180" stroke="blue" stroke-width="1"/>
+<path d="M347 200 L347 180" stroke="blue" stroke-width="1"/>
+<path d="M348 200 L348 180" stroke="blue" stroke-width="1"/>
+<path d="M349 200 L349 180" stroke="blue" stroke-width="1"/>
+<path d="M350 200 L350 180" stroke="blue" stroke-width="1"/>
+<path d="M351 200 L351 180" stroke="blue" stroke-width="1"/>
+<path d="M352 200 L352 180" stroke="blue" stroke-width="1"/>
+<path d="M353 200 L353 180" stroke="blue" stroke-width="1"/>
+<path d="M354 200 L354 180" stroke="blue" stroke-width="1"/>
+<path d="M355 200 L355 180" stroke="blue" stroke-width="1"/>
+<path d="M356 200 L356 180" stroke="blue" stroke-width="1"/>
+<path d="M357 200 L357 180" stroke="blue" stroke-width="1"/>
+<path d="M358 200 L358 180" stroke="blue" stroke-width="1"/>
+<path d="M359 200 L359 180" stroke="blue" stroke-width="1"/>
+<path d="M360 200 L360 180" stroke="blue" stroke-width="1"/>
+<path d="M361 200 L361 180" stroke="blue" stroke-width="1"/>
+<path d="M362 200 L362 180" stroke="blue" stroke-width="1"/>
+<path d="M363 200 L363 180" stroke="blue" stroke-width="1"/>
+<path d="M364 200 L364 180" stroke="blue" stroke-width="1"/>
+<path d="M365 200 L365 180" stroke="blue" stroke-width="1"/>
+<path d="M366 200 L366 184" stroke="blue" stroke-width="1"/>
+<path d="M367 200 L367 180" stroke="blue" stroke-width="1"/>
+<path d="M368 200 L368 180" stroke="blue" stroke-width="1"/>
+<path d="M369 200 L369 180" stroke="blue" stroke-width="1"/>
+<path d="M370 200 L370 180" stroke="blue" stroke-width="1"/>
+<path d="M371 200 L371 180" stroke="blue" stroke-width="1"/>
+<path d="M372 200 L372 180" stroke="blue" stroke-width="1"/>
+<path d="M373 200 L373 180" stroke="blue" stroke-width="1"/>
+<path d="M374 200 L374 180" stroke="blue" stroke-width="1"/>
+<path d="M375 200 L375 180" stroke="blue" stroke-width="1"/>
+<path d="M376 200 L376 180" stroke="blue" stroke-width="1"/>
+<path d="M377 200 L377 180" stroke="blue" stroke-width="1"/>
+<path d="M378 200 L378 180" stroke="blue" stroke-width="1"/>
+<path d="M379 200 L379 180" stroke="blue" stroke-width="1"/>
+<path d="M380 200 L380 180" stroke="blue" stroke-width="1"/>
+<path d="M381 200 L381 180" stroke="blue" stroke-width="1"/>
+<path d="M382 200 L382 180" stroke="blue" stroke-width="1"/>
+<path d="M383 200 L383 180" stroke="blue" stroke-width="1"/>
+<path d="M384 200 L384 180" stroke="blue" stroke-width="1"/>
+<path d="M385 200 L385 180" stroke="blue" stroke-width="1"/>
+<path d="M386 200 L386 180" stroke="blue" stroke-width="1"/>
+<path d="M387 200 L387 179" stroke="blue" stroke-width="1"/>
+<path d="M388 200 L388 180" stroke="blue" stroke-width="1"/>
+<path d="M388 200 L388 959" stroke="red" stroke-opacity="0.9"  stroke-width="1"/>
+<text transform="rotate(90,388.5,200.759)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200.759" x="388.5" style="text-anchor:start;"> base=288</text><path d="M389 200 L389 180" stroke="blue" stroke-width="1"/>
+<path d="M390 200 L390 180" stroke="blue" stroke-width="1"/>
+<path d="M391 200 L391 180" stroke="blue" stroke-width="1"/>
+<path d="M392 200 L392 180" stroke="blue" stroke-width="1"/>
+<path d="M393 200 L393 180" stroke="blue" stroke-width="1"/>
+<path d="M394 200 L394 180" stroke="blue" stroke-width="1"/>
+<path d="M395 200 L395 180" stroke="blue" stroke-width="1"/>
+<path d="M396 200 L396 180" stroke="blue" stroke-width="1"/>
+<path d="M397 200 L397 180" stroke="blue" stroke-width="1"/>
+<path d="M398 200 L398 180" stroke="blue" stroke-width="1"/>
+<path d="M399 200 L399 180" stroke="blue" stroke-width="1"/>
+<path d="M400 200 L400 180" stroke="blue" stroke-width="1"/>
+<path d="M401 200 L401 180" stroke="blue" stroke-width="1"/>
+<path d="M402 200 L402 180" stroke="blue" stroke-width="1"/>
+<path d="M403 200 L403 180" stroke="blue" stroke-width="1"/>
+<path d="M404 200 L404 180" stroke="blue" stroke-width="1"/>
+<path d="M405 200 L405 180" stroke="blue" stroke-width="1"/>
+<path d="M406 200 L406 180" stroke="blue" stroke-width="1"/>
+<path d="M407 200 L407 180" stroke="blue" stroke-width="1"/>
+<path d="M408 200 L408 180" stroke="blue" stroke-width="1"/>
+<path d="M409 200 L409 180" stroke="blue" stroke-width="1"/>
+<path d="M410 200 L410 180" stroke="blue" stroke-width="1"/>
+<path d="M411 200 L411 180" stroke="blue" stroke-width="1"/>
+<path d="M412 200 L412 180" stroke="blue" stroke-width="1"/>
+<path d="M413 200 L413 180" stroke="blue" stroke-width="1"/>
+<path d="M414 200 L414 180" stroke="blue" stroke-width="1"/>
+<path d="M415 200 L415 180" stroke="blue" stroke-width="1"/>
+<path d="M416 200 L416 180" stroke="blue" stroke-width="1"/>
+<path d="M417 200 L417 180" stroke="blue" stroke-width="1"/>
+<path d="M418 200 L418 180" stroke="blue" stroke-width="1"/>
+<path d="M419 200 L419 180" stroke="blue" stroke-width="1"/>
+<path d="M420 200 L420 180" stroke="blue" stroke-width="1"/>
+<path d="M421 200 L421 180" stroke="blue" stroke-width="1"/>
+<path d="M422 200 L422 180" stroke="blue" stroke-width="1"/>
+<path d="M423 200 L423 180" stroke="blue" stroke-width="1"/>
+<path d="M424 200 L424 180" stroke="blue" stroke-width="1"/>
+<path d="M425 200 L425 180" stroke="blue" stroke-width="1"/>
+<path d="M426 200 L426 180" stroke="blue" stroke-width="1"/>
+<path d="M427 200 L427 180" stroke="blue" stroke-width="1"/>
+<path d="M428 200 L428 180" stroke="blue" stroke-width="1"/>
+<path d="M429 200 L429 180" stroke="blue" stroke-width="1"/>
+<path d="M430 200 L430 180" stroke="blue" stroke-width="1"/>
+<path d="M431 200 L431 180" stroke="blue" stroke-width="1"/>
+<path d="M432 200 L432 180" stroke="blue" stroke-width="1"/>
+<path d="M433 200 L433 180" stroke="blue" stroke-width="1"/>
+<path d="M434 200 L434 180" stroke="blue" stroke-width="1"/>
+<path d="M435 200 L435 180" stroke="blue" stroke-width="1"/>
+<path d="M436 200 L436 180" stroke="blue" stroke-width="1"/>
+<path d="M437 200 L437 180" stroke="blue" stroke-width="1"/>
+<path d="M438 200 L438 179" stroke="blue" stroke-width="1"/>
+<path d="M439 200 L439 179" stroke="blue" stroke-width="1"/>
+<path d="M440 200 L440 180" stroke="blue" stroke-width="1"/>
+<path d="M441 200 L441 180" stroke="blue" stroke-width="1"/>
+<path d="M442 200 L442 180" stroke="blue" stroke-width="1"/>
+<path d="M443 200 L443 180" stroke="blue" stroke-width="1"/>
+<path d="M444 200 L444 180" stroke="blue" stroke-width="1"/>
+<path d="M445 200 L445 180" stroke="blue" stroke-width="1"/>
+<path d="M446 200 L446 180" stroke="blue" stroke-width="1"/>
+<path d="M447 200 L447 180" stroke="blue" stroke-width="1"/>
+<path d="M448 200 L448 180" stroke="blue" stroke-width="1"/>
+<path d="M449 200 L449 180" stroke="blue" stroke-width="1"/>
+<path d="M450 200 L450 180" stroke="blue" stroke-width="1"/>
+<path d="M451 200 L451 180" stroke="blue" stroke-width="1"/>
+<path d="M452 200 L452 180" stroke="blue" stroke-width="1"/>
+<path d="M453 200 L453 180" stroke="blue" stroke-width="1"/>
+<path d="M454 200 L454 180" stroke="blue" stroke-width="1"/>
+<path d="M455 200 L455 180" stroke="blue" stroke-width="1"/>
+<path d="M456 200 L456 180" stroke="blue" stroke-width="1"/>
+<path d="M457 200 L457 180" stroke="blue" stroke-width="1"/>
+<path d="M458 200 L458 180" stroke="blue" stroke-width="1"/>
+<path d="M459 200 L459 180" stroke="blue" stroke-width="1"/>
+<path d="M460 200 L460 180" stroke="blue" stroke-width="1"/>
+<path d="M461 200 L461 180" stroke="blue" stroke-width="1"/>
+<path d="M462 200 L462 180" stroke="blue" stroke-width="1"/>
+<path d="M463 200 L463 180" stroke="blue" stroke-width="1"/>
+<path d="M464 200 L464 180" stroke="blue" stroke-width="1"/>
+<path d="M465 200 L465 180" stroke="blue" stroke-width="1"/>
+<path d="M466 200 L466 180" stroke="blue" stroke-width="1"/>
+<path d="M467 200 L467 180" stroke="blue" stroke-width="1"/>
+<path d="M468 200 L468 180" stroke="blue" stroke-width="1"/>
+<path d="M469 200 L469 180" stroke="blue" stroke-width="1"/>
+<path d="M470 200 L470 180" stroke="blue" stroke-width="1"/>
+<path d="M471 200 L471 180" stroke="blue" stroke-width="1"/>
+<path d="M472 200 L472 180" stroke="blue" stroke-width="1"/>
+<path d="M473 200 L473 180" stroke="blue" stroke-width="1"/>
+<path d="M474 200 L474 180" stroke="blue" stroke-width="1"/>
+<path d="M475 200 L475 180" stroke="blue" stroke-width="1"/>
+<path d="M476 200 L476 180" stroke="blue" stroke-width="1"/>
+<path d="M477 200 L477 180" stroke="blue" stroke-width="1"/>
+<path d="M478 200 L478 180" stroke="blue" stroke-width="1"/>
+<path d="M479 200 L479 180" stroke="blue" stroke-width="1"/>
+<path d="M480 200 L480 180" stroke="blue" stroke-width="1"/>
+<path d="M481 200 L481 180" stroke="blue" stroke-width="1"/>
+<path d="M482 200 L482 180" stroke="blue" stroke-width="1"/>
+<path d="M483 200 L483 180" stroke="blue" stroke-width="1"/>
+<path d="M484 200 L484 180" stroke="blue" stroke-width="1"/>
+<path d="M485 200 L485 180" stroke="blue" stroke-width="1"/>
+<path d="M486 200 L486 180" stroke="blue" stroke-width="1"/>
+<path d="M487 200 L487 180" stroke="blue" stroke-width="1"/>
+<path d="M488 200 L488 180" stroke="blue" stroke-width="1"/>
+<path d="M489 200 L489 180" stroke="blue" stroke-width="1"/>
+<path d="M490 200 L490 180" stroke="blue" stroke-width="1"/>
+<path d="M491 200 L491 180" stroke="blue" stroke-width="1"/>
+<path d="M492 200 L492 180" stroke="blue" stroke-width="1"/>
+<path d="M493 200 L493 180" stroke="blue" stroke-width="1"/>
+<path d="M494 200 L494 180" stroke="blue" stroke-width="1"/>
+<path d="M495 200 L495 180" stroke="blue" stroke-width="1"/>
+<path d="M496 200 L496 181" stroke="blue" stroke-width="1"/>
+<path d="M497 200 L497 181" stroke="blue" stroke-width="1"/>
+<path d="M498 200 L498 181" stroke="blue" stroke-width="1"/>
+<path d="M499 200 L499 181" stroke="blue" stroke-width="1"/>
+<path d="M500 200 L500 181" stroke="blue" stroke-width="1"/>
+<path d="M501 200 L501 181" stroke="blue" stroke-width="1"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<path d="M100 248 L661 248" stroke="red"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,248)" font-weight="normal" font-size="4" font-family="Verdana" fill="red" y="248" x="50" style="text-anchor:start;">#0k1MZ970345.1 Sarcina sp. strain N13/4e 16S ribosomal RNA gene,</text>
+<path d="M100 250 L502 250" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 258 L661 258" stroke="green"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,258)" font-weight="normal" font-size="4" font-family="Verdana" fill="green" y="258" x="50" style="text-anchor:start;">#1k2EU460662.1 Uncultured bacterium clone PB2_aai24b02 16S ribos</text>
+<path d="M100 260 L171 260" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 260 L502 260" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 378 L661 378" stroke="blue"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,378)" font-weight="normal" font-size="4" font-family="Verdana" fill="blue" y="378" x="50" style="text-anchor:start;">#13k3LC254170.1 Uncultured prokaryote gene for 16S ribosomal RNA,</text>
+<path d="M172 380 L502 380" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M102 380 L171 380" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 348 L661 348" stroke="black"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,348)" font-weight="normal" font-size="4" font-family="Verdana" fill="black" y="348" x="50" style="text-anchor:start;">#10k4KY635420.1 Uncultured bacterium clone 33 16S ribosomal RNA g</text>
+<path d="M100 350 L171 350" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 350 L502 350" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 350 L333 350" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 338 L661 338" stroke="yellow"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,338)" font-weight="normal" font-size="4" font-family="Verdana" fill="yellow" y="338" x="50" style="text-anchor:start;">#9k5EU778646.1 Uncultured bacterium clone SB_2aaa04g07 16S ribos</text>
+<path d="M100 340 L171 340" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 340 L502 340" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 340 L333 340" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 328 L661 328" stroke="white"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,328)" font-weight="normal" font-size="4" font-family="Verdana" fill="white" y="328" x="50" style="text-anchor:start;">#8k6EU471512.1 Uncultured bacterium clone SB_2aaa02c05 16S ribos</text>
+<path d="M100 330 L171 330" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 330 L502 330" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 330 L333 330" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 318 L661 318" stroke="red"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,318)" font-weight="normal" font-size="4" font-family="Verdana" fill="red" y="318" x="50" style="text-anchor:start;">#7k7EU471499.1 Uncultured bacterium clone SB_2aaa04a04 16S ribos</text>
+<path d="M100 320 L171 320" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 320 L502 320" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 320 L333 320" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 308 L661 308" stroke="green"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,308)" font-weight="normal" font-size="4" font-family="Verdana" fill="green" y="308" x="50" style="text-anchor:start;">#6k8EU471496.1 Uncultured bacterium clone SB_2aaa04c02 16S ribos</text>
+<path d="M100 310 L171 310" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 310 L502 310" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 310 L333 310" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 298 L661 298" stroke="blue"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,298)" font-weight="normal" font-size="4" font-family="Verdana" fill="blue" y="298" x="50" style="text-anchor:start;">#5k9EU471488.1 Uncultured bacterium clone SB_2aaa03h07 16S ribos</text>
+<path d="M100 300 L171 300" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 300 L502 300" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 300 L333 300" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 288 L661 288" stroke="black"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,288)" font-weight="normal" font-size="4" font-family="Verdana" fill="black" y="288" x="50" style="text-anchor:start;">#4k10EU471462.1 Uncultured bacterium clone SB_2aaa02g03 16S ribos</text>
+<path d="M100 290 L171 290" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 290 L502 290" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 290 L333 290" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 268 L661 268" stroke="yellow"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,268)" font-weight="normal" font-size="4" font-family="Verdana" fill="yellow" y="268" x="50" style="text-anchor:start;">#2k11EU471407.1 Uncultured bacterium clone SB_2aaa02b07 16S ribos</text>
+<path d="M100 270 L171 270" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 270 L502 270" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 270 L333 270" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 428 L661 428" stroke="white"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,428)" font-weight="normal" font-size="4" font-family="Verdana" fill="white" y="428" x="50" style="text-anchor:start;">#18k12KY635422.1 Uncultured bacterium clone 39 16S ribosomal RNA g</text>
+<path d="M100 430 L171 430" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 430 L502 430" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 430 L327 430" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 358 L661 358" stroke="red"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,358)" font-weight="normal" font-size="4" font-family="Verdana" fill="red" y="358" x="50" style="text-anchor:start;">#11k13EU777738.1 Uncultured bacterium clone PB2_aai22c09 16S ribos</text>
+<path d="M100 360 L171 360" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M195 360 L333 360" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 360 L502 360" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 360 L194 360" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 368 L661 368" stroke="green"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,368)" font-weight="normal" font-size="4" font-family="Verdana" fill="green" y="368" x="50" style="text-anchor:start;">#12k14EU471510.1 Uncultured bacterium clone SB_2aaa03a03 16S ribos</text>
+<path d="M100 370 L171 370" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M320 370 L333 370" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 370 L502 370" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 370 L319 370" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 278 L661 278" stroke="blue"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,278)" font-weight="normal" font-size="4" font-family="Verdana" fill="blue" y="278" x="50" style="text-anchor:start;">#3k15EU471470.1 Uncultured bacterium clone SB_2aaa03c05 16S ribos</text>
+<path d="M387 281 L502 281" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 280 L171 280" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 280 L388 280" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 280 L333 280" stroke="blue" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 438 L661 438" stroke="black"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,438)" font-weight="normal" font-size="4" font-family="Verdana" fill="black" y="438" x="50" style="text-anchor:start;">#19k16EU471375.1 Uncultured bacterium clone SB_2aaa04c05 16S ribos</text>
+<path d="M100 440 L171 440" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M438 441 L496 441" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 440 L440 440" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 440 L333 440" stroke="black" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 388 L661 388" stroke="yellow"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,388)" font-weight="normal" font-size="4" font-family="Verdana" fill="yellow" y="388" x="50" style="text-anchor:start;">#14k17MZ970349.1 Sarcina sp. strain S10/2a 16S ribosomal RNA gene,</text>
+<path d="M100 390 L171 390" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 390 L366 390" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 390 L311 390" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M367 390 L502 390" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M312 390 L333 390" stroke="yellow" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 398 L661 398" stroke="white"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,398)" font-weight="normal" font-size="4" font-family="Verdana" fill="white" y="398" x="50" style="text-anchor:start;">#15k18MZ970348.1 Sarcina sp. strain S8/2c 16S ribosomal RNA gene, </text>
+<path d="M100 400 L171 400" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 400 L366 400" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 400 L311 400" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M367 400 L502 400" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M312 400 L333 400" stroke="white" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 408 L661 408" stroke="red"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,408)" font-weight="normal" font-size="4" font-family="Verdana" fill="red" y="408" x="50" style="text-anchor:start;">#16k19MZ970347.1 Sarcina sp. strain S2/2b 16S ribosomal RNA gene, </text>
+<path d="M100 410 L171 410" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 410 L366 410" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 410 L311 410" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M367 410 L502 410" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M312 410 L333 410" stroke="red" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M100 418 L661 418" stroke="green"  stroke-width="0.5"  stroke-opacity="0.3"  stroke-dasharray="1, 5 " />
+<text transform="rotate(0,50,418)" font-weight="normal" font-size="4" font-family="Verdana" fill="green" y="418" x="50" style="text-anchor:start;">#17k20MZ970346.1 Sarcina sp. strain S1/3c 16S ribosomal RNA gene, </text>
+<path d="M100 420 L171 420" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M334 420 L366 420" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M172 420 L311 420" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M367 420 L502 420" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<path d="M312 420 L333 420" stroke="green" stroke-opacity="0.7"  stroke-width="3"/>
+<text transform="rotate(-90,100.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="100.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,101.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="101.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,102.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="102.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,103.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="103.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,104.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="104.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,105.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="105.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,106.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="106.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,107.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="107.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,108.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="108.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,109.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="109.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,110.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="110.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,111.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="111.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,112.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="112.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,113.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="113.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,114.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="114.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,115.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="115.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,116.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="116.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,117.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="117.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,118.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="118.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,119.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="119.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,120.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="120.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,121.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="121.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,122.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="122.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,123.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="123.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,124.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="124.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,125.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="125.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,126.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="126.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,127.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="127.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,128.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="128.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,129.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="129.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,130.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="130.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,131.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="131.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,132.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="132.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,133.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="133.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,134.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="134.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,135.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="135.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,136.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="136.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,137.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="137.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,138.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="138.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,139.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="139.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,140.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="140.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,141.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="141.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,142.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="142.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,143.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="143.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,144.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="144.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,145.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="145.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,146.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="146.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,147.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="147.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,148.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="148.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,149.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="149.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,150.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="150.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,151.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="151.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,152.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="152.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,153.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="153.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,154.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="154.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,155.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="155.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,156.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="156.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,157.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="157.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,158.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="158.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,159.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="159.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,160.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="160.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,161.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="161.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,162.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="162.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,163.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="163.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,164.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="164.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,165.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="165.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,166.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="166.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,167.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="167.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,168.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="168.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,169.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="169.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,170.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="170.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,171.5,199.9)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="199.9" x="171.5" style="text-anchor:middle;">1</text><text transform="rotate(-90,172.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="172.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,173.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="173.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,174.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="174.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,175.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="175.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,176.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="176.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,177.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="177.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,178.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="178.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,179.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="179.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,180.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="180.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,181.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="181.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,182.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="182.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,183.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="183.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,184.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="184.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,185.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="185.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,186.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="186.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,187.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="187.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,188.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="188.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,189.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="189.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,190.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="190.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,191.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="191.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,192.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="192.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,193.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="193.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,194.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="194.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,195.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="195.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,196.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="196.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,197.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="197.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,198.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="198.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,199.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="199.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,200.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="200.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,201.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="201.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,202.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="202.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,203.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="203.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,204.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="204.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,205.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="205.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,206.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="206.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,207.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="207.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,208.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="208.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,209.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="209.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,210.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="210.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,211.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="211.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,212.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="212.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,213.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="213.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,214.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="214.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,215.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="215.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,216.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="216.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,217.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="217.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,218.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="218.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,219.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="219.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,220.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="220.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,221.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="221.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,222.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="222.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,223.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="223.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,224.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="224.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,225.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="225.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,226.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="226.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,227.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="227.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,228.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="228.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,229.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="229.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,230.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="230.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,231.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="231.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,232.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="232.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,233.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="233.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,234.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="234.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,235.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="235.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,236.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="236.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,237.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="237.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,238.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="238.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,239.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="239.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,240.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="240.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,241.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="241.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,242.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="242.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,243.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="243.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,244.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="244.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,245.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="245.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,246.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="246.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,247.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="247.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,248.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="248.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,249.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="249.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,250.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="250.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,251.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="251.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,252.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="252.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,253.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="253.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,254.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="254.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,255.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="255.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,256.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="256.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,257.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="257.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,258.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="258.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,259.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="259.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,260.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="260.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,261.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="261.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,262.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="262.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,263.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="263.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,264.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="264.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,265.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="265.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,266.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="266.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,267.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="267.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,268.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="268.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,269.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="269.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,270.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="270.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,271.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="271.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,272.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="272.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,273.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="273.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,274.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="274.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,275.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="275.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,276.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="276.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,277.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="277.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,278.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="278.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,279.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="279.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,280.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="280.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,281.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="281.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,282.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="282.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,283.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="283.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,284.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="284.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,285.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="285.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,286.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="286.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,287.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="287.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,288.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="288.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,289.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="289.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,290.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="290.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,291.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="291.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,292.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="292.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,293.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="293.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,294.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="294.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,295.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="295.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,296.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="296.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,297.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="297.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,298.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="298.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,299.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="299.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,300.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="300.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,301.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="301.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,302.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="302.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,303.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="303.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,304.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="304.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,305.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="305.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,306.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="306.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,307.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="307.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,308.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="308.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,309.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="309.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,310.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="310.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,311.5,198.4)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.4" x="311.5" style="text-anchor:middle;">16</text><text transform="rotate(-90,312.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="312.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,313.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="313.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,314.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="314.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,315.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="315.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,316.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="316.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,317.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="317.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,318.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="318.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,319.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="319.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,320.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="320.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,321.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="321.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,322.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="322.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,323.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="323.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,324.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="324.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,325.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="325.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,326.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="326.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,327.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="327.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,328.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="328.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,329.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="329.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,330.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="330.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,331.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="331.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,332.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="332.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,333.5,199.7)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="199.7" x="333.5" style="text-anchor:middle;">3</text><text transform="rotate(-90,334.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="334.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,335.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="335.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,336.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="336.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,337.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="337.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,338.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="338.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,339.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="339.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,340.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="340.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,341.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="341.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,342.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="342.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,343.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="343.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,344.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="344.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,345.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="345.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,346.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="346.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,347.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="347.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,348.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="348.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,349.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="349.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,350.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="350.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,351.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="351.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,352.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="352.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,353.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="353.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,354.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="354.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,355.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="355.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,356.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="356.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,357.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="357.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,358.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="358.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,359.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="359.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,360.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="360.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,361.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="361.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,362.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="362.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,363.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="363.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,364.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="364.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,365.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="365.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,366.5,198.4)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.4" x="366.5" style="text-anchor:middle;">16</text><text transform="rotate(-90,367.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="367.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,368.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="368.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,369.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="369.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,370.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="370.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,371.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="371.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,372.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="372.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,373.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="373.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,374.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="374.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,375.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="375.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,376.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="376.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,377.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="377.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,378.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="378.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,379.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="379.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,380.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="380.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,381.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="381.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,382.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="382.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,383.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="383.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,384.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="384.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,385.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="385.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,386.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="386.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,387.5,197.9)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="197.9" x="387.5" style="text-anchor:middle;">21</text><text transform="rotate(-90,388.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="388.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,389.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="389.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,390.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="390.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,391.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="391.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,392.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="392.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,393.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="393.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,394.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="394.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,395.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="395.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,396.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="396.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,397.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="397.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,398.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="398.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,399.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="399.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,400.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="400.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,401.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="401.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,402.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="402.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,403.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="403.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,404.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="404.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,405.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="405.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,406.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="406.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,407.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="407.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,408.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="408.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,409.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="409.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,410.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="410.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,411.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="411.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,412.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="412.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,413.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="413.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,414.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="414.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,415.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="415.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,416.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="416.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,417.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="417.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,418.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="418.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,419.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="419.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,420.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="420.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,421.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="421.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,422.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="422.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,423.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="423.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,424.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="424.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,425.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="425.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,426.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="426.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,427.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="427.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,428.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="428.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,429.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="429.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,430.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="430.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,431.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="431.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,432.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="432.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,433.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="433.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,434.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="434.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,435.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="435.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,436.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="436.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,437.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="437.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,438.5,197.9)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="197.9" x="438.5" style="text-anchor:middle;">21</text><text transform="rotate(-90,439.5,197.9)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="197.9" x="439.5" style="text-anchor:middle;">21</text><text transform="rotate(-90,440.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="440.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,441.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="441.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,442.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="442.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,443.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="443.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,444.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="444.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,445.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="445.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,446.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="446.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,447.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="447.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,448.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="448.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,449.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="449.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,450.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="450.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,451.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="451.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,452.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="452.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,453.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="453.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,454.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="454.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,455.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="455.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,456.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="456.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,457.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="457.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,458.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="458.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,459.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="459.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,460.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="460.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,461.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="461.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,462.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="462.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,463.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="463.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,464.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="464.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,465.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="465.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,466.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="466.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,467.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="467.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,468.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="468.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,469.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="469.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,470.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="470.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,471.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="471.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,472.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="472.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,473.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="473.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,474.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="474.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,475.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="475.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,476.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="476.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,477.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="477.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,478.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="478.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,479.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="479.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,480.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="480.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,481.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="481.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,482.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="482.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,483.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="483.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,484.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="484.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,485.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="485.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,486.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="486.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,487.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="487.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,488.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="488.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,489.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="489.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,490.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="490.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,491.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="491.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,492.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="492.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,493.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="493.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,494.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="494.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,495.5,198)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198" x="495.5" style="text-anchor:middle;">20</text><text transform="rotate(-90,496.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="496.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,497.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="497.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,498.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="498.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,499.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="499.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,500.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="500.5" style="text-anchor:middle;">19</text><text transform="rotate(-90,501.5,198.1)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="198.1" x="501.5" style="text-anchor:middle;">19</text><text transform="rotate(0,100,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="100" style="text-anchor:middle;">A</text><text transform="rotate(0,100,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="100" style="text-anchor:middle;">0</text><text transform="rotate(0,101,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="101" style="text-anchor:middle;">G</text><text transform="rotate(0,102,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="102" style="text-anchor:middle;">T</text><text transform="rotate(0,103,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="103" style="text-anchor:middle;">G</text><text transform="rotate(0,104,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="104" style="text-anchor:middle;">G</text><text transform="rotate(0,105,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="105" style="text-anchor:middle;">G</text><text transform="rotate(0,106,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="106" style="text-anchor:middle;">G</text><text transform="rotate(0,107,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="107" style="text-anchor:middle;">A</text><text transform="rotate(0,108,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="108" style="text-anchor:middle;">A</text><text transform="rotate(0,109,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="109" style="text-anchor:middle;">T</text><text transform="rotate(0,110,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="110" style="text-anchor:middle;">A</text><text transform="rotate(0,110,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="110" style="text-anchor:middle;">0</text><text transform="rotate(0,111,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="111" style="text-anchor:middle;">T</text><text transform="rotate(0,112,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="112" style="text-anchor:middle;">T</text><text transform="rotate(0,113,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="113" style="text-anchor:middle;">G</text><text transform="rotate(0,114,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="114" style="text-anchor:middle;">C</text><text transform="rotate(0,115,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="115" style="text-anchor:middle;">A</text><text transform="rotate(0,116,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="116" style="text-anchor:middle;">C</text><text transform="rotate(0,117,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="117" style="text-anchor:middle;">A</text><text transform="rotate(0,118,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="118" style="text-anchor:middle;">A</text><text transform="rotate(0,119,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="119" style="text-anchor:middle;">T</text><text transform="rotate(0,120,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="120" style="text-anchor:middle;">G</text><text transform="rotate(0,120,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="120" style="text-anchor:middle;">0</text><text transform="rotate(0,121,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="121" style="text-anchor:middle;">G</text><text transform="rotate(0,122,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="122" style="text-anchor:middle;">G</text><text transform="rotate(0,123,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="123" style="text-anchor:middle;">G</text><text transform="rotate(0,124,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="124" style="text-anchor:middle;">G</text><text transform="rotate(0,125,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="125" style="text-anchor:middle;">A</text><text transform="rotate(0,126,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="126" style="text-anchor:middle;">A</text><text transform="rotate(0,127,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="127" style="text-anchor:middle;">A</text><text transform="rotate(0,128,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="128" style="text-anchor:middle;">C</text><text transform="rotate(0,129,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="129" style="text-anchor:middle;">C</text><text transform="rotate(0,130,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="130" style="text-anchor:middle;">C</text><text transform="rotate(0,130,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="130" style="text-anchor:middle;">0</text><text transform="rotate(0,131,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="131" style="text-anchor:middle;">T</text><text transform="rotate(0,132,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="132" style="text-anchor:middle;">G</text><text transform="rotate(0,133,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="133" style="text-anchor:middle;">A</text><text transform="rotate(0,134,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="134" style="text-anchor:middle;">T</text><text transform="rotate(0,135,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="135" style="text-anchor:middle;">G</text><text transform="rotate(0,136,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="136" style="text-anchor:middle;">C</text><text transform="rotate(0,137,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="137" style="text-anchor:middle;">A</text><text transform="rotate(0,138,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="138" style="text-anchor:middle;">G</text><text transform="rotate(0,139,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="139" style="text-anchor:middle;">C</text><text transform="rotate(0,140,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="140" style="text-anchor:middle;">A</text><text transform="rotate(0,140,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="140" style="text-anchor:middle;">0</text><text transform="rotate(0,141,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="141" style="text-anchor:middle;">A</text><text transform="rotate(0,142,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="142" style="text-anchor:middle;">C</text><text transform="rotate(0,143,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="143" style="text-anchor:middle;">G</text><text transform="rotate(0,144,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="144" style="text-anchor:middle;">C</text><text transform="rotate(0,145,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="145" style="text-anchor:middle;">C</text><text transform="rotate(0,146,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="146" style="text-anchor:middle;">G</text><text transform="rotate(0,147,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="147" style="text-anchor:middle;">C</text><text transform="rotate(0,148,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="148" style="text-anchor:middle;">G</text><text transform="rotate(0,149,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="149" style="text-anchor:middle;">T</text><text transform="rotate(0,150,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="150" style="text-anchor:middle;">G</text><text transform="rotate(0,150,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="150" style="text-anchor:middle;">0</text><text transform="rotate(0,151,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="151" style="text-anchor:middle;">A</text><text transform="rotate(0,152,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="152" style="text-anchor:middle;">G</text><text transform="rotate(0,153,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="153" style="text-anchor:middle;">T</text><text transform="rotate(0,154,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="154" style="text-anchor:middle;">G</text><text transform="rotate(0,155,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="155" style="text-anchor:middle;">A</text><text transform="rotate(0,156,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="156" style="text-anchor:middle;">T</text><text transform="rotate(0,157,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="157" style="text-anchor:middle;">G</text><text transform="rotate(0,158,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="158" style="text-anchor:middle;">A</text><text transform="rotate(0,159,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="159" style="text-anchor:middle;">A</text><text transform="rotate(0,160,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="160" style="text-anchor:middle;">G</text><text transform="rotate(0,160,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="160" style="text-anchor:middle;">0</text><text transform="rotate(0,161,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="161" style="text-anchor:middle;">G</text><text transform="rotate(0,162,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="162" style="text-anchor:middle;">T</text><text transform="rotate(0,163,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="163" style="text-anchor:middle;">C</text><text transform="rotate(0,164,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="164" style="text-anchor:middle;">T</text><text transform="rotate(0,165,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="165" style="text-anchor:middle;">T</text><text transform="rotate(0,166,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="166" style="text-anchor:middle;">C</text><text transform="rotate(0,167,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="167" style="text-anchor:middle;">G</text><text transform="rotate(0,168,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="168" style="text-anchor:middle;">G</text><text transform="rotate(0,169,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="169" style="text-anchor:middle;">A</text><text transform="rotate(0,170,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="170" style="text-anchor:middle;">T</text><text transform="rotate(0,170,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="170" style="text-anchor:middle;">0</text><text transform="rotate(0,171,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="171" style="text-anchor:middle;">C</text><text transform="rotate(0,172,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="172" style="text-anchor:middle;">G</text><text transform="rotate(0,173,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="173" style="text-anchor:middle;">T</text><text transform="rotate(0,174,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="174" style="text-anchor:middle;">A</text><text transform="rotate(0,175,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="175" style="text-anchor:middle;">A</text><text transform="rotate(0,176,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="176" style="text-anchor:middle;">A</text><text transform="rotate(0,177,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="177" style="text-anchor:middle;">G</text><text transform="rotate(0,178,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="178" style="text-anchor:middle;">C</text><text transform="rotate(0,179,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="179" style="text-anchor:middle;">T</text><text transform="rotate(0,180,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="180" style="text-anchor:middle;">C</text><text transform="rotate(0,180,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="180" style="text-anchor:middle;">0</text><text transform="rotate(0,181,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="181" style="text-anchor:middle;">T</text><text transform="rotate(0,182,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="182" style="text-anchor:middle;">G</text><text transform="rotate(0,183,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="183" style="text-anchor:middle;">T</text><text transform="rotate(0,184,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="184" style="text-anchor:middle;">C</text><text transform="rotate(0,185,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="185" style="text-anchor:middle;">T</text><text transform="rotate(0,186,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="186" style="text-anchor:middle;">T</text><text transform="rotate(0,187,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="187" style="text-anchor:middle;">T</text><text transform="rotate(0,188,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="188" style="text-anchor:middle;">A</text><text transform="rotate(0,189,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="189" style="text-anchor:middle;">G</text><text transform="rotate(0,190,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="190" style="text-anchor:middle;">G</text><text transform="rotate(0,190,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="190" style="text-anchor:middle;">0</text><text transform="rotate(0,191,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="191" style="text-anchor:middle;">G</text><text transform="rotate(0,192,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="192" style="text-anchor:middle;">A</text><text transform="rotate(0,193,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="193" style="text-anchor:middle;">C</text><text transform="rotate(0,194,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="194" style="text-anchor:middle;">G</text><text transform="rotate(0,195,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="195" style="text-anchor:middle;">A</text><text transform="rotate(0,196,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="196" style="text-anchor:middle;">T</text><text transform="rotate(0,197,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="197" style="text-anchor:middle;">A</text><text transform="rotate(0,198,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="198" style="text-anchor:middle;">A</text><text transform="rotate(0,199,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="199" style="text-anchor:middle;">T</text><text transform="rotate(0,200,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="200" style="text-anchor:middle;">G</text><text transform="rotate(0,200,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="200" style="text-anchor:middle;">0</text><text transform="rotate(0,201,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="201" style="text-anchor:middle;">A</text><text transform="rotate(0,202,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="202" style="text-anchor:middle;">C</text><text transform="rotate(0,203,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="203" style="text-anchor:middle;">G</text><text transform="rotate(0,204,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="204" style="text-anchor:middle;">G</text><text transform="rotate(0,205,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="205" style="text-anchor:middle;">T</text><text transform="rotate(0,206,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="206" style="text-anchor:middle;">A</text><text transform="rotate(0,207,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="207" style="text-anchor:middle;">C</text><text transform="rotate(0,208,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="208" style="text-anchor:middle;">C</text><text transform="rotate(0,209,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="209" style="text-anchor:middle;">T</text><text transform="rotate(0,210,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="210" style="text-anchor:middle;">A</text><text transform="rotate(0,210,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="210" style="text-anchor:middle;">0</text><text transform="rotate(0,211,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="211" style="text-anchor:middle;">A</text><text transform="rotate(0,212,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="212" style="text-anchor:middle;">G</text><text transform="rotate(0,213,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="213" style="text-anchor:middle;">G</text><text transform="rotate(0,214,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="214" style="text-anchor:middle;">A</text><text transform="rotate(0,215,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="215" style="text-anchor:middle;">G</text><text transform="rotate(0,216,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="216" style="text-anchor:middle;">G</text><text transform="rotate(0,217,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="217" style="text-anchor:middle;">A</text><text transform="rotate(0,218,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="218" style="text-anchor:middle;">A</text><text transform="rotate(0,219,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="219" style="text-anchor:middle;">G</text><text transform="rotate(0,220,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="220" style="text-anchor:middle;">C</text><text transform="rotate(0,220,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="220" style="text-anchor:middle;">0</text><text transform="rotate(0,221,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="221" style="text-anchor:middle;">C</text><text transform="rotate(0,222,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="222" style="text-anchor:middle;">A</text><text transform="rotate(0,223,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="223" style="text-anchor:middle;">C</text><text transform="rotate(0,224,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="224" style="text-anchor:middle;">G</text><text transform="rotate(0,225,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="225" style="text-anchor:middle;">G</text><text transform="rotate(0,226,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="226" style="text-anchor:middle;">C</text><text transform="rotate(0,227,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="227" style="text-anchor:middle;">T</text><text transform="rotate(0,228,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="228" style="text-anchor:middle;">A</text><text transform="rotate(0,229,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="229" style="text-anchor:middle;">A</text><text transform="rotate(0,230,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="230" style="text-anchor:middle;">C</text><text transform="rotate(0,230,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="230" style="text-anchor:middle;">0</text><text transform="rotate(0,231,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="231" style="text-anchor:middle;">T</text><text transform="rotate(0,232,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="232" style="text-anchor:middle;">A</text><text transform="rotate(0,233,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="233" style="text-anchor:middle;">C</text><text transform="rotate(0,234,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="234" style="text-anchor:middle;">G</text><text transform="rotate(0,235,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="235" style="text-anchor:middle;">T</text><text transform="rotate(0,236,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="236" style="text-anchor:middle;">G</text><text transform="rotate(0,237,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="237" style="text-anchor:middle;">C</text><text transform="rotate(0,238,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="238" style="text-anchor:middle;">C</text><text transform="rotate(0,239,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="239" style="text-anchor:middle;">A</text><text transform="rotate(0,240,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="240" style="text-anchor:middle;">G</text><text transform="rotate(0,240,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="240" style="text-anchor:middle;">0</text><text transform="rotate(0,241,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="241" style="text-anchor:middle;">C</text><text transform="rotate(0,242,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="242" style="text-anchor:middle;">A</text><text transform="rotate(0,243,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="243" style="text-anchor:middle;">G</text><text transform="rotate(0,244,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="244" style="text-anchor:middle;">C</text><text transform="rotate(0,245,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="245" style="text-anchor:middle;">C</text><text transform="rotate(0,246,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="246" style="text-anchor:middle;">G</text><text transform="rotate(0,247,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="247" style="text-anchor:middle;">C</text><text transform="rotate(0,248,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="248" style="text-anchor:middle;">G</text><text transform="rotate(0,249,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="249" style="text-anchor:middle;">G</text><text transform="rotate(0,250,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="250" style="text-anchor:middle;">T</text><text transform="rotate(0,250,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="250" style="text-anchor:middle;">0</text><text transform="rotate(0,251,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="251" style="text-anchor:middle;">A</text><text transform="rotate(0,252,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="252" style="text-anchor:middle;">A</text><text transform="rotate(0,253,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="253" style="text-anchor:middle;">T</text><text transform="rotate(0,254,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="254" style="text-anchor:middle;">A</text><text transform="rotate(0,255,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="255" style="text-anchor:middle;">C</text><text transform="rotate(0,256,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="256" style="text-anchor:middle;">G</text><text transform="rotate(0,257,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="257" style="text-anchor:middle;">T</text><text transform="rotate(0,258,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="258" style="text-anchor:middle;">A</text><text transform="rotate(0,259,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="259" style="text-anchor:middle;">G</text><text transform="rotate(0,260,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="260" style="text-anchor:middle;">G</text><text transform="rotate(0,260,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="260" style="text-anchor:middle;">0</text><text transform="rotate(0,261,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="261" style="text-anchor:middle;">T</text><text transform="rotate(0,262,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="262" style="text-anchor:middle;">G</text><text transform="rotate(0,263,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="263" style="text-anchor:middle;">G</text><text transform="rotate(0,264,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="264" style="text-anchor:middle;">C</text><text transform="rotate(0,265,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="265" style="text-anchor:middle;">A</text><text transform="rotate(0,266,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="266" style="text-anchor:middle;">A</text><text transform="rotate(0,267,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="267" style="text-anchor:middle;">G</text><text transform="rotate(0,268,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="268" style="text-anchor:middle;">C</text><text transform="rotate(0,269,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="269" style="text-anchor:middle;">G</text><text transform="rotate(0,270,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="270" style="text-anchor:middle;">T</text><text transform="rotate(0,270,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="270" style="text-anchor:middle;">0</text><text transform="rotate(0,271,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="271" style="text-anchor:middle;">T</text><text transform="rotate(0,272,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="272" style="text-anchor:middle;">A</text><text transform="rotate(0,273,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="273" style="text-anchor:middle;">T</text><text transform="rotate(0,274,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="274" style="text-anchor:middle;">C</text><text transform="rotate(0,275,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="275" style="text-anchor:middle;">C</text><text transform="rotate(0,276,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="276" style="text-anchor:middle;">G</text><text transform="rotate(0,277,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="277" style="text-anchor:middle;">G</text><text transform="rotate(0,278,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="278" style="text-anchor:middle;">A</text><text transform="rotate(0,279,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="279" style="text-anchor:middle;">T</text><text transform="rotate(0,280,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="280" style="text-anchor:middle;">T</text><text transform="rotate(0,280,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="280" style="text-anchor:middle;">0</text><text transform="rotate(0,281,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="281" style="text-anchor:middle;">T</text><text transform="rotate(0,282,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="282" style="text-anchor:middle;">A</text><text transform="rotate(0,283,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="283" style="text-anchor:middle;">C</text><text transform="rotate(0,284,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="284" style="text-anchor:middle;">T</text><text transform="rotate(0,285,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="285" style="text-anchor:middle;">G</text><text transform="rotate(0,286,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="286" style="text-anchor:middle;">G</text><text transform="rotate(0,287,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="287" style="text-anchor:middle;">G</text><text transform="rotate(0,288,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="288" style="text-anchor:middle;">C</text><text transform="rotate(0,289,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="289" style="text-anchor:middle;">G</text><text transform="rotate(0,290,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="290" style="text-anchor:middle;">T</text><text transform="rotate(0,290,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="290" style="text-anchor:middle;">0</text><text transform="rotate(0,291,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="291" style="text-anchor:middle;">A</text><text transform="rotate(0,292,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="292" style="text-anchor:middle;">A</text><text transform="rotate(0,293,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="293" style="text-anchor:middle;">A</text><text transform="rotate(0,294,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="294" style="text-anchor:middle;">G</text><text transform="rotate(0,295,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="295" style="text-anchor:middle;">G</text><text transform="rotate(0,296,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="296" style="text-anchor:middle;">G</text><text transform="rotate(0,297,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="297" style="text-anchor:middle;">A</text><text transform="rotate(0,298,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="298" style="text-anchor:middle;">G</text><text transform="rotate(0,299,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="299" style="text-anchor:middle;">C</text><text transform="rotate(0,300,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="300" style="text-anchor:middle;">G</text><text transform="rotate(0,300,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="300" style="text-anchor:middle;">0</text><text transform="rotate(0,301,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="301" style="text-anchor:middle;">T</text><text transform="rotate(0,302,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="302" style="text-anchor:middle;">A</text><text transform="rotate(0,303,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="303" style="text-anchor:middle;">G</text><text transform="rotate(0,304,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="304" style="text-anchor:middle;">G</text><text transform="rotate(0,305,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="305" style="text-anchor:middle;">C</text><text transform="rotate(0,306,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="306" style="text-anchor:middle;">G</text><text transform="rotate(0,307,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="307" style="text-anchor:middle;">G</text><text transform="rotate(0,308,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="308" style="text-anchor:middle;">A</text><text transform="rotate(0,309,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="309" style="text-anchor:middle;">T</text><text transform="rotate(0,310,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="310" style="text-anchor:middle;">A</text><text transform="rotate(0,310,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="310" style="text-anchor:middle;">0</text><text transform="rotate(0,311,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="311" style="text-anchor:middle;">C</text><text transform="rotate(0,312,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="312" style="text-anchor:middle;">T</text><text transform="rotate(0,313,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="313" style="text-anchor:middle;">T</text><text transform="rotate(0,314,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="314" style="text-anchor:middle;">A</text><text transform="rotate(0,315,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="315" style="text-anchor:middle;">A</text><text transform="rotate(0,316,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="316" style="text-anchor:middle;">G</text><text transform="rotate(0,317,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="317" style="text-anchor:middle;">T</text><text transform="rotate(0,318,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="318" style="text-anchor:middle;">G</text><text transform="rotate(0,319,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="319" style="text-anchor:middle;">G</text><text transform="rotate(0,320,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="320" style="text-anchor:middle;">G</text><text transform="rotate(0,320,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="320" style="text-anchor:middle;">0</text><text transform="rotate(0,321,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="321" style="text-anchor:middle;">A</text><text transform="rotate(0,322,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="322" style="text-anchor:middle;">T</text><text transform="rotate(0,323,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="323" style="text-anchor:middle;">G</text><text transform="rotate(0,324,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="324" style="text-anchor:middle;">T</text><text transform="rotate(0,325,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="325" style="text-anchor:middle;">G</text><text transform="rotate(0,326,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="326" style="text-anchor:middle;">A</text><text transform="rotate(0,327,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="327" style="text-anchor:middle;">A</text><text transform="rotate(0,328,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="328" style="text-anchor:middle;">A</text><text transform="rotate(0,329,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="329" style="text-anchor:middle;">T</text><text transform="rotate(0,330,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="330" style="text-anchor:middle;">A</text><text transform="rotate(0,330,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="330" style="text-anchor:middle;">0</text><text transform="rotate(0,331,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="331" style="text-anchor:middle;">C</text><text transform="rotate(0,332,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="332" style="text-anchor:middle;">C</text><text transform="rotate(0,333,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="333" style="text-anchor:middle;">T</text><text transform="rotate(0,334,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="334" style="text-anchor:middle;">G</text><text transform="rotate(0,335,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="335" style="text-anchor:middle;">G</text><text transform="rotate(0,336,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="336" style="text-anchor:middle;">G</text><text transform="rotate(0,337,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="337" style="text-anchor:middle;">C</text><text transform="rotate(0,338,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="338" style="text-anchor:middle;">T</text><text transform="rotate(0,339,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="339" style="text-anchor:middle;">T</text><text transform="rotate(0,340,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="340" style="text-anchor:middle;">A</text><text transform="rotate(0,340,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="340" style="text-anchor:middle;">0</text><text transform="rotate(0,341,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="341" style="text-anchor:middle;">A</text><text transform="rotate(0,342,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="342" style="text-anchor:middle;">C</text><text transform="rotate(0,343,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="343" style="text-anchor:middle;">C</text><text transform="rotate(0,344,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="344" style="text-anchor:middle;">T</text><text transform="rotate(0,345,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="345" style="text-anchor:middle;">G</text><text transform="rotate(0,346,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="346" style="text-anchor:middle;">G</text><text transform="rotate(0,347,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="347" style="text-anchor:middle;">G</text><text transform="rotate(0,348,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="348" style="text-anchor:middle;">A</text><text transform="rotate(0,349,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="349" style="text-anchor:middle;">G</text><text transform="rotate(0,350,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="350" style="text-anchor:middle;">C</text><text transform="rotate(0,350,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="350" style="text-anchor:middle;">0</text><text transform="rotate(0,351,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="351" style="text-anchor:middle;">T</text><text transform="rotate(0,352,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="352" style="text-anchor:middle;">G</text><text transform="rotate(0,353,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="353" style="text-anchor:middle;">C</text><text transform="rotate(0,354,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="354" style="text-anchor:middle;">A</text><text transform="rotate(0,355,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="355" style="text-anchor:middle;">T</text><text transform="rotate(0,356,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="356" style="text-anchor:middle;">T</text><text transform="rotate(0,357,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="357" style="text-anchor:middle;">C</text><text transform="rotate(0,358,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="358" style="text-anchor:middle;">C</text><text transform="rotate(0,359,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="359" style="text-anchor:middle;">A</text><text transform="rotate(0,360,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="360" style="text-anchor:middle;">A</text><text transform="rotate(0,360,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="360" style="text-anchor:middle;">0</text><text transform="rotate(0,361,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="361" style="text-anchor:middle;">A</text><text transform="rotate(0,362,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="362" style="text-anchor:middle;">C</text><text transform="rotate(0,363,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="363" style="text-anchor:middle;">T</text><text transform="rotate(0,364,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="364" style="text-anchor:middle;">G</text><text transform="rotate(0,365,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="365" style="text-anchor:middle;">G</text><text transform="rotate(0,366,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="366" style="text-anchor:middle;">G</text><text transform="rotate(0,367,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="367" style="text-anchor:middle;">T</text><text transform="rotate(0,368,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="368" style="text-anchor:middle;">A</text><text transform="rotate(0,369,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="369" style="text-anchor:middle;">T</text><text transform="rotate(0,370,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="370" style="text-anchor:middle;">C</text><text transform="rotate(0,370,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="370" style="text-anchor:middle;">0</text><text transform="rotate(0,371,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="371" style="text-anchor:middle;">T</text><text transform="rotate(0,372,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="372" style="text-anchor:middle;">A</text><text transform="rotate(0,373,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="373" style="text-anchor:middle;">G</text><text transform="rotate(0,374,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="374" style="text-anchor:middle;">A</text><text transform="rotate(0,375,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="375" style="text-anchor:middle;">G</text><text transform="rotate(0,376,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="376" style="text-anchor:middle;">T</text><text transform="rotate(0,377,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="377" style="text-anchor:middle;">G</text><text transform="rotate(0,378,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="378" style="text-anchor:middle;">C</text><text transform="rotate(0,379,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="379" style="text-anchor:middle;">A</text><text transform="rotate(0,380,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="380" style="text-anchor:middle;">G</text><text transform="rotate(0,380,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="380" style="text-anchor:middle;">0</text><text transform="rotate(0,381,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="381" style="text-anchor:middle;">G</text><text transform="rotate(0,382,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="382" style="text-anchor:middle;">A</text><text transform="rotate(0,383,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="383" style="text-anchor:middle;">G</text><text transform="rotate(0,384,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="384" style="text-anchor:middle;">A</text><text transform="rotate(0,385,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="385" style="text-anchor:middle;">G</text><text transform="rotate(0,386,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="386" style="text-anchor:middle;">G</text><text transform="rotate(0,387,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="387" style="text-anchor:middle;">A</text><text transform="rotate(0,388,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="388" style="text-anchor:middle;">G</text><text transform="rotate(0,389,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="389" style="text-anchor:middle;">A</text><text transform="rotate(0,390,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="390" style="text-anchor:middle;">A</text><text transform="rotate(0,390,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="390" style="text-anchor:middle;">0</text><text transform="rotate(0,391,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="391" style="text-anchor:middle;">T</text><text transform="rotate(0,392,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="392" style="text-anchor:middle;">G</text><text transform="rotate(0,393,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="393" style="text-anchor:middle;">G</text><text transform="rotate(0,394,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="394" style="text-anchor:middle;">A</text><text transform="rotate(0,395,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="395" style="text-anchor:middle;">A</text><text transform="rotate(0,396,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="396" style="text-anchor:middle;">T</text><text transform="rotate(0,397,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="397" style="text-anchor:middle;">T</text><text transform="rotate(0,398,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="398" style="text-anchor:middle;">C</text><text transform="rotate(0,399,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="399" style="text-anchor:middle;">C</text><text transform="rotate(0,400,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="400" style="text-anchor:middle;">T</text><text transform="rotate(0,400,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="400" style="text-anchor:middle;">0</text><text transform="rotate(0,401,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="401" style="text-anchor:middle;">A</text><text transform="rotate(0,402,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="402" style="text-anchor:middle;">G</text><text transform="rotate(0,403,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="403" style="text-anchor:middle;">T</text><text transform="rotate(0,404,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="404" style="text-anchor:middle;">G</text><text transform="rotate(0,405,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="405" style="text-anchor:middle;">T</text><text transform="rotate(0,406,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="406" style="text-anchor:middle;">A</text><text transform="rotate(0,407,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="407" style="text-anchor:middle;">G</text><text transform="rotate(0,408,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="408" style="text-anchor:middle;">C</text><text transform="rotate(0,409,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="409" style="text-anchor:middle;">G</text><text transform="rotate(0,410,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="410" style="text-anchor:middle;">G</text><text transform="rotate(0,410,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="410" style="text-anchor:middle;">0</text><text transform="rotate(0,411,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="411" style="text-anchor:middle;">T</text><text transform="rotate(0,412,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="412" style="text-anchor:middle;">G</text><text transform="rotate(0,413,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="413" style="text-anchor:middle;">A</text><text transform="rotate(0,414,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="414" style="text-anchor:middle;">A</text><text transform="rotate(0,415,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="415" style="text-anchor:middle;">A</text><text transform="rotate(0,416,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="416" style="text-anchor:middle;">T</text><text transform="rotate(0,417,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="417" style="text-anchor:middle;">G</text><text transform="rotate(0,418,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="418" style="text-anchor:middle;">C</text><text transform="rotate(0,419,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="419" style="text-anchor:middle;">G</text><text transform="rotate(0,420,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="420" style="text-anchor:middle;">T</text><text transform="rotate(0,420,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="420" style="text-anchor:middle;">0</text><text transform="rotate(0,421,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="421" style="text-anchor:middle;">A</text><text transform="rotate(0,422,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="422" style="text-anchor:middle;">G</text><text transform="rotate(0,423,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="423" style="text-anchor:middle;">A</text><text transform="rotate(0,424,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="424" style="text-anchor:middle;">G</text><text transform="rotate(0,425,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="425" style="text-anchor:middle;">A</text><text transform="rotate(0,426,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="426" style="text-anchor:middle;">T</text><text transform="rotate(0,427,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="427" style="text-anchor:middle;">T</text><text transform="rotate(0,428,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="428" style="text-anchor:middle;">A</text><text transform="rotate(0,429,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="429" style="text-anchor:middle;">G</text><text transform="rotate(0,430,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="430" style="text-anchor:middle;">G</text><text transform="rotate(0,430,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="430" style="text-anchor:middle;">0</text><text transform="rotate(0,431,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="431" style="text-anchor:middle;">A</text><text transform="rotate(0,432,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="432" style="text-anchor:middle;">A</text><text transform="rotate(0,433,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="433" style="text-anchor:middle;">G</text><text transform="rotate(0,434,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="434" style="text-anchor:middle;">A</text><text transform="rotate(0,435,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="435" style="text-anchor:middle;">A</text><text transform="rotate(0,436,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="436" style="text-anchor:middle;">C</text><text transform="rotate(0,437,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="437" style="text-anchor:middle;">A</text><text transform="rotate(0,438,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="438" style="text-anchor:middle;">C</text><text transform="rotate(0,439,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="439" style="text-anchor:middle;">C</text><text transform="rotate(0,440,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="440" style="text-anchor:middle;">A</text><text transform="rotate(0,440,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="440" style="text-anchor:middle;">0</text><text transform="rotate(0,441,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="441" style="text-anchor:middle;">G</text><text transform="rotate(0,442,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="442" style="text-anchor:middle;">T</text><text transform="rotate(0,443,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="443" style="text-anchor:middle;">G</text><text transform="rotate(0,444,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="444" style="text-anchor:middle;">G</text><text transform="rotate(0,445,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="445" style="text-anchor:middle;">C</text><text transform="rotate(0,446,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="446" style="text-anchor:middle;">G</text><text transform="rotate(0,447,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="447" style="text-anchor:middle;">A</text><text transform="rotate(0,448,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="448" style="text-anchor:middle;">A</text><text transform="rotate(0,449,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="449" style="text-anchor:middle;">G</text><text transform="rotate(0,450,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="450" style="text-anchor:middle;">G</text><text transform="rotate(0,450,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="450" style="text-anchor:middle;">0</text><text transform="rotate(0,451,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="451" style="text-anchor:middle;">C</text><text transform="rotate(0,452,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="452" style="text-anchor:middle;">G</text><text transform="rotate(0,453,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="453" style="text-anchor:middle;">A</text><text transform="rotate(0,454,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="454" style="text-anchor:middle;">T</text><text transform="rotate(0,455,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="455" style="text-anchor:middle;">T</text><text transform="rotate(0,456,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="456" style="text-anchor:middle;">C</text><text transform="rotate(0,457,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="457" style="text-anchor:middle;">T</text><text transform="rotate(0,458,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="458" style="text-anchor:middle;">C</text><text transform="rotate(0,459,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="459" style="text-anchor:middle;">T</text><text transform="rotate(0,460,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="460" style="text-anchor:middle;">G</text><text transform="rotate(0,460,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="460" style="text-anchor:middle;">0</text><text transform="rotate(0,461,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="461" style="text-anchor:middle;">G</text><text transform="rotate(0,462,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="462" style="text-anchor:middle;">A</text><text transform="rotate(0,463,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="463" style="text-anchor:middle;">C</text><text transform="rotate(0,464,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="464" style="text-anchor:middle;">T</text><text transform="rotate(0,465,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="465" style="text-anchor:middle;">G</text><text transform="rotate(0,466,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="466" style="text-anchor:middle;">T</text><text transform="rotate(0,467,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="467" style="text-anchor:middle;">A</text><text transform="rotate(0,468,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="468" style="text-anchor:middle;">A</text><text transform="rotate(0,469,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="469" style="text-anchor:middle;">C</text><text transform="rotate(0,470,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="470" style="text-anchor:middle;">T</text><text transform="rotate(0,470,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="470" style="text-anchor:middle;">0</text><text transform="rotate(0,471,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="471" style="text-anchor:middle;">G</text><text transform="rotate(0,472,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="472" style="text-anchor:middle;">A</text><text transform="rotate(0,473,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="473" style="text-anchor:middle;">C</text><text transform="rotate(0,474,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="474" style="text-anchor:middle;">G</text><text transform="rotate(0,475,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="475" style="text-anchor:middle;">C</text><text transform="rotate(0,476,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="476" style="text-anchor:middle;">T</text><text transform="rotate(0,477,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="477" style="text-anchor:middle;">G</text><text transform="rotate(0,478,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="478" style="text-anchor:middle;">A</text><text transform="rotate(0,479,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="479" style="text-anchor:middle;">G</text><text transform="rotate(0,480,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="480" style="text-anchor:middle;">G</text><text transform="rotate(0,480,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="480" style="text-anchor:middle;">0</text><text transform="rotate(0,481,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="481" style="text-anchor:middle;">C</text><text transform="rotate(0,482,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="482" style="text-anchor:middle;">T</text><text transform="rotate(0,483,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="483" style="text-anchor:middle;">C</text><text transform="rotate(0,484,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="484" style="text-anchor:middle;">G</text><text transform="rotate(0,485,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="485" style="text-anchor:middle;">A</text><text transform="rotate(0,486,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="486" style="text-anchor:middle;">A</text><text transform="rotate(0,487,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="487" style="text-anchor:middle;">A</text><text transform="rotate(0,488,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="488" style="text-anchor:middle;">G</text><text transform="rotate(0,489,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="489" style="text-anchor:middle;">C</text><text transform="rotate(0,490,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="490" style="text-anchor:middle;">G</text><text transform="rotate(0,490,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="490" style="text-anchor:middle;">0</text><text transform="rotate(0,491,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="491" style="text-anchor:middle;">T</text><text transform="rotate(0,492,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="492" style="text-anchor:middle;">G</text><text transform="rotate(0,493,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="493" style="text-anchor:middle;">G</text><text transform="rotate(0,494,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="494" style="text-anchor:middle;">G</text><text transform="rotate(0,495,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="495" style="text-anchor:middle;">G</text><text transform="rotate(0,496,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="496" style="text-anchor:middle;">A</text><text transform="rotate(0,497,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="497" style="text-anchor:middle;">G</text><text transform="rotate(0,498,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="498" style="text-anchor:middle;">C</text><text transform="rotate(0,499,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="499" style="text-anchor:middle;">A</text><text transform="rotate(0,500,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="500" style="text-anchor:middle;">A</text><text transform="rotate(0,500,203)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="203" x="500" style="text-anchor:middle;">0</text><text transform="rotate(0,501,200)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="200" x="501" style="text-anchor:middle;">A</text><text transform="rotate(0,104.02,250)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="250" x="104.02" style="text-anchor:left;"> j=1d292AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGATCGTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACCTGGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,100.71,260)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="260" x="100.71" style="text-anchor:left;"> j=2d345AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,175.3,260)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="260" x="175.3" style="text-anchor:left;"> j=2d345GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACCTGGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,175.3,380)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="380" x="175.3" style="text-anchor:left;"> j=3d-2GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACCTGGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,102.69,380)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="380" x="102.69" style="text-anchor:left;"> j=3d-2TGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,100.71,350)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="350" x="100.71" style="text-anchor:left;"> j=4d345AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,350)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="350" x="335.68" style="text-anchor:left;"> j=4d345GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,350)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="350" x="173.61" style="text-anchor:left;"> j=4d345GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,340)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="340" x="100.71" style="text-anchor:left;"> j=5d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,340)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="340" x="335.68" style="text-anchor:left;"> j=5d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,340)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="340" x="173.61" style="text-anchor:left;"> j=5d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,330)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="330" x="100.71" style="text-anchor:left;"> j=6d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,330)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="330" x="335.68" style="text-anchor:left;"> j=6d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,330)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="330" x="173.61" style="text-anchor:left;"> j=6d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,320)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="320" x="100.71" style="text-anchor:left;"> j=7d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,320)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="320" x="335.68" style="text-anchor:left;"> j=7d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,320)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="320" x="173.61" style="text-anchor:left;"> j=7d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,310)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="310" x="100.71" style="text-anchor:left;"> j=8d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,310)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="310" x="335.68" style="text-anchor:left;"> j=8d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,310)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="310" x="173.61" style="text-anchor:left;"> j=8d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,300)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="300" x="100.71" style="text-anchor:left;"> j=9d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,300)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="300" x="335.68" style="text-anchor:left;"> j=9d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,300)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="300" x="173.61" style="text-anchor:left;"> j=9d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,290)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="290" x="100.71" style="text-anchor:left;"> j=10d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,290)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="290" x="335.68" style="text-anchor:left;"> j=10d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,290)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="290" x="173.61" style="text-anchor:left;"> j=10d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,270)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="270" x="100.71" style="text-anchor:left;"> j=11d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,270)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="270" x="335.68" style="text-anchor:left;"> j=11d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.61,270)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="270" x="173.61" style="text-anchor:left;"> j=11d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,430)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="430" x="100.71" style="text-anchor:left;"> j=12d345AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,335.68,430)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="430" x="335.68" style="text-anchor:left;"> j=12d345GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.55,430)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="430" x="173.55" style="text-anchor:left;"> j=12d345GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGA</text>
+<text transform="rotate(0,100.71,360)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="360" x="100.71" style="text-anchor:left;"> j=13d345AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,196.38,360)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="360" x="196.38" style="text-anchor:left;"> j=13d345ATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,335.68,360)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="360" x="335.68" style="text-anchor:left;"> j=13d345GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,172.22,360)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="360" x="172.22" style="text-anchor:left;"> j=13d345GTAAAGCTCTGTCTTTAGGGAC</text>
+<text transform="rotate(0,100.71,370)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="370" x="100.71" style="text-anchor:left;"> j=14d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,320.13,370)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="370" x="320.13" style="text-anchor:left;"> j=14d357GATGTGAAATACC</text>
+<text transform="rotate(0,335.68,370)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="370" x="335.68" style="text-anchor:left;"> j=14d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,173.47,370)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="370" x="173.47" style="text-anchor:left;"> j=14d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTG</text>
+<text transform="rotate(0,388.15,281)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="281" x="388.15" style="text-anchor:left;"> j=15d358AGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,100.71,280)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="280" x="100.71" style="text-anchor:left;"> j=15d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,334.54,280)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="280" x="334.54" style="text-anchor:left;"> j=15d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGA</text>
+<text transform="rotate(0,173.61,280)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="280" x="173.61" style="text-anchor:left;"> j=15d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,440)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="440" x="100.71" style="text-anchor:left;"> j=16d357AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,438.58,441)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="441" x="438.58" style="text-anchor:left;"> j=16d358CCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGG</text>
+<text transform="rotate(0,335.06,440)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="440" x="335.06" style="text-anchor:left;"> j=16d357GGGCTTAACCTGGGAGCTGCATTCCAAACTGGGTATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACC</text>
+<text transform="rotate(0,173.61,440)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="440" x="173.61" style="text-anchor:left;"> j=16d357GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATACTTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,390)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="390" x="100.71" style="text-anchor:left;"> j=17d284AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,334.32,390)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="390" x="334.32" style="text-anchor:left;"> j=17d284GGGCTTAACCTGGGAGCTGCATTCCAAACTGG</text>
+<text transform="rotate(0,173.39,390)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="390" x="173.39" style="text-anchor:left;"> j=17d284GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATA</text>
+<text transform="rotate(0,368.35,390)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="390" x="368.35" style="text-anchor:left;"> j=17d284TATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,312.21,390)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="390" x="312.21" style="text-anchor:left;"> j=17d284TTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,400)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="400" x="100.71" style="text-anchor:left;"> j=18d286AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,334.32,400)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="400" x="334.32" style="text-anchor:left;"> j=18d286GGGCTTAACCTGGGAGCTGCATTCCAAACTGG</text>
+<text transform="rotate(0,173.39,400)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="400" x="173.39" style="text-anchor:left;"> j=18d286GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATA</text>
+<text transform="rotate(0,368.35,400)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="400" x="368.35" style="text-anchor:left;"> j=18d286TATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,312.21,400)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="400" x="312.21" style="text-anchor:left;"> j=18d286TTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,410)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="410" x="100.71" style="text-anchor:left;"> j=19d292AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,334.32,410)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="410" x="334.32" style="text-anchor:left;"> j=19d292GGGCTTAACCTGGGAGCTGCATTCCAAACTGG</text>
+<text transform="rotate(0,173.39,410)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="410" x="173.39" style="text-anchor:left;"> j=19d292GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATA</text>
+<text transform="rotate(0,368.35,410)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="410" x="368.35" style="text-anchor:left;"> j=19d292TATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,312.21,410)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="410" x="312.21" style="text-anchor:left;"> j=19d292TTAAGTGGGATGTGAAATACC</text>
+<text transform="rotate(0,100.71,420)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="420" x="100.71" style="text-anchor:left;"> j=20d284AGTGGGGAATATTGCACAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTCTTCGGAT</text>
+<text transform="rotate(0,334.32,420)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="420" x="334.32" style="text-anchor:left;"> j=20d284GGGCTTAACCTGGGAGCTGCATTCCAAACTGG</text>
+<text transform="rotate(0,173.39,420)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="420" x="173.39" style="text-anchor:left;"> j=20d284GTAAAGCTCTGTCTTTAGGGACGATAATGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCAGCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGATTTACTGGGCGTAAAGGGAGCGTAGGCGGATA</text>
+<text transform="rotate(0,368.35,420)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="420" x="368.35" style="text-anchor:left;"> j=20d284TATCTAGAGTGCAGGAGAGGAGAATGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGATTAGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAGCGTGGGGAGCAAA</text>
+<text transform="rotate(0,312.21,420)" font-weight="normal" font-size="1" font-family="Verdana" fill="white" y="420" x="312.21" style="text-anchor:left;"> j=20d284TTAAGTGGGATGTGAAATACC</text>
+</svg>

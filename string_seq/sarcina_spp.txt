@@ -1,0 +1,7 @@
+
+Brownie read a good match to this ( 100 percent ),
+
+ cat vm.fasta | grep ">"  | grep -n 70345.1
+22:>MZ970345.1 Sarcina sp. strain N13/4e 16S ribosomal RNA gene, partial sequence
+marchywka@happy:/home/documents/cpp/proj/string_seq$ head -n 1 vm.fasta >seq63;size=402;counts=29;data/2022-08-19/sv.seqs.fna;k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__Sarcina;s__ventriculi;
+
