@@ -1,0 +1,998 @@
+ 1910  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2 | grep seudo
+ 1911  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2 | more
+ 1912  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2 | grep -i streph
+ 1913  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2 | grep -i strep
+ 1914  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2 | grep Strep
+ 1915  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2 | grep Staph
+ 1916  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort  -g -k 2 | more
+ 1917  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort  -g -k 2 | wc
+ 1918  . cdlatex cases
+ 1919  daily.txt 
+ 1920  mudaily.txt -nouns
+ 1921  daily.txt 
+ 1922  history
+ 1923  more Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort  -g -k 2 | wc
+ 1924  more `which Composition_Summary_L7.txt` | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort  -g -k 2 |
+ 1925  more `which Composition_Summary_L7.txt` | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort  -g -k 2 | more
+ 1926  more `which Composition_Summary_L7.txt`
+ 1927  echo  `which Composition_Summary_L7.txt`
+ 1928  more `find -name  Composition_Summary_L7.txt` | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort  -g -k 2 | more
+ 1929  find -name  Composition_Summary_L7.txt
+ 1930  ls data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Sample_Information/absolute.abundance.csv
+ 1931  lynx -dump  data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Sample_Information/absolute.abundance.html 
+ 1932  evince  data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Taxa2ASV_Decomposer/Genus/g__Clostridium/abun.plot.top12.pdf 
+ 1933  more  data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/ASVs_Poorly_Annotated/ASVs_NoHits.fasta 
+ 1934  more  data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/ASV_tax_assignments.txt 
+ 1935  more  data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/Read_Processing_Summary.tsv 
+ 1936  more  data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/ASV_Abundance_Table.csv 
+ 1937  daily.txt 
+ 1938  more  data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/ASV_Individual_Samples/zr5958_1V3V4.SV.csv 
+ 1939  newbackup -incmnt
+ 1940  history | grep wget
+ 1941  find -name  Composition_Summary_L7.txt
+ 1942  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| more
+ 1943  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\\n/g'
+ 1944  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g'
+ 1945  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g' | grep __ | sort | uniq -c | sort -g  | more
+ 1946  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g' | grep __ | sort | uniq -c | sort -g -r  | more
+ 1947  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g'| sed -e 's/  */\n/g'  | grep __ | sort | uniq -c | sort -g -r  | more
+ 1948  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g'| sed -e 's/[::WHITE::]/\n/g'  | grep __ | sort | uniq -c | sort -g -r  | more
+ 1949  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g'| sed -e 's/[[:WHITE:]]/\n/g'  | grep __ | sort | uniq -c | sort -g -r  | more
+ 1950  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g'| sed -e 's/[[:SPACE:]]/\n/g'  | grep __ | sort | uniq -c | sort -g -r  | more
+ 1951  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g'| sed -e 's/[[:WHITESPACE:]]/\n/g'  | grep __ | sort | uniq -c | sort -g -r  | more
+ 1952  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | sed -e 's/;/\n/g'| sed -e 's/[ \t]/\n/g'  | grep __ | sort | uniq -c | sort -g -r  | more
+ 1953  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep Camp
+ 1954  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep Epsil
+ 1955  newbackup -incmnt
+ 1957  . srecord
+ 1958  daily.txt 
+ 1959  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| more
+ 1960  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 1| more
+ 1961  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/ASVs_Poorly_Annotated/ASVs_NoHits.fasta 
+ 1962  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/ASVs_Poorly_Annotated/ASVs_NoHits.fasta  | wc
+ 1963  daily.txt 
+ 1964  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/DADA2_ASV_Distribution/ASVs_Poorly_Annotated/ASVs_NoHits.fasta 
+ 1965  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 1| more
+ 1966  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| more
+ 1967  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep hige
+ 1968  daily.txt 
+ 1969  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep hige
+ 1970  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep -i camp
+ 1971  daily.txt 
+ 1972  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep -i pilif
+ 1973  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep -i "camp\|heli"
+ 1974  more data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | awk '{ print $(NF-1)" " $NF" " $0 } ' | sort -r -g -k 2| grep -i "camp"
+ 1975  . srecord
+ 1976  newbackup -incmnt
+ 1977  ls data/cashew/
+ 1978  identify -v data/cashew/imgage2.png
+ 1979  identify  data/cashew/imgage2.png
+ 1980  identify  data/cashew/image2.png
+ 1981  identify -verbose  data/cashew/image2.png
+ 1982  mv ~/Downloads/Cookie.zip data/mixie/
+ 1983  cd data
+ 1984  cd mixie
+ 1985  ls
+ 1986  eog 
+ 1987  eog IMG*
+ 1988  unzip Cookie.zip 
+ 1989  eog IMG*
+ 1990  cd ../
+ 1991  cd ..
+ 1992  newbackup -incmnt
+ 1993  sync
+ 1994  df
+ 1995  sudo umount /dev/sdb1
+ 1996  df
+ 1998  sync
+ 1999  df
+ 2000  sudo shutdown -h 0
+ 2001  . cdlatex 
+ 2002  ls
+ 2003  newproj beauty "Microbiome Releated to Picky eating and Intermittent Yellow Vomiting in a Dog"
+ 2004  . cdlatex beauty
+ 2005  vi beauty.tex
+ 2006  latex_util -table
+ 2007  vi beauty.tex
+ 2008  latex_util -table > beauty_organisms.tex
+ 2009  vi beauty_organisms.tex 
+ 2010  m
+ 2011  pdflatex beauty
+ 2012  m
+ 2013  e
+ 2014  vi org1.tex 
+ 2015  . cdcpp zymo
+ 2016  ls
+ 2017  cpputil -classhdr mjm_zymo_composition_table
+ 2018  vi mjm_zymo_composition_table.h 
+ 2019  vi ../toobib/mjm_bblfix.h 
+ 2020  vi ../toobib/mjm_bibitem_entry.h 
+ 2021  vi ../toobib/mjm_bblfix.h 
+ 2022  vi mjm_zymo_composition_table.h 
+ 2023  ls ../toobib/*wov*
+ 2024  vi mjm_zymo_composition_table.h 
+ 2025  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2026  vi mjm_zymo_composition_table.h 
+ 2027  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2028  ls ../toobib/*wov*
+ 2029  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2030  vi mjm_zymo_composition_table.h 
+ 2031  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2032  vi mjm_zymo_composition_table.h 
+ 2033  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2034  vi mjm_zymo_composition_table.h 
+ 2035  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2036  vi mjm_zymo_composition_table.h 
+ 2037  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2038  vi mjm_zymo_composition_table.h 
+ 2039  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2040  vi mjm_zymo_composition_table.h 
+ 2041  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2042  vi mjm_zymo_composition_table.h 
+ 2043  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2044  echo load /home/documents/latex/proj/cases/data/beauty/zr5
+ 2045  958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt  | ./a.out 
+ 2046  echo load /home/documents/latex/proj/cases/data/beauty/zr958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt  | ./a.out 
+ 2047  cat me/documents/latex/proj/cases/data/beauty/zr958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt 
+ 2048  cat /home/documents/latex/proj/cases/data/beauty/zr958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt 
+ 2049  cat /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt 
+ 2050  echo load cat /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out
+ 2051  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out
+ 2052  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2053  vi mjm_zymo_composition_table.h 
+ 2054  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2055  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2056  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2057  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2058  vi mjm_zymo_composition_table.h 
+ 2059  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2060  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2061  vi mjm_zymo_composition_table.h 
+ 2062  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2063  vi mjm_zymo_composition_table.h 
+ 2064  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2065  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2066  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2067  vi mjm_zymo_composition_table.h 
+ 2068  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2069  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2070  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2071  vi mjm_zymo_composition_table.h 
+ 2072  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2073  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2074  more /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt
+ 2075  vi mjm_zymo_composition_table.h 
+ 2076  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2077  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2078  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1
+ 2079  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1| more
+ 2080  vi mjm_zymo_composition_table.h 
+ 2081  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2082  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2083  vi mjm_zymo_composition_table.h 
+ 2084  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2085  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2086  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2087  vi mjm_zymo_composition_table.h 
+ 2088  vihdr mjm_collections.h
+ 2089  vi mjm_zymo_composition_table.h 
+ 2090  vihdr mjm_collections.h
+ 2091  vi mjm_zymo_composition_table.h 
+ 2092  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2093  vi mjm_zymo_composition_table.h 
+ 2094  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2095  vi mjm_zymo_composition_table.h 
+ 2096  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2097  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2098  vi mjm_zymo_composition_table.h 
+ 2099  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2100  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2101  vi mjm_zymo_composition_table.h 
+ 2102  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2103  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2104  vi mjm_zymo_composition_table.h 
+ 2105  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2106  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2107  vi mjm_zymo_composition_table.h 
+ 2108  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2109  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2110  vi mjm_zymo_composition_table.h 
+ 2111  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2112  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2113  vi mjm_zymo_composition_table.h 
+ 2114  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2115  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | more
+ 2116  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2117  vi mjm_zymo_composition_table.h 
+ 2118  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2119  vi mjm_zymo_composition_table.h 
+ 2120  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2121  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2122  vi mjm_zymo_composition_table.h 
+ 2123  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2124  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2125  vi mjm_zymo_composition_table.h 
+ 2126  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2127  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2128  ./bckup
+ 2129  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2130  vi mjm_zymo_composition_table.h 
+ 2131  vihdr mjm_collections.h
+ 2132  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2133  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2134  vi mjm_zymo_composition_table.h 
+ 2135  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2136  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2137  vi mjm_zymo_composition_table.h 
+ 2138  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2139  vi mjm_zymo_composition_table.h 
+ 2140  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2141  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2142  vi mjm_zymo_composition_table.h 
+ 2143  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2144  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 
+ 2145  vi mjm_zymo_composition_table.h 
+ 2146  cat  /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt| more
+ 2147  vi mjm_zymo_composition_table.h 
+ 2148  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2149  vi mjm_zymo_composition_table.h 
+ 2150  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2151  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1  | more
+ 2152  vi mjm_zymo_composition_table.h 
+ 2153  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2154  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1  | more
+ 2155  vihdr mjm_collections.h
+ 2156  vi mjm_zymo_composition_table.h 
+ 2157  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2158  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1  
+ 2159  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2> x1.tex
+ 2160  vi mjm_zymo_composition_table.h 
+ 2161  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2162  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2> x1.tex
+ 2163  du -sbc .
+ 2164  find -type f | zip -@ zymo-cpp-2021-02-24.zip
+ 2165  mv *.zip `backupdir`
+ 2166  cpputil -clashdr mjm_choices_abbrv
+ 2167  cpputil -classhdr mjm_choices_abbrv
+ 2168  vi mjm_zymo_composition_table.h 
+ 2169  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2170  vi mjm_choices_abbrv.h 
+ 2171  find -type f | zip -@ zymo-cpp-2021-02-24.zip
+ 2172  mv *.zip `backupdir`
+ 2173  vi mjm_choices_abbrv.h 
+ 2174  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2175  vi mjm_choices_abbrv.h 
+ 2176  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2177  vi mjm_choices_abbrv.h 
+ 2178  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2179  vi mjm_zymo_composition_table.h 
+ 2180  vihdr mjm_collections.h
+ 2181  vi mjm_zymo_composition_table.h 
+ 2182  vi mjm_choices_abbrv.h 
+ 2183  vi mjm_zymo_composition_table.h 
+ 2184  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2185  vihdr mjm_collections.h
+ 2186  vi mjm_zymo_composition_table.h 
+ 2187  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2188  vi mjm_choices_abbrv.h 
+ 2189  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2190  vi mjm_choices_abbrv.h 
+ 2191  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2192  vi mjm_choices_abbrv.h 
+ 2193  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2194  vi mjm_choices_abbrv.h 
+ 2195  vi mjm_zymo_composition_table.h 
+ 2196  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2197  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2> x1.tex
+ 2198  more x1.tex 
+ 2199  vi mjm_choices_abbrv.h 
+ 2200  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2201  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2> x1.tex
+ 2202  more x1.tex 
+ 2203  vi mjm_choices_abbrv.h 
+ 2204  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2205  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2> x1.tex
+ 2206  more x1.tex 
+ 2207  vi mjm_choices_abbrv.h 
+ 2208  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2209  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2> x1.tex
+ 2210  more x1.tex 
+ 2211  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | grep Xan
+ 2212  cat /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | grep Xan
+ 2213  cat /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | grep X
+ 2214  cat /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | grep Xa
+ 2215  vi mjm_choices_abbrv.h 
+ 2216  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2217  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2> x1.tex
+ 2218  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt |sed -e 's/-/ + /g'  ./a.out 2> x1.tex
+ 2219  62;c62;c62;c62;c62;c
+ 2220  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt |sed -e 's/-/ + /g' |   ./a.out 2> x1.tex
+ 2221  grep + x1.tex 
+ 2222  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt |sed -e 's/-/ + /g' 
+ 2223  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | sed -e 's/-/ + /g' > x1.tex
+ 2224  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | sed -e 's/-/\1  +  /g' > x1.tex
+ 2225  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | sed -e 's/-[^0-9]\)/ + \1 /g' > x1.tex
+ 2226  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1 /g' > x1.tex
+ 2227  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2228  history | grep zip
+ 2229  find -type f | zip -@ zymo-cpp-2021-02-24.zip
+ 2230  mv *.zip `backupdir`
+ 2231  viw mjm_instruments.h
+ 2232  vihdr mjm_instruments.h
+ 2233  vihdr mjm_collections.h
+ 2234  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2235  vihdr mjm_collections.h
+ 2236  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2237  vihdr mjm_collections.h
+ 2238  vi mjm_zymo_composition_table.h 
+ 2239  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2240  echo load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2241  vi mjm_zymo_composition_table.h 
+ 2242  vihdr mjm_collections.h
+ 2243  vi mjm_zymo_composition_table.h 
+ 2244  vihdr mjm_collections.h
+ 2245  vi mjm_zymo_composition_table.h 
+ 2246  vihdr mjm_collections.h
+ 2247  vi mjm_zymo_composition_table.h 
+ 2248  cp /home/documents/latex/proj/beauty/beauty_organisms.tex bt.tex
+ 2249  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2250  vi mjm_zymo_composition_table.h 
+ 2251  vihdr mjm_collections.h
+ 2252  vi mjm_zymo_composition_table.h 
+ 2253  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2254  vi mjm_zymo_composition_table.h 
+ 2255  vihdr mjm_collections.h
+ 2256  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2257  vihdr mjm_collections.h
+ 2258  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2259  cp /home/documents/latex/proj/beauty/beauty_organisms.tex bt.tex
+ 2260  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2261  cat bt.tex 
+ 2262  cat xx.tex 
+ 2263  cat xx.tex  | more
+ 2264  more x1.tex 
+ 2265  vihdr mjm_collections.h
+ 2266  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2267  vihdr mjm_collections.h
+ 2268  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2269  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2270  cat xx.tex  | more
+ 2271  more x1.tex 
+ 2272  cat xx.tex
+ 2273  vihdr mjm_collections.h
+ 2274  vi mjm_zymo_composition_table.h 
+ 2275  vihdr mjm_collections.h
+ 2276  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2277  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2278  cat xx.tex
+ 2279  more x1.tex 
+ 2280  vihdr mjm_collections.h
+ 2281  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2282  vihdr mjm_collections.h
+ 2283  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2284  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2285  more x1.tex 
+ 2286  vi mjm_zymo_composition_table.h 
+ 2287  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2288  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2289  more x1.tex 
+ 2290  cat xx.tex
+ 2291  vi xx.tex 
+ 2292  vi bt.tex 
+ 2293  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2294  vihdr mjm_collections.h
+ 2295  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2296  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2297  vi mjm_zymo_composition_table.h 
+ 2298  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2299  vi mjm_zymo_composition_table.h 
+ 2300  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2301  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2302  more x1.tex 
+ 2303  more xx.tex
+ 2304  vi mjm_zymo_composition_table.h 
+ 2305  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2306  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2307  more x1.tex 
+ 2308  vi mjm_zymo_composition_table.h 
+ 2309  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2310  vi mjm_zymo_composition_table.h 
+ 2311  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2312  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2313  more xx.ttex
+ 2314  more xx.tex
+ 2315  vi mjm_zymo_composition_table.h 
+ 2316  more xx.tex 
+ 2317  cat x1.tex  | more
+ 2318  vi mjm_zymo_composition_table.h 
+ 2319  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2320  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1 | sed -e 's/-\([^0-9]\)/ + \1/g' > x1.tex
+ 2321  cat x1.tex  | more
+ 2322  vi  x1.tex 
+ 2323  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2324  more x1.tex 
+ 2325  vi  x1.tex 
+ 2326  vi mjm_zymo_composition_table.h 
+ 2327  vi  x1.tex 
+ 2328  vi mjm_zymo_composition_table.h 
+ 2329  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2330  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2331  vi mjm_zymo_composition_table.h 
+ 2332  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2333  vi mjm_zymo_composition_table.h 
+ 2334  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2335  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2336  vi mjm_zymo_composition_table.h 
+ 2337  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2338  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2339  vihdr mjm_collections.h
+ 2340  vi mjm_zymo_composition_table.h 
+ 2341  vihdr mjm_collections.h
+ 2342  vi mjm_zymo_composition_table.h 
+ 2343  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2344  vi mjm_zymo_composition_table.h 
+ 2345  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2346  vi mjm_zymo_composition_table.h 
+ 2347  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2348  vi mjm_zymo_composition_table.h 
+ 2349  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2350  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2351  more xx.tex 
+ 2352  vi mjm_zymo_composition_table.h 
+ 2353  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2354  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2355  vi mjm_zymo_composition_table.h 
+ 2356  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2357  vi mjm_zymo_composition_table.h 
+ 2358  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2359  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2360  vi mjm_zymo_composition_table.h 
+ 2361  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2362  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2363  vi mjm_zymo_composition_table.h 
+ 2364  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2365  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2366  vi mjm_zymo_composition_table.h 
+ 2367  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2368  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2369  vi mjm_zymo_composition_table.h 
+ 2370  vihdr mjm_collections.h
+ 2371  vi mjm_zymo_composition_table.h 
+ 2372  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2373  vihdr mjm_collections.h
+ 2374  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2375  vihdr mjm_collections.h
+ 2376  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2377  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2378  vi mjm_zymo_composition_table.h 
+ 2379  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2380  vi mjm_zymo_composition_table.h 
+ 2381  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2382  vi mjm_zymo_composition_table.h 
+ 2383  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2384  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  | tee x1.tex
+ 2385  vi mjm_zymo_composition_table.h 
+ 2386  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2387  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2388  vi mjm_zymo_composition_table.h 
+ 2389  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2390  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2391  vi mjm_zymo_composition_table.h 
+ 2392  vihdr mjm_collections.h
+ 2393  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2394  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2395  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2396  vihdr mjm_collections.h
+ 2397  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2398  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2399  vihdr mjm_collections.h
+ 2400  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2401  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2402  vihdr mjm_collections.h
+ 2403  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2404  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2405  vihdr mjm_collections.h
+ 2406  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2407  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2408  vihdr mjm_collections.h
+ 2409  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2410  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2411  vihdr mjm_collections.h
+ 2412  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2413  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2414  vihdr mjm_collections.h
+ 2415  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2416  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2417  vihdr mjm_collections.h
+ 2418  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2419  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2420  vihdr mjm_collections.h
+ 2421  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2422  vi bt.tex 
+ 2423  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2424  history | grep zip
+ 2425  find -type f | zip -@ zymo-cpp-2021-02-25.zip
+ 2426  mv *.zip `backupdir`
+ 2427  . srecord
+ 2428  history >> hist_doing
+ 2429  vi bt.tex 
+ 2430  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2431  vi bt.tex 
+ 2432  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2433  vi bt.tex 
+ 2434  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2435  vi bt.tex 
+ 2436  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2437  vi bt.tex 
+ 2438  m
+ 2439  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2440  grep pad *.h
+ 2441  vi mjm_zymo_composition_table.h 
+ 2442  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2443  vi bt.tex 
+ 2444  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2445  vi mjm_zymo_composition_table.h 
+ 2446  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2447  vi bt.tex 
+ 2448  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2449  vi bt.tex 
+ 2450  echo -e  load /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt\\nsave xx.tex bt.tex | ./a.out 2>&1  
+ 2451  cat /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt
+ 2452  cat /home/documents/latex/proj/cases/data/beauty/zr5958.16S_220218.zymo/00...AllSamples.Bac16Sv34/Composition_Barplots/Composition_Summary_L7.txt > zr5958.16S_220218.zymo_compo_L7.txt
+ 2453  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 1 | more
+ 2454  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 1 | awk '{$1=""; $2==" "; print $0; }' | more
+ 2455  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 1 | awk '{$1=""; $2=" "; print $0; }' | more
+ 2456  cat zr5958.16S_220218.zymo_compo_L7.txt 
+ 2457  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 1 | awk '{$1=""; $2=" "; print $0; }'| sed -e 's/^  *//'  | more
+ 2458  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 1 | awk '{$1=""; $2=" "; print $0; }'| sed -e 's/^  *//'  > zr5958.16S_220218.zymo_compo_L7_sort1.txt 
+ 2459  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 2 | awk '{$1=""; $2=" "; print $0; }'| sed -e 's/^  *//'  > zr5958.16S_220218.zymo_compo_L7_sort2.txt 
+ 2460  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2461  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 2 | awk '{$1=""; $2=" ";x="";  i=3; while ( i< (NF-1)){ x=x " "$i; i=i+1; }; print x"\t"$(NF-1)"\t"$NF }'| sed -e 's/^  *//'  > zr5958.16S_220218.zymo_compo_L7_sort2.txt 
+ 2462  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2463  cat zr5958.16S_220218.zymo_compo_L7.txt | awk '{print $(NF-1)" "$NF" "$0 }' | sort -g -r -k 1 | awk '{$1=""; $2=" ";x="";  i=3; while ( i< (NF-1)){ x=x " "$i; i=i+1; }; print x"\t"$(NF-1)"\t"$NF }'| sed -e 's/^  *//'  > zr5958.16S_220218.zymo_compo_L7_sort1.txt 
+ 2464  vihdr mjm_collections.h
+ 2465  vi mjm_zymo_composition_table.h 
+ 2466  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2467  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2468  vi mjm_zymo_composition_table.h 
+ 2469  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2470  vi mjm_zymo_composition_table.h 
+ 2471  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2472  vi mjm_zymo_composition_table.h 
+ 2473  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2474  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2475  vi bt.tex 
+ 2476  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2477  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2478  vi mjm_zymo_composition_table.h 
+ 2479  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2480  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2481  vi mjm_zymo_composition_table.h 
+ 2482  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2483  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2484  vi mjm_zymo_composition_table.h 
+ 2485  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2486  vi mjm_zymo_composition_table.h 
+ 2487  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2488  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2489  vi mjm_zymo_composition_table.h 
+ 2490  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2491  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave xx1.tex bt.tex | ./a.out 2>&1  
+ 2492  echo -e  load zr5958.16S_220218.zymo_compo_L7.txt\\nsave unsorted220218.tex bt.tex | ./a.out 2>&1  
+ 2493  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort1.txt\\nsave sort1_220218.tex bt.tex | ./a.out 2>&1  
+ 2494  echo -e  load zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1  
+ 2495  vi mjm_zymo_composition_table.h 
+ 2496  find ../.. -name "*.h" | grep ragged
+ 2497  cpputil -classhdr mjm_indexed_ragged
+ 2498  vi mjm_zymo_composition_table.h 
+ 2499  vi mjm_indexed_ragged.h 
+ 2500  vi mjm_zymo_composition_table.h 
+ 2501  vi mjm_indexed_ragged.h 
+ 2502  vihdr mjm_collections.h
+ 2503  vihdr mjm_instruments.h
+ 2504  vihdr mjm_collections.h
+ 2505  vi mjm_indexed_ragged.h 
+ 2506  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2507  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2508  vi mjm_indexed_ragged.h 
+ 2509  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2510  vi mjm_indexed_ragged.h 
+ 2511  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2512  vi mjm_indexed_ragged.h 
+ 2513  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2514  vi mjm_indexed_ragged.h 
+ 2515  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2516  vi mjm_indexed_ragged.h 
+ 2517  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2518  vi mjm_indexed_ragged.h 
+ 2519  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2520  vi mjm_indexed_ragged.h 
+ 2521  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2522  vi mjm_indexed_ragged.h 
+ 2523  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2524  vi foo.txt
+ 2525  vi mjm_indexed_ragged.h 
+ 2526  echo -e name genus\\nname species\\n load foo.txt\\nfind a b | ./a.out
+ 2527  vi mjm_indexed_ragged.h 
+ 2528  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2529  vi mjm_indexed_ragged.h 
+ 2530  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2531  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2532  vi mjm_indexed_ragged.h 
+ 2533  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2534  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2535  vi foo.txt 
+ 2536  vi mjm_indexed_ragged.h 
+ 2537  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2538  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2539  vi mjm_indexed_ragged.h 
+ 2540  vihdr mjm_collections.h
+ 2541  vihdr mjm_instruments.h
+ 2542  vi mjm_indexed_ragged.h 
+ 2543  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2544  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2545  vi mjm_indexed_ragged.h 
+ 2546  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2547  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2548  vihdr mjm_instruments.h
+ 2549  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2550  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2551  vi mjm_indexed_ragged.h 
+ 2552  g++  -Wall -std=gnu++11 -DTEST_MJM_INDEXED_RAGGED -I. -I../../mjm/hlib -I../../mjm/num -I ../toobib  -gdwarf-3 -O0  -x c++ mjm_indexed_ragged.h  -lpthread -lreadline
+ 2553  echo -e name genus\\nname species\\nload foo.txt\\nquery a b | ./a.out
+ 2554  echo -e name genus\\nname species\\nload foo.txt\\nquery c d | ./a.out
+ 2555  history | grep zip
+ 2556  date
+ 2557  find -type f | zip -@ zymo-cpp-2021-02-26.zip
+ 2558  mv *.zip `backupdir`
+ 2559  vi mjm_indexed_ragged.h 
+ 2560  ls *.h
+ 2561  vi mjm_zymo_composition_table.h 
+ 2562  vi mjm_indexed_ragged.h 
+ 2563  vi mjm_zymo_composition_table.h 
+ 2564  vi mjm_indexed_ragged.h 
+ 2565  vi mjm_zymo_composition_table.h 
+ 2566  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2567  vi mjm_indexed_ragged.h 
+ 2568  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2569  vi mjm_zymo_composition_table.h 
+ 2570  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2571  vi mjm_zymo_composition_table.h 
+ 2572  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2573  history >> hist_doing 
+ 2574  . srecord
+ 2575  vi mjm_zymo_composition_table.h 
+ 2576  vi notes.txt
+ 2577  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1  
+ 2578  vi mjm_indexed_ragged.h 
+ 2579  vi mjm_zymo_composition_table.h 
+ 2580  vi mjm_indexed_ragged.h 
+ 2581  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2582  vi mjm_zymo_composition_table.h 
+ 2583  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2584  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1  
+ 2585  more sort2_220218.tex 
+ 2586  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1   | more
+ 2587  vi notes.txt 
+ 2588  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1   | more
+ 2589  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1  
+ 2590  vi mjm_indexed_ragged.h 
+ 2591  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2592  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1  
+ 2593  history | grep zip
+ 2594  find -type f | zip -@ zymo-cpp-2021-02-26.zip
+ 2595  mv *.zip `backupdir`
+ 2596  vi mjm_zymo_composition_table.h 
+ 2597  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2598  vi mjm_zymo_composition_table.h 
+ 2599  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2600  vi mjm_zymo_composition_table.h 
+ 2601  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2602  vi mjm_zymo_composition_table.h 
+ 2603  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2604  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gs.tex bt.tex | ./a.out 2>&1  
+ 2605  more gs.tex 
+ 2606  vi mjm_zymo_composition_table.h 
+ 2607  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2608  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gs.tex bt.tex | ./a.out 2>&1  
+ 2609  more gs.tex 
+ 2610  more gs.tex | sort | uniq -c | sort -g 
+ 2611  history | grep zip
+ 2612  find -type f | zip -@ zymo-cpp-2021-02-26.zip
+ 2613  mv *.zip `backupdir`
+ 2614  more gs.tex 
+ 2615  vi mjm_zymo_composition_table.h 
+ 2616  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2617  vi mjm_zymo_composition_table.h 
+ 2618  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2619  vi mjm_zymo_composition_table.h 
+ 2620  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2621  vi mjm_zymo_composition_table.h 
+ 2622  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2623  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt\\nsave sort2_220218.tex bt.tex | ./a.out 2>&1  
+ 2624  more sort2_220218.tex 
+ 2625  vi gs.tex 
+ 2626  ls
+ 2627  cat zr5958.16S_220218.zymo_compo_L7.txt  | awk '{print $(NF-1)" "$NF}'
+ 2628  cat zr5958.16S_220218.zymo_compo_L7.txt  | awk '{print $(NF-1)" "$NF}' > xx.dat
+ 2629  R
+ 2630  vi gs.tex 
+ 2631  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gs.tex bt.tex | ./a.out 2>&1  
+ 2632  vi mjm_zymo_composition_table.h 
+ 2633  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2634  vi mjm_zymo_composition_table.h 
+ 2635  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2636  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gsv.tex 1 | ./a.out 2>&1  
+ 2637  cat gsv.tex 
+ 2638  vi mjm_zymo_composition_table.h 
+ 2639  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2640  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gsv.tex 1 | ./a.out 2>&1  
+ 2641  cat gsv.tex 
+ 2642  cat gsv.tex  | sort
+ 2643  cat gsv.tex  | sort 
+ 2644  cat gsv.tex  | sort  | more
+ 2645  vi gsv.tex 
+ 2646  cat gsv.tex  | sort -g -k 3  | more
+ 2647  cat gsv.tex  | sort -g -k 3 -r  | more
+ 2648  cat gsv.tex  | grep -v " 0$"
+ 2649  history
+ 2650  cat gsv.tex  | sort  | more
+ 2651  grep -i proteo *.txt
+ 2652  cat *.txt | sed -e 's/[ \t;]/\n/g'
+ 2653  cat *.txt | sed -e 's/[ \t;]/\n/g' | grep c__ | sort | uniq -c
+ 2654  grep -i proteo *.txt
+ 2655  vi mjm_zymo_composition_table.h 
+ 2656  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2657  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs cgsv.tex 3 | ./a.out 2>&1  
+ 2658  more cgsv.tex 
+ 2659  more cgsv.tex  | sort | more
+ 2660  more cgsv.tex  | sort | awk '{print $1" "$2" "$3}' | sort | uniq -c | sort
+ 2661  more cgsv.tex  | sort | awk '{print $1" "$2" "$3}' | sort | uniq -c | grep Firm
+ 2662  more cgsv.tex  | sort | awk '{print $1" "$2" "$3}' | sort -k 2 | uniq -c | sort
+ 2663  more cgsv.tex  | sort | awk '{print $1" "$2" "$3}' | more
+ 2664  more cgsv.tex  | sort | awk '{print $1" "$2" "$3}' | sort -k 2 | more
+ 2665  vi mjm_zymo_composition_table.h 
+ 2666  vi mjm_indexed_ragged.h 
+ 2667  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2668  history | grep zip
+ 2669  find -type f | zip -@ zymo-cpp-2021-02-27.zip
+ 2670  mv *.zip `backupdir`
+ 2671  more cgsv.tex  | sort | awk '{print $1" "$2" "$3}' | sort -k 2 | more
+ 2672  more gs.tex 
+ 2673  more gs.tex | sort | more
+ 2674  more cgsv.tex  | sort |  more
+ 2675  history | grep echo 
+ 2676  #echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gsvxx.tex 1 | ./a.out 2>&1 
+ 2677  vi mjm_zymo_composition_table.h 
+ 2678  #echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gsvxx.tex 1 | ./a.out 2>&1 
+ 2679  vi mjm_zymo_composition_table.h 
+ 2680  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave_gs asdf.tex 1 | ./a.out 2>&1 
+ 2681  more asdf.tex 
+ 2682  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex 1 | ./a.out 2>&1 
+ 2683  vi mjm_zymo_composition_table.h 
+ 2684  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2685  more asdf.tex 
+ 2686  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2687  vi mjm_zymo_composition_table.h 
+ 2688  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2689  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2690  more asdf.tex 
+ 2691  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2692  vi mjm_zymo_composition_table.h 
+ 2693  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2694  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2695  more cgsv.tex 
+ 2696  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2697  vi mjm_zymo_composition_table.h 
+ 2698  vi mjm_indexed_ragged.h 
+ 2699  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2700  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2701  more cgsv.tex 
+ 2702  vi mjm_indexed_ragged.h 
+ 2703  vihdr mjm_collections.h
+ 2704  vihdr mjm_instruments.h
+ 2705  vi mjm_indexed_ragged.h 
+ 2706  vihdr mjm_collections.h
+ 2707  vi mjm_indexed_ragged.h 
+ 2708  echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2709  vi mjm_indexed_ragged.h 
+ 2710  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2711  more cgsv.tex 
+ 2712  more asdf.tex 
+ 2713  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2714  vi mjm_indexed_ragged.h 
+ 2715  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2716  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 24\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2717  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2718  more asdf.tex 
+ 2719  vi mjm_zymo_composition_table.h 
+ 2720  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2721  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2722  vi mjm_zymo_composition_table.h 
+ 2723  ls -al asdf.tex 
+ 2724  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2725  ls -al asdf.tex 
+ 2726  vi mjm_zymo_composition_table.h 
+ 2727  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2728  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2729  vi mjm_zymo_composition_table.h 
+ 2730  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2731  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1 
+ 2732  more asdf.tex 
+ 2733  grep coprocola cgsv.tex 
+ 2734  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2735  vi crap
+ 2736  vi mjm_indexed_ragged.h 
+ 2737  vi crap
+ 2738  vi mjm_indexed_ragged.h 
+ 2739  vi crap
+ 2740  vi mjm_indexed_ragged.h 
+ 2741  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2742  vi crap
+ 2743  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2744  vi crap
+ 2745  vi mjm_indexed_ragged.h 
+ 2746  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2747  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2748  vi crap
+ 2749  vi mjm_indexed_ragged.h 
+ 2750  vi crap
+ 2751  vi mjm_indexed_ragged.h 
+ 2752  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2753  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2754  vi crap
+ 2755  vi asdf.tex 
+ 2756  history | grep zip
+ 2757  find -type f | zip -@ zymo-cpp-2021-02-27.zip
+ 2758  mv *.zip `backupdir`
+ 2759  ls
+ 2760  grep Pas zr5958.16S_220218.zymo_compo_L7.txt 
+ 2761  grep gin  zr5958.16S_220218.zymo_compo_L7.txt 
+ 2762  grep gin  zr5958.16S_220218.zymo_compo_L7_sort1.txt 
+ 2763  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt 
+ 2764  cat cgsv.tex | sort -g -k 4 -r | more
+ 2765  cat cgsv.tex | sort -g -k 4 -r | more | grep Heli
+ 2766  cat cgsv.tex | sort -g -k 4 -r | more | grep heli
+ 2767  cat cgsv.tex | sort -g -k 4 -r | more | grep Camp
+ 2768  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep Heli
+ 2769  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep Camp
+ 2770  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep Arco
+ 2771  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep jeju
+ 2772  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep -i actin
+ 2773  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep -i actinomyc
+ 2774  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep -i actinomyc | grep -i agg
+ 2775  cat cgsv.tex | sort -g -k 4 -r | more 
+ 2776  cat cgsv.tex | sort -g -k 4 -r | more  |  grep Arc
+ 2777  cat cgsv.tex | sort -g -k 4 -r | more  |  grep Camp
+ 2778  cat cgsv.tex | sort -g -k 4 -r | more  |  grep X
+ 2779  cat cgsv.tex | sort -g -k 4 -r | more  |  grep I
+ 2780  cat cgsv.tex | sort -g -k 4 -r | more  |  grep Fa
+ 2781  echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2782  more asdf.tex 
+ 2783  history | grep savegs
+ 2784  history | grep save_gs
+ 2785  #echo -e  load_notes cgsv.txt 1\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs gsvxx.tex 1 | ./a.out 2>&1 
+ 2786  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs cgsv.tex 3 | ./a.out 2>&1  
+ 2787  more cgsv.tex 
+ 2788  vi mjm_zymo_composition_table.h 
+ 2789  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7_sort2.txt 8\\nsave_gs cgs.tex 2 | ./a.out 2>&1  
+ 2790  more cgs.tex 
+ 2791  echo -e  load_notes notes.txt\\nload zr5958.16S_220218.zymo_compo_L7.txt 8\\nsave_gs cgs.tex 2 | ./a.out 2>&1  
+ 2792  more cgs.tex 
+ 2793  mv  cgs.tex cgs_beauty_notes.txt
+ 2794  vi cgs_beauty_notes.txt 
+ 2795  more cgsv.tex 
+ 2796  more   zr5958.16S_220218.zymo_compo_L7_sort1.txt  | grep -i arch
+ 2797  vi cgs_beauty_notes.txt 
+ 2798  history | grep zip
+ 2799  date
+ 2800  find -type f | zip -@ zymo-cpp-2021-02-27.zip
+ 2801  mv *.zip `backupdir`
+ 2802  vi cgs_beauty_notes.txt 
+ 2803  #echo -e  load_notes cgsv.tex 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2804  cp cgs_beauty_notes.txt xxx.txt
+ 2805  #echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2806  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 16\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2807  more asdf.tex 
+ 2808  vi mjm_zymo_composition_table.h 
+ 2809  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2810  vi cgs_beauty_notes.txt 
+ 2811  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2812  vi mjm_zymo_composition_table.h 
+ 2813  vi crap
+ 2814  vi mjm_indexed_ragged.h 
+ 2815  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2816  vi mjm_indexed_ragged.h 
+ 2817  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2818  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2819  vi crap
+ 2820  cp cgs_beauty_notes.txt xxx.txt
+ 2821  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2822  vi cgs_beauty_notes.txt 
+ 2823  vi crap
+ 2824  vi cgs_beauty_notes.txt 
+ 2825  history | grep zip
+ 2826  date
+ 2827  find -type f | zip -@ zymo-cpp-2021-02-28.zip
+ 2828  history | grep zip
+ 2829  mv *.zip `backupdir`
+ 2830  vi cgs_beauty_notes.txt 
+ 2831  vi bt.tex 
+ 2832  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2833  history >> hist_doing 
+ 2834  . srecord
+ 2835  vi cgs_beauty_notes.txt 
+ 2836  cat xxxx
+ 2837  vi cgs_beauty_notes.txt 
+ 2838  grep Chloroplast zr5958.16S_220218.zymo_compo_L7.txt 
+ 2839  vi cgs_beauty_notes.txt 
+ 2840  tail aaaa
+ 2841  top
+ 2842  tail aaaa
+ 2843  ls -al /tmp/fileb3OjVe.outguesses
+ 2844  strings l /tmp/fileb3OjVe.outguesses
+ 2845  tail aaaa
+ 2846  strings  /tmp/fileb3OjVe.outguesses | more
+ 2847  tail aaaa
+ 2848  vi cgs_beauty_notes.txt 
+ 2849  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2850  cp cgs_beauty_notes.txt xxx.txt
+ 2851  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2852  vi cgs_beauty_notes.txt 
+ 2853  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2854  grep 50 *.h
+ 2855  vi mjm_zymo_composition_table.h 
+ 2856  history | grep g++
+ 2857  g++  -Wall -std=gnu++11 -DTEST_MJM_ZYMO_COMPOSITION_TABLE -I. -I../../mjm/hlib -I../../mjm/num -I../toobib  -gdwarf-3 -O0  -x c++ mjm_zymo_composition_table.h  -lpthread -lreadline
+ 2858  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2859  cp cgs_beauty_notes.txt  xxx.txt
+ 2860  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2861  grep "(P)" xxx.txt 
+ 2862  grep "(P)" xxx.txt  | wc
+ 2863  grep "(P)" xxx.txt | awk '{x=$1" & "$2" & "$3" & ";i=4; while (i<=NF) {x=x" "$i; i=i+1;} print x; }'
+ 2864  grep "(P)" xxx.txt | awk '{x=$1" & "$2" & "$3" & ";i=4; while (i<=NF) {x=x" "$i; i=i+1;} print x; }' > ptable1.tex
+ 2865  grep "(P)" xxx.txt | awk '{x=$1" & "$2" & "$3" & ";i=4; while (i<=NF) {x=x" "$i; i=i+1;} print x" \\\\"; }' > ptable1.tex
+ 2866  vi cgs_beauty_notes.txt 
+ 2867  cp cgs_beauty_notes.txt  xxx.txt
+ 2868  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2869  grep "(P)" xxx.txt | awk '{x=$1" & "$2" & "$3" & ";i=4; while (i<=NF) {x=x" "$i; i=i+1;} print x; }'| sed -e 's/-/ /g' > ptable1.tex
+ 2870  grep "(P)" xxx.txt | awk '{x=$1" & "$2" & "$3" & ";i=4; while (i<=NF) {x=x" "$i; i=i+1;} print x"\\\\"; }'| sed -e 's/-/ /g' > ptable1.tex
+ 2871  history | grep unsorted
+ 2872  vi bt.tex
+ 2873  grep "(P)" xxx.txt | awk '{x=$1" & "$2" & "$3" & ";i=4; while (i<=NF) {x=x" "$i; i=i+1;} print x"\\\\"; }'| sed -e 's/\([^0-9]\)-/\1  /g' > ptable1.tex
+ 2874  vi bt.tex
+ 2875  grep "(P)" xxx.txt | awk '{x=$1" & "$2" & "$3" & ";i=4; while (i<=NF) {x=x" "$i; i=i+1;} print x"\\\\"; }'| sed -e 's/\([^0-9]\)-/\1  /g' > ptable1.tex
+ 2876  echo -e  load_notes xxx.txt 1\\nload zr5958.16S_220218.zymo_compo_L7.txt 18\\nsave asdf.tex bt.tex | ./a.out 2>&1  | tee crap
+ 2877  vi bt.tex 
+ 2878  history >> hist_doing_1
+ 2879  history
+ 2880  ls
+ 2881  more unsorted220218.tex 
+ 2882  ls
+ 2883  more poorly_annotated_blast.txt 
+ 2884  more poorly_annotated_blast.txt  | grep -A 2 "Sequences producing\|>seq" | more
+ 2885  more poorly_annotated_blast.txt  | grep -A 2 "Sequences producing\|>seq" | grep ">seq" | wc
+ 2886  more poorly_annotated_blast.txt  | grep -A 2 "Sequences producing\|>seq" | more
+ 2887  more poorly_annotated_blast.txt  | grep -A 2 "Sequences producing\|>seq" | grep -v "would blast" | more
+ 2888  more poorly_annotated_blast.txt  | grep -A 2 "Sequences producing\|>seq" | grep -v "would blast" | grep -v "BLASTN\|Sequences prod" | more
+ 2889  grep ">" ASVs_PoorlyAnnotated.fasta 
+ 2890  grep ">" ASVs_PoorlyAnnotated.fasta  | wc
+ 2891  more poorly_annotated_blast.txt  | grep -A 2 "Sequences producing\|>seq" | grep ">seq" | wc
+ 2892  more poorly_annotated_blast.txt  | grep -A 2 "Sequences producing\|>seq" | grep -v "would blast" | grep -v "BLASTN\|Sequences prod" | more
+ 2893  find ../.. -name "mjm_string*"
+ 2894  find ../.. -name "genus*"
+ 2895  newproj string_tax
+ 2896  . cdcpp string_tax
+ 2897  find ../.. -name "genus*"
+ 2898  find ../.. -name "mjm_string*"
+ 2899  cp ../../archive/lat/cpp/mjm_libmesh/mjm_string_tax.h .
+ 2900  ls
+ 2901  ./run_string_tax -compile
+ 2902  ./a.out
+ 2903  ./string_tax.out
+ 2904  ls -al
+ 2905  find ../.. -name "genus*"
+ 2906  cp ../../archive/lat/cpp/mjm_libmesh/genusseek*.txt .
+ 2907  find ../.. -name "*clustal*"
+ 2908  find ../.. -name "*prob-*"
+ 2909  history >> hist_doing

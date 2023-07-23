@@ -1,0 +1,627 @@
+>genuseek5227 28  Anaerococcus:1 Bacillus:1 Caldinitratiruptor:1 Chelativorans:1 Methylomonas:1 Spirosoma:1 Staphylococcus:1
+>genuseek11796 21  Ammoniphilus:2 Aquifex:3 Hydrogenivirga:2 Occidentia:1 Orientia:3 Thermoflexus:1 Vicinamibacter:1
+>genuseek11974 12  Akkermansia:3 Luteolibacter:3 Prosthecobacter:2 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek14458 11  Citrobacter:2 Desulfocurvus:1 Halomonas:1 Halopenitus:2 Pantoea:1
+>genuseek21749 27  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek24976 19  Brachyspira:1 Caldinitratiruptor:1
+>genuseek33333 19  Brevundimonas:1 Oceanicaulis:2 Pedomicrobium:3
+>genuseek35171 24  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Verrucomicrobium:1
+>genuseek48056 12  Akkermansia:3 Anoxynatronum:1 Aquiflexum:1 Pseudoramibacter:1 Rhodocyclus:1
+>genuseek61241 19  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek70093 15  Akkermansia:3 Luteolibacter:3 Persicirhabdus:1
+>genuseek73056 18  Adhaeribacter:2 Caminibacter:1 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfovibrio:2 Flindersiella:1 Haliscomenobacter:2 Lactobacillus:1 Skermanella:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek75560 11  Akkermansia:3 Luteolibacter:3 Prosthecobacter:2 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek82003 34  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek105002 28  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek108675 50  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Diplosphaera:1 Haloferula:3 Luteolibacter:2 Persicirhabdus:1 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:5 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek110528 19  Desulfovibrio:3 Hippea:4
+>genuseek112040 20  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek112366 18  Brachyspira:1 Caldinitratiruptor:1
+>genuseek120799 19  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek124904 12  Megasphaera:4 Rhodonellum:1
+>genuseek126784 16  Corynebacterium:2 Ectothiorhodospira:1 Methyloparacoccus:1 Oligoflexus:1 Peptoclostridium:2 Solimonas:5
+>genuseek127307 25  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek128475 30  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek132017 28  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek138114 16  Caldilinea:3 Massilia:9
+>genuseek144064 11  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek149095 41  Alkalibacillus:4 Salsuginibacillus:2
+>genuseek154421 18  Brevundimonas:1 Oceanicaulis:2 Paenibacillus:1 Pedomicrobium:3
+>genuseek156474 17  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek162840 23  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Turneriella:2 Verrucomicrobium:1
+>genuseek167348 35  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek168386 11  Fibrobacter:6 Halobellus:2 Halomonas:4
+>genuseek174966 28  Akkermansia:2 Haloferula:1 Luteolibacter:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Verrucomicrobium:1
+>genuseek180186 50  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Diplosphaera:1 Haloferula:7 Luteolibacter:6 Persicirhabdus:1 Prosthecobacter:6 Roseibacillus:3 Roseimicrobium:1 Rubritalea:6 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek181394 11  Alterococcus:1 Coraliomargarita:2 Fucophilus:1 Meiothermus:3 Opitutus:2 Pelagicoccus:3 Puniceicoccus:1 Thermoflexus:1
+>genuseek183146 13  Fibrobacter:6 Halobellus:2 Halomonas:4
+>genuseek185278 31  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek190199 17  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek193657 29  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek195488 30  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek196152 14  Kallotenue:1 Methylacidimicrobium:3
+>genuseek196706 19  Diplosphaera:1 Opitutus:2
+>genuseek214074 22  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek215652 15  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek223043 14  Actinoplanes:1 Alterococcus:1 Amycolatopsis:1 Chthonomonas:2 Egibacter:1 Ignavibacterium:2 Kineosporia:1 Oceanithermus:3 Symbiobacterium:1 Thermoflexus:1 Thermoleophilum:2
+>genuseek224133 11  Akkermansia:3 Anoxynatronum:1 Aquiflexum:1 Pseudoramibacter:1 Rhodocyclus:1
+>genuseek233885 14  Diplosphaera:1 Prosthecobacter:1
+>genuseek234068 19  Advenella:4 Bartonella:3 Corynebacterium:2 Oligoflexus:1 Solimonas:2 Thioalkalispira:1 Vicinamibacter:1
+>genuseek235831 27  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek238480 11  Akkermansia:2 Deinococcus:2
+>genuseek244085 28  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek259079 18  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek273967 14  Akkermansia:3 Luteolibacter:3 Persicirhabdus:1
+>genuseek274996 20  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek278533 21  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek279854 12  Kallotenue:1 Methylacidimicrobium:3
+>genuseek280640 26  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek280847 17  Adhaeribacter:2 Caminibacter:1 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfovibrio:2 Flindersiella:1 Haliscomenobacter:2 Lactobacillus:1 Skermanella:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek281602 32  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek285487 26  Brevifollis:1 Chthoniobacter:1 Syntrophorhabdus:1 Terrimicrobium:1
+>genuseek287950 24  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek291860 17  Diplosphaera:1 Opitutus:2
+>genuseek299363 38  Alkalibacillus:4 Salsuginibacillus:2
+>genuseek301268 13  Diplosphaera:1 Opitutus:2
+>genuseek311859 33  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek313463 20  Kallotenue:1 Methylacidimicrobium:3
+>genuseek319259 26  Kallotenue:1 Methylacidimicrobium:3
+>genuseek336958 39  Sediminispirochaeta:4 Sphaerochaeta:3 Spirochaeta:3
+>genuseek337909 32  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek337984 16  Kallotenue:1 Methylacidimicrobium:3
+>genuseek348554 12  Aetherobacter:2 Arthrobacter:1 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Nocardia:1 Pyrinomonas:1 Streptomyces:3 Tepidiphilus:1
+>genuseek358133 20  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek363106 40  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek365468 31  Anaerococcus:1 Bacillus:1 Caldinitratiruptor:1 Methylomonas:1 Spirosoma:1
+>genuseek370016 11  Cloacibacillus:1 Desulfosporosinus:1 Hydrogenivirga:1 Mucispirillum:1 Nitratifractor:2 [Eubacterium]:1
+>genuseek371105 23  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek372831 15  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek372912 24  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek381573 20  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek385616 27  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek390702 15  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek398728 50  Akkermansia:3 Brevifollis:1 Haloferula:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek400987 16  Alterococcus:1 Chthoniobacter:1 Coprothermobacter:2 Nitrospira:2 Terrimicrobium:1
+>genuseek402106 19  Akkermansia:1 Luteolibacter:3 Persicirhabdus:1
+>genuseek403062 16  Nisaea:2 Sphingomonas:1
+>genuseek404487 33  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek405459 16  Brevundimonas:1 Devosia:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Taibaiella:1
+>genuseek408088 19  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek408632 17  Brachyspira:1 Caldinitratiruptor:1
+>genuseek415328 28  Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek424558 14  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek429156 30  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek433126 11  Ardenticatena:1 Brevibacillus:5 Halorhodospira:2 Thermogemmatispora:2 Thermosporothrix:2
+>genuseek434638 18  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek443553 13  Alteromonas:1 Saccharospirillum:1
+>genuseek447998 22  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfonema:1 Haliscomenobacter:2 Lactobacillus:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek450050 11  Actinomyces:3 Enterorhabdus:1 Megasphaera:4 Mycobacterium:1 Rhodonellum:1
+>genuseek454035 17  Coprothermobacter:2 Haloferula:6 Luteolibacter:4 Rubritalea:3
+>genuseek456731 17  Actinomyces:1 Desulfurella:2 Halomicrobium:7
+>genuseek458065 24  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek461249 29  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek466876 29  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek469737 14  Akkermansia:3 Persicirhabdus:1
+>genuseek469930 44  Roseimicrobium:1 Terrimicrobium:1
+>genuseek474208 27  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek478095 15  Lentisphaera:3 Oligosphaera:1
+>genuseek482156 15  Caldilinea:3 Massilia:9
+>genuseek483704 21  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek495176 13  Henriciella:2 Hyphomonas:2
+>genuseek499870 29  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek518936 40  Alkalibacillus:4 Salsuginibacillus:2
+>genuseek526492 18  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek531876 36  Campylobacter:2 Criblamydia:1 Thermoanaerobacter:1
+>genuseek537786 17  Brevundimonas:1 Oceanicaulis:2 Paenibacillus:1 Pedomicrobium:3
+>genuseek542067 16  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek543622 16  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek551282 44  Ammonifex:2 Desulfovirgula:1 Spirochaeta:3
+>genuseek553755 23  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek557238 16  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1 Victivallis:2
+>genuseek570076 22  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Turneriella:2 Verrucomicrobium:1
+>genuseek581996 34  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek591163 41  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek593074 38  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek602169 20  Alterococcus:1 Cephaloticoccus:2 Coraliomargarita:2 Diplosphaera:1 Fucophilus:1 Lacunisphaera:4 Opitutus:2 Pelagicoccus:1
+>genuseek604585 11  Alterococcus:1 Methylacidimicrobium:3 Rubrobacter:3 Thermocladium:1
+>genuseek606818 27  Akkermansia:2 Haloferula:1 Luteolibacter:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Verrucomicrobium:1
+>genuseek619271 29  Anaerococcus:1 Bacillus:1 Caldinitratiruptor:1 Chelativorans:1 Methylomonas:1 Spirosoma:1 Staphylococcus:1
+>genuseek620304 22  Ammoniphilus:2 Aquifex:3 Hydrogenivirga:2 Occidentia:1 Orientia:3 Thermoflexus:1 Vicinamibacter:1
+>genuseek625184 11  Halalkalibacillus:1 Larkinella:1 Thalassobacillus:4
+>genuseek625188 11  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek629589 20  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek631230 11  Brevifollis:1 Natronobacterium:3 Prosthecobacter:6
+>genuseek636742 12  Brevundimonas:1 Devosia:1 Nitriliruptor:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Taibaiella:1
+>genuseek639992 50  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Diplosphaera:1 Haloferula:7 Luteolibacter:6 Persicirhabdus:1 Prosthecobacter:6 Roseibacillus:3 Roseimicrobium:1 Rubritalea:6 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek642858 20  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek644477 17  Corynebacterium:2 Ectothiorhodospira:1 Methyloparacoccus:1 Oligoflexus:1 Solimonas:5
+>genuseek644641 31  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek653280 36  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek654201 12  Fibrobacter:6 Halobellus:2 Halomonas:4
+>genuseek656078 50  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Diplosphaera:1 Haloferula:7 Luteolibacter:6 Persicirhabdus:1 Prosthecobacter:6 Roseibacillus:3 Roseimicrobium:1 Rubritalea:6 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek657187 18  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek658871 30  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek660265 20  Diplosphaera:1 Opitutus:2
+>genuseek666253 16  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek670979 28  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek673370 29  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek674158 13  Brachyspira:1 Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek678224 13  Kallotenue:1 Methylacidimicrobium:3
+>genuseek680550 18  Diplosphaera:1 Opitutus:2
+>genuseek687816 29  Alicyclobacillus:11 Alkaliphilus:5 Nautilia:1 Peptoclostridium:1
+>genuseek691771 33  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek699175 24  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek700376 16  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek703317 21  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek706706 34  Campylobacter:2 Criblamydia:1 Thermoanaerobacter:1
+>genuseek711750 31  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek714761 26  Akkermansia:3 Haloferula:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek719318 15  Akkermansia:3 Persicirhabdus:1
+>genuseek719705 16  Lentisphaera:3 Oligosphaera:1
+>genuseek720148 22  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek723580 14  Henriciella:2 Hyphomonas:2
+>genuseek733751 24  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek749809 11  Acidimicrobium:1 Longimonas:1 Nocardioides:1
+>genuseek753725 21  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek757434 14  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek762262 34  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek764561 25  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek767596 32  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek768255 27  Akkermansia:3 Haloferula:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek776463 12  Acidimicrobium:1 Longimonas:1 Nocardioides:1
+>genuseek778866 21  Kallotenue:1 Methylacidimicrobium:3
+>genuseek779716 33  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek787228 13  Dictyoglomus:1 Nocardioides:1 Oxobacter:4
+>genuseek789007 13  Coprothermobacter:2 Haloferula:6 Luteolibacter:4 Rubritalea:3
+>genuseek789697 24  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek792026 13  Hymenobacter:3 Parahymenobacter:2
+>genuseek793765 15  Brevundimonas:1 Leuconostoc:1 Novosphingobium:2 Oceanicaulis:2 Paenibacillus:1 Pedomicrobium:3 Solitalea:1 Sphingomonas:4
+>genuseek797990 23  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek802778 16  Acetohalobium:3 Dethiosulfovibrio:1 Geothermobacterium:1 Sporohalobacter:2 Thermodesulfobacterium:1
+>genuseek812092 12  Aquicella:1 Dictyoglomus:1 Nocardioides:1 Oxobacter:4
+>genuseek812172 13  Annwoodia:1 Desulfobacca:2 Hippea:4 Syntrophus:3 Thiobacillus:1
+>genuseek815600 12  Coprothermobacter:2 Geothermobacter:1 Haloferula:6 Luteolibacter:4 Rubritalea:3
+>genuseek818033 23  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek819506 11  Aggregatibacter:1 Haemophilus:2 Paludisphaera:2 Pasteurella:1 Tetragenococcus:5
+>genuseek819626 13  Diplosphaera:1 Prosthecobacter:1
+>genuseek820021 20  Corynebacterium:2 Ectothiorhodospira:1 Methyloparacoccus:1 Oligoflexus:1 Solimonas:5
+>genuseek820063 22  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Pediococcus:1 Saccharibacter:1 Suttonella:2 Thiovirga:1
+>genuseek820675 39  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek823517 26  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek824928 12  Bacillus:1 Hymenobacter:3 Parahymenobacter:2
+>genuseek825818 39  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek827365 18  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek833287 18  Brevundimonas:1 Leuconostoc:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Sphingomonas:4
+>genuseek837858 11  Nonomuraea:1 Spinactinospora:1 Thermoactinospora:1
+>genuseek842186 15  Aciditerrimonas:1 Anaerolinea:3 Aquisalimonas:2 Citricoccus:1 Halomonas:1 Halopeptonella:1 Laceyella:3
+>genuseek849125 22  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek852879 12  Beijerinckia:1 Streptomyces:1
+>genuseek856564 14  Criblamydia:1 Neochlamydia:1 Thioreductor:1
+>genuseek857937 27  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek860461 18  Aminobacterium:1 Desulfacinum:1 Desulfosoma:2 Desulfovirga:1
+>genuseek866620 23  Acetohalobium:2 Fuchsiella:4 Limnochorda:1 Sporohalobacter:2 Thermogutta:1
+>genuseek866827 25  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek874426 36  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek890148 37  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1
+>genuseek895124 29  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek895963 21  Brachyspira:1 Caldinitratiruptor:1
+>genuseek896309 12  Acholeplasma:2 Aquicella:1 Qingshengfania:1
+>genuseek915370 12  Lentisphaera:3 Oligosphaera:1
+>genuseek916161 14  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek917588 17  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek920525 16  Coprothermobacter:2 Segniliparus:1 Victivallis:2
+>genuseek921960 16  Brevifollis:1 Desulfatiglans:1 Desulfobacterium:1 Prosthecobacter:6
+>genuseek933459 13  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek935480 22  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek938606 12  Diplosphaera:1 Prosthecobacter:1
+>genuseek939177 19  Corynebacterium:2 Ectothiorhodospira:1 Methyloparacoccus:1 Oligoflexus:1 Solimonas:5
+>genuseek939237 33  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek939888 38  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek948441 25  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek950556 11  Acidilobus:1 Bacillus:1 Dactylococcopsis:2 Desulfurella:1 Diplosphaera:1 Hymenobacter:3 Methanobrevibacter:2 Methanocorpusculum:1 Methanothermus:2 Parahymenobacter:2 Thermofilum:1
+>genuseek954558 38  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek961663 17  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek966816 13  Akkermansia:3 Luteolibacter:3 Persicirhabdus:1
+>genuseek968374 14  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek970117 19  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek974939 11  Lacunisphaera:4 Treponema:2 Waddlia:2
+>genuseek975323 11  Clostridium:2 Luteolibacter:1 Thermaerobacter:1
+>genuseek978193 13  Aetherobacter:2 Akkermansia:2 Byssovorax:1 Chloracidobacterium:1 Chondromyces:3 Jahnella:1 Minicystis:1 Phaselicystis:1 Racemicystis:1 Sorangium:2 Tellurimicrobium:1 Turneriella:2
+>genuseek981717 20  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek981982 17  Brevundimonas:1 Leuconostoc:1 Natronovirga:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Sphingomonas:4
+>genuseek986941 23  Alterococcus:1 Cephaloticoccus:2 Coraliomargarita:2 Diplosphaera:1 Fucophilus:1 Lacunisphaera:4 Opitutus:2 Pelagicoccus:1
+>genuseek991207 11  Kallotenue:1 Methylacidimicrobium:3
+>genuseek992312 25  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek992712 16  Adhaeribacter:2 Caminibacter:1 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfovibrio:2 Flindersiella:1 Haliscomenobacter:2 Lactobacillus:1 Skermanella:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek994717 11  Brevibacillus:1 Meiothermus:11 Sandaracinus:1 Truepera:2
+>genuseek997218 39  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek998362 12  Anaerotignum:2 [Clostridium]:2
+>genuseek1011877 11  Ferruginibacter:1 Leptospira:6 Niabella:1 Rhodanobacter:1 Siphonobacter:1 Spirosoma:1 Treponema:1
+>genuseek1011939 25  Brevifollis:1 Chthoniobacter:1 Syntrophorhabdus:1 Terrimicrobium:1
+>genuseek1015573 23  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1018137 15  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1019079 17  Fibrobacter:6 Halomonas:1
+>genuseek1027032 50  Roseimicrobium:1 Terrimicrobium:1
+>genuseek1028633 30  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek1031284 14  Ammonifex:2 Caldanaerobacter:1 Cerasicoccus:1 Limnochorda:1 Thermodesulfatator:4 Thermosulfidibacter:1 Thermosulfurimonas:1
+>genuseek1037589 16  Diplosphaera:1 Opitutus:2
+>genuseek1038571 23  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek1040086 13  Arhodomonas:2 Halopeptonella:1 Spiribacter:3
+>genuseek1044639 21  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek1050740 12  Herbidospora:1 Jonesia:3 Microbacterium:1 Protochlamydia:1 Treponema:2 Waddlia:2
+>genuseek1051921 44  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek1054236 50  Algimonas:3 Aminomonas:1 Gemmatimonas:2 Gemmatirosa:1 Hellea:1 Hephaestia:1 Leptospira:6 Litorimonas:1 Longimicrobium:1 Novosphingobium:1 Stakelama:1
+>genuseek1055325 14  Akkermansia:3 Persicirhabdus:1
+>genuseek1059296 11  Beijerinckia:1 Streptomyces:1
+>genuseek1061807 49  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek1062712 11  Akkermansia:3 Luteolibacter:3 Persicirhabdus:1
+>genuseek1064624 37  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek1067568 14  Alterococcus:1 Chthoniobacter:1 Coprothermobacter:3 Nitrospira:2 Terrimicrobium:1
+>genuseek1071646 17  Akkermansia:1 Luteolibacter:3 Persicirhabdus:1
+>genuseek1072371 36  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1072621 15  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek1076412 14  Nisaea:2 Sphingomonas:1
+>genuseek1077422 13  Alterococcus:1 Coraliomargarita:2 Fucophilus:1 Meiothermus:3 Opitutus:2 Pelagicoccus:3 Puniceicoccus:1 Thermoflexus:1
+>genuseek1081490 13  Criblamydia:1 Neochlamydia:1 Thioreductor:1
+>genuseek1085010 26  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1091368 12  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek1093217 31  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1094839 17  Aminobacterium:1 Desulfacinum:1 Desulfosoma:2 Desulfovirga:1 Elusimicrobium:2
+>genuseek1099514 14  Brevundimonas:1 Devosia:1 Nitriliruptor:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Taibaiella:1
+>genuseek1112439 27  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek1118018 32  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1122685 23  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek1123057 24  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek1123376 12  Caldilinea:3 Massilia:9
+>genuseek1123799 19  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1125543 17  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek1128411 13  Komvophoron:1 Moorea:2 Vicinamibacter:1
+>genuseek1129618 23  Diplosphaera:1 Opitutus:2
+>genuseek1138723 17  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek1139383 11  Halovenus:1 Salinirubrum:1
+>genuseek1145464 25  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1149463 35  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1149950 15  Brachyspira:1 Caldinitratiruptor:1
+>genuseek1158433 30  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1163543 35  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek1172746 42  Ammonifex:2 Desulfovirgula:1 Spirochaeta:3
+>genuseek1173240 12  Amorphus:1 Kaistia:2 Limnoraphis:1 Lyngbya:3 Methyloceanibacter:1 Minicystis:1 Pleomorphomonas:6 Psychroflexus:1 Rhodobium:1 Winogradskyella:1
+>genuseek1179133 14  Leptospira:6 Longimicrobium:1
+>genuseek1186009 36  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek1199853 12  Citrobacter:2 Halomonas:1 Halopenitus:2 Pantoea:1
+>genuseek1203236 11  Thermorudis:1 Verrucomicrobium:1
+>genuseek1203626 28  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek1204827 20  Brachyspira:1 Caldinitratiruptor:1
+>genuseek1205916 11  Acholeplasma:2 Alterococcus:1 Aquicella:1 Pseudobutyrivibrio:1 Qingshengfania:1 Sinomonas:1
+>genuseek1208165 20  Brevundimonas:1 Oceanicaulis:2 Pedomicrobium:3
+>genuseek1209685 25  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Verrucomicrobium:1
+>genuseek1228420 12  Haloferula:1 Luteolibacter:6 Roseibacillus:3
+>genuseek1233014 21  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek1238940 26  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1244467 42  Alkalibacillus:4 Salsuginibacillus:2
+>genuseek1247234 18  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek1252398 29  Akkermansia:2 Haloferula:1 Luteolibacter:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Verrucomicrobium:1
+>genuseek1255712 31  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1255852 15  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1259797 11  Aminiphilus:1 Aminomonas:1 Leptospira:6 Longimicrobium:1 Nitrospira:1
+>genuseek1263209 15  Diplosphaera:1 Prosthecobacter:1
+>genuseek1271091 21  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek1271776 22  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek1272680 12  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1273430 27  Brevifollis:1 Chthoniobacter:1 Syntrophorhabdus:1 Terrimicrobium:1
+>genuseek1280438 21  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1285650 12  Lentisphaera:3 Oligosphaera:1 Parageobacillus:1
+>genuseek1285926 17  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1289073 13  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek1294251 41  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek1295260 32  Bacillus:1 Caldinitratiruptor:1
+>genuseek1296448 12  Cloacibacillus:1 Desulfosporosinus:1 Hydrogenivirga:1 Mucispirillum:1 Nitratifractor:2
+>genuseek1297995 11  Bradyrhizobium:1 Burkholderia:1 Desulfurella:5 Rhizomicrobium:1
+>genuseek1300182 18  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek1300634 16  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1304939 15  Coprothermobacter:2 Segniliparus:1 Victivallis:2
+>genuseek1305441 17  Nisaea:2 Sphingomonas:1
+>genuseek1305986 15  Brevundimonas:1 Leuconostoc:1 Natronovirga:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Sphingomonas:4
+>genuseek1309848 29  Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1311995 18  Brevifollis:1 Desulfatiglans:1 Desulfobacterium:1 Prosthecobacter:6
+>genuseek1312954 15  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek1325940 30  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1326930 45  Roseimicrobium:1 Terrimicrobium:1
+>genuseek1343923 19  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek1353443 17  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1 Victivallis:2
+>genuseek1365242 39  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek1369809 21  Alterococcus:1 Cephaloticoccus:2 Coraliomargarita:2 Diplosphaera:1 Fucophilus:1 Lacunisphaera:4 Opitutus:2 Pelagicoccus:1
+>genuseek1370111 12  Alterococcus:1 Methylacidimicrobium:3 Thermocladium:1
+>genuseek1374417 30  Anaerococcus:1 Bacillus:1 Caldinitratiruptor:1 Methylomonas:1 Spirosoma:1
+>genuseek1375006 23  Ammoniphilus:2 Aquifex:3 Hydrogenivirga:2 Occidentia:1 Orientia:3 Thermoflexus:1 Vicinamibacter:1
+>genuseek1376338 12  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1379038 21  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1383395 11  Komvophoron:1 Moorea:2 Vicinamibacter:1
+>genuseek1387321 11  Diplosphaera:1 Prosthecobacter:1
+>genuseek1388001 18  Corynebacterium:2 Ectothiorhodospira:1 Methyloparacoccus:1 Oligoflexus:1 Solimonas:5
+>genuseek1388108 32  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek1392057 37  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek1392877 50  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Diplosphaera:1 Haloferula:7 Luteolibacter:6 Persicirhabdus:1 Prosthecobacter:6 Roseibacillus:3 Roseimicrobium:1 Rubritalea:6 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1393405 21  Diplosphaera:1 Opitutus:2
+>genuseek1394841 12  Fuchsiella:4 Halothermothrix:2 Limnochorda:1 Verminephrobacter:1
+>genuseek1397497 11  Coprococcus:1 Deinococcus:1 Lactobacillus:1 Marinobacter:3 Nitratifractor:2
+>genuseek1401513 17  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1402821 22  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1409206 17  Lentisphaera:3 Oligosphaera:1
+>genuseek1409438 23  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek1413467 25  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4
+>genuseek1421968 26  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1427409 22  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1430286 12  Caldicellulosiruptor:3 Desulfurella:5 Persephonella:2 Thermosulfidibacter:1
+>genuseek1430363 12  Algisphaera:1 Rhodopirellula:2 Telmatocola:1 Thermodesulfatator:4 Thermosulfurimonas:1 Zavarzinella:1
+>genuseek1432635 24  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek1434361 11  Burkholderia:1 Cephaloticoccus:2 Diplosphaera:1 Lacunisphaera:4 Methylacidimicrobium:1 Opitutus:2 Thermodesulfovibrio:6
+>genuseek1438097 13  Bacillus:1 Caldicellulosiruptor:4 Pyrobaculum:7 Thermofilum:1 Thermomicrobium:1
+>genuseek1439661 12  Paludisphaera:2 Tetragenococcus:5
+>genuseek1439740 23  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1440697 27  Methylovulum:1 Thermodesulforhabdus:1
+>genuseek1441149 19  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1452594 15  Criblamydia:1 Neochlamydia:1 Thioreductor:1
+>genuseek1455080 26  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek1457293 37  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1460582 38  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1
+>genuseek1462813 30  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek1466844 16  Aquisalimonas:2 Coxiella:1 Diplorickettsia:1 Marinicella:2 Methylonatrum:1 Methylothermus:2 Thiohalospira:2
+>genuseek1476707 14  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1486045 11  Catenibacterium:1 Eggerthia:1 Endozoicomonas:5 Kandleria:1
+>genuseek1496974 16  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1500474 50  Akkermansia:3 Brevifollis:1 Haloferula:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1504797 20  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Turneriella:2 Verrucomicrobium:1
+>genuseek1505556 14  Arhodomonas:2 Halopeptonella:1 Spiribacter:3
+>genuseek1512609 12  Akkermansia:3 Luteolibacter:3 Persicirhabdus:1
+>genuseek1514867 15  Alterococcus:1 Chthoniobacter:1 Coprothermobacter:2 Nitrospira:2 Terrimicrobium:1
+>genuseek1516172 18  Akkermansia:1 Luteolibacter:3 Persicirhabdus:1
+>genuseek1516944 37  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1517163 16  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek1519073 15  Nisaea:2 Sphingomonas:1
+>genuseek1519667 11  Halococcus:1 Kyrpidia:4 Natronomonas:3 Sporohalobacter:2
+>genuseek1526045 13  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek1527238 32  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1530229 15  Brevundimonas:1 Devosia:1 Nitriliruptor:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Taibaiella:1
+>genuseek1537247 18  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek1537927 14  Komvophoron:1 Moorea:2 Vicinamibacter:1
+>genuseek1538287 24  Diplosphaera:1 Opitutus:2
+>genuseek1539907 18  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek1542834 16  Brachyspira:1 Caldinitratiruptor:1
+>genuseek1547522 36  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek1549273 11  Belnapia:1 Halomonas:1 Kallotenue:1 Thermococcus:1 Thiocystis:1
+>genuseek1550503 11  Luteolibacter:1 Spiribacter:1
+>genuseek1557004 13  Citrobacter:2 Halomonas:1 Halopenitus:2 Pantoea:1
+>genuseek1562905 11  Lacunisphaera:4 Nitratiruptor:1 Ornithinibacter:1 Vicinamibacter:1
+>genuseek1567346 27  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1570558 19  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek1574024 30  Akkermansia:2 Haloferula:1 Luteolibacter:3 Roseimicrobium:1 Rubritalea:3 Verrucomicrobium:1
+>genuseek1577722 16  Diplosphaera:1 Prosthecobacter:1
+>genuseek1583136 22  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1586836 33  Bacillus:1 Caldinitratiruptor:1
+>genuseek1588540 13  Bryobacter:1 Sulfobacillus:1
+>genuseek1589650 19  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek1590415 17  Caenispirillum:1 Camelimonas:2 Chelatococcus:3 Dehalogenimonas:3 Inquilinus:2 Nisaea:2 Novosphingobium:1 Rhodobium:1 Salinarimonas:2
+>genuseek1590847 16  Brevundimonas:1 Leuconostoc:1 Natronovirga:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Sphingomonas:4
+>genuseek1592719 30  Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1597385 31  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1597752 46  Roseimicrobium:1 Terrimicrobium:1
+>genuseek1606886 18  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1 Victivallis:2
+>genuseek1610481 11  Actinobacillus:6 Basfia:1 Haemophilus:3 Mannheimia:1 Ursidibacter:1 [Mannheimia]:1
+>genuseek1612841 22  Alterococcus:1 Cephaloticoccus:2 Coraliomargarita:2 Diplosphaera:1 Fucophilus:1 Lacunisphaera:4 Opitutus:2 Pelagicoccus:1
+>genuseek1613004 13  Alterococcus:1 Methylacidimicrobium:3 Thermocladium:1
+>genuseek1617418 13  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek1619317 18  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1625156 11  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek1626499 11  Cephaloticoccus:2 Opitutus:2 Pelagicoccus:4
+>genuseek1629359 12  Isosphaera:2 Paludisphaera:2 Singulisphaera:3 Spirosoma:1
+>genuseek1629426 24  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1631812 16  Criblamydia:1 Neochlamydia:1
+>genuseek1635452 39  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1
+>genuseek1636319 31  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek1637331 16  Aquisalimonas:2 Hydrogenophilus:3 Methylonatrum:1 Methylothermus:2 Thiohalospira:2
+>genuseek1655430 38  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1655689 17  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek1656357 12  Halococcus:1 Natronomonas:3
+>genuseek1662084 11  Anaerotignum:2 [Clostridium]:2
+>genuseek1662997 15  Komvophoron:1 Moorea:2 Vicinamibacter:1
+>genuseek1663437 25  Diplosphaera:1 Opitutus:2
+>genuseek1666339 37  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek1667302 12  Belnapia:1 Halomonas:1 Thermococcus:1 Thiocystis:1
+>genuseek1668169 11  Elstera:1 Kyrpidia:3 Roseomonas:1 Spiribacter:1
+>genuseek1676980 17  Diplosphaera:1 Prosthecobacter:1
+>genuseek1678975 23  Kallotenue:1 Methylacidimicrobium:3
+>genuseek1680543 34  Bacillus:1 Caldinitratiruptor:1
+>genuseek1684424 32  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1688732 19  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1693539 11  Alicyclobacillus:4 Candidatus:1 Streptacidiphilus:4 Streptomyces:2
+>genuseek1694170 12  Cephaloticoccus:2 Opitutus:2 Pelagicoccus:4
+>genuseek1696645 32  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek1705102 26  Diplosphaera:1 Opitutus:2
+>genuseek1706932 13  Belnapia:1 Halomonas:1 Thermococcus:1 Thiocystis:1
+>genuseek1711824 35  Bacillus:1 Caldinitratiruptor:1
+>genuseek1712166 11  Mesorhizobium:1 Sulfobacillus:1
+>genuseek1713135 33  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1714835 20  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1716402 12  Alicyclobacillus:4 Candidatus:1 Streptacidiphilus:4 Streptomyces:2
+>genuseek1720412 13  Alkaliphilus:1 Brachyspira:1 Burkholderia:1 Caldinitratiruptor:1 Ehrlichia:1 Luteococcus:1 Mesorhizobium:1 Nitrosomonas:1 Phaeochromatium:1 Rhodoplanes:1 Serratia:1 Shewanella:2 Sphingobium:1
+>genuseek1722313 11  Alicyclobacillus:6 Alkaliphilus:2 Armatimonas:1 Gemmatirosa:1 Streptacidiphilus:4 Streptomyces:4
+>genuseek1723356 11  Pseudomonas:1 Streptomyces:1
+>genuseek1730323 22  Adhaeribacter:2 Caminibacter:1 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfovibrio:2 Flindersiella:1 Haliscomenobacter:2 Lactobacillus:1 Skermanella:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1732017 12  Halanaerobium:1 Ignavibacterium:2 Parabacteroides:1 Parahymenobacter:2
+>genuseek1732454 24  Brevifollis:1 Chthoniobacter:1 Syntrophorhabdus:1 Terrimicrobium:1
+>genuseek1741019 22  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1742252 33  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1749523 21  Adhaeribacter:2 Caminibacter:1 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfovibrio:2 Flindersiella:1 Haliscomenobacter:2 Lactobacillus:1 Skermanella:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1750840 11  Alloiococcus:2 Brevibacillus:5 Caldilinea:3 Fusobacterium:2 Occallatibacter:2 Terracidiphilus:1 [Clostridium]:1
+>genuseek1750976 14  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1751926 12  Aliifodinibius:1 Brachyspira:14
+>genuseek1753200 16  Fibrobacter:6 Halomonas:1
+>genuseek1756156 11  Chlamydia:8 Flavobacterium:1 Halanaerobium:1 Hymenobacter:1 Ignavibacterium:2 Parabacteroides:1 Parahymenobacter:2 Roseimicrobium:1 Terrimicrobium:1
+>genuseek1756977 11  Caldanaerobacter:1 Thermoanaerobacter:6
+>genuseek1757262 50  Acidithiobacillus:9 Leeia:1 Roseomonas:21 Sutterella:5 Sutturella:1
+>genuseek1758150 25  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfonema:1 Haliscomenobacter:2 Lactobacillus:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1763739 16  Coprothermobacter:2 Haloferula:6 Luteolibacter:4 Rubritalea:3
+>genuseek1780879 16  Actinomyces:1 Desulfurella:2 Halomicrobium:7
+>genuseek1781693 49  Roseimicrobium:1 Terrimicrobium:1
+>genuseek1782171 21  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1784422 23  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1787662 29  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek1790753 32  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1794689 28  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek1813915 20  Adhaeribacter:2 Caminibacter:1 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfovibrio:2 Flindersiella:1 Haliscomenobacter:2 Lactobacillus:1 Skermanella:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1816906 13  Caldilinea:3 Massilia:11
+>genuseek1817110 13  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1819328 11  Aliifodinibius:1 Brachyspira:14 Terrimicrobium:1
+>genuseek1821399 15  Fibrobacter:6 Halomonas:1
+>genuseek1821816 33  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek1825994 28  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek1826788 15  Diplosphaera:1 Opitutus:2
+>genuseek1829706 22  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek1830629 11  Chlamydia:8 Flavobacterium:1 Halanaerobium:1 Hymenobacter:1 Ignavibacterium:2 Parabacteroides:1 Parahymenobacter:2 Roseimicrobium:1 Terrimicrobium:1
+>genuseek1830861 26  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek1834333 12  Ardenticatena:1 Arhodomonas:2 Halopeptonella:1 Spiribacter:3 Thermogemmatispora:2
+>genuseek1837162 24  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfonema:1 Haliscomenobacter:2 Lactobacillus:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1843809 13  Akkermansia:3 Persicirhabdus:1
+>genuseek1844239 43  Roseimicrobium:1 Terrimicrobium:1
+>genuseek1847085 20  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek1851377 17  Akkermansia:3 Persicirhabdus:1
+>genuseek1856241 15  Coprothermobacter:2 Haloferula:6 Luteolibacter:4 Rubritalea:3
+>genuseek1856336 26  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1864084 14  Lentisphaera:3 Oligosphaera:1
+>genuseek1871316 46  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek1874469 14  Caldilinea:3 Massilia:9
+>genuseek1880931 22  Brevundimonas:1 Oceanicaulis:2 Pedomicrobium:3
+>genuseek1881904 27  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Verrucomicrobium:1
+>genuseek1885125 44  Alkalibacillus:4 Salsuginibacillus:2
+>genuseek1887966 43  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek1897199 28  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1898109 13  Algisphaera:1 Aminicella:1 Ancylothrix:1 Cephalothrix:2 Mogibacterium:1 Telmatocola:1 Zavarzinella:1 [Eubacterium]:5
+>genuseek1898735 18  Akkermansia:3 Arcobacter:2 Persicirhabdus:1 Sulfurospirillum:11
+>genuseek1907994 15  Actinomyces:1 Caenispirillum:1 Corynebacterium:1 Desulfurella:2 Halomicrobium:7
+>genuseek1908673 48  Roseimicrobium:1 Terrimicrobium:1
+>genuseek1909839 20  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek1910876 18  Aquisalimonas:2 Hydrogenophilus:3 Methylonatrum:1 Methylothermus:2 Thiohalospira:2
+>genuseek1913650 39  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek1917257 22  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1924344 28  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek1926328 48  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek1931189 11  Akkermansia:3 Luteolibacter:3 Persicirhabdus:1
+>genuseek1931742 31  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1938237 12  Henriciella:2 Hyphomonas:2
+>genuseek1938758 36  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek1940765 11  Alterococcus:1 Chthoniobacter:1 Coprothermobacter:3 Nitrospira:2 Terrimicrobium:1
+>genuseek1943160 27  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek1944711 11  Brevifollis:1 Fibrobacter:5 Gemmata:1 Prosthecobacter:3 Thermocladium:1 Thermogladius:2
+>genuseek1950157 36  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1951430 28  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfonema:1 Haliscomenobacter:2 Lactobacillus:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1956210 13  Alterococcus:1 Chthoniobacter:1 Coprothermobacter:3 Nitrospira:2 Terrimicrobium:1
+>genuseek1967335 13  Akkermansia:3 Luteolibacter:3 Prosthecobacter:2 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1982987 16  Akkermansia:2 Luteolibacter:3 Persicirhabdus:1
+>genuseek1984004 19  Adhaeribacter:2 Caminibacter:1 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfovibrio:2 Flindersiella:1 Haliscomenobacter:2 Lactobacillus:1 Skermanella:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek1986178 35  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek1987710 14  Alterococcus:1 Cephaloticoccus:2 Lacunisphaera:4 Pelagicoccus:3 Plesiocystis:1 Pseudenhygromyxa:2 Puniceicoccus:1
+>genuseek1989930 11  Akkermansia:3 Luteolibacter:3 Persicirhabdus:1 Roseimicrobium:1
+>genuseek1993024 29  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek1995031 13  Acidaminococcus:1 Caldilinea:3 Litorilinea:1 Massilia:11 Mycoplasma:2
+>genuseek1996613 12  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek2001565 15  Cribrihabitans:1 Meganema:1 Nisaea:2 Pontibaca:1 Roseovarius:2
+>genuseek2009026 12  Alterococcus:1 Coraliomargarita:2 Fucophilus:1 Meiothermus:3 Opitutus:2 Pelagicoccus:3 Puniceicoccus:1 Thermoflexus:1
+>genuseek2009274 14  Fibrobacter:6 Halomonas:4
+>genuseek2011658 32  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek2017932 12  Criblamydia:1 Neochlamydia:1 Thioreductor:1
+>genuseek2033905 27  Cardiobacterium:2 Deinococcus:7 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek2035794 25  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek2037960 39  Alkalibacillus:4 Salsuginibacillus:2
+>genuseek2038763 14  Diplosphaera:1 Opitutus:2
+>genuseek2050560 21  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek2052265 11  Ignavibacterium:2 Parabacteroides:1 Parahymenobacter:2
+>genuseek2052661 25  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek2062833 11  Ardenticatena:1 Arhodomonas:2 Halopeptonella:1 Spiribacter:3 Thermogemmatispora:2
+>genuseek2066291 23  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfonema:1 Haliscomenobacter:2 Lactobacillus:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek2069416 11  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek2077569 30  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek2081596 17  Campylobacter:2 Criblamydia:1 Desulfacinum:1 Desulfosoma:2 Desulfovirga:1 Elusimicrobium:2 Mycoplasma:2 Neochlamydia:1 Tepidisphaera:1 Thioreductor:1
+>genuseek2083475 17  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek2087553 12  Akkermansia:3 Methylomonas:2 Persicirhabdus:1 Thauera:1
+>genuseek2089363 42  Roseimicrobium:1 Terrimicrobium:1
+>genuseek2097701 13  Brevundimonas:1 Devosia:1 Nitriliruptor:1 Novosphingobium:2 Oceanicaulis:2 Pedomicrobium:3 Pseudobacteroides:1 Rhodoblastus:2 Solitalea:1 Taibaiella:1
+>genuseek2100086 19  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek2104822 30  Alicyclobacillus:11 Alkaliphilus:5 Nautilia:1 Peptoclostridium:1
+>genuseek2108487 35  Campylobacter:2 Criblamydia:1 Thermoanaerobacter:1
+>genuseek2111653 16  Akkermansia:3 Persicirhabdus:1
+>genuseek2124582 34  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek2126117 14  Coprothermobacter:2 Haloferula:6 Luteolibacter:4 Rubritalea:3
+>genuseek2126330 25  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek2128051 16  Brevundimonas:1 Oceanicaulis:2 Paenibacillus:1 Pedomicrobium:3
+>genuseek2131552 40  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek2146760 13  Lentisphaera:3 Oligosphaera:1
+>genuseek2146917 15  Aetherobacter:2 Byssovorax:1 Chondromyces:3 Labilithrix:1 Methylacidimicrobium:3 Minicystis:1 Pyrinomonas:1
+>genuseek2155046 15  Caldimicrobium:1 Cerasicoccus:2 Thermodesulfatator:4 Thermosulfurimonas:1
+>genuseek2156535 11  Cephaloticoccus:2 Lacunisphaera:4
+>genuseek2160263 24  Alterococcus:1 Cephaloticoccus:2 Coraliomargarita:2 Diplosphaera:1 Fucophilus:1 Lacunisphaera:4 Opitutus:2 Pelagicoccus:1
+>genuseek2161985 13  Anaerotignum:2 [Clostridium]:2
+>genuseek2169312 26  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek2169943 15  Ammonifex:2 Caldanaerobacter:1 Cerasicoccus:1 Limnochorda:1 Thermodesulfatator:4 Thermosulfidibacter:1 Thermosulfurimonas:1
+>genuseek2173210 45  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek2174635 50  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek2181283 28  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek2183127 13  Caldilinea:3 Massilia:9
+>genuseek2189502 31  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek2191329 43  Ammonifex:2 Desulfovirgula:1 Spirochaeta:3
+>genuseek2198991 21  Brevundimonas:1 Oceanicaulis:2 Pedomicrobium:3
+>genuseek2200028 26  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Verrucomicrobium:1
+>genuseek2204331 22  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek2207224 43  Alkalibacillus:4 Salsuginibacillus:2
+>genuseek2211036 12  Aminiphilus:1 Aminomonas:1 Leptospira:6 Longimicrobium:1
+>genuseek2214096 22  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek2214489 23  Ammonifex:2 Brockia:1 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:2 [Bacillus]:1
+>genuseek2216560 15  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1 Victivallis:2
+>genuseek2217096 11  Caldilinea:3 Massilia:9 Prevotella:3
+>genuseek2218853 18  Kallotenue:1 Methylacidimicrobium:3
+>genuseek2221399 42  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek2224384 16  Fuchsiella:4 Halothermothrix:2 Limnochorda:1
+>genuseek2239255 12  Komvophoron:1 Moorea:2 Vicinamibacter:1
+>genuseek2243600 22  Diplosphaera:1 Opitutus:2
+>genuseek2249887 27  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek2253523 13  Algisphaera:1 Telmatocola:1 Thermodesulfatator:4 Thermosulfurimonas:1 Zavarzinella:1
+>genuseek2255545 20  Caldisphaera:3 Pelobacter:1
+>genuseek2265781 21  Akkermansia:2 Arenimicrobium:1 Brevitalea:2 Chloracidobacterium:1 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:1 Pyrinomonas:1 Tellurimicrobium:1 Turneriella:2 Verrucomicrobium:1
+>genuseek2279433 16  Balnearium:1 Desulfurobacterium:5 Thermovibrio:4 Treponema:3
+>genuseek2281763 11  Idiomarina:1 Massilia:1 Pseudoxanthomonas:1
+>genuseek2284183 15  Actinomyces:1 Caenispirillum:1 Camelimonas:2 Chelatococcus:3 Dehalococcoides:2 Desulfurella:2 Inquilinus:2 Nisaea:2 Salinarimonas:2
+>genuseek2285718 47  Roseimicrobium:1 Terrimicrobium:1
+>genuseek2289687 19  Brevifollis:1 Prosthecobacter:6 Roseimicrobium:1
+>genuseek2294231 17  Aquisalimonas:2 Hydrogenophilus:3 Methylonatrum:1 Methylothermus:2 Thiohalospira:2
+>genuseek2301202 38  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek2304308 24  Kallotenue:1 Methylacidimicrobium:3
+>genuseek2309660 33  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek2315642 11  Geothrix:1 Legionella:8 Solimonas:3 Steroidobacter:1
+>genuseek2316817 34  Cardiobacterium:2 Dichelobacter:1 Suttonella:2 Thiovirga:1
+>genuseek2317261 21  Alterococcus:1 Cerasicoccus:3 Dictyoglomus:4 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek2318889 14  Alkaliphilus:1 Brachyspira:1 Burkholderia:1 Caldinitratiruptor:1 Ehrlichia:1 Luteococcus:1 Mesorhizobium:1 Phaeochromatium:1 Rhodoplanes:1 Serratia:1 Shewanella:2 Sphingobium:1
+>genuseek2324561 34  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek2328249 26  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfonema:1 Haliscomenobacter:2 Lactobacillus:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek2342405 34  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek2344583 27  Akkermansia:3 Haloferula:1 Luteolibacter:1 Methylacidimicrobium:3 Prosthecobacter:6 Rubritalea:3 Verrucomicrobium:1
+>genuseek2351414 47  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2
+>genuseek2355803 29  Akkermansia:3 Brevifollis:1 Chthoniobacter:1 Kiritimatiella:1 Methylacidimicrobium:3 Prosthecobacter:6 Roseimicrobium:1 Terrimicrobium:1 Verrucomicrobium:1
+>genuseek2357712 40  Alterococcus:1 Methylacidimicrobium:3 Roseimicrobium:1 Terrimicrobium:1
+>genuseek2362674 11  Alterococcus:1 Chthoniobacter:1 Coprothermobacter:3 Nitrospira:2 Terrimicrobium:1
+>genuseek2364893 37  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek2372805 30  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek2401108 19  Alterococcus:1 Cephaloticoccus:2 Coraliomargarita:2 Diplosphaera:1 Fucophilus:1 Lacunisphaera:4 Opitutus:2 Pelagicoccus:1
+>genuseek2401403 11  Henriciella:2 Hyphomonas:2
+>genuseek2404151 35  Acetohalobium:3 Alkalibacillus:4 Salsuginibacillus:2 Sporohalobacter:2
+>genuseek2405835 41  Ammonifex:2 Carboxydothermus:8 Desulfovirgula:1 Spirochaeta:3 Thermodesulfobium:1 Treponema:1
+>genuseek2410669 11  Amorphus:1 Kaistia:2 Limnoraphis:1 Lyngbya:3 Methyloceanibacter:1 Minicystis:1 Pleomorphomonas:6 Psychroflexus:1 Rhodobium:1 Winogradskyella:1
+>genuseek2412672 16  Alterococcus:1 Cephaloticoccus:2 Diplosphaera:1 Lacunisphaera:4 Nitrospira:2 Opitutus:2 Pelagicoccus:4
+>genuseek2413627 14  Anaerotignum:2 [Clostridium]:2
+>genuseek2419635 26  Akkermansia:2 Haloferula:1 Luteolibacter:3 Prosthecobacter:6 Roseimicrobium:1 Rubritalea:3 Verrucomicrobium:1
+>genuseek2421951 26  Deinococcus:7 Desulfonatronospira:2 Desulfonatronovibrio:4 Saccharibacter:1 Thiovirga:1
+>genuseek2424879 13  Aminiphilus:1 Aminomonas:1 Leptospira:6 Longimicrobium:1
+>genuseek2427651 11  Luteolibacter:1 Zunongwangia:1
+>genuseek2445660 35  Acetomicrobium:3 Aminiphilus:1 Anaerobaculum:2 Fretibacterium:1 Roseiflexus:2 Siphonobacter:1
+>genuseek2447561 27  Adhaeribacter:2 Campylobacter:2 Criblamydia:1 Desulfatiferula:1 Desulfonema:1 Haliscomenobacter:2 Lactobacillus:1 Pontibacter:1 Thermoanaerobacter:1 Thermoanaerobaculum:1
+>genuseek2452361 35  Calderihabitans:1 Desulfotomaculum:2 Natranaerobaculum:3 Natranaerobius:3 Thermacetogenium:2 Thermanaeromonas:1 Thermogemmatispora:2
+>genuseek2457844 12  Alterococcus:1 Chthoniobacter:1 Coprothermobacter:3 Nitrospira:2 Terrimicrobium:1
