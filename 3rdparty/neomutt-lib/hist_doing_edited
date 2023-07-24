@@ -1,0 +1,299 @@
+ 1099  neomutt
+ 1116  neomutt
+ 1123  neomutt
+ 1125  neomutt
+ 1135  neomutt
+ 1535  neomutt
+ 1567  neomutt
+ 2067  ls ../../../neomutt/neomutt-20200501/
+ 2068  cd  ../../../neomutt/neomutt-20200501/
+ 1535  neomutt
+ 1567  neomutt
+ 2067  ls ../../../neomutt/neomutt-20200501/
+ 2068  cd  ../../../neomutt/neomutt-20200501/
+ 2104  find -name neomutt
+ 2105  ls -al neomutt
+ 2106  mv neomutt neomutt_xxx
+ 2110  mv neomutt neomutt_xxx
+ 2112  mv neomutt neomutt_xxx
+ 2116  mv neomutt neomutt_xxx
+ 2117  cc -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2118  ls -al neomutt*
+ 2119  cc --shared-object  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2122  ld --shared-object  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2124  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2125  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5  -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2126  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5  -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2134  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5  -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2135  ls -al neomutt*
+ 2136  ldd neomutt.a
+ 2202  . cddev neomutt
+ 2206  cd neomutt-20200501/
+ 2248  ./neomutt
+ 2251  ./neomutt -M
+ 2255  ./neomutt -M
+ 2258  ./neomutt -M
+ 2261  ./neomutt -M
+ 2330  find -type f -mtime -1 | grep -v "o$"| grep -v "\.a" | zip -@ neomutt-server-2020-07-08.zip
+ 2067  ls ../../../neomutt/neomutt-20200501/
+ 2068  cd  ../../../neomutt/neomutt-20200501/
+ 2104  find -name neomutt
+ 2105  ls -al neomutt
+ 2106  mv neomutt neomutt_xxx
+ 2110  mv neomutt neomutt_xxx
+ 2112  mv neomutt neomutt_xxx
+ 2116  mv neomutt neomutt_xxx
+ 2117  cc -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2118  ls -al neomutt*
+ 2119  cc --shared-object  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2122  ld --shared-object  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2124  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2125  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5  -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2126  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5  -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2134  ld -shared  -o neomutt.a addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5  -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2135  ls -al neomutt*
+ 2136  ldd neomutt.a
+ 2202  . cddev neomutt
+ 2206  cd neomutt-20200501/
+ 2248  ./neomutt
+ 2251  ./neomutt -M
+ 2255  ./neomutt -M
+ 2258  ./neomutt -M
+ 2261  ./neomutt -M
+ 2330  find -type f -mtime -1 | grep -v "o$"| grep -v "\.a" | zip -@ neomutt-server-2020-07-08.zip
+ 2438  ./neomutt -M
+ 2443  ./neomutt -M
+ 2446  ./neomutt -M
+ 2466  ./neomutt -M
+ 2470  ./neomutt -M
+ 2471  ./neomutt -M | uniq -c
+ 2502  ./neomutt -M
+ 2517  ./neomutt -M
+ 2520  ./neomutt -M
+ 2529  ./neomutt -M
+ 2546  ./neomutt -M
+ 2548  dirdiff -difdiff . ../orig | zip -@ neomutt-2020-07-09.zip
+ 2551  rm neomutt-2020-07-09.zip 
+ 2606  dirdiff -difdiff . ../orig | zip -@ neomutt-2020-07-09.zip
+ 2620  ./neomutt -M
+ 2623  ./neomutt -M
+ 2630  ./neomutt -M
+ 2644  ./neomutt -M
+ 2648  ./neomutt -M
+ 2651  ./neomutt -M
+ 2656  ./neomutt -M
+ 2657  ./neomutt -M | uniq -c
+ 2660  ./neomutt -M | uniq -c
+ 2672  ./neomutt -M | uniq -c
+ 2675  ./neomutt -M | uniq -c
+ 2678  ./neomutt -M | uniq -c
+ 2681  ./neomutt -M | uniq -c
+ 2683  #./neomutt -f ~/.neomutt/neomuttrc_yahoo -M | uniq -c
+ 2684  ./neomutt
+ 2685  ./neomutt --hep
+ 2686  #./neomutt -F ~/.neomutt/neomuttrc_yahoo -M | uniq -c
+ 2687  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M | uniq -c
+ 2688  ./neomutt -F ~/.neomutt/neomuttrc_yahoo 
+ 2689  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M | uniq -c
+ 2692  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M | uniq -c
+ 2697  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M | uniq -c
+ 2702  dirdiff -difdiff . ../orig | zip -@ neomutt-2020-07-09.zip
+ 2704  dirdiff -difdiff . ../orig | grep "/neomutt$" | zip -@ neomutt-2020-07-09.zip
+ 2705  dirdiff -difdiff . ../orig | grep "/neomutt$" 
+ 2707  dirdiff -difdiff . ../orig | grep "^neomutt$" 
+ 2708  dirdiff -difdiff . ../orig | grep -v "^neomutt$" | zip -@ neomutt-2020-07-09.zip
+ 2711  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-09.zip
+ 2713  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-09.zip
+ 2715  mv neomutt-2020-07-09.zip `backupdir`
+ 1535  neomutt
+ 1567  neomutt
+ 2001  . cddev neomutt
+ 2003  cd neomutt-20200501/
+ 2006  grep  neomutt_getch `find type f`
+ 2007  grep  neomutt_getch `find -type f`
+ 2040  ./neomutt -M
+ 2043  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-09.zip
+ 2045  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2050  ./neomutt -M
+ 2053  ./neomutt -M
+ 2054  ./neomutt --help -M
+ 2055  ./neomutt --F ~/.neomutt/neomuttrc_yahoo -M
+ 2056  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2059  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2062  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2072  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2075  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2078  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2084  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2114  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2120  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2123  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2163  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2219  #./neomutt -s
+ 2225  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2227  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 2230  ./neomutt -s doo doo -a main.c -- marchywka@hotmail.com
+ 2231  ./neomutt -s "doo doo" -a main.c -- marchywka@hotmail.com
+ 2257  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2321  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 2335  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 2338  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 2001  . cddev neomutt
+ 2003  cd neomutt-20200501/
+ 2006  grep  neomutt_getch `find type f`
+ 2007  grep  neomutt_getch `find -type f`
+ 2040  ./neomutt -M
+ 2043  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-09.zip
+ 2045  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2050  ./neomutt -M
+ 2053  ./neomutt -M
+ 2054  ./neomutt --help -M
+ 2055  ./neomutt --F ~/.neomutt/neomuttrc_yahoo -M
+ 2056  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2059  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2062  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2072  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2075  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2078  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2084  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2114  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2120  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2123  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2163  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2219  #./neomutt -s
+ 2225  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 2227  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 2230  ./neomutt -s doo doo -a main.c -- marchywka@hotmail.com
+ 2231  ./neomutt -s "doo doo" -a main.c -- marchywka@hotmail.com
+ 2257  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2321  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 2335  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 2338  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 2376  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 2409  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 2458  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 2554  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 2556  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-14.zip
+ 2567  ./neomutt -M
+ 2570  ./neomutt -M
+ 2573  ./neomutt -M
+ 2576  ./neomutt -M
+ 2579  ./neomutt -M
+ 2584  ./neomutt -M
+ 2590  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2594  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2600  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2603  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2607  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2613  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2619  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2620  echo send marchywka@hotmail.com a should output stuff here | ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2646  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1296  . cddev neomutt
+ 1298  cd neomutt-20200501/
+ 1301  grep  neomutt_getch `find type f`
+ 1302  grep  neomutt_getch `find -type f`
+ 1335  ./neomutt -M
+ 1338  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-09.zip
+ 1340  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 1345  ./neomutt -M
+ 1348  ./neomutt -M
+ 1349  ./neomutt --help -M
+ 1350  ./neomutt --F ~/.neomutt/neomuttrc_yahoo -M
+ 1351  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1354  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1357  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1367  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1370  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1373  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1379  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1409  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1415  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1418  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 1458  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 1514  #./neomutt -s
+ 1520  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-11.zip
+ 1522  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 1525  ./neomutt -s doo doo -a main.c -- marchywka@hotmail.com
+ 1526  ./neomutt -s "doo doo" -a main.c -- marchywka@hotmail.com
+ 1552  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1616  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 1630  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-12.zip
+ 1633  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 1671  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 1704  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 1753  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 1849  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-13.zip
+ 1851  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-14.zip
+ 1862  ./neomutt -M
+ 1865  ./neomutt -M
+ 1868  ./neomutt -M
+ 1871  ./neomutt -M
+ 1874  ./neomutt -M
+ 1879  ./neomutt -M
+ 1885  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1889  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1895  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1898  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1902  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1908  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1914  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1915  echo send marchywka@hotmail.com a should output stuff here | ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 1941  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2001  . cddev neomutt
+ 2003  cd neomutt-20200501/
+ 2007  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2029  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2034  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2037  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2040  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2045  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2048  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2061  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2064  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2066  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-14.zip
+ 2068  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-16.zip
+ 2070  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-16.zip
+ 2082  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2085  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2088  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2091  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2094  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2097  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2100  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2104  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2111  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2115  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2117  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-16.zip
+ 2147  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2150  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2153  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2157  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2162  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2165  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2186  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2188  rm neomutt
+ 2202  cc -o neomutt addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2203  cc -shared -o neomutt addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2205  mv neomutt neomutt.so
+ 2206  mv neomutt.so libneomutt.so
+ 2210  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2214  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2217  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2222  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2226  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2232  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-16.zip
+ 2234  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-07-17.zip
+ 1573  ls ~/.neomutt/
+ 1746  cat diet/diary.txt | neomutt -F proc_yahoo -s "diet submit"
+ 1748  cat diet/diary.txt | neomutt -F proc_yahoo -s "diet submit" mjm_mailproc@yahoo.com
+ 1783  vi mjm_neomutt_interface.h 
+ 1812  vi mjm_neomutt_interface.h 
+ 1900  # cat diet/diary.txt | neomutt -s "diet submit" mjm_mailproc@yahoo.com
+ 1901  cat diet/diary.txt | neomutt -s "diet submit" mjm_mailproc@yahoo.com
+ 2000  . cddev neomutt
+ 2002  cd neomutt-20200501/
+ 2030  #./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2032  ./neomutt -F ~/.neomutt/neomuttrc_yahoo -M
+ 2049  neomutt
+ 2158  dirdiff -difdiff . ../orig | grep -v "^neomutt$\|^docs/" | zip -@ neomutt-2020-08-10.zip

@@ -1,0 +1,1947 @@
+ 1087  top
+ 1088  contacts mom
+ 1089  contacts -vi
+ 1090  viw contacts
+ 1091  contacts mom
+ 1092  contacts oscomm
+ 1093  pass disco
+ 1095  mkscriptu mudaily.txt
+ 1096  man date
+ 1097  mkscriptu mudaily.txt
+ 1098  mudaily.txt -reports
+ 1099  mkscriptu mudaily.txt
+ 1100  mudaily.txt -reports
+ 1101  mudaily.txt -reports "oct 2010" "jan 3"
+ 1102  mkscriptu mudaily.txt
+ 1103  man date
+ 1104  mkscriptu mudaily.txt
+ 1105  mudaily.txt -reports "oct 2010" "jan 3"
+ 1106  mkscriptu mudaily.txt
+ 1107  date
+ 1108  mudaily.txt -reports "12/10/2009" "jan 3"
+ 1109  mkscriptu mudaily.txt
+ 1110  mudaily.txt -reports
+ 1111  mkscriptu mudaily.txt
+ 1112  mudaily.txt -reports 2020-09-01 2020-09-10
+ 1113  mkscriptu mudaily.txt
+ 1114  mudaily.txt -reports 2020-09-01 2020-09-10
+ 1115  cat /home/scripts/script_data/cases/out/dog_daily.txt 
+ 1116  mkscriptu mudaily.txt
+ 1117  mudaily.txt -reports 2020-09-01 2020-09-10
+ 1118  cat /home/scripts/script_data/cases/out/dog_daily.txt 
+ 1119  history
+ 1120  vi muqed.txt
+ 1121  vi muqed.tex
+ 1122  mkscriptu mudaily.txt
+ 1123  vi muqed.tex
+ 1124  mkscriptu mudaily.txt
+ 1125  m
+ 1126  e
+ 1127  vi muqed.tex
+ 1128  ls -al /home/scripts/script_data/cases
+ 1129  ls -al /home/scripts/script_data/cases/dog-data-2020Y-10+0*
+ 1130  rm  /home/scripts/script_data/cases/dog-data-2020Y-10+0*
+ 1131  ls -al /home/scripts/script_data/cases/run_log.txt 
+ 1132  rm  /home/scripts/script_data/cases/run_log.txt 
+ 1133  ls -al /home/scripts/script_data/cases
+ 1134  ls -al /home/scripts/script_data/cases/.temp_backup_file_list 
+ 1135  rm  /home/scripts/script_data/cases/.temp_backup_file_list 
+ 1136  ls -al /home/scripts/script_data/cases
+ 1137  vi muqed.tex
+ 1138  more `which mudaily.txt`
+ 1139  vi muqed.tex
+ 1140  history | grep daily
+ 1141  mudaily.txt -daily
+ 1142  ls `backupdir`/mudaily*
+ 1143  ls `backupdir`/*mudaily*
+ 1144  history
+ 1145  ls `backupdir`/*mudaily*
+ 1146  vi muqed.tex
+ 1147  date
+ 1148  man date
+ 1149  mkscriptu mudaily.txt
+ 1150  viw newbackup
+ 1151  mkscriptu mudaily.txt
+ 1152  viw newbackup
+ 1153  viw mjm
+ 1154  man date
+ 1155  viw newbackup
+ 1156  mkscriptu mudaily.txt
+ 1157  mudaily.txt -daily
+ 1158  vi muqed.tex
+ 1159  mkscriptu mudaily.txt
+ 1160  vi muqed.tex
+ 1161  cat `which mudaily.txt` | grep newbackup
+ 1162  vi muqed.tex
+ 1163  mudaily.txt
+ 1164  mkscriptu mudaily.txt
+ 1165  mudaily.txt
+ 1166  mkscriptu mudaily.txt
+ 1167  mudaily.txt
+ 1168  mkscriptu mudaily.txt
+ 1169  mudaily.txt
+ 1170  mkscriptu mudaily.txt
+ 1171  mudaily.txt
+ 1172  vi muqed.tex
+ 1173  mudaily.txt -reports 0 9999
+ 1174  date -d "0"
+ 1175  mudaily.txt -reports . 9999
+ 1176  mudaily.txt -reports 2020-09-01 2020-09-05
+ 1177  vi muqed.tex
+ 1178  m
+ 1179  vi muqed.tex
+ 1180  m
+ 1181  e
+ 1182  contacts osco
+ 1183  contacts mom
+ 1185  vi muqed.tex
+ 1186  m
+ 1187  vi muqed.tex
+ 1188  m
+ 1189  e
+ 1190  vi muqed.tex
+ 1191  m
+ 1192  vi muqed.tex
+ 1193  vi ../allbib/allbib.tex
+ 1194  . cdlatex allbib
+ 1195  m
+ 1196  ls -al 
+ 1197  vi bomtex.tex
+ 1198  . cdlatex muqed
+ 1199  vi ../allbib/allbib.tex
+ 1200  vi muqed.tex
+ 1201  m
+ 1202  vi muqed.tex
+ 1203  m
+ 1204  ./backup
+ 1205  vi muqed.tex
+ 1206  m
+ 1207  ./backup
+ 1208  pass spectr
+ 1209  vi /home/documents/mydocs/live/pass
+ 1210  vi /home/documents/mydocs/live/passwords
+ 1211  vi muqed.tex
+ 1212  m
+ 1213  ./backup
+ 1214  eog ~/Downloads/05-20201006095728-00.jpg 
+ 1215  eog ~/Downloads/18-20201007185744-01.jpg 
+ 1216  eog ~/Downloads/22-20201007203133-00.jpg 
+ 1218  ifconfig
+ 1219  tracerout google.com
+ 1220  traceroute google.com
+ 1221  mail_cmd -snap
+ 1222  mail_cmd -remote-snap
+ 1223  mail_cmd -snap-remote
+ 1224  vi muqed.tex
+ 1226  . srecord
+ 1227  history >> hist_doing 
+ 1228  sudo shutdown -h 9
+ 1229  sudo shutdown -h 0
+ 1230  df
+ 1231  sudo umount /dev/sdb1
+ 1233  sudo shutdown -h 0
+ 1234  . cdlatex cases
+ 1235  cp cases.tex cases_po.tex
+ 1236  vi cases.tex
+ 1237  diff cases.tex cases_po.tex
+ 1238  daily.txt 
+ 1239  ls -al *.swp
+ 1240  ls -al .*.swp
+ 1241  rm .*.swp
+ 1242  daily.txt 
+ 1243  srecord -s | grep mail_cmd | grep arch
+ 1244  mail_cmd -archive cases.tex
+ 1245  ping google.com
+ 1246  sudo shutdown -h 0
+ 1247  . cdcpp muqed_util
+ 1248  cat hist_doing 
+ 1249  history
+ 1250  ./run_muqed_util -opt -compile
+ 1251  vihdr mjm_unit_crap.h
+ 1252  ./run_muqed_util -opt -compile
+ 1253  vihdr mjm_unit_crap.h
+ 1254  ./run_muqed_util -opt -compile
+ 1255  vihdr mjm_unit_crap.h
+ 1256  vihdr mjm_indexed_map.h
+ 1257  vihdr mjm_unit_crap.h
+ 1258  ./run_muqed_util -opt -compile
+ 1259  vihdr mjm_indexed_map.h
+ 1260  ./run_muqed_util -opt -compile
+ 1261  vihdr mjm_indexed_map.h
+ 1262  ./run_muqed_util -opt -compile
+ 1263  vihdr mjm_unit_crap.h
+ 1264  vihdr mjm_indexed_map.h
+ 1265  vihdr mjm_unit_crap.h
+ 1266  ./run_muqed_util -opt -compile
+ 1267  vi ../mikemail/mjm_compiled_noun.h 
+ 1268  ./run_muqed_util -opt -compile
+ 1269  vi ../mikemail/mjm_compiled_noun.h 
+ 1270  ./run_muqed_util -opt -compile
+ 1271  vi ../mikemail/mjm_compiled_noun.h 
+ 1272  ./run_muqed_util -opt -compile
+ 1273  vi ../mikemail/mjm_compiled_noun.h 
+ 1274  ./run_muqed_util -compile
+ 1275  vi ../mikemail/mjm_compiled_noun.h 
+ 1276  vihdr mjm_globals.h
+ 1277  vi ../mikemail/mjm_compiled_noun.h 
+ 1278  ./run_muqed_util -compile
+ 1279  vi ../mikemail/mjm_compiled_noun.h 
+ 1280  vihdr mjm_unit_crap.h
+ 1281  ./run_muqed_util -compile
+ 1282  dmesg
+ 1283  . cdlatex cases
+ 1284  daily.txt 
+ 1285  ping google.com
+ 1286  cat /etc/resolv.conf 
+ 1287  si
+ 1288  su
+ 1289  generic
+ 1290  su
+ 1291  cat /etc/resolv.conf 
+ 1292  ping google.com
+ 1293  daily.txt 
+ 1294  vi /home/scripts/script_data/cases/canon_nouns.txt 
+ 1295  daily.txt 
+ 1296  history | grep mail
+ 1297  mail_cmd -archive cases.tex
+ 1298  top
+ 1300  sudo shutdown -h 0
+ 1301  . cdcpp muqed_util
+ 1302  cat hist_doing 
+ 1303  ls
+ 1304  vi ../mikemail/mjm_compiled_noun.h 
+ 1305  vihdr mjm_unit_crap.h
+ 1306  vi ../mikemail/mjm_compiled_noun.h 
+ 1307  vihdr mjm_unit_crap.h
+ 1308  ./run_muqed_util -compile
+ 1309  vihdr mjm_unit_crap.h
+ 1310  ./run_muqed_util -compile
+ 1311  vihdr mjm_unit_crap.h
+ 1312  ./run_muqed_util -compile
+ 1313  vihdr mjm_unit_crap.h
+ 1314  ./run_muqed_util -compile
+ 1315  vi ../mikemail/mjm_compiled_noun.h 
+ 1316  ./run_muqed_util -compile
+ 1317  vi ../mikemail/mjm_compiled_noun.h 
+ 1318  vihdr mjm_unit_crap.h
+ 1319  ./run_muqed_util -compile
+ 1320  ./backup
+ 1321  vi ../mikemail/mjm_compiled_noun.h 
+ 1322  vihdr mjm_unit_crap.h
+ 1323  vi ../mikemail/mjm_compiled_noun.h 
+ 1324  vihdr mjm_unit_crap.h
+ 1325  vi ../mikemail/mjm_compiled_noun.h 
+ 1326  vihdr mjm_unit_crap.h
+ 1327  ./run_muqed_util -compile
+ 1328  vihdr mjm_unit_crap.h
+ 1329  ./run_muqed_util -compile
+ 1330  vihdr mjm_unit_crap.h
+ 1331  ./run_muqed_util -compile
+ 1332  vihdr mjm_unit_crap.h
+ 1333  ./run_muqed_util -compile
+ 1334  vihdr mjm_unit_crap.h
+ 1335  ./run_muqed_util -compile
+ 1336  vihdr mjm_unit_crap.h
+ 1337  ./run_muqed_util -compile
+ 1338  vihdr mjm_unit_crap.h
+ 1339  ./run_muqed_util -compile
+ 1340  vihdr mjm_unit_crap.h
+ 1341  vi ../mikemail/mjm_compiled_noun.h 
+ 1342  ./run_muqed_util -compile
+ 1343  vihdr mjm_unit_crap.h
+ 1344  ./run_muqed_util -compile
+ 1345  vihdr mjm_unit_crap.h
+ 1346  ./run_muqed_util -compile
+ 1347  vi ../mikemail/mjm_compiled_noun.h 
+ 1348  vihdr mjm_unit_crap.h
+ 1349  vi ../mikemail/mjm_compiled_noun.h 
+ 1350  ./run_muqed_util -compile
+ 1351  vi ../mikemail/mjm_compiled_noun.h 
+ 1352  ./run_muqed_util -compile
+ 1353  vi ../mikemail/mjm_compiled_noun.h 
+ 1354  ./run_muqed_util -compile
+ 1355  vi ../mikemail/mjm_compiled_noun.h 
+ 1356  ./run_muqed_util -compile
+ 1357  vi ../mikemail/mjm_compiled_noun.h 
+ 1358  ./run_muqed_util -compile
+ 1359  vi ../mikemail/mjm_compiled_noun.h 
+ 1360  ./run_muqed_util -compile
+ 1361  vi ../mikemail/mjm_compiled_noun.h 
+ 1362  ./run_muqed_util -compile
+ 1363  vi ../mikemail/mjm_compiled_noun.h 
+ 1364  ./run_muqed_util -compile
+ 1365  vi ../mikemail/mjm_compiled_noun.h 
+ 1366  ./run_muqed_util -compile
+ 1367  vi ../mikemail/mjm_compiled_noun.h 
+ 1368  ./run_muqed_util -compile
+ 1369  vi ../mikemail/mjm_compiled_noun.h 
+ 1370  vi ../mikemail/mjm_loo_parsing.h 
+ 1371  vi ../mikemail/mjm_compiled_noun.h 
+ 1372  vi ../mikemail/mjm_loo_parsing.h 
+ 1373  vi ../mikemail/mjm_compiled_noun.h 
+ 1374  vi ../mikemail/mjm_loo_parsing.h 
+ 1375  vi ../mikemail/mjm_compiled_noun.h 
+ 1376  history | grep unit
+ 1377  vihdr mjm_unit_crap.h
+ 1378  vi ../mikemail/mjm_compiled_noun.h 
+ 1379  ./run_muqed_util -compile
+ 1380  history | grep loo
+ 1381  vi ../mikemail/mjm_loo_parsing.h 
+ 1382  ./run_muqed_util -compile
+ 1383  vi ../mikemail/mjm_compiled_noun.h 
+ 1384  ./run_muqed_util -compile
+ 1385  vi ../mikemail/mjm_loo_parsing.h 
+ 1386  ./run_muqed_util -compile
+ 1387  vi ../mikemail/mjm_compiled_noun.h 
+ 1388  ./run_muqed_util -compile
+ 1389  vi ../mikemail/mjm_compiled_noun.h 
+ 1390  ./run_muqed_util -compile
+ 1391  vi ../mikemail/mjm_compiled_noun.h 
+ 1392  ./run_muqed_util -compile
+ 1393  vi ../mikemail/mjm_compiled_noun.h 
+ 1394  ./run_muqed_util -compile
+ 1395  vi ../mikemail/mjm_compiled_noun.h 
+ 1396  history | grep crap
+ 1397  vihdr mjm_unit_crap.h
+ 1398  history | grep crap
+ 1399  vi ../mikemail/mjm_compiled_noun.h 
+ 1400  ./run_muqed_util -compile
+ 1401  vi ../mikemail/mjm_compiled_noun.h 
+ 1402  ./run_muqed_util -compile
+ 1403  vi ../mikemail/mjm_compiled_noun.h 
+ 1404  ./run_muqed_util -compile
+ 1405  history 
+ 1406  cat hist_doing 
+ 1407  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1408  vi ../mikemail/mjm_compiled_noun.h 
+ 1409  ./run_muqed_util -compile
+ 1410  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1411  cat /tmp/dog_daily.txt 
+ 1412  cat ../mikemail/dev/data.txt 
+ 1413  cat ../mikemail/dev/canon_nouns.txt 
+ 1414  cat ../mikemail/dev/data.txt 
+ 1415  cat /tmp/dog_daily.txt 
+ 1416  ls -al  /tmp/dog_daily.txt 
+ 1417  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1418  vi ../mikemail/mjm_compiled_noun.h 
+ 1419  ./run_muqed_util -compile
+ 1420  vi ../mikemail/mjm_compiled_noun.h 
+ 1421  ./run_muqed_util -compile
+ 1424  vi ../mikemail/mjm_compiled_noun.h 
+ 1427  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1428  cat /tmp/dog_daily.txt 
+ 1429  vi ../mikemail/mjm_compiled_noun.h 
+ 1430  ./run_muqed_util -compile
+ 1431  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1432  vi ../mikemail/mjm_compiled_noun.h 
+ 1433  ./run_muqed_util -compile
+ 1434  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1435  cat /tmp/dog_daily.txt 
+ 1436  vi ../mikemail/mjm_compiled_noun.h 
+ 1437  ./run_muqed_util -compile
+ 1438  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1439  vi ../mikemail/mjm_compiled_noun.h 
+ 1440  ./run_muqed_util -compile
+ 1441  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1442  cat /tmp/dog_daily.txt 
+ 1443  tail ../mikemail/dev/canon_nouns.txt 
+ 1444  cat ../mikemail/dev/data.txt 
+ 1445  vi  ../mikemail/dev/canon_nouns.txt 
+ 1446  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1447  vi ../mikemail/dev/data.txt 
+ 1448  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1449  cat ../mikemail/dev/data.txt 
+ 1450  cat ../mikemail/dev/canon_nouns.txt 
+ 1451  cat ../mikemail/dev/data.txt 
+ 1452  cat /tmp/dog_daily.txt 
+ 1453  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1454  vi ../mikemail/mjm_compiled_noun.h 
+ 1455  ./run_muqed_util -compile
+ 1456  vi ../mikemail/mjm_compiled_noun.h 
+ 1457  ./run_muqed_util -compile
+ 1458  vi ../mikemail/mjm_compiled_noun.h 
+ 1459  ./run_muqed_util -compile
+ 1460  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1461  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1462  cat ../mikemail/dev/data
+ 1463  cat ../mikemail/dev/data.txt 
+ 1464  cat ../mikemail/dev/canon_nouns.txt | tail
+ 1465  vi ../mikemail/mjm_compiled_noun.h 
+ 1466  grep gram ../mikemail/dev/units.txt 
+ 1467  vi ../mikemail/mjm_compiled_noun.h 
+ 1468  ./run_muqed_util -compile
+ 1469  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1470  vi ../mikemail/mjm_compiled_noun.h 
+ 1471  ./run_muqed_util -compile
+ 1472  vi ../mikemail/mjm_compiled_noun.h 
+ 1473  ./run_muqed_util -compile
+ 1474  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1475  vi ../mikemail/mjm_compiled_noun.h 
+ 1476  ./run_muqed_util -compile
+ 1477  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1478  vi ../mikemail/mjm_compiled_noun.h 
+ 1479  history | grep crap
+ 1480  vihdr mjm_unit_crap.h
+ 1481  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1482  cat ../mikemail/dev/units.txt  | grep gram
+ 1483  cat ../mikemail/dev/data.txt 
+ 1484  cat ../mikemail/dev/canon_nouns.txt 
+ 1485  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1486  cat ../mikemail/dev/data.txt 
+ 1487  cat ../mikemail/dev/canon_nouns.txt 
+ 1488  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1489  vi ../mikemail/mjm_compiled_noun.h 
+ 1490  ./run_muqed_util -compile
+ 1491  vi ../mikemail/mjm_compiled_noun.h 
+ 1492  ./run_muqed_util -compile
+ 1493  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1494  vihdr mjm_unit_crap.h
+ 1495  ./run_muqed_util -compile
+ 1496  vihdr mjm_unit_crap.h
+ 1497  ./run_muqed_util -compile
+ 1498  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1499  vi ../mikemail/mjm_compiled_noun.h 
+ 1500  vihdr mjm_unit_crap.h
+ 1501  ./run_muqed_util -compile
+ 1502  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1503  vihdr mjm_unit_crap.h
+ 1504  ./run_muqed_util -compile
+ 1505  vihdr mjm_unit_crap.h
+ 1506  ./run_muqed_util -compile
+ 1507  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1508  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit 2>&1 | grep 70
+ 1509  cat /tmp/dog_daily.txt 
+ 1510  vi ../mikemail/dev/data.txt 
+ 1511  vi ../mikemail/dev/canon_nouns.txt 
+ 1512  vi ../mikemail/dev/data.txt 
+ 1513  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit 
+ 1514  cat /tmp/dog_daily.txt 
+ 1515  cat ../mikemail/dev/data.txt 
+ 1516  tail ../mikemail/dev/canon_nouns.txt 
+ 1517  vi ../mikemail/mjm_compiled_noun.h 
+ 1518  ./run_muqed_util -compile
+ 1519  vi ../mikemail/mjm_compiled_noun.h 
+ 1520  ./run_muqed_util -compile
+ 1521  vi ../mikemail/mjm_compiled_noun.h 
+ 1522  ./run_muqed_util -compile
+ 1523  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit 
+ 1524  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1525  vi ../mikemail/mjm_compiled_noun.h 
+ 1526  history | grep crap
+ 1527  vihdr mjm_unit_crap.h
+ 1528  ./run_muqed_util -compile
+ 1529  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1530  vihdr mjm_unit_crap.h
+ 1531  vi ../mikemail/mjm_compiled_noun.h 
+ 1532  ./run_muqed_util -compile
+ 1533  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1534  vi ../mikemail/mjm_compiled_noun.h 
+ 1535  ./run_muqed_util -compile
+ 1536  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1537  vihdr mjm_unit_crap.h
+ 1538  vi ../mikemail/mjm_compiled_noun.h 
+ 1539  vihdr mjm_unit_crap.h
+ 1540  vi ../mikemail/mjm_compiled_noun.h 
+ 1541  ./run_muqed_util -compile
+ 1542  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1543  vi ../mikemail/mjm_compiled_noun.h 
+ 1544  vihdr mjm_unit_crap.h
+ 1545  ./run_muqed_util -compile
+ 1546  vihdr mjm_unit_crap.h
+ 1547  ./run_muqed_util -compile
+ 1548  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1549  vi ../mikemail/mjm_compiled_noun.h 
+ 1550  ./run_muqed_util -compile
+ 1551  vi ../mikemail/mjm_compiled_noun.h 
+ 1552  ./run_muqed_util -compile
+ 1553  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1554  cat /tmp/dog_daily.txt 
+ 1555  cat ../mikemail/dev/data.txt 
+ 1556  tail  ../mikemail/dev/canon_nouns.txt 
+ 1557  vi  ../mikemail/dev/canon_nouns.txt 
+ 1558  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1559  cat /tmp/dog_daily.txt 
+ 1560  vi  ../mikemail/dev/canon_nouns.txt 
+ 1561  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1562  cat /tmp/dog_daily.txt 
+ 1563  vi  ../mikemail/dev/canon_nouns.txt 
+ 1564  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1565  cat /tmp/dog_daily.txt 
+ 1566  vi ../mikemail/mjm_compiled_noun.h 
+ 1567  ./run_muqed_util -compile
+ 1568  vi ../mikemail/mjm_compiled_noun.h 
+ 1569  ./run_muqed_util -compile
+ 1570  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1571  vi ../mikemail/mjm_compiled_noun.h 
+ 1572  ./run_muqed_util -compile
+ 1573  vi ../mikemail/mjm_compiled_noun.h 
+ 1574  ./run_muqed_util -compile
+ 1575  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1576  cat /tmp/dog_daily.txt 
+ 1577  tail  ../mikemail/dev/canon_nouns.txt 
+ 1578  vi   ../mikemail/dev/canon_nouns.txt 
+ 1579  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1580  cat /tmp/dog_daily.txt 
+ 1581  vi   ../mikemail/dev/canon_nouns.txt 
+ 1582  vi ../mikemail/mjm_compiled_noun.h 
+ 1583  ./run_muqed_util -compile
+ 1584  vi ../mikemail/mjm_compiled_noun.h 
+ 1585  ./run_muqed_util -compile
+ 1586  vi ../mikemail/mjm_compiled_noun.h 
+ 1587  ./run_muqed_util -compile
+ 1588  vi ../mikemail/mjm_compiled_noun.h 
+ 1589  ./run_muqed_util -compile
+ 1590  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1591  cat /tmp/dog_daily.txt 
+ 1592  tail  ../mikemail/dev/canon_nouns.txt 
+ 1593  ./backup
+ 1594  vi   ../mikemail/dev/canon_nouns.txt 
+ 1595  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1596  cat /tmp/dog_daily.txt 
+ 1597  vi   ../mikemail/dev/canon_nouns.txt 
+ 1598  cat /tmp/dog_daily.txt 
+ 1599  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1600  cat /tmp/dog_daily.txt 
+ 1601  vi   ../mikemail/dev/canon_nouns.txt 
+ 1602  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1603  cat /tmp/dog_daily.txt 
+ 1604  vi   ../mikemail/dev/canon_nouns.txt 
+ 1605  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1606  cat /tmp/dog_daily.txt 
+ 1607  vi   ../mikemail/dev/canon_nouns.txt 
+ 1608  vi ../mikemail/mjm_compiled_noun.h 
+ 1609  vihdr mjm_units_crap.h
+ 1610  vihdr mjm_unit_crap.h
+ 1611  vi ../mikemail/mjm_compiled_noun.h 
+ 1612  vihdr mjm_unit_crap.h
+ 1613  vi ../mikemail/mjm_compiled_noun.h 
+ 1614  ./run_muqed_util -compile
+ 1615  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1616  cat /tmp/dog_daily.txt 
+ 1617  vi   ../mikemail/dev/canon_nouns.txt 
+ 1618  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1619  cat /tmp/dog_daily.txt 
+ 1620  vihdr mjm_unit_crap.h
+ 1621  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1622  vihdr mjm_unit_crap.h
+ 1623  ./run_muqed_util -compile
+ 1624  vihdr mjm_unit_crap.h
+ 1625  vi ../mikemail/mjm_compiled_noun.h 
+ 1626  ./run_muqed_util -compile
+ 1627  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1628  cat /tmp/dog_daily.txt 
+ 1629  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1630  vi   ../mikemail/dev/canon_nouns.txt 
+ 1631  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1632  cat /tmp/dog_daily.txt 
+ 1633  vi   ../mikemail/dev/canon_nouns.txt 
+ 1634  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1635  cat /tmp/dog_daily.txt 
+ 1636  ./backup
+ 1637  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1638  vi ../mikemail/mjm_compiled_noun.h 
+ 1639  vihdr mjm_unit_crap.h
+ 1640  ./run_muqed_util -compile
+ 1641  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1642  cat /tmp/dog_daily.txt 
+ 1643  ./backup
+ 1644  vihdr mjm_unit_crap.h
+ 1645  ./backup
+ 1646  ls junk
+ 1647  cp ../../mjm/hlib/mjm_unit_crap.h junk
+ 1648  vihdr mjm_unit_crap.h
+ 1649  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_unit_crap.h  -lpthread -lreadline
+ 1650  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline
+ 1651  ./a.out
+ 1652  vihdr mjm_unit_crap.h
+ 1653  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline
+ 1654  vihdr mjm_unit_crap.h
+ 1657  vihdr mjm_unit_crap.h
+ 1658  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1659  vihdr mjm_unit_crap.h
+ 1660  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1661  ./a.out
+ 1662  vihdr mjm_unit_crap.h
+ 1663  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1664  ./a.out
+ 1665  vihdr mjm_unit_crap.h
+ 1666  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1667  vihdr mjm_unit_crap.h
+ 1668  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1669  vihdr mjm_unit_crap.h
+ 1670  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1671  ./a.out
+ 1672  vihdr mjm_unit_crap.h
+ 1673  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1674  ./a.out
+ 1675  history | grep noun
+ 1676  vi ../mikemail/mjm_compiled_noun.h 
+ 1677  cp ../mikemail/mjm_compiled_noun.h junk
+ 1678  vi ../mikemail/mjm_compiled_noun.h 
+ 1679  vi ../mikemail/mjm_loo_parsing.h 
+ 1680  vi ../mikemail/mjm_compiled_noun.h 
+ 1681  vi ../mikemail/mjm_loo_parsing.h 
+ 1682  vihdr mjm_unit_crap.h
+ 1683  vi ../mikemail/mjm_loo_parsing.h 
+ 1684  vi ../mikemail/mjm_compiled_noun.h 
+ 1685  history | grep compile
+ 1686  ./run_muqed_util -compile
+ 1687  vi ../mikemail/mjm_compiled_noun.h 
+ 1688  vi ../mikemail/mjm_loo_parsing.h 
+ 1689  ./run_muqed_util -compile
+ 1690  grep canon()  ../mikemail/mjm_compiled_noun.h 
+ 1691  grep "canon()"  ../mikemail/mjm_compiled_noun.h 
+ 1692  grep "canon()"  ../mikemail/mjm_compiled_noun.h  | grep -v MM_ERR
+ 1693  vi ../mikemail/mjm_compiled_noun.h 
+ 1694  ./run_muqed_util -compile
+ 1695  vi ../mikemail/mjm_compiled_noun.h 
+ 1696  ./run_muqed_util -compile
+ 1697  history | grep eval
+ 1698  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1699  cat /tmp/dog_daily.txt 
+ 1700  vi ../mikemail/mjm_compiled_noun.h 
+ 1701  ./run_muqed_util -compile
+ 1702  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1703  cat /tmp/dog_daily.txt 
+ 1704  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | tee xxx1
+ 1705  vi ../mikemail/mjm_compiled_noun.h 
+ 1706  ./run_muqed_util -compile
+ 1707  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | tee xxx2
+ 1708  diff xxx1 xxx2
+ 1709  vi ../mikemail/mjm_compiled_noun.h 
+ 1710  ./run_muqed_util -compile
+ 1711  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 
+ 1712  cat /tmp/dog_daily.txt 
+ 1713  vi ../mikemail/mjm_compiled_noun.h 
+ 1714  history | grep crap
+ 1715  vihdr mjm_unit_crap.h
+ 1716  ./run_muqed_util -compile
+ 1717  ./backup
+ 1718  vihdr mjm_unit_crap.h
+ 1719  ./run_muqed_util -compile
+ 1720  vihdr mjm_unit_crap.h
+ 1721  ./run_muqed_util -compile
+ 1722  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 
+ 1723  cat /tmp/dog_daily.txt 
+ 1724  ./backup
+ 1725  . cdcpp mikemail
+ 1726  cat hist_doing7
+ 1727  ./run_mikemail -build-diet
+ 1728  vi mjm_diet_diary_form.h
+ 1729  vi mjm_compiled_noun.h 
+ 1730  ./run_mikemail -build-diet
+ 1731  find -mtime -1
+ 1732  ls -al /home/scripts/links/
+ 1733  mv /home/scripts/links/mjm_diet_diary_form.out /home/scripts/links/mjm_diet_diary_form_old.out 
+ 1734  cp ./mjm_diet_diary_form.out /home/scripts/links/mjm_diet_diary_form.out
+ 1735  ls -al /home/scripts/links/
+ 1736  ./backup
+ 1737  . cdcpp muqed
+ 1738  . cdcpp muqed_util
+ 1739  . srecord
+ 1740  history >> hist_doing 
+ 1741  ping google.com
+ 1742  thermal --loop 10
+ 1743  srecord -s | grep mail_cmd
+ 1744  mail_cmd -start-remote-moco
+ 1745  history | grep ssh
+ 1746  ssh mike@192.168.0.101
+ 1747  nmap -sV 192.168.0.0-255
+ 1748  ifconfig
+ 1749  ssh mike@192.168.0.100
+ 1750  todo
+ 1751  history | grep ssh
+ 1752  ssh mike@192.168.0.100
+ 1753  todo
+ 1754  ls /home/ubuntu/
+ 1755  ls /home/ubuntu/backup/
+ 1756  mkdir  /home/ubuntu/backup/temp
+ 1757  viw backupdir
+ 1758  echo `backupdir`
+ 1759  backupdir
+ 1760  backupdir -steps
+ 1761  viw setup
+ 1762  viw backupdir
+ 1763  viw setup
+ 1764  viw backupdir
+ 1765  backupdir -steps
+ 1766  echo `backupdir`
+ 1767  todo
+ 1768  srecord -s | grep scan
+ 1769  cd /home/documents/mydocs/mom/
+ 1770  ls
+ 1771  srecord -s | grep scan
+ 1772  hp-scan --pdf=evince
+ 1773  history | grep nmap
+ 1774  nmap -sV 192.168.0.0-255
+ 1775  hp-scan --pdf=evince
+ 1776  evince hpscan001.pdf 
+ 1777  mv  hpscan001.pdf  27B_deed.pdf
+ 1778  hp-scan --pdf=evince
+ 1779  mv  hpscan001.pdf  27A_deed.pdf
+ 1780  evince 27A_deed.pdf
+ 1781  thermal --loop 10
+ 1782  hp-scan --pdf=evince
+ 1783  evince hpscan001.pdf 
+ 1784  mv hpscan001.pdf danish_deed.pdf
+ 1785  hp-scan --pdf=evince
+ 1786  evince hpscan001.pdf 
+ 1787  mv hpscan001.pdf asrx1.pdf
+ 1788  hp-scan --pdf=evince
+ 1789  evince hpscan001.pdf 
+ 1790  mv hpscan001.pdf asrx2.pdf
+ 1791  hp-scan --pdf=evince
+ 1792  evince hpscan001.pdf 
+ 1793  mv hpscan001.pdf asrx3.pdf
+ 1794  convert asrx1.pdf asrx1.png
+ 1795  eog asrx1.png 
+ 1796  apropos convert | grep -i pdf
+ 1797  pdftoppm asrx1.pdf
+ 1798  62;c62;c62;c
+ 1799  pdftoppm asrx1.pdf asrx1.ppm
+ 1800  eog asrx1.ppm
+ 1801  identify  asrx1.ppm
+ 1802  pdftoppm asrx1.pdf >  asrx1.ppm
+ 1803  identify  asrx1.ppm
+ 1804  eog asrx1.ppm
+ 1805  man pdftoppm
+ 1806  ls -al
+ 1807  ls -al | grep ppm
+ 1808  ls -al | grep asrx
+ 1809  rm asrx1.png
+ 1810  rm asrx1.ppm
+ 1811  rm asrx1.ppm-1.ppm 
+ 1812  pdftoppm asrx1.pdf >  asrx1.ppm
+ 1813  pdftoppm asrx2.pdf >  asrx2.ppm
+ 1814  pdftoppm asrx2.pdf >  asrx3.ppm
+ 1815  pdftoppm asrx3.pdf >  asrx3.ppm
+ 1816  . srecord
+ 1817  history >> hist_doing 
+ 1818  hp-scan --pdf=evince
+ 1819  evince hpscan001.pdf 
+ 1820  mv hpscan001.pdf cms1.pdf
+ 1821  hp-scan --pdf=evince
+ 1822  evince hpscan001.pdf 
+ 1823  mv hpscan001.pdf cms2.pdf
+ 1824  evince cms1.pdf 
+ 1825  ls *.pdf
+ 1826  ls 
+ 1827  inkscape asrx1.ppm
+ 1828  cp asrx1.ppm asrx1_orig.ppm
+ 1829  inkscape asrx1.ppm
+ 1830  find -mtime -1
+ 1831  inkscape asrx1.ppm.svg
+ 1832  todo
+ 1833  inkscape asrx1.ppm.svg
+ 1834  convert  asrx1.ppm.svg asrc1.tiff
+ 1835  eog  asrc1.tiff
+ 1836  mv asrc1.tiff asrx1.tiff
+ 1837  ls -al 
+ 1838  ls -al  | grep as
+ 1839  apropos topdf
+ 1840  convert  asrx1.ppm.svg asrc1f.pdf
+ 1841  evince asrc1f.pdf 
+ 1842  inkscape asrx2.ppm
+ 1843  inkscape asrx2.ppm.svg
+ 1844  convert  asrx2.ppm.svg asrc2f.pdf
+ 1845  inkscape asrx3.ppm
+ 1846  convert  asrx3.ppm.svg asrc3f.pdf
+ 1847  apropos merge pdf
+ 1848  man pdfunite
+ 1849  ls  asrc*f.pdf
+ 1850  pdfunite  asrc*f.pdf asrx_filled.pdf
+ 1851  evince  asrx_filled.pdf
+ 1852  grep -i aarp *
+ 1853  grep -li aarp * 
+ 1854  grep -i aarp todo.txt
+ 1855  evince mom_id_insurance_etc_cards.pdf 
+ 1856  evince mom_id_insurance_etc_cards.pdf  &
+ 1857  vi aarp.txt
+ 1858  cat aarp.txt 
+ 1859  todo
+ 1860  hsitory | grep ssh
+ 1861  history | grep ssh
+ 1862  ssh mike@192.168.0.100
+ 1863  mail_cmd -snap
+ 1864  mail_cmd -remote-snap
+ 1865  mail_cmd -remote_snap
+ 1866  mail_cmd -snap-remote
+ 1867  ssh mike@192.168.0.100
+ 1868  todo
+ 1869  ssh mike@192.168.0.100
+ 1870  neomutt
+ 1871  history | grep scan
+ 1872  man hp-scan
+ 1873  hp-scan --pdf=evince -adf
+ 1874  srecord -s | grep adf
+ 1875  srecord -s | grep \\-adf
+ 1876  hp-scan --pdf=evince --adf
+ 1877  todo
+ 1878  hp-scan --pdf=evince --adf
+ 1879  hp-scan --adf --pdf=evince 
+ 1880  hp-scan --adf
+ 1881  ls -al hps*
+ 1882  evince hpscan002.pdf
+ 1883  mv hpscan002.pdf property.pdf
+ 1884  ls *.pdf
+ 1885  du -sbc .
+ 1886  mail_cmd -archive mom_id_insurance_etc_cards.pdf 
+ 1887  mail_cmd -archive property.pdf 
+ 1888  history | grep ssh
+ 1889  ssh mike@192.168.0.100
+ 1890  which fetchmail
+ 1891  fetchmail --version
+ 1892  srecord -s | grep fetchmail
+ 1893  ls fm
+ 1894  ssh mike@192.168.0.100
+ 1895  ls ~/fm
+ 1896  ls ~/mom/fm
+ 1897  find ~ -name fm
+ 1898  ls vid/lat/mom/fm
+ 1899  ls ~/mom/vid/lat/mom/fm
+ 1900  ls -al ~/mom/vid/lat/mom/fm/fe*
+ 1901  scp  ~/mom/vid/lat/mom/fm/fetchmail-6.4.4/fetchmail mike@192.168.0.101
+ 1902  scp  ~/mom/vid/lat/mom/fm/fetchmail-6.4.4/fetchmail mike@192.168.0.100:
+ 1903  rm mike@192.168.0.101 
+ 1904  ssh mike@192.168.0.100
+ 1905  todo
+ 1906  ssh mike@192.168.0.100
+ 1907  fetchmail -version
+ 1908  fetchmail --version
+ 1909  . srecord
+ 1910  history >> hist_doing 
+ 1911  pass voice
+ 1912  pass consum
+ 1913  ls /home/marchywka/
+ 1914  find -mtime -1 /home/marchywka/
+ 1915  find  /home/marchywka/ -mtime -1
+ 1916  find  /home/marchywka/ -mtime -1 | grep -v cache
+ 1917  find  /home/marchywka/ -mtime -1 | grep -v cache | grep -v config
+ 1918  ls /home/documents/
+ 1919  ls /
+ 1920  ls /home/marchywka/
+ 1921  ls /home/marchywka/Pictures/
+ 1922  ls /home/marchywka/Documents/
+ 1923  ls /home/marchywka/Desktop/
+ 1924  ls /home/marchywka/Downloads/
+ 1925  find  /home/marchywka/Downloads/ -mtime -1
+ 1926  find /home/marchywka/ -name "IMG_202008*"
+ 1927  whoami
+ 1928  find /etc -name "IMG_202008*"
+ 1929  find /var -name "IMG_202008*"
+ 1930  find /var -name "IMG_202008*" 2>xxx
+ 1931  find ~  -name "IMG_202008*" 
+ 1932  ls -al `find ~  -name "IMG_202008*"  `
+ 1933  eog Downloads/IMG_20200809_184520.jpg 
+ 1934  ping google.com
+ 1935  history | grep su
+ 1936  su
+ 1938  contacts -vi
+ 1939  date
+ 1940  pass -vi
+ 1942  pass orcid
+ 1943  pass -vi 
+ 1944  viw pass
+ 1945  pass orcid
+ 1946  . cdlatex covid19
+ 1947  evince covid19.tex
+ 1948  evince covid19.pdf
+ 1949  ls
+ 1950  ls *.zip
+ 1951  mkdir junk
+ 1952  cp covid19-release-2020-07-01.zip junk
+ 1953  cd junk
+ 1954  ls 
+ 1955  unzip covid19-release-2020-07-01.zip 
+ 1956  evince covid19.tex
+ 1957  evince covid19.pdf
+ 1958  vi ../releases.bib
+ 1959  evince covid19.pdf
+ 1960  evince covid19.pdf &
+ 1961  vi ../releases.bib
+ 1962  cat non_pmc_covid19.bib 
+ 1963  vi ../releases.bib
+ 1964  cp ../releases.bib crap.bib
+ 1965  vi crap.bib
+ 1966  vi ../releases.bib
+ 1967  ls
+ 1968  mv crap.bib ../releases_orcid_stupid_format.bib
+ 1969  rm ../junk/*
+ 1970  ls
+ 1971  rm -rf *
+ 1972  ls
+ 1973  cd ..
+ 1974  ls
+ 1975  . cdlatex muqed
+ 1976  ls
+ 1977  ls junk
+ 1978  cd junk
+ 1979  cp ../muqed-release-2020-10-11.zip 
+ 1980  cp ../muqed-release-2020-10-11.zip  /
+ 1981  cp ../muqed-release-2020-10-11.zip  .
+ 1982  unzip muqed-release-2020-10-11.zip 
+ 1983  evince muqed.pdf &
+ 1984  vi releases.bib
+ 1985  mv releases.bib ..
+ 1986  cd ..
+ 1987  ls
+ 1988  ls ../covid19/
+ 1989  ls
+ 1990  evince muqed.pdf 
+ 1991  evince muqed.pdf &
+ 1992  vi releases.bib
+ 1993  R
+ 1994  eog ~/Downloads/IMG_20201101_085440.jpg 
+ 1996  vi beaver.txt
+ 1998  . srecord
+ 1999  history >> hist_doing 
+ 2000  sudo shutdown -h 0
+ 2001  . cdlatex wormk
+ 2003  R
+ 2005  evince ../happyheart/happyheart.pdf
+ 2007  pass medscape
+ 2008  R
+ 2010  contacts 0799
+ 2011  pass 0799
+ 2013  eutilsnew -email PMC6777928
+ 2014  eutilsnew -out xxx -email PMC6777928
+ 2015  srecord -s | grep eutilsnew | grep email
+ 2016  cat xxx
+ 2017  eutilsnew -out xxx -db pmc -email PMC6777928
+ 2018  cat xxx
+ 2020  pass hint
+ 2021  pass hunt
+ 2023  pass tcf
+ 2024  pass fidelity
+ 2026  pass spectr
+ 2027  pass hunt
+ 2028  amino-acids 
+ 2030  pass fidel
+ 2032  eutilsnew -db protein -out xxx "amyloid beta"
+ 2033  cat xxx
+ 2034  eutilsnew -db prot -v -report fasta ein -out xxx "amyloid beta"
+ 2035  eutilsnew -db protein  -v -report fasta  -out xxx "amyloid beta"
+ 2036  more xxx
+ 2037  more xxx | highlight Y | more
+ 2038  amino-acids 
+ 2039  more xxx | highlight Y | more
+ 2040  more xxx | grep amyloid
+ 2041  more xxx | grep amyloid | grep -v precur
+ 2042  more xxx | highlight Y | highlight F | more
+ 2043  more xxx | highlight Y | highlight W | more
+ 2044  more xxx | highlight W | highlight W | more
+ 2045  more xxx
+ 2046  more xxx | head -n 20 | grep W
+ 2047  more xxx | head -n 20 | grep Y
+ 2048  more xxx | head -n 20 | grep F
+ 2049  tcl_tool
+ 2050  find /home/documents/ -name "*tcl*"
+ 2051  find /home/documents/ -name "*tcl*" | grep tool
+ 2052  ls /home/documents/cpp/mjm/tcl
+ 2053  ls /home/documents/cpp/mjm/tcl/tcl
+ 2055  ps
+ 2056  ps a
+ 2057  kill 30693
+ 2058  ps a
+ 2059  kill 32327
+ 2060  ps a
+ 2061  pass mailproc
+ 2062  ps a
+ 2063  man gdb
+ 2064  gdb -p 25999
+ 2065  sudo gdb -p 25999
+ 2066  kill  25999
+ 2067  . cddev neomutt
+ 2068  ls
+ 2069  find -name "mjm*"
+ 2070  cd neomutt-20200501/
+ 2071  vi init.c
+ 2072  vi send.c
+ 2073  vi mjm_mutt_server.c
+ 2074  vi send.c
+ 2075  vi mjm_mutt_server.c
+ 2076  ls
+ 2077  . ./setup
+ 2078  cat setup
+ 2079  make
+ 2080  srecord -s | grep slink
+ 2081  $slink_command
+ 2082  find -mtime -9
+ 2083  find -mtime -9 | grep -v "\.o$"
+ 2084  find -mtime -9 | grep -v "\.o$\|\.Po$"
+ 2085  . srecord
+ 2086  history >> hist_doing2
+ 1102  mkscriptu mudaily.txt
+ 1103  man date
+ 1104  mkscriptu mudaily.txt
+ 1105  mudaily.txt -reports "oct 2010" "jan 3"
+ 1106  mkscriptu mudaily.txt
+ 1107  date
+ 1108  mudaily.txt -reports "12/10/2009" "jan 3"
+ 1109  mkscriptu mudaily.txt
+ 1110  mudaily.txt -reports
+ 1111  mkscriptu mudaily.txt
+ 1112  mudaily.txt -reports 2020-09-01 2020-09-10
+ 1113  mkscriptu mudaily.txt
+ 1114  mudaily.txt -reports 2020-09-01 2020-09-10
+ 1115  cat /home/scripts/script_data/cases/out/dog_daily.txt 
+ 1116  mkscriptu mudaily.txt
+ 1117  mudaily.txt -reports 2020-09-01 2020-09-10
+ 1118  cat /home/scripts/script_data/cases/out/dog_daily.txt 
+ 1119  history
+ 1120  vi muqed.txt
+ 1121  vi muqed.tex
+ 1122  mkscriptu mudaily.txt
+ 1123  vi muqed.tex
+ 1124  mkscriptu mudaily.txt
+ 1125  m
+ 1126  e
+ 1127  vi muqed.tex
+ 1128  ls -al /home/scripts/script_data/cases
+ 1129  ls -al /home/scripts/script_data/cases/dog-data-2020Y-10+0*
+ 1130  rm  /home/scripts/script_data/cases/dog-data-2020Y-10+0*
+ 1131  ls -al /home/scripts/script_data/cases/run_log.txt 
+ 1132  rm  /home/scripts/script_data/cases/run_log.txt 
+ 1133  ls -al /home/scripts/script_data/cases
+ 1134  ls -al /home/scripts/script_data/cases/.temp_backup_file_list 
+ 1135  rm  /home/scripts/script_data/cases/.temp_backup_file_list 
+ 1136  ls -al /home/scripts/script_data/cases
+ 1137  vi muqed.tex
+ 1138  more `which mudaily.txt`
+ 1139  vi muqed.tex
+ 1140  history | grep daily
+ 1141  mudaily.txt -daily
+ 1142  ls `backupdir`/mudaily*
+ 1143  ls `backupdir`/*mudaily*
+ 1144  history
+ 1145  ls `backupdir`/*mudaily*
+ 1146  vi muqed.tex
+ 1147  date
+ 1148  man date
+ 1149  mkscriptu mudaily.txt
+ 1150  viw newbackup
+ 1151  mkscriptu mudaily.txt
+ 1152  viw newbackup
+ 1153  viw mjm
+ 1154  man date
+ 1155  viw newbackup
+ 1156  mkscriptu mudaily.txt
+ 1157  mudaily.txt -daily
+ 1158  vi muqed.tex
+ 1159  mkscriptu mudaily.txt
+ 1160  vi muqed.tex
+ 1161  cat `which mudaily.txt` | grep newbackup
+ 1162  vi muqed.tex
+ 1163  mudaily.txt
+ 1164  mkscriptu mudaily.txt
+ 1165  mudaily.txt
+ 1166  mkscriptu mudaily.txt
+ 1167  mudaily.txt
+ 1168  mkscriptu mudaily.txt
+ 1169  mudaily.txt
+ 1170  mkscriptu mudaily.txt
+ 1171  mudaily.txt
+ 1172  vi muqed.tex
+ 1173  mudaily.txt -reports 0 9999
+ 1174  date -d "0"
+ 1175  mudaily.txt -reports . 9999
+ 1176  mudaily.txt -reports 2020-09-01 2020-09-05
+ 1177  vi muqed.tex
+ 1178  m
+ 1179  vi muqed.tex
+ 1180  m
+ 1181  e
+ 1182  contacts osco
+ 1183  contacts mom
+ 1185  vi muqed.tex
+ 1186  m
+ 1187  vi muqed.tex
+ 1188  m
+ 1189  e
+ 1190  vi muqed.tex
+ 1191  m
+ 1192  vi muqed.tex
+ 1193  vi ../allbib/allbib.tex
+ 1194  . cdlatex allbib
+ 1195  m
+ 1196  ls -al 
+ 1197  vi bomtex.tex
+ 1198  . cdlatex muqed
+ 1199  vi ../allbib/allbib.tex
+ 1200  vi muqed.tex
+ 1201  m
+ 1202  vi muqed.tex
+ 1203  m
+ 1204  ./backup
+ 1205  vi muqed.tex
+ 1206  m
+ 1207  ./backup
+ 1208  pass spectr
+ 1209  vi /home/documents/mydocs/live/pass
+ 1210  vi /home/documents/mydocs/live/passwords
+ 1211  vi muqed.tex
+ 1212  m
+ 1213  ./backup
+ 1214  eog ~/Downloads/05-20201006095728-00.jpg 
+ 1215  eog ~/Downloads/18-20201007185744-01.jpg 
+ 1216  eog ~/Downloads/22-20201007203133-00.jpg 
+ 1218  ifconfig
+ 1219  tracerout google.com
+ 1220  traceroute google.com
+ 1221  mail_cmd -snap
+ 1222  mail_cmd -remote-snap
+ 1223  mail_cmd -snap-remote
+ 1224  vi muqed.tex
+ 1226  . srecord
+ 1227  history >> hist_doing 
+ 1228  sudo shutdown -h 9
+ 1229  sudo shutdown -h 0
+ 1230  df
+ 1231  sudo umount /dev/sdb1
+ 1233  sudo shutdown -h 0
+ 1234  . cdlatex cases
+ 1235  cp cases.tex cases_po.tex
+ 1236  vi cases.tex
+ 1237  diff cases.tex cases_po.tex
+ 1238  daily.txt 
+ 1239  ls -al *.swp
+ 1240  ls -al .*.swp
+ 1241  rm .*.swp
+ 1242  daily.txt 
+ 1243  srecord -s | grep mail_cmd | grep arch
+ 1244  mail_cmd -archive cases.tex
+ 1245  ping google.com
+ 1246  sudo shutdown -h 0
+ 1247  . cdcpp muqed_util
+ 1248  cat hist_doing 
+ 1249  history
+ 1250  ./run_muqed_util -opt -compile
+ 1251  vihdr mjm_unit_crap.h
+ 1252  ./run_muqed_util -opt -compile
+ 1253  vihdr mjm_unit_crap.h
+ 1254  ./run_muqed_util -opt -compile
+ 1255  vihdr mjm_unit_crap.h
+ 1256  vihdr mjm_indexed_map.h
+ 1257  vihdr mjm_unit_crap.h
+ 1258  ./run_muqed_util -opt -compile
+ 1259  vihdr mjm_indexed_map.h
+ 1260  ./run_muqed_util -opt -compile
+ 1261  vihdr mjm_indexed_map.h
+ 1262  ./run_muqed_util -opt -compile
+ 1263  vihdr mjm_unit_crap.h
+ 1264  vihdr mjm_indexed_map.h
+ 1265  vihdr mjm_unit_crap.h
+ 1266  ./run_muqed_util -opt -compile
+ 1267  vi ../mikemail/mjm_compiled_noun.h 
+ 1268  ./run_muqed_util -opt -compile
+ 1269  vi ../mikemail/mjm_compiled_noun.h 
+ 1270  ./run_muqed_util -opt -compile
+ 1271  vi ../mikemail/mjm_compiled_noun.h 
+ 1272  ./run_muqed_util -opt -compile
+ 1273  vi ../mikemail/mjm_compiled_noun.h 
+ 1274  ./run_muqed_util -compile
+ 1275  vi ../mikemail/mjm_compiled_noun.h 
+ 1276  vihdr mjm_globals.h
+ 1277  vi ../mikemail/mjm_compiled_noun.h 
+ 1278  ./run_muqed_util -compile
+ 1279  vi ../mikemail/mjm_compiled_noun.h 
+ 1280  vihdr mjm_unit_crap.h
+ 1281  ./run_muqed_util -compile
+ 1282  dmesg
+ 1283  . cdlatex cases
+ 1284  daily.txt 
+ 1285  ping google.com
+ 1286  cat /etc/resolv.conf 
+ 1287  si
+ 1288  su
+ 1289  generic
+ 1290  su
+ 1291  cat /etc/resolv.conf 
+ 1292  ping google.com
+ 1293  daily.txt 
+ 1294  vi /home/scripts/script_data/cases/canon_nouns.txt 
+ 1295  daily.txt 
+ 1296  history | grep mail
+ 1297  mail_cmd -archive cases.tex
+ 1298  top
+ 1300  sudo shutdown -h 0
+ 1301  . cdcpp muqed_util
+ 1302  cat hist_doing 
+ 1303  ls
+ 1304  vi ../mikemail/mjm_compiled_noun.h 
+ 1305  vihdr mjm_unit_crap.h
+ 1306  vi ../mikemail/mjm_compiled_noun.h 
+ 1307  vihdr mjm_unit_crap.h
+ 1308  ./run_muqed_util -compile
+ 1309  vihdr mjm_unit_crap.h
+ 1310  ./run_muqed_util -compile
+ 1311  vihdr mjm_unit_crap.h
+ 1312  ./run_muqed_util -compile
+ 1313  vihdr mjm_unit_crap.h
+ 1314  ./run_muqed_util -compile
+ 1315  vi ../mikemail/mjm_compiled_noun.h 
+ 1316  ./run_muqed_util -compile
+ 1317  vi ../mikemail/mjm_compiled_noun.h 
+ 1318  vihdr mjm_unit_crap.h
+ 1319  ./run_muqed_util -compile
+ 1320  ./backup
+ 1321  vi ../mikemail/mjm_compiled_noun.h 
+ 1322  vihdr mjm_unit_crap.h
+ 1323  vi ../mikemail/mjm_compiled_noun.h 
+ 1324  vihdr mjm_unit_crap.h
+ 1325  vi ../mikemail/mjm_compiled_noun.h 
+ 1326  vihdr mjm_unit_crap.h
+ 1327  ./run_muqed_util -compile
+ 1328  vihdr mjm_unit_crap.h
+ 1329  ./run_muqed_util -compile
+ 1330  vihdr mjm_unit_crap.h
+ 1331  ./run_muqed_util -compile
+ 1332  vihdr mjm_unit_crap.h
+ 1333  ./run_muqed_util -compile
+ 1334  vihdr mjm_unit_crap.h
+ 1335  ./run_muqed_util -compile
+ 1336  vihdr mjm_unit_crap.h
+ 1337  ./run_muqed_util -compile
+ 1338  vihdr mjm_unit_crap.h
+ 1339  ./run_muqed_util -compile
+ 1340  vihdr mjm_unit_crap.h
+ 1341  vi ../mikemail/mjm_compiled_noun.h 
+ 1342  ./run_muqed_util -compile
+ 1343  vihdr mjm_unit_crap.h
+ 1344  ./run_muqed_util -compile
+ 1345  vihdr mjm_unit_crap.h
+ 1346  ./run_muqed_util -compile
+ 1347  vi ../mikemail/mjm_compiled_noun.h 
+ 1348  vihdr mjm_unit_crap.h
+ 1349  vi ../mikemail/mjm_compiled_noun.h 
+ 1350  ./run_muqed_util -compile
+ 1351  vi ../mikemail/mjm_compiled_noun.h 
+ 1352  ./run_muqed_util -compile
+ 1353  vi ../mikemail/mjm_compiled_noun.h 
+ 1354  ./run_muqed_util -compile
+ 1355  vi ../mikemail/mjm_compiled_noun.h 
+ 1356  ./run_muqed_util -compile
+ 1357  vi ../mikemail/mjm_compiled_noun.h 
+ 1358  ./run_muqed_util -compile
+ 1359  vi ../mikemail/mjm_compiled_noun.h 
+ 1360  ./run_muqed_util -compile
+ 1361  vi ../mikemail/mjm_compiled_noun.h 
+ 1362  ./run_muqed_util -compile
+ 1363  vi ../mikemail/mjm_compiled_noun.h 
+ 1364  ./run_muqed_util -compile
+ 1365  vi ../mikemail/mjm_compiled_noun.h 
+ 1366  ./run_muqed_util -compile
+ 1367  vi ../mikemail/mjm_compiled_noun.h 
+ 1368  ./run_muqed_util -compile
+ 1369  vi ../mikemail/mjm_compiled_noun.h 
+ 1370  vi ../mikemail/mjm_loo_parsing.h 
+ 1371  vi ../mikemail/mjm_compiled_noun.h 
+ 1372  vi ../mikemail/mjm_loo_parsing.h 
+ 1373  vi ../mikemail/mjm_compiled_noun.h 
+ 1374  vi ../mikemail/mjm_loo_parsing.h 
+ 1375  vi ../mikemail/mjm_compiled_noun.h 
+ 1376  history | grep unit
+ 1377  vihdr mjm_unit_crap.h
+ 1378  vi ../mikemail/mjm_compiled_noun.h 
+ 1379  ./run_muqed_util -compile
+ 1380  history | grep loo
+ 1381  vi ../mikemail/mjm_loo_parsing.h 
+ 1382  ./run_muqed_util -compile
+ 1383  vi ../mikemail/mjm_compiled_noun.h 
+ 1384  ./run_muqed_util -compile
+ 1385  vi ../mikemail/mjm_loo_parsing.h 
+ 1386  ./run_muqed_util -compile
+ 1387  vi ../mikemail/mjm_compiled_noun.h 
+ 1388  ./run_muqed_util -compile
+ 1389  vi ../mikemail/mjm_compiled_noun.h 
+ 1390  ./run_muqed_util -compile
+ 1391  vi ../mikemail/mjm_compiled_noun.h 
+ 1392  ./run_muqed_util -compile
+ 1393  vi ../mikemail/mjm_compiled_noun.h 
+ 1394  ./run_muqed_util -compile
+ 1395  vi ../mikemail/mjm_compiled_noun.h 
+ 1396  history | grep crap
+ 1397  vihdr mjm_unit_crap.h
+ 1398  history | grep crap
+ 1399  vi ../mikemail/mjm_compiled_noun.h 
+ 1400  ./run_muqed_util -compile
+ 1401  vi ../mikemail/mjm_compiled_noun.h 
+ 1402  ./run_muqed_util -compile
+ 1403  vi ../mikemail/mjm_compiled_noun.h 
+ 1404  ./run_muqed_util -compile
+ 1405  history 
+ 1406  cat hist_doing 
+ 1407  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1408  vi ../mikemail/mjm_compiled_noun.h 
+ 1409  ./run_muqed_util -compile
+ 1410  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1411  cat /tmp/dog_daily.txt 
+ 1412  cat ../mikemail/dev/data.txt 
+ 1413  cat ../mikemail/dev/canon_nouns.txt 
+ 1414  cat ../mikemail/dev/data.txt 
+ 1415  cat /tmp/dog_daily.txt 
+ 1416  ls -al  /tmp/dog_daily.txt 
+ 1417  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1418  vi ../mikemail/mjm_compiled_noun.h 
+ 1419  ./run_muqed_util -compile
+ 1420  vi ../mikemail/mjm_compiled_noun.h 
+ 1421  ./run_muqed_util -compile
+ 1424  vi ../mikemail/mjm_compiled_noun.h 
+ 1427  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1428  cat /tmp/dog_daily.txt 
+ 1429  vi ../mikemail/mjm_compiled_noun.h 
+ 1430  ./run_muqed_util -compile
+ 1431  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1432  vi ../mikemail/mjm_compiled_noun.h 
+ 1433  ./run_muqed_util -compile
+ 1434  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1435  cat /tmp/dog_daily.txt 
+ 1436  vi ../mikemail/mjm_compiled_noun.h 
+ 1437  ./run_muqed_util -compile
+ 1438  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1439  vi ../mikemail/mjm_compiled_noun.h 
+ 1440  ./run_muqed_util -compile
+ 1441  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1442  cat /tmp/dog_daily.txt 
+ 1443  tail ../mikemail/dev/canon_nouns.txt 
+ 1444  cat ../mikemail/dev/data.txt 
+ 1445  vi  ../mikemail/dev/canon_nouns.txt 
+ 1446  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1447  vi ../mikemail/dev/data.txt 
+ 1448  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1449  cat ../mikemail/dev/data.txt 
+ 1450  cat ../mikemail/dev/canon_nouns.txt 
+ 1451  cat ../mikemail/dev/data.txt 
+ 1452  cat /tmp/dog_daily.txt 
+ 1453  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1454  vi ../mikemail/mjm_compiled_noun.h 
+ 1455  ./run_muqed_util -compile
+ 1456  vi ../mikemail/mjm_compiled_noun.h 
+ 1457  ./run_muqed_util -compile
+ 1458  vi ../mikemail/mjm_compiled_noun.h 
+ 1459  ./run_muqed_util -compile
+ 1460  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt"
+ 1461  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1462  cat ../mikemail/dev/data
+ 1463  cat ../mikemail/dev/data.txt 
+ 1464  cat ../mikemail/dev/canon_nouns.txt | tail
+ 1465  vi ../mikemail/mjm_compiled_noun.h 
+ 1466  grep gram ../mikemail/dev/units.txt 
+ 1467  vi ../mikemail/mjm_compiled_noun.h 
+ 1468  ./run_muqed_util -compile
+ 1469  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1470  vi ../mikemail/mjm_compiled_noun.h 
+ 1471  ./run_muqed_util -compile
+ 1472  vi ../mikemail/mjm_compiled_noun.h 
+ 1473  ./run_muqed_util -compile
+ 1474  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1475  vi ../mikemail/mjm_compiled_noun.h 
+ 1476  ./run_muqed_util -compile
+ 1477  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1478  vi ../mikemail/mjm_compiled_noun.h 
+ 1479  history | grep crap
+ 1480  vihdr mjm_unit_crap.h
+ 1481  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1482  cat ../mikemail/dev/units.txt  | grep gram
+ 1483  cat ../mikemail/dev/data.txt 
+ 1484  cat ../mikemail/dev/canon_nouns.txt 
+ 1485  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1486  cat ../mikemail/dev/data.txt 
+ 1487  cat ../mikemail/dev/canon_nouns.txt 
+ 1488  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1489  vi ../mikemail/mjm_compiled_noun.h 
+ 1490  ./run_muqed_util -compile
+ 1491  vi ../mikemail/mjm_compiled_noun.h 
+ 1492  ./run_muqed_util -compile
+ 1493  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1494  vihdr mjm_unit_crap.h
+ 1495  ./run_muqed_util -compile
+ 1496  vihdr mjm_unit_crap.h
+ 1497  ./run_muqed_util -compile
+ 1498  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1499  vi ../mikemail/mjm_compiled_noun.h 
+ 1500  vihdr mjm_unit_crap.h
+ 1501  ./run_muqed_util -compile
+ 1502  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1503  vihdr mjm_unit_crap.h
+ 1504  ./run_muqed_util -compile
+ 1505  vihdr mjm_unit_crap.h
+ 1506  ./run_muqed_util -compile
+ 1507  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit
+ 1508  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit 2>&1 | grep 70
+ 1509  cat /tmp/dog_daily.txt 
+ 1510  vi ../mikemail/dev/data.txt 
+ 1511  vi ../mikemail/dev/canon_nouns.txt 
+ 1512  vi ../mikemail/dev/data.txt 
+ 1513  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit 
+ 1514  cat /tmp/dog_daily.txt 
+ 1515  cat ../mikemail/dev/data.txt 
+ 1516  tail ../mikemail/dev/canon_nouns.txt 
+ 1517  vi ../mikemail/mjm_compiled_noun.h 
+ 1518  ./run_muqed_util -compile
+ 1519  vi ../mikemail/mjm_compiled_noun.h 
+ 1520  ./run_muqed_util -compile
+ 1521  vi ../mikemail/mjm_compiled_noun.h 
+ 1522  ./run_muqed_util -compile
+ 1523  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit 
+ 1524  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1525  vi ../mikemail/mjm_compiled_noun.h 
+ 1526  history | grep crap
+ 1527  vihdr mjm_unit_crap.h
+ 1528  ./run_muqed_util -compile
+ 1529  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1530  vihdr mjm_unit_crap.h
+ 1531  vi ../mikemail/mjm_compiled_noun.h 
+ 1532  ./run_muqed_util -compile
+ 1533  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1534  vi ../mikemail/mjm_compiled_noun.h 
+ 1535  ./run_muqed_util -compile
+ 1536  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1537  vihdr mjm_unit_crap.h
+ 1538  vi ../mikemail/mjm_compiled_noun.h 
+ 1539  vihdr mjm_unit_crap.h
+ 1540  vi ../mikemail/mjm_compiled_noun.h 
+ 1541  ./run_muqed_util -compile
+ 1542  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1543  vi ../mikemail/mjm_compiled_noun.h 
+ 1544  vihdr mjm_unit_crap.h
+ 1545  ./run_muqed_util -compile
+ 1546  vihdr mjm_unit_crap.h
+ 1547  ./run_muqed_util -compile
+ 1548  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1549  vi ../mikemail/mjm_compiled_noun.h 
+ 1550  ./run_muqed_util -compile
+ 1551  vi ../mikemail/mjm_compiled_noun.h 
+ 1552  ./run_muqed_util -compile
+ 1553  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1554  cat /tmp/dog_daily.txt 
+ 1555  cat ../mikemail/dev/data.txt 
+ 1556  tail  ../mikemail/dev/canon_nouns.txt 
+ 1557  vi  ../mikemail/dev/canon_nouns.txt 
+ 1558  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1559  cat /tmp/dog_daily.txt 
+ 1560  vi  ../mikemail/dev/canon_nouns.txt 
+ 1561  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1562  cat /tmp/dog_daily.txt 
+ 1563  vi  ../mikemail/dev/canon_nouns.txt 
+ 1564  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1565  cat /tmp/dog_daily.txt 
+ 1566  vi ../mikemail/mjm_compiled_noun.h 
+ 1567  ./run_muqed_util -compile
+ 1568  vi ../mikemail/mjm_compiled_noun.h 
+ 1569  ./run_muqed_util -compile
+ 1570  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1571  vi ../mikemail/mjm_compiled_noun.h 
+ 1572  ./run_muqed_util -compile
+ 1573  vi ../mikemail/mjm_compiled_noun.h 
+ 1574  ./run_muqed_util -compile
+ 1575  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1576  cat /tmp/dog_daily.txt 
+ 1577  tail  ../mikemail/dev/canon_nouns.txt 
+ 1578  vi   ../mikemail/dev/canon_nouns.txt 
+ 1579  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1580  cat /tmp/dog_daily.txt 
+ 1581  vi   ../mikemail/dev/canon_nouns.txt 
+ 1582  vi ../mikemail/mjm_compiled_noun.h 
+ 1583  ./run_muqed_util -compile
+ 1584  vi ../mikemail/mjm_compiled_noun.h 
+ 1585  ./run_muqed_util -compile
+ 1586  vi ../mikemail/mjm_compiled_noun.h 
+ 1587  ./run_muqed_util -compile
+ 1588  vi ../mikemail/mjm_compiled_noun.h 
+ 1589  ./run_muqed_util -compile
+ 1590  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1591  cat /tmp/dog_daily.txt 
+ 1592  tail  ../mikemail/dev/canon_nouns.txt 
+ 1593  ./backup
+ 1594  vi   ../mikemail/dev/canon_nouns.txt 
+ 1595  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1596  cat /tmp/dog_daily.txt 
+ 1597  vi   ../mikemail/dev/canon_nouns.txt 
+ 1598  cat /tmp/dog_daily.txt 
+ 1599  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1600  cat /tmp/dog_daily.txt 
+ 1601  vi   ../mikemail/dev/canon_nouns.txt 
+ 1602  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1603  cat /tmp/dog_daily.txt 
+ 1604  vi   ../mikemail/dev/canon_nouns.txt 
+ 1605  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1606  cat /tmp/dog_daily.txt 
+ 1607  vi   ../mikemail/dev/canon_nouns.txt 
+ 1608  vi ../mikemail/mjm_compiled_noun.h 
+ 1609  vihdr mjm_units_crap.h
+ 1610  vihdr mjm_unit_crap.h
+ 1611  vi ../mikemail/mjm_compiled_noun.h 
+ 1612  vihdr mjm_unit_crap.h
+ 1613  vi ../mikemail/mjm_compiled_noun.h 
+ 1614  ./run_muqed_util -compile
+ 1615  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1616  cat /tmp/dog_daily.txt 
+ 1617  vi   ../mikemail/dev/canon_nouns.txt 
+ 1618  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin
+ 1619  cat /tmp/dog_daily.txt 
+ 1620  vihdr mjm_unit_crap.h
+ 1621  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1622  vihdr mjm_unit_crap.h
+ 1623  ./run_muqed_util -compile
+ 1624  vihdr mjm_unit_crap.h
+ 1625  vi ../mikemail/mjm_compiled_noun.h 
+ 1626  ./run_muqed_util -compile
+ 1627  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1628  cat /tmp/dog_daily.txt 
+ 1629  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1630  vi   ../mikemail/dev/canon_nouns.txt 
+ 1631  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1632  cat /tmp/dog_daily.txt 
+ 1633  vi   ../mikemail/dev/canon_nouns.txt 
+ 1634  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin | grep crap
+ 1635  cat /tmp/dog_daily.txt 
+ 1636  ./backup
+ 1637  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1638  vi ../mikemail/mjm_compiled_noun.h 
+ 1639  vihdr mjm_unit_crap.h
+ 1640  ./run_muqed_util -compile
+ 1641  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1642  cat /tmp/dog_daily.txt 
+ 1643  ./backup
+ 1644  vihdr mjm_unit_crap.h
+ 1645  ./backup
+ 1646  ls junk
+ 1647  cp ../../mjm/hlib/mjm_unit_crap.h junk
+ 1648  vihdr mjm_unit_crap.h
+ 1649  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_unit_crap.h  -lpthread -lreadline
+ 1650  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline
+ 1651  ./a.out
+ 1652  vihdr mjm_unit_crap.h
+ 1653  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline
+ 1654  vihdr mjm_unit_crap.h
+ 1657  vihdr mjm_unit_crap.h
+ 1658  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1659  vihdr mjm_unit_crap.h
+ 1660  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1661  ./a.out
+ 1662  vihdr mjm_unit_crap.h
+ 1663  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1664  ./a.out
+ 1665  vihdr mjm_unit_crap.h
+ 1666  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1667  vihdr mjm_unit_crap.h
+ 1668  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1669  vihdr mjm_unit_crap.h
+ 1670  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1671  ./a.out
+ 1672  vihdr mjm_unit_crap.h
+ 1673  g++ -Wall -std=gnu++11 -DTEST_MJM_UNIT_CRAP -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ ../../mjm/hlib/mjm_unit_crap.h  -lpthread -lreadline 
+ 1674  ./a.out
+ 1675  history | grep noun
+ 1676  vi ../mikemail/mjm_compiled_noun.h 
+ 1677  cp ../mikemail/mjm_compiled_noun.h junk
+ 1678  vi ../mikemail/mjm_compiled_noun.h 
+ 1679  vi ../mikemail/mjm_loo_parsing.h 
+ 1680  vi ../mikemail/mjm_compiled_noun.h 
+ 1681  vi ../mikemail/mjm_loo_parsing.h 
+ 1682  vihdr mjm_unit_crap.h
+ 1683  vi ../mikemail/mjm_loo_parsing.h 
+ 1684  vi ../mikemail/mjm_compiled_noun.h 
+ 1685  history | grep compile
+ 1686  ./run_muqed_util -compile
+ 1687  vi ../mikemail/mjm_compiled_noun.h 
+ 1688  vi ../mikemail/mjm_loo_parsing.h 
+ 1689  ./run_muqed_util -compile
+ 1690  grep canon()  ../mikemail/mjm_compiled_noun.h 
+ 1691  grep "canon()"  ../mikemail/mjm_compiled_noun.h 
+ 1692  grep "canon()"  ../mikemail/mjm_compiled_noun.h  | grep -v MM_ERR
+ 1693  vi ../mikemail/mjm_compiled_noun.h 
+ 1694  ./run_muqed_util -compile
+ 1695  vi ../mikemail/mjm_compiled_noun.h 
+ 1696  ./run_muqed_util -compile
+ 1697  history | grep eval
+ 1698  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1699  cat /tmp/dog_daily.txt 
+ 1700  vi ../mikemail/mjm_compiled_noun.h 
+ 1701  ./run_muqed_util -compile
+ 1702  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | highlight begin 
+ 1703  cat /tmp/dog_daily.txt 
+ 1704  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | tee xxx1
+ 1705  vi ../mikemail/mjm_compiled_noun.h 
+ 1706  ./run_muqed_util -compile
+ 1707  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 | tee xxx2
+ 1708  diff xxx1 xxx2
+ 1709  vi ../mikemail/mjm_compiled_noun.h 
+ 1710  ./run_muqed_util -compile
+ 1711  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 
+ 1712  cat /tmp/dog_daily.txt 
+ 1713  vi ../mikemail/mjm_compiled_noun.h 
+ 1714  history | grep crap
+ 1715  vihdr mjm_unit_crap.h
+ 1716  ./run_muqed_util -compile
+ 1717  ./backup
+ 1718  vihdr mjm_unit_crap.h
+ 1719  ./run_muqed_util -compile
+ 1720  vihdr mjm_unit_crap.h
+ 1721  ./run_muqed_util -compile
+ 1722  ./muqed_util.out -cmd "source test.txt"  -cmd "source eval.txt" -quit  2>&1 
+ 1723  cat /tmp/dog_daily.txt 
+ 1724  ./backup
+ 1725  . cdcpp mikemail
+ 1726  cat hist_doing7
+ 1727  ./run_mikemail -build-diet
+ 1728  vi mjm_diet_diary_form.h
+ 1729  vi mjm_compiled_noun.h 
+ 1730  ./run_mikemail -build-diet
+ 1731  find -mtime -1
+ 1732  ls -al /home/scripts/links/
+ 1733  mv /home/scripts/links/mjm_diet_diary_form.out /home/scripts/links/mjm_diet_diary_form_old.out 
+ 1734  cp ./mjm_diet_diary_form.out /home/scripts/links/mjm_diet_diary_form.out
+ 1735  ls -al /home/scripts/links/
+ 1736  ./backup
+ 1737  . cdcpp muqed
+ 1738  . cdcpp muqed_util
+ 1739  . srecord
+ 1740  history >> hist_doing 
+ 1741  ping google.com
+ 1742  thermal --loop 10
+ 1743  srecord -s | grep mail_cmd
+ 1744  mail_cmd -start-remote-moco
+ 1745  history | grep ssh
+ 1746  ssh mike@192.168.0.101
+ 1747  nmap -sV 192.168.0.0-255
+ 1748  ifconfig
+ 1749  ssh mike@192.168.0.100
+ 1750  todo
+ 1751  history | grep ssh
+ 1752  ssh mike@192.168.0.100
+ 1753  todo
+ 1754  ls /home/ubuntu/
+ 1755  ls /home/ubuntu/backup/
+ 1756  mkdir  /home/ubuntu/backup/temp
+ 1757  viw backupdir
+ 1758  echo `backupdir`
+ 1759  backupdir
+ 1760  backupdir -steps
+ 1761  viw setup
+ 1762  viw backupdir
+ 1763  viw setup
+ 1764  viw backupdir
+ 1765  backupdir -steps
+ 1766  echo `backupdir`
+ 1767  todo
+ 1768  srecord -s | grep scan
+ 1769  cd /home/documents/mydocs/mom/
+ 1770  ls
+ 1771  srecord -s | grep scan
+ 1772  hp-scan --pdf=evince
+ 1773  history | grep nmap
+ 1774  nmap -sV 192.168.0.0-255
+ 1775  hp-scan --pdf=evince
+ 1776  evince hpscan001.pdf 
+ 1777  mv  hpscan001.pdf  27B_deed.pdf
+ 1778  hp-scan --pdf=evince
+ 1779  mv  hpscan001.pdf  27A_deed.pdf
+ 1780  evince 27A_deed.pdf
+ 1781  thermal --loop 10
+ 1782  hp-scan --pdf=evince
+ 1783  evince hpscan001.pdf 
+ 1784  mv hpscan001.pdf danish_deed.pdf
+ 1785  hp-scan --pdf=evince
+ 1786  evince hpscan001.pdf 
+ 1787  mv hpscan001.pdf asrx1.pdf
+ 1788  hp-scan --pdf=evince
+ 1789  evince hpscan001.pdf 
+ 1790  mv hpscan001.pdf asrx2.pdf
+ 1791  hp-scan --pdf=evince
+ 1792  evince hpscan001.pdf 
+ 1793  mv hpscan001.pdf asrx3.pdf
+ 1794  convert asrx1.pdf asrx1.png
+ 1795  eog asrx1.png 
+ 1796  apropos convert | grep -i pdf
+ 1797  pdftoppm asrx1.pdf
+ 1798  62;c62;c62;c
+ 1799  pdftoppm asrx1.pdf asrx1.ppm
+ 1800  eog asrx1.ppm
+ 1801  identify  asrx1.ppm
+ 1802  pdftoppm asrx1.pdf >  asrx1.ppm
+ 1803  identify  asrx1.ppm
+ 1804  eog asrx1.ppm
+ 1805  man pdftoppm
+ 1806  ls -al
+ 1807  ls -al | grep ppm
+ 1808  ls -al | grep asrx
+ 1809  rm asrx1.png
+ 1810  rm asrx1.ppm
+ 1811  rm asrx1.ppm-1.ppm 
+ 1812  pdftoppm asrx1.pdf >  asrx1.ppm
+ 1813  pdftoppm asrx2.pdf >  asrx2.ppm
+ 1814  pdftoppm asrx2.pdf >  asrx3.ppm
+ 1815  pdftoppm asrx3.pdf >  asrx3.ppm
+ 1816  . srecord
+ 1817  history >> hist_doing 
+ 1818  hp-scan --pdf=evince
+ 1819  evince hpscan001.pdf 
+ 1820  mv hpscan001.pdf cms1.pdf
+ 1821  hp-scan --pdf=evince
+ 1822  evince hpscan001.pdf 
+ 1823  mv hpscan001.pdf cms2.pdf
+ 1824  evince cms1.pdf 
+ 1825  ls *.pdf
+ 1826  ls 
+ 1827  inkscape asrx1.ppm
+ 1828  cp asrx1.ppm asrx1_orig.ppm
+ 1829  inkscape asrx1.ppm
+ 1830  find -mtime -1
+ 1831  inkscape asrx1.ppm.svg
+ 1832  todo
+ 1833  inkscape asrx1.ppm.svg
+ 1834  convert  asrx1.ppm.svg asrc1.tiff
+ 1835  eog  asrc1.tiff
+ 1836  mv asrc1.tiff asrx1.tiff
+ 1837  ls -al 
+ 1838  ls -al  | grep as
+ 1839  apropos topdf
+ 1840  convert  asrx1.ppm.svg asrc1f.pdf
+ 1841  evince asrc1f.pdf 
+ 1842  inkscape asrx2.ppm
+ 1843  inkscape asrx2.ppm.svg
+ 1844  convert  asrx2.ppm.svg asrc2f.pdf
+ 1845  inkscape asrx3.ppm
+ 1846  convert  asrx3.ppm.svg asrc3f.pdf
+ 1847  apropos merge pdf
+ 1848  man pdfunite
+ 1849  ls  asrc*f.pdf
+ 1850  pdfunite  asrc*f.pdf asrx_filled.pdf
+ 1851  evince  asrx_filled.pdf
+ 1852  grep -i aarp *
+ 1853  grep -li aarp * 
+ 1854  grep -i aarp todo.txt
+ 1855  evince mom_id_insurance_etc_cards.pdf 
+ 1856  evince mom_id_insurance_etc_cards.pdf  &
+ 1857  vi aarp.txt
+ 1858  cat aarp.txt 
+ 1859  todo
+ 1860  hsitory | grep ssh
+ 1861  history | grep ssh
+ 1862  ssh mike@192.168.0.100
+ 1863  mail_cmd -snap
+ 1864  mail_cmd -remote-snap
+ 1865  mail_cmd -remote_snap
+ 1866  mail_cmd -snap-remote
+ 1867  ssh mike@192.168.0.100
+ 1868  todo
+ 1869  ssh mike@192.168.0.100
+ 1870  neomutt
+ 1871  history | grep scan
+ 1872  man hp-scan
+ 1873  hp-scan --pdf=evince -adf
+ 1874  srecord -s | grep adf
+ 1875  srecord -s | grep \\-adf
+ 1876  hp-scan --pdf=evince --adf
+ 1877  todo
+ 1878  hp-scan --pdf=evince --adf
+ 1879  hp-scan --adf --pdf=evince 
+ 1880  hp-scan --adf
+ 1881  ls -al hps*
+ 1882  evince hpscan002.pdf
+ 1883  mv hpscan002.pdf property.pdf
+ 1884  ls *.pdf
+ 1885  du -sbc .
+ 1886  mail_cmd -archive mom_id_insurance_etc_cards.pdf 
+ 1887  mail_cmd -archive property.pdf 
+ 1888  history | grep ssh
+ 1889  ssh mike@192.168.0.100
+ 1890  which fetchmail
+ 1891  fetchmail --version
+ 1892  srecord -s | grep fetchmail
+ 1893  ls fm
+ 1894  ssh mike@192.168.0.100
+ 1895  ls ~/fm
+ 1896  ls ~/mom/fm
+ 1897  find ~ -name fm
+ 1898  ls vid/lat/mom/fm
+ 1899  ls ~/mom/vid/lat/mom/fm
+ 1900  ls -al ~/mom/vid/lat/mom/fm/fe*
+ 1901  scp  ~/mom/vid/lat/mom/fm/fetchmail-6.4.4/fetchmail mike@192.168.0.101
+ 1902  scp  ~/mom/vid/lat/mom/fm/fetchmail-6.4.4/fetchmail mike@192.168.0.100:
+ 1903  rm mike@192.168.0.101 
+ 1904  ssh mike@192.168.0.100
+ 1905  todo
+ 1906  ssh mike@192.168.0.100
+ 1907  fetchmail -version
+ 1908  fetchmail --version
+ 1909  . srecord
+ 1910  history >> hist_doing 
+ 1911  pass voice
+ 1912  pass consum
+ 1913  ls /home/marchywka/
+ 1914  find -mtime -1 /home/marchywka/
+ 1915  find  /home/marchywka/ -mtime -1
+ 1916  find  /home/marchywka/ -mtime -1 | grep -v cache
+ 1917  find  /home/marchywka/ -mtime -1 | grep -v cache | grep -v config
+ 1918  ls /home/documents/
+ 1919  ls /
+ 1920  ls /home/marchywka/
+ 1921  ls /home/marchywka/Pictures/
+ 1922  ls /home/marchywka/Documents/
+ 1923  ls /home/marchywka/Desktop/
+ 1924  ls /home/marchywka/Downloads/
+ 1925  find  /home/marchywka/Downloads/ -mtime -1
+ 1926  find /home/marchywka/ -name "IMG_202008*"
+ 1927  whoami
+ 1928  find /etc -name "IMG_202008*"
+ 1929  find /var -name "IMG_202008*"
+ 1930  find /var -name "IMG_202008*" 2>xxx
+ 1931  find ~  -name "IMG_202008*" 
+ 1932  ls -al `find ~  -name "IMG_202008*"  `
+ 1933  eog Downloads/IMG_20200809_184520.jpg 
+ 1934  ping google.com
+ 1935  history | grep su
+ 1936  su
+ 1938  contacts -vi
+ 1939  date
+ 1940  pass -vi
+ 1942  pass orcid
+ 1943  pass -vi 
+ 1944  viw pass
+ 1945  pass orcid
+ 1946  . cdlatex covid19
+ 1947  evince covid19.tex
+ 1948  evince covid19.pdf
+ 1949  ls
+ 1950  ls *.zip
+ 1951  mkdir junk
+ 1952  cp covid19-release-2020-07-01.zip junk
+ 1953  cd junk
+ 1954  ls 
+ 1955  unzip covid19-release-2020-07-01.zip 
+ 1956  evince covid19.tex
+ 1957  evince covid19.pdf
+ 1958  vi ../releases.bib
+ 1959  evince covid19.pdf
+ 1960  evince covid19.pdf &
+ 1961  vi ../releases.bib
+ 1962  cat non_pmc_covid19.bib 
+ 1963  vi ../releases.bib
+ 1964  cp ../releases.bib crap.bib
+ 1965  vi crap.bib
+ 1966  vi ../releases.bib
+ 1967  ls
+ 1968  mv crap.bib ../releases_orcid_stupid_format.bib
+ 1969  rm ../junk/*
+ 1970  ls
+ 1971  rm -rf *
+ 1972  ls
+ 1973  cd ..
+ 1974  ls
+ 1975  . cdlatex muqed
+ 1976  ls
+ 1977  ls junk
+ 1978  cd junk
+ 1979  cp ../muqed-release-2020-10-11.zip 
+ 1980  cp ../muqed-release-2020-10-11.zip  /
+ 1981  cp ../muqed-release-2020-10-11.zip  .
+ 1982  unzip muqed-release-2020-10-11.zip 
+ 1983  evince muqed.pdf &
+ 1984  vi releases.bib
+ 1985  mv releases.bib ..
+ 1986  cd ..
+ 1987  ls
+ 1988  ls ../covid19/
+ 1989  ls
+ 1990  evince muqed.pdf 
+ 1991  evince muqed.pdf &
+ 1992  vi releases.bib
+ 1993  R
+ 1994  eog ~/Downloads/IMG_20201101_085440.jpg 
+ 1996  vi beaver.txt
+ 1998  . srecord
+ 1999  history >> hist_doing 
+ 2000  sudo shutdown -h 0
+ 2001  . cdlatex wormk
+ 2003  R
+ 2005  evince ../happyheart/happyheart.pdf
+ 2007  pass medscape
+ 2008  R
+ 2010  contacts 0799
+ 2011  pass 0799
+ 2013  eutilsnew -email PMC6777928
+ 2014  eutilsnew -out xxx -email PMC6777928
+ 2015  srecord -s | grep eutilsnew | grep email
+ 2016  cat xxx
+ 2017  eutilsnew -out xxx -db pmc -email PMC6777928
+ 2018  cat xxx
+ 2020  pass hint
+ 2021  pass hunt
+ 2023  pass tcf
+ 2024  pass fidelity
+ 2026  pass spectr
+ 2027  pass hunt
+ 2028  amino-acids 
+ 2030  pass fidel
+ 2032  eutilsnew -db protein -out xxx "amyloid beta"
+ 2033  cat xxx
+ 2034  eutilsnew -db prot -v -report fasta ein -out xxx "amyloid beta"
+ 2035  eutilsnew -db protein  -v -report fasta  -out xxx "amyloid beta"
+ 2036  more xxx
+ 2037  more xxx | highlight Y | more
+ 2038  amino-acids 
+ 2039  more xxx | highlight Y | more
+ 2040  more xxx | grep amyloid
+ 2041  more xxx | grep amyloid | grep -v precur
+ 2042  more xxx | highlight Y | highlight F | more
+ 2043  more xxx | highlight Y | highlight W | more
+ 2044  more xxx | highlight W | highlight W | more
+ 2045  more xxx
+ 2046  more xxx | head -n 20 | grep W
+ 2047  more xxx | head -n 20 | grep Y
+ 2048  more xxx | head -n 20 | grep F
+ 2049  tcl_tool
+ 2050  find /home/documents/ -name "*tcl*"
+ 2051  find /home/documents/ -name "*tcl*" | grep tool
+ 2052  ls /home/documents/cpp/mjm/tcl
+ 2053  ls /home/documents/cpp/mjm/tcl/tcl
+ 2055  ps
+ 2056  ps a
+ 2057  kill 30693
+ 2058  ps a
+ 2059  kill 32327
+ 2060  ps a
+ 2061  pass mailproc
+ 2062  ps a
+ 2063  man gdb
+ 2064  gdb -p 25999
+ 2065  sudo gdb -p 25999
+ 2066  kill  25999
+ 2067  . cddev neomutt
+ 2068  ls
+ 2069  find -name "mjm*"
+ 2070  cd neomutt-20200501/
+ 2071  vi init.c
+ 2072  vi send.c
+ 2073  vi mjm_mutt_server.c
+ 2074  vi send.c
+ 2075  vi mjm_mutt_server.c
+ 2076  ls
+ 2077  . ./setup
+ 2078  cat setup
+ 2079  make
+ 2080  srecord -s | grep slink
+ 2081  $slink_command
+ 2082  find -mtime -9
+ 2083  find -mtime -9 | grep -v "\.o$"
+ 2084  find -mtime -9 | grep -v "\.o$\|\.Po$"
+ 2085  . srecord
+ 2086  history >> hist_doing2
+ 2087  ps a
+ 2088  kill 26900
+ 2089  grep "trying ..." `find -type f`
+ 2090  grep "trying \.\.\." `find -type f`
+ 2091  ps a
+ 2092  kill 27005
+ 2093  find -name "neomutt*"
+ 2094  find -name "libneomutt*"
+ 2095  ls -al lbneomutt*
+ 2096  ls -al libneomutt*
+ 2097  vi setup
+ 2098  $link_command
+ 2099  ls -al libneomutt*
+ 2100  . srecord
+ 2101  history >> hist_doing2

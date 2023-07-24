@@ -1,0 +1,24 @@
+ 2019  apt-cache search gssapi_krb5
+ 2020  apt-cache search gssapi_krbS
+ 2021  apt-cache search gssapi_krb
+ 2022  apt-cache search gssapi
+ 2023  sudo apt-get install libgssapi-krb5-2
+ 2024  apt-cache search libkrb5
+ 2025  sudo apt-get install libkrb5-dev
+ 2026  find /usr/lib | grep gssapi
+ 2027  sudo apt-get install tokyocabinet
+ 2028  apt-cache search tokyo
+ 2029  sudo apt-get install libtokyocabinet-dev
+ 2030  sudo apt-get install libidn
+ 2031  sudo apt-get install libidn-dev
+ 2032  apt-cache search lidn
+ 2033  apt-cache search libidn
+ 2034  sudo apt-get install libidn11-dev libidn2-dev
+ 2035  apt-cache search libgnutls
+ 2036  sudo apt-get install libgnutls30
+ 2037  sudo apt-get install libgnutls-openssl27
+ 2038  find /usr/lib | grep gnutls
+ 2039  apt-cache search libgpgme
+ 2040  sudo apt-get install libgpgme-dev
+ 2041  history
+

@@ -1,0 +1,992 @@
+ 1617  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 0 in p 4" -quit
+ 1618  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1619  vi andya.txt 
+ 1620  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1621  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 0 in p 4" -quit
+ 1622  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1623  texfrag -include  htable
+ 1624  vi mjm_linc_graph.h
+ 1625  ./run_linc_graph -compile
+ 1626  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 0 in p 4" -quit
+ 1627  ./backup
+ 1628  . srecord
+ 1629  history >> hist_doing8
+ 1630  nslookup www.investorvillage.com
+ 1631  man nslookup
+ 1632  nslookup www.investorvillage.com 8.8.8.8
+ 1633  whois investorvillage.com
+ 1634  vi andya.txt 
+ 1635  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1636  texfrag -include  htable
+ 1637  vi andya.txt 
+ 1638  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1639  texfrag -include  htable
+ 1640  vi andya.txt 
+ 1641  ./mjm_linc_graph.out -cmd "read-ragged in /home/scripts/script_data/cases/out/dog_daily.txt" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1642  texfrag -include  htable
+ 1643  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1644  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Happy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1645  texfrag -include  htable
+ 1646  vi andya.txt 
+ 1647  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1648  texfrag -include  htable
+ 1649  vi andya.txt 
+ 1650  vi mjm_linc_graph.h
+ 1651  vihdr mjm_canned_methods.h
+ 1652  vi mjm_linc_graph.h
+ 1653  vihdr mjm_canned_methods.h
+ 1654  vi andya.txt 
+ 1655  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 1 in p 4" -quit
+ 1656  texfrag -include  htable
+ 1657  more htable
+ 1658  cp htable /home/documents/latex/proj/andy/keep/htable.tex
+ 1659  ./backup
+ 1660  vi andya.txt 
+ 1661  vi mjm_linc_graph.h
+ 1662  ./run_linc_graph -compile
+ 1663  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1664  texfrag -include  htable
+ 1665  grep K1 xxx
+ 1666  grep K1 xxx | sed -e 's/.*K1/K1/'
+ 1667  grep K1 xxx | sed -e 's/.*K1/K1/' | awk '{print $1" "$2" "$3}'
+ 1668  grep -E "K1.*K1" xxx 
+ 1669  vi xxx
+ 1670  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1671  texfrag -include  htable
+ 1672  grep threonine xxx | sed -e 's/.*threonine/threonine /' | awk '{print $1" "$2" "$3}'
+ 1673  grep -E "threonine.*threo" xxx 
+ 1674  texfrag -include  htable
+ 1675  history | grep script
+ 1676  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1677  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1678  texfrag -include  htable
+ 1679  grep -E "K1.*K1" xxx 
+ 1680  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1681  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1682  texfrag -include  htable
+ 1683  grep -E "K1.*K1" xxx 
+ 1684  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1685  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1686  texfrag -include  htable
+ 1687  vi mjm_linc_graph.h
+ 1688  vi andya.txt 
+ 1689  vi mjm_linc_graph.h
+ 1690  vi mjm_rule_list.h 
+ 1691  vi andya.txt 
+ 1692  vi mjm_rule_list.h 
+ 1693  vi mjm_linc_graph.h
+ 1694  ./run_linc_graph -compile
+ 1695  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1696  texfrag -include  htable
+ 1697  vi andya.txt 
+ 1698  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1699  texfrag -include  htable
+ 1700  cat htable
+ 1701  vi andya.txt 
+ 1702  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1703  cat htable
+ 1704  texfrag -include  htable
+ 1705  ./backup
+ 1706  . srecord
+ 1707  history >> hist_doing8
+ 1708  texfrag -include  htable
+ 1709  vi andy
+ 1710  vi andya.txt 
+ 1711  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1712  texfrag -include  htable
+ 1713  vi mjm_linc_graph.h
+ 1714  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1715  texfrag -include  htable
+ 1716  vi mjm_linc_graph.h
+ 1717  ./run_linc_graph -compile
+ 1718  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1719  texfrag -include  htable
+ 1720  vi mjm_linc_graph.h
+ 1721  ./run_linc_graph -compile
+ 1722  vi mjm_linc_graph.h
+ 1723  ./run_linc_graph -compile
+ 1724  vi mjm_linc_graph.h
+ 1725  ./run_linc_graph -compile
+ 1726  vi mjm_linc_graph.h
+ 1727  vi mjm_string_picker.h 
+ 1728  vi mjm_linc_graph.h
+ 1729  vi mjm_string_picker.h 
+ 1730  vi mjm_linc_graph.h
+ 1731  ./run_linc_graph -compile
+ 1732  vi mjm_linc_graph.h
+ 1733  vi mjm_string_picker.h 
+ 1734  ./run_linc_graph -compile
+ 1735  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 3 in p 4" -quit
+ 1736  texfrag -include  htable
+ 1737  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1738  texfrag -include  htable
+ 1739  history | grep andy
+ 1740  history | grep documents
+ 1741  cp htable /home/documents/latex/proj/andy/keep/htable.tex
+ 1742  ./backup
+ 1743  cd junk
+ 1744  mkdir junk
+ 1745  cd junk
+ 1746  wget -O xxx -S -v "https://lnkd.in/gwymNA8"
+ 1747  more xxx
+ 1748  mmv xxx xxx.html
+ 1749  mv xxx xxx.html
+ 1750  lynx -dump xxx.html | more
+ 1751  cd ..
+ 1752  . srecord
+ 1753  history >> hist_doing9
+ 1754  . cdcpp linc_graph
+ 1755  vi mjm_linc_graph.h
+ 1756  vi andya.txt 
+ 1757  . cdcpp muqed_util
+ 1758  ls
+ 1759  vi /home/scripts/script_data/cases/canon_nouns.txt 
+ 1760  grep group  /home/scripts/script_data/cases/canon_nouns.txt 
+ 1761  vi ../mikemail/mjm_diet_diary_form.h
+ 1762  vi ../mikemail/mjm_compiled_noun.h 
+ 1763  vi xxx
+ 1764  cat xxx | sed -e 's/define/undef | sed -e 's/(.*//'
+ 1765  cat xxx | sed -e 's/define/undef | sed -e 's/\(.*//'
+ 1766  cat xxx | sed -e 's/define/undef' | sed -e 's/\(.*//'
+ 1767  cat xxx | sed -e 's/define/undef/' | sed -e 's/\(.*//'
+ 1768  cat xxx | sed -e 's/define/undef/' | sed -e 's/(.*//'
+ 1769  vi ../mikemail/mjm_compiled_noun.h 
+ 1770  vi ../mikemail/mjm_loo_parsing.h 
+ 1771  vi ../mikemail/mjm_compiled_noun.h 
+ 1772  ./run_muqed_util -compile
+ 1773  vi ../mikemail/mjm_compiled_noun.h 
+ 1774  ./run_muqed_util -compile
+ 1775  vi ../mikemail/mjm_compiled_noun.h 
+ 1776  grep expand  ../mikemail/mjm_compiled_noun.h 
+ 1777  vi ../mikemail/mjm_diet_diary_form.h
+ 1778  grep expand  ../mikemail/mjm_diet_diary_form.h
+ 1779  ./run_muqed_util -compile
+ 1780  vi ../mikemail/mjm_compiled_noun.h 
+ 1781  ./run_muqed_util -compile
+ 1782  ./backup
+ 1783  grep expand  ../mikemail/mjm_diet_diary_form.h
+ 1784  vi ../mikemail/dev/canon_nouns.txt 
+ 1785  ls -al  ../mikemail/dev/canon_nouns.txt 
+ 1786  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1787  cp /home/scripts/script_data/cases/canon_nouns.txt /home/scripts/script_data/cases/canon_nouns_old.txt
+ 1788  cp /home/scripts/links/muqed_util.out /home/scripts/links/muqed_util_old.out 
+ 1789  cp muqed_util.out /home/scripts/links/muqed_util.out 
+ 1790  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1791  grep -i flag  ../mikemail/dev/canon_nouns.txt 
+ 1792  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1793  vi ../mikemail/mjm_compiled_noun.h 
+ 1794  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1795  vi  ../mikemail/dev/canon_nouns.txt 
+ 1796  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1797  vi ../mikemail/mjm_compiled_noun.h 
+ 1798  grep tie ` find ../mikemail/ -name "*.h"`
+ 1799  grep " tie" ` find ../mikemail/ -name "*.h"`
+ 1800  grep -E "[^a-z]tie" ` find ../mikemail/ -name "*.h"`
+ 1801  vi ../mikemail/mjm_diet_diary_form.h
+ 1802  vi ../mikemail/mjm_compiled_noun.h 
+ 1803  ./run_muqed_util -compile
+ 1804  vi ../mikemail/mjm_diet_diary_form.h
+ 1805  ./run_muqed_util -compile
+ 1806  ./backup
+ 1807  cp muqed_util.out /home/scripts/links/muqed_util.out 
+ 1808  ./backup
+ 1809  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1810  vi ../mikemail/mjm_compiled_noun.h 
+ 1811  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1812  vi ../mikemail/mjm_compiled_noun.h 
+ 1813  ./run_muqed_util -compile
+ 1814  vi ../mikemail/mjm_compiled_noun.h 
+ 1815  vi ../mikemail/mjm_diet_diary_form.h
+ 1816  grep m_cnouns  ../mikemail/mjm_diet_diary_form.h
+ 1817  grep dump_nouns  ../mikemail/mjm_diet_diary_form.h
+ 1818  grep dump_nouns  muqed_util.h
+ 1819  vi muqed_util.h
+ 1820  vi ../mikemail/mjm_diet_diary_form.h
+ 1821  . cdcpp linc_graph
+ 1822  ls
+ 1823  cat hist_doing9
+ 1824  cat hist_doing9 | grep xxx
+ 1825  cat hist_doing9 | grep xxx | grep And
+ 1826  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1827  cat hist_doing9 | grep xxx | grep And
+ 1828  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1829  texfrag -include htable
+ 1830  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1831  grep broth /home/scripts/script_data/cases/canon_nouns.txt
+ 1832  ls -al htable
+ 1833  vi andya.txt 
+ 1834  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1835  texfrag -include htable
+ 1836  grep diroban xxx
+ 1837  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1838  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1839  texfrag -include htable
+ 1840  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1841  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1842  texfrag -include htable
+ 1843  cat xxx | grep biotin | sed -e 's/.*biotin//'
+ 1844  cat xxx | grep biotin | sed -e 's/.*biotin//' | awk '{print $1 " "$2}'
+ 1845  cat xxx | grep biotin 
+ 1846  history | grep can
+ 1847  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1848  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1849  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1850  texfrag -include htable
+ 1851  vi ../mikemail/mjm_snacks_accumulator
+ 1852  vi ../mikemail/mjm_snacks_accumulator.h 
+ 1853  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1854  cat xxx | grep biotin 
+ 1855  cat xxx 
+ 1856  vi ../mikemail/mjm_snacks_accumulator.h 
+ 1857  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1858  cat xxx | grep biotin 
+ 1859  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1860  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1861  cat xxx | grep biotin 
+ 1862  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1863  vi ../mikemail/mjm_compiled_noun.h 
+ 1864  vi ../mikemail/mjm_diet_diary_form.h
+ 1865  vi ../mikemail/mjm_compiled_noun.h 
+ 1866  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1867  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1868  cat xxx | grep biotin 
+ 1869  vi ../mikemail/mjm_compiled_noun.h 
+ 1870  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1871  texfrag -include htable
+ 1872  vi ../mikemail/mjm_compiled_noun.h 
+ 1873  . cdcpp muqed_util
+ 1874  ./run_muqed_util -compile
+ 1875  history | grep cp | grep muq
+ 1876  cp muqed_util.out /home/scripts/links/muqed_util.out 
+ 1877  . cdcpp linc_graph
+ 1878  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1879  cat xxx | grep biotin
+ 1880  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1881  . cdcpp muqed_util
+ 1882  vi ../mikemail/mjm_compiled_noun.h 
+ 1883  ./run_muqed_util -compile
+ 1884  vi ../mikemail/mjm_compiled_noun.h 
+ 1885  ./run_muqed_util -compile
+ 1886  cp muqed_util.out /home/scripts/links/muqed_util.out 
+ 1887  . cdcpp linc_graph
+ 1888  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1889  cat xxx | grep biotin
+ 1890  . cdcpp muqed_util
+ 1891  vi ../mikemail/mjm_compiled_noun.h 
+ 1892  ./run_muqed_util -compile
+ 1893  cp muqed_util.out /home/scripts/links/muqed_util.out 
+ 1894  . cdcpp linc_graph
+ 1895  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1896  cat xxx | grep biotin
+ 1897  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1898  texfrag -include htable
+ 1899  cat xxx | grep biotin
+ 1900  cat xxx | grep B-12
+ 1901  cat xxx | grep biotin
+ 1902  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1903  ./backup
+ 1904  . cdcpp muqed_util
+ 1905  ./backup 
+ 1906  . cdcpp linc_graph
+ 1907  . srec
+ 1908  . srecord
+ 1909  history >> hist_doing9
+ 1910  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1911  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1912  cat xxx | grep biotin
+ 1913  cat xxx | grep B-100
+ 1914  cat xxx | grep b-100
+ 1915  vi /home/scripts/script_data/cases/canon_nouns.txt
+ 1916  vi ../muqed_util/muqed_util.h
+ 1917  vi ../mikemail/mjm_diet_diary_form.h
+ 1918  vi ../mikemail/mjm_compiled_noun.h 
+ 1919  vi ../mikemail/mjm_diet_diary_form.h
+ 1920  vi ../muqed_util/muqed_util.h
+ 1921  cat "/home/scripts/script_data/cases/out/dog_daily.txt" | grep Andy > xxx
+ 1922  cat xxx | grep B-100
+ 1923  cat xxx | grep biotin
+ 1924  cat xxx | grep biotin | highlight B-100
+ 1925  cat xxx | highlight B-100
+ 1926  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1927  texfrag -include htable
+ 1928  vi andya.txt 
+ 1929  ./mjm_linc_graph.out -cmd "read-ragged in xxx" -cmd "read-ragged p andya.txt" -cmd "add-ragged p dogs Andy" -cmd "add-ragged p datemin 2011-12-01" -cmd "add-ragged p datemax 2029-01-01" -cmd "snacks-time htable 5 in p 4" -quit
+ 1930  history | grep keep
+ 1931  cp htable /home/documents/latex/proj/andy/keep/htable.tex
+ 1932  ./backup
+ 1933  . srecord
+ 1934  history >> hist_doing9
+ 1935  . cdlatex muqed_util
+ 1936  ./backup
+ 1937  . cdlatex andy
+ 1938  . cdlatex andy
+ 1939  top
+ 1940  e
+ 1941  top
+ 1942  e
+ 1943  date
+ 1944  pass tcf
+ 1945  pass disco
+ 1947  ls ..
+ 1948  srecord -s | grep newproj
+ 1949  e
+ 1950  date
+ 1951  ls -al *.pdf
+ 1952  m
+ 1953  ls -al *.pdf
+ 1954  m
+ 1955  e
+ 1957  m
+ 1958  e
+ 1960  df
+ 1961  sudo umount /dev/sdb1
+ 1962  sudo mount /dev/sdb1 mnt
+ 1963  df
+ 1964  . cdlatex cases
+ 1965  srecord -s | grep newback
+ 1966  newbackup -incmnt
+ 1967  motd
+ 1968  apropos motd
+ 1969  man motd
+ 1970  cat /etc/motd
+ 1971  find /etc -name "*motd*"
+ 1972  daily.txt 
+ 1973  history | grep report
+ 1974  cat hist_doing | grep report
+ 1975  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1976  daily.txt 
+ 1977  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1978  daily.txt 
+ 1979  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1980  daily.txt 
+ 1981  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1982  viw mudaily.txt
+ 1983  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1984  viw mudaily.txt
+ 1985  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1986  viw mudaily.txt
+ 1987  daily.txt 
+ 1988  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1989  viw mudaily.txt
+ 1990  mudaily.txt -reports 2019-06-01 9999-99-99
+ 1991  daily.txt 
+ 1992  history | grep newba
+ 1993  newbackup -incmnt
+ 1994  . srecord
+ 1995  history 
+ 1996  history  >> hist_doing 
+ 1997  df
+ 1998  sudo umount /dev/sdb1
+ 1999  df
+ 2000  shutdown -h 0
+ 2001  pass hunt
+ 2002  ipconfig
+ 2003  ifconfig
+ 2004  srecord -s | grep ssh
+ 2005  ssh mike@192.168.0.100
+ 2006  nmap -sP 192.158.0.0-255
+ 2007  nmap -sP 192.168.0.0-255
+ 2008  nmap -sv 192.158.0.190
+ 2009  nmap -sV 192.158.0.190
+ 2010  dig 192.158.0.190
+ 2011  whois  192.158.0.190
+ 2012  whois  192.168.0.190
+ 2013  pass mjm_mailproc
+ 2014  pass marchywka@yahoo.com
+ 2015  srecord -s | grep neomutt
+ 2016  srecord -s | grep neomutt | grep yahoo
+ 2017  neomutt -F  ~/.neomutt/neomuttrc_yahoo
+ 2018  cd junk
+ 2019  wget -S -v "https://www.investorvillage.com/smbd.asp?pt=m&mb=633" -O xxx
+ 2020  ls -al
+ 2021  mv xxx xxx.html
+ 2022  lynx -dump xxx.html  | more
+ 2023  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309337&pt=msg&mid=21432762" -O xxx
+ 2024  mv xxx xxx.html
+ 2025  ls
+ 2026  lynx -dump xxx.html  | more
+ 2027  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309340&pt=msg&mid=21432762" -O xxx.html
+ 2028  lynx -dump xxx.html  | more
+ 2029  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309341&pt=msg&mid=21432762" -O xxx.html
+ 2030  lynx -dump xxx.html  | more
+ 2031  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309342&pt=msg&mid=21432762" -O xxx.html
+ 2032  lynx -dump xxx.html  | more
+ 2033  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309343&pt=msg&mid=21432762" -O xxx.html
+ 2034  lynx -dump xxx.html  | more
+ 2035  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309344&pt=msg&mid=21432762" -O xxx.html
+ 2036  lynx -dump xxx.html  | more
+ 2037  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309345&pt=msg&mid=21432762" -O xxx.html
+ 2038  lynx -dump xxx.html  | more
+ 2039  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309346&pt=msg&mid=21432762" -O xxx.html
+ 2040  lynx -dump xxx.html  | more
+ 2041  wget -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=309347&pt=msg&mid=21432762" -O xxx.html
+ 2042  lynx -dump xxx.html  | more
+ 2043  . cdcpp mikemail
+ 2044  pass yahoo
+ 2045  pass -vi yahoo
+ 2046  ls -al /home/documents/mydocs/live/passwords
+ 2047  pass -vi yahoo
+ 2048  history | grep yahoo
+ 2049  neomutt -F  ~/.neomutt/neomuttrc_yahoo
+ 2050  cd junk
+ 2051  ls
+ 2052  wget -O xxx -S -v "https://tinyurl.com/y4zt8u5q"
+ 2053  wget -O xxx -S -v "https://www.investorvillage.com/smbd.asp?mb=633&mn=308789&pt=msg&mid=21412584"
+ 2054  lynx --force-html -dump xxx | more
+ 2055  cd ..
+ 2056  srecord -s | grep moco
+ 2057  mail_cnd -start-remote-moco
+ 2058  mail_cmd -start-remote-moco
+ 2059  sudo vi /etc/ssh/sshd_config 
+ 2060  mail_cnd -start-remote-moco
+ 2061  mail_cmd -start-remote-moco
+ 2063  grep -l "Generic3!" `find -type f`
+ 2064  vi mjm_loo_parsing.h 
+ 2065  g++  -Wall -std=gnu++11 -DTEST_MJM_LOO_PARSING -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_loo_parsing.h  -lpthread -lreadline
+ 2066  vihdr mjm_unit_crap.h
+ 2067  g++  -Wall -std=gnu++11 -DTEST_MJM_LOO_PARSING -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_loo_parsing.h  -lpthread -lreadline
+ 2068  ./a.out
+ 2069  vi mjm_loo_parsing.h 
+ 2070  ls ..
+ 2071  find .. -name "*csvutil*"
+ 2072  ls ../foodoo
+ 2073  find .. -name "*csv*"
+ 2074  ldd mikemail.out
+ 2075  grep etpan `find -name "*.h"`
+ 2076  ldd mikemail.out
+ 2077  scp mikemail.out mike@192.168.0.2:junk
+ 2078  ifconfig
+ 2079  scp mikemail.out mike@192.168.0.101:junk
+ 2080  ldd mikemail.out
+ 2081  scp /lib/x86_64-linux-gnu/libreadline.so.6  mike@192.168.0.101:junk
+ 2082  scp /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.58.0   mike@192.168.0.101:junk
+ 2083  scp /usr/lib/x86_64-linux-gnu/libboost_system.so.1.58.0   mike@192.168.0.101:junk
+ 2084  scp /home/ubuntu/dev/neomutt/neomutt-20200501/libneomutt.so   mike@192.168.0.101:junk
+ 2085  srecord -s | grep email
+ 2086  srecord -s | grep email | grep eutil
+ 2087  eutilsnew -out xxx -email PMC6044604
+ 2088  cat xxx
+ 2089  eutilsnew -out xxx -db pmc  -email PMC6044604
+ 2090  cat xxx
+ 2091  cat  hist_doing8
+ 2092  cat  hist_doing8 | grep mikemail.out
+ 2093  cat  hist_doing* | grep mikemail.out
+ 2094  cat muttdiet.txt 
+ 2095  vi run_mikemail 
+ 2096  find -name "*yahoo*"
+ 2097  cat yahoo.tex
+ 2098  grep -l ojx *
+ 2099  vi  yahoo.tex
+ 2100  vi run_mikemail 
+ 2101  history | grep scp
+ 2102  scp run_mikemail mike@192.168.0.101:junk
+ 2103  scp yahoo.tex mike@192.168.0.101:junk
+ 2104  vi run_mikemail 
+ 2105  history
+ 2106  cat  hist_doing* | grep mikemail.out
+ 2107  cat muttdiet.txt 
+ 2108  scp muttdiet.tex mike@192.168.0.101:junk
+ 2109  scp muttdiet.txt mike@192.168.0.101:junk
+ 2110  cat muttdiet.txt 
+ 2111  scp diet_rules.txt mike@192.168.0.101:junk
+ 2112  cat diet_rules.txt
+ 2113  scp -rp diet/ mike@192.168.0.101:junk/diet
+ 2114  cat  hist_doing* | grep mikemail.out
+ 2115  vi run_mikemail 
+ 2116  ./run_mikemail 
+ 2117  ./run_mikemail  adsc
+ 2118  vi run_mikemail 
+ 2119  ./run_mikemail -diet-rules-here
+ 2120  vi run_mikemail 
+ 2121  ./run_mikemail -diet-rules-here
+ 2122  vi run_mikemail 
+ 2123  ./run_mikemail -diet-rules-here
+ 2124  vi run_mikemail 
+ 2125  ./run_mikemail -diet-rules-here
+ 2126  vi run_mikemail 
+ 2127  find -name udata
+ 2128  vi run_mikemail 
+ 2129  ./run_mikemail -diet-rules-here
+ 2130  vi run_mikemail 
+ 2131  ls -al udata
+ 2132  ./run_mikemail -diet-rules-here
+ 2133  vi run_mikemail 
+ 2134  ./run_mikemail -diet-rules-here
+ 2135  history | grep scp | grep run
+ 2136  scp run_mikemail mike@192.168.0.101:junk
+ 2137  scp proc_yahoo mike@192.168.0.101:junk
+ 2138  ./run_mikemail -diet-rules-herels udata
+ 2139  ls udata
+ 2140  ls udata/shared
+ 2141  vi run_mikemail 
+ 2142  scp udata/shared/diet.txt  mike@192.168.0.101:junk/diet/diet/udata/shred
+ 2143  scp udata/shared/diet.txt  mike@192.168.0.101:junk/diet/diet/udata/shared
+ 2144  history | grep muttdiet
+ 2145  grep muttdiet hist_doing9
+ 2146  grep muttdiet hist_doing8
+ 2147  grep muttdiet hist_doing7
+ 2148  grep muttdiet hist_doing*
+ 2149  neomutt
+ 2150  R
+ 2152  vi ./mjm_mailproc/mjm_mailproc_user_handler.h
+ 2153  ./run_mikemail -copmile
+ 2154  ./run_mikemail -compile
+ 2155  history | grep scp
+ 2156  echo scp mikemail.out mike@192.168.0.101:junk
+ 2157  scp mikemail.out mike@192.168.0.101:junk
+ 2158  ./run_mikemail -compile
+ 2159  vi ./mjm_mailproc/mjm_mailproc_user_handler.h
+ 2160  vi diet_rules.txt
+ 2161  vi ./mjm_mailproc/mjm_mailproc_user_handler.h
+ 2162  ./run_mikemail -compile
+ 2163  scp mikemail.out mike@192.168.0.101:junk
+ 2164  find | grep cmd
+ 2165  srecord -s | grep mikemail_cmd
+ 2166  ./mikemail_cmd.txt -report
+ 2167  pass mjm_mail
+ 2168  vi run_mikemail 
+ 2169  amino-acids | grep N
+ 2170  amino-acids | grep tyrosine
+ 2171  amino-acids | grep yros
+ 2172  history
+ 2173  vi mikemail_cmd.txt 
+ 2174  ./mikemail_cmd.txt -report
+ 2175  vi mikemail_cmd.txt 
+ 2176  ./mikemail_cmd.txt
+ 2177  ./mikemail_cmd.txt --
+ 2178  srecord -s | grep mikemail_cmd
+ 2179  srecord -s | grep mikemail_cmd | mjm zed1 | sort | uniq -c
+ 2180  srecord -s | grep mikemail_cmd | mjm zed 1 | sort | uniq -c
+ 2181  find script.txt
+ 2182  find -name script.txt
+ 2183  grep uz `find -type f`
+ 2185  vi mjm_generic_message.h 
+ 2186  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2187  vi mjm_generic_message.h 
+ 2188  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2189  vi mjm_generic_message.h 
+ 2190  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2191  vi mjm_generic_message.h 
+ 2192  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2193  vi mjm_generic_message.h 
+ 2194  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2195  vi mikemail_cmd.txt 
+ 2196  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2197  vi mikemail_cmd.txt 
+ 2198  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2199  vi mjm_generic_message.h 
+ 2200  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2201  ./run_mikemail  -compile
+ 2202  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2203  ./run_mikemail  -compile
+ 2204  vi mjm_generic_message.h 
+ 2205  ./run_mikemail  -compile
+ 2206  #./mikemail_cmd.txt -upload /home/scripts/script_data/cases/diary.txt 
+ 2207  ls -al  /home/scripts/script_data/cases/diary.txt 
+ 2208  ls -al  /home/scripts/script_data/cases/newest_data.txt 
+ 2209  ./mikemail_cmd.txt -upload /home/scripts/script_data/cases/newest_data.txt 
+ 2210  vi mikemail_cmd.txt 
+ 2211  ./mikemail_cmd.txt -upload /home/scripts/script_data/cases/newest_data.txt 
+ 2212  vi mikemail_cmd.txt 
+ 2213  ./mikemail_cmd.txt -upload /home/scripts/script_data/cases/newest_data.txt 
+ 2214  vi mikemail_cmd.txt 
+ 2215  ./mikemail_cmd.txt -upload /home/scripts/script_data/cases/newest_data.txt 
+ 2216  history | grep scp
+ 2217  scp mikemail.out mike@192.168.0.101:junk
+ 2218  history | grep canon
+ 2219  history | grep canon | grep scp
+ 2220  history |  grep scp
+ 2221  scp /home/scripts/script_data/cases/canon_nouns.txt   mike@192.168.0.101:junk/diet/diet/canon_nouns.txt
+ 2222  vi mjm_generic_message.h 
+ 2223  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2224  ./run_mikemail -compile
+ 2225  history | grep scp
+ 2226  scp mikemail.out mike@192.168.0.101:junk
+ 2227  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2228  ./run_mikemail -compile
+ 2229  scp mikemail.out mike@192.168.0.101:junk
+ 2230  vi mjm_generic_message.h 
+ 2231  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2232  ./run_mikemail -compile
+ 2233  scp mikemail.out mike@192.168.0.101:junk
+ 2234  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2235  ./run_mikemail -compile
+ 2236  scp mikemail.out mike@192.168.0.101:junk
+ 2237  vi mjm_generic_message.h 
+ 2238  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2239  ./run_mikemail -compile
+ 2240  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2241  vi mjm_generic_message.h 
+ 2242  ./run_mikemail -compile
+ 2243  vi mjm_generic_message.h 
+ 2244  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2245  ./run_mikemail -compile
+ 2246  vi mjm_generic_message.h 
+ 2247  ./run_mikemail -compile
+ 2248  scp mikemail.out mike@192.168.0.101:junk
+ 2249  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2250  ./backup
+ 2251  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2252  vi mikemail_cmd.txt 
+ 2253  ./mikemail_cmd.txt -download
+ 2254  ./run_mikemail -compile
+ 2255  scp mikemail.out mike@192.168.0.101:junk
+ 2256  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2257  tail /home/scripts/script_data/cases/diary.txt 
+ 2258  tail /home/scripts/script_data/cases/newest_data.txt 
+ 2259  ls -al  /home/scripts/script_data/cases/newest_data.txt 
+ 2260  vi mikemail_cmd.txt 
+ 2261  tail /home/scripts/script_data/cases/newest_data.txt 
+ 2262  neomutt -a /home/scripts/script_data/cases/newest_data.txt  -- marchywka@hotmail.com
+ 2263  vi mikemail_cmd.txt 
+ 2264  echo message | neomutt -s foo  -a /home/scripts/script_data/cases/newest_data.txt  -- marchywka@hotmail.com
+ 2265  history | grep report
+ 2266  ./mikemail_cmd.txt -report
+ 2267  history | grep upload
+ 2268  ./mikemail_cmd.txt -upload /home/scripts/script_data/cases/newest_data.txt 
+ 2269  pass hunt
+ 2270  . srecord
+ 2271  history >> hist_doing8
+ 2272  cd junk
+ 2273  news -dumpclip
+ 2275  history | grep scp
+ 2276  ls
+ 2277  cd ..
+ 2278  vi mikemail_cmd.txt 
+ 2279  scp mikemail.out mike@192.168.0.101:junk
+ 2280  scp mikemail_cmd.txt  mike@192.168.0.101:junk
+ 2281  vi mikemail_cmd.txt 
+ 2282  ./mikemail_cmd.txt 
+ 2283  scp mikemail_cmd.txt  mike@192.168.0.101:junk
+ 2284  ./mikemail_cmd.txt 
+ 2285  vi mikemail_cmd.txt 
+ 2286  scp mikemail_cmd.txt  mike@192.168.0.101:junk
+ 2287  cd junk
+ 2288  vi script.txt
+ 2289  vi ../mikemail_cmd.txt 
+ 2290  ../mikemail_cmd.txt -send script.txt 
+ 2291  vi ../mikemail_cmd.txt 
+ 2292  cd ..
+ 2293  history | grep handler
+ 2294  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2295  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2296  find -name "*.h" | grep resp
+ 2297  vi mjm_mailproc/mjm_msg_responder.h 
+ 2298  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2299  vi mjm_mailproc/mjm_msg_responder.h 
+ 2300  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2301  vi mjm_mailproc/mjm_msg_responder.h 
+ 2302  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2303  ./run_mikemail -compile
+ 2304  vi mjm_mailproc/mjm_msg_responder.h 
+ 2305  ./run_mikemail -compile
+ 2306  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2307  ./run_mikemail -compile
+ 2308  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2309  vi mjm_mailproc/mjm_msg_responder.h 
+ 2310  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2311  ./run_mikemail -compile
+ 2312  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2313  ./run_mikemail -compile
+ 2314  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2315  ./run_mikemail -compile
+ 2316  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2317  ./run_mikemail -compile
+ 2318  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2319  vi mjm_mailproc/mjm_msg_responder.h 
+ 2320  ./run_mikemail -compile
+ 2321  history | grep scp
+ 2322  scp mikemail.out mike@192.168.0.101:junk
+ 2323  history | grep script.txt
+ 2324  ../mikemail_cmd.txt -send script.txt 
+ 2325  cd junk
+ 2326  ../mikemail_cmd.txt -send script.txt 
+ 2327  cd ..
+ 2328  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2329  vi mjm_mailproc/mjm_msg_responder.h 
+ 2330  ./run_mikemail -compile
+ 2331  scp mikemail.out mike@192.168.0.101:junk
+ 2332  ../mikemail_cmd.txt -send script.txt 
+ 2333  cd junk
+ 2334  ../mikemail_cmd.txt -send script.txt 
+ 2335  cd ..
+ 2336  ./backup
+ 2337  . cddev neomutt
+ 2338  ls
+ 2339  find -mtime -60
+ 2340  find -mtime -60 | more
+ 2341  cd neomutt-20200501/
+ 2342  ls
+ 2343  make
+ 2344  . ./setup
+ 2345  cat setup
+ 2346  cat setup | more
+ 2347  grep move *.h | grep -i imap
+ 2348  grep folder  *.h | grep -i imap
+ 2349  ls
+ 2350  vi mjm_mutt_server.h
+ 2351  vi mjm_mutt_server.c
+ 2352  ls imap
+ 2353  vi mjm_mutt_server.c
+ 2354  grep mutt_set_flag `find -name "*.h"`
+ 2355  grep mutt_ `find -name "*.h"` | grep -i imap
+ 2356  grep mutt_ `find -name "*.h"` | grep -i folder
+ 2357  ls imap
+ 2358  grep mutt_ `find -name "*.h"` | grep -i copy
+ 2359  grep mutt_ `find -name "*.h"` | grep -i expunge
+ 2360  grep -i expunge  `find -name "*.h"` 
+ 2361  grep imap_ `find -name "*.h"` | grep -i expunge
+ 2362  grep imap_ `find -name "*.h"` | grep -i copy
+ 2363  vi imap/lib.h
+ 2364  vi mjm_mutt_server.h
+ 2365  grep copy_ `find -name "*.h"` | grep -i copy
+ 2366  grep copy `find -name "*.h"` | grep -i copy
+ 2367  grep copy `find -name "*.h"` | grep -i messages
+ 2368  grep copy `find -name "*.[ch]"` | grep -i messages
+ 2369  vi imap/message.c
+ 2370  vi mjm_mutt_server.h
+ 2371  vi imap/message.c
+ 2372  vi mjm_mutt_server.c
+ 2373  vi mjm_mutt_server.h
+ 2374  vi imap/message.c
+ 2375  vi mjm_mutt_server.h
+ 2376  ls mjm*
+ 2377  vi mjm_mutt_server.h
+ 2378  vi mjm_mutt_server.c
+ 2379  vi mjm_mutt_server.h
+ 2380  vi mjm_mutt_server.c
+ 2381  vi mjm_mutt_server.h
+ 2382  vi mjm_mutt_server.c
+ 2383  make
+ 2384  $link_command 
+ 2385  vi imap/message.c
+ 2386  make
+ 2387  $link_command 
+ 2388  history | grep neomutt | grep scp
+ 2389  . cdcpp mikemail
+ 2390  scp /home/ubuntu/dev/neomutt/neomutt-20200501/libneomutt.so   mike@192.168.0.101:junk
+ 2391  vi /home/ubuntu/dev/neomutt/neomutt-20200501/mjm_mutt_server.h
+ 2392  grep set_read_flag `find -name "*.h"`
+ 2393  vi mikemail.h
+ 2394  ./run_mikemail -compile
+ 2395  history | grep scp
+ 2396  scp mikemail.out mike@192.168.0.101:junk
+ 2397  history | grep send
+ 2398  history | grep _cmd
+ 2399  ../mikemail_cmd.txt -send script.txt 
+ 2400  cd junk
+ 2401  ../mikemail_cmd.txt -send script.txt 
+ 2402  cd ..
+ 2403  vi mikemail.h
+ 2404  ./run_mikemail -compile
+ 2405  scp mikemail.out mike@192.168.0.101:junk
+ 2406  vi /home/ubuntu/dev/neomutt/neomutt-20200501/message.c
+ 2407  ls  /home/ubuntu/dev/neomutt/neomutt-20200501/
+ 2408  history | grep mess
+ 2409  ls  /home/ubuntu/dev/neomutt/neomutt-20200501/imap/message.c
+ 2410  vi  /home/ubuntu/dev/neomutt/neomutt-20200501/imap/message.c
+ 2411  . cddev neomutt
+ 2412  cd neomutt-20200501/
+ 2413  vi imap/message.c
+ 2414  grep STA  imap/message.c
+ 2415  grep STA  imap/*.c
+ 2416  grep STA  imap/*
+ 2417  grep STA  `find -type f`
+ 2418  grep STA  `find -type f` | more
+ 2419  vi imap/message.c
+ 2420  make
+ 2421  vi imap/message.c
+ 2422  make
+ 2423  $link_command 
+ 2424  history | grep scp
+ 2425  scp /home/ubuntu/dev/neomutt/neomutt-20200501/libneomutt.so   mike@192.168.0.101:junk
+ 2426  . cdcpp mikemail
+ 2427  ./run_mikemail -compile
+ 2428  history | grep scp
+ 2429  scp mikemail.out mike@192.168.0.101:junk
+ 2430  vi  /home/ubuntu/dev/neomutt/neomutt-20200501/imap/message.c
+ 2431  vi  /home/ubuntu/dev/neomutt/neomutt-20200501/mjm_mutt_server.h
+ 2432  vi  /home/ubuntu/dev/neomutt/neomutt-20200501/mjm_mutt_server.c
+ 2433  ls -al   /home/ubuntu/dev/neomutt/neomutt-20200501/mjm_mutt_server.c
+ 2434  vi mikemail.h
+ 2435  ./run_mikemail  -compile
+ 2436  history | grep scp
+ 2437  scp mikemail.out mike@192.168.0.101:junk
+ 2438  vi mikemail.h
+ 2439  ./run_mikemail  -compile
+ 2440  scp mikemail.out mike@192.168.0.101:junk
+ 2441  vi mikemail.h
+ 2442  ./run_mikemail  -compile
+ 2443  scp mikemail.out mike@192.168.0.101:junk
+ 2444  vi mikemail.h
+ 2445  ./run_mikemail  -compile
+ 2446  scp mikemail.out mike@192.168.0.101:junk
+ 2447  vi mjm_libetpan_readmsg.h
+ 2448  vi mikemail.h
+ 2449  ./run_mikemail  -compile
+ 2450  scp mikemail.out mike@192.168.0.101:junk
+ 2451  vi mikemail.h
+ 2452  vi mjm_libetpan_readmsg.h
+ 2453  vi mikemail.h
+ 2454  grep FolderStatus `find -type f`
+ 2455  grep mjm_folder_status  `find -type f`
+ 2456  vi mjm_libetpan_readmsg.h
+ 2457  ./run_mikemail  -compile
+ 2458  scp mikemail.out mike@192.168.0.101:junk
+ 2459  vi mjm_libetpan_readmsg.h
+ 2460  ./run_mikemail  -compile
+ 2461  scp mikemail.out mike@192.168.0.101:junk
+ 2462  vi mjm_libetpan_readmsg.h
+ 2463  vi mikemail.h
+ 2464  ./run_mikemail  -compile
+ 2465  scp mikemail.out mike@192.168.0.101:junk
+ 2466  vi mikemail.h
+ 2467  ./run_mikemail  -compile
+ 2468  scp mikemail.out mike@192.168.0.101:junk
+ 2469  vi mikemail.h
+ 2470  ./run_mikemail  -compile
+ 2471  scp mikemail.out mike@192.168.0.101:junk
+ 2472  vi mikemail.h
+ 2473  ./run_mikemail  -compile
+ 2474  scp mikemail.out mike@192.168.0.101:junk
+ 2475  history | grep message
+ 2476  vi  /home/ubuntu/dev/neomutt/neomutt-20200501/imap/message.c
+ 2477  vi  /home/ubuntu/dev/neomutt/neomutt-20200501/mjm_mutt_server.c
+ 2478  . cddec neomutt
+ 2479  . cddev neomutt
+ 2480  cd neomutt-20200501/
+ 2481  make
+ 2482  . ./setup
+ 2483  $link_command 
+ 2484  history | grep scp
+ 2485  scp /home/ubuntu/dev/neomutt/neomutt-20200501/libneomutt.so   mike@192.168.0.101:junk
+ 2486  . cdcpp mikemail
+ 2487  ./run_mikemail -compile
+ 2488  scp mikemail.out mike@192.168.0.101:junk
+ 2489  vi mikemail.h
+ 2490  ./run_mikemail -compile
+ 2491  scp mikemail.out mike@192.168.0.101:junk
+ 2492  vi muttdiet.txt 
+ 2493  ./backup
+ 2494  . cddev neomutt
+ 2495  cd neomutt-20200501/
+ 2496  cat hist_doing2 | grep zip
+ 2497  ls history/
+ 2498  find -type f | zip -@ libneomutt-2020-12-12.zip
+ 2499  ls -al *.zip
+ 2500  mv libneomutt-2020-12-12.zip `backupdir`
+ 2502  . cdcpp mikemail
+ 2503  vi mikemail.h
+ 2504  vi muttdiet.h
+ 2505  vi muttdiet.txt
+ 2506  vi muttdiet.h
+ 2507  vi mikemail.h
+ 2508  cat proc_
+ 2509  cat proc_yahoo
+ 2510  vi mikemail.h
+ 2511  history | grep Handl
+ 2512  history | grep handl
+ 2513  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2514  history | grep espon
+ 2515  vi mjm_mailproc/mjm_msg_responder.h 
+ 2516  vi mjm_generic_message.h 
+ 2517  vi mjm_mailproc/mjm_msg_responder.h 
+ 2518  ./run_mikemail 
+ 2519  ./run_mikemail -compile
+ 2520  vi mjm_generic_message.h 
+ 2521  vi mjm_mailproc/mjm_msg_responder.h 
+ 2522  ./run_mikemail -compile
+ 2523  scp mikemail.out mike@192.168.0.101:junk
+ 2524  ls mikemail*
+ 2525  find -mtime -1
+ 2526  history | grep script
+ 2527  cd junk
+ 2528  ../mikemail_cmd.txt -send script.txt 
+ 2529  cd ..
+ 2530  vi mjm_mailproc/mjm_msg_responder.h 
+ 2531  ./run_mikemail -compile
+ 2532  scp mikemail.out mike@192.168.0.101:junk
+ 2533  ./backup
+ 2534  cd junk
+ 2535  ../mikemail_cmd.txt -send script.txt 
+ 2536  cd ..
+ 2537  mail_cmd.txt -send script.txt 
+ 2538  cd junk
+ 2539  mail_cmd -send script.txt 
+ 2540  cd ..
+ 2541  ls -al  ~/.gnupg/
+ 2542  scp ~/.gnupg/pubring.gpg  mike@192.168.0.101:junk
+ 2543  gpg --list-keys
+ 2544  ls -al  ~/.gnupg/pubring.gpg 
+ 2545  ls -al  ~/.gnupg/
+ 2546  gpg -v --debug-level guru --list-keys
+ 2547  man gpg | grep debug-level
+ 2548  man gpg > xxx
+ 2549  vi xxx
+ 2550  gpg -v --debug-all  --list-keys
+ 2551  gpg --version
+ 2552  gpg --export
+ 2553  gpg --armor --export
+ 2554  ../mikemail_cmd.txt -send script.txt 
+ 2555  cd junk
+ 2556  ../mikemail_cmd.txt -send script.txt 
+ 2557  cd ..
+ 2558  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2559  ./backup
+ 2560  vi mjm_mailproc/mjm_mailproc_handler.h 
+ 2561  vi mikemail.h
+ 2562  grep m_proc_map  mikemail.h
+ 2563  vi mikemail.h
+ 2564  vi mjm_mailproc/mjm_mailproc.h 
+ 2565  vi mjm_mailproc/mjm_mailproc_handler.h
+ 2566  vi mjm_mailproc/mjm_mailproc.h 
+ 2567  vi mjm_mailproc/mjm_mailproc_handler.h
+ 2568  vi mjm_mailproc/mjm_mailproc_diet_handler.h 
+ 2569  vi mjm_mailproc/mjm_mailproc_file_req_handler.h 
+ 2570  vi mjm_mailproc/mjm_mailproc_user_handler.h 
+ 2571  vi mjm_mailproc/mjm_mailproc_csv_mmp_handler.h 
+ 2572  ./run_mikemail -compile
+ 2573  vi mjm_mailproc/mjm_mailproc.h 
+ 2574  ./run_mikemail -compile
+ 2575  ./backup
+ 2576  vi mikemail.h
+ 2577  vi muttdiet.txt 
+ 2578  more proc_yahoo
+ 2579  . cddev neomutt
+ 2580  cd neomutt-20200501/
+ 2581  vi message.c
+ 2582  ls
+ 2583  vi imap/message.c
+ 2584  vi imap/message.h
+ 2585  vi imap/message.c
+ 2586  find -mtime -2
+ 2587  vi imap/message.c
+ 2588  grep imap_copy_messages `find -type f`
+ 2589  grep -l imap_copy_messages `find -type f`
+ 2590  vi imap/lib.h
+ 2591  vi mjm_mutt_server.c
+ 2592  vi mjm_mutt_server.h
+ 2593  vi mjm_mutt_server.c
+ 2594  make
+ 2595  vi imap/lib.h
+ 2596  vi imap/message.c
+ 2597  vi mjm_mutt_server.c
+ 2598  make
+ 2599  $link_command 
+ 2600  history | grep zip
+ 2601  date
+ 2602  find -type f | zip -@ libneomutt-2020-12-12.zip
+ 2603  ls -al *.zip
+ 2604  rm  *.zip
+ 2605  find -size +10M
+ 2606  find -type f | grep -v "./libneomutt.a$" | zip -@ libneomutt-2020-12-13.zip
+ 2607  ls -al 
+ 2608  ls -al  *.zip
+ 2609  find -size +5M
+ 2610  find -type f | grep -v "^./libneomutt.a$\|^./libneomutt.so$" | zip -@ libneomutt-2020-12-13.zip
+ 2611  rm *.zip
+ 2612  find -type f | grep -v "^./libneomutt.a$\|^./libneomutt.so$" | zip -@ libneomutt-2020-12-13.zip
+ 2613  ls -al  *.zip
+ 2614  mv *.zip `backupdir`
+ 2615  . srecord
+ 2616  history >> hist_doing

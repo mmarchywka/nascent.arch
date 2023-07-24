@@ -1,0 +1,992 @@
+ 1068  ls *.eps
+ 1069  rm *.eps
+ 1070  ls junk
+ 1071  ls junk/Problem_EV/
+ 1072  find -size +1M
+ 1073  ls -al u.txt
+ 1074  ls wtf
+ 1075  mkdir /ubuntu/junk
+ 1076  mkdir /home/ubuntu/junk
+ 1077  mv wtf/* /home/ubuntu/junk
+ 1078  mv u.txt /home/ubuntu/junk/
+ 1079  mv fddump.txt /home/ubuntu/junk/
+ 1080  cd ..
+ 1081  ./backup
+ 1082  cd play
+ 1083  find -size +1M
+ 1084  cd ..
+ 1085  find -size +1M
+ 1086  ls -al junk
+ 1087  rm junk/u.txt
+ 1088  find -size +1M
+ 1089  mv play/PETSc-complex.so_xxx  /home/ubuntu/junk
+ 1090  find -size +100k
+ 1091  ls *.out
+ 1092  ./mjm_fem_scratch.out
+ 1093  ls *.out
+ 1094  rm mjm_fem_scratch.out
+ 1095  ls -al junk 
+ 1096  mv junk /home/ubuntu/junk
+ 1097  ls /home/ubuntu/junk
+ 1098  ./backup
+ 1099  cd play
+ 1100  history >> hist_doing 
+ 1101  . srecord
+ 1102  ls forum*
+ 1103  vi forum19.edp
+ 1104  ff-mpirun -np 1 forum19.edp  -wg
+ 1105  vi forum19.edp
+ 1106  ff-mpirun -np 1 forum19.edp  -wg
+ 1107  vi forum19.edp
+ 1108  ff-mpirun -np 1 forum19.edp  -wg
+ 1109  vi forum19.edp
+ 1110  ff-mpirun -np 1 forum19.edp  -wg
+ 1111  cp ~/Downloads/Example.edp  forum19.edp 
+ 1112  vi forum19.edp 
+ 1113  ff-mpirun -np 1 forum19.edp  -wg
+ 1114  ff-mpirun -np 2 forum19.edp  -wg
+ 1115  vi forum19.edp 
+ 1116  cp forum18.edp forum19orig.edp 
+ 1117  vi forum19.edp 
+ 1118  ff-mpirun -np 2 forum19.edp  -wg
+ 1119  vi forum19.edp 
+ 1120  ff-mpirun -np 2 forum19.edp  -wg
+ 1121  vi forum19.edp 
+ 1122  ff-mpirun -np 2 forum19.edp  -wg
+ 1123  vi forum19.edp 
+ 1124  ff-mpirun -np 2 forum19.edp  -wg
+ 1125  vi forum19.edp 
+ 1126  ff-mpirun -np 2 forum19.edp  -wg
+ 1127  vi forum19.edp 
+ 1128  ff-mpirun -np 2 forum19.edp  -wg
+ 1129  vi forum19.edp 
+ 1130  ff-mpirun -np 2 forum19.edp  -wg
+ 1131  vi forum19.edp 
+ 1132  ff-mpirun -np 2 forum19.edp  -wg
+ 1133  vi forum19.edp 
+ 1134  ff-mpirun -np 2 forum19.edp  -wg
+ 1135  vi forum19.edp 
+ 1136  ff-mpirun -np 2 forum19.edp  -wg
+ 1137  ff-mpirun -np 1 forum19.edp  -wg
+ 1138  vi forum19.edp 
+ 1139  ff-mpirun -np 1 forum19.edp  -wg
+ 1140  vi forum19.edp 
+ 1141  ff-mpirun -np 1 forum19.edp  -wg
+ 1142  vi forum19.edp 
+ 1143  ff-mpirun -np 1 forum19.edp  -wg
+ 1144  vi forum19.edp 
+ 1145  ff-mpirun -np 1 forum19.edp  -wg
+ 1146  vi forum19.edp 
+ 1147  ff-mpirun -np 1 forum19.edp  -wg
+ 1148  vi forum19.edp 
+ 1149  ff-mpirun -np 1 forum19.edp  -wg
+ 1150  vi forum19.edp 
+ 1151  ff-mpirun -np 1 forum19.edp  -wg
+ 1152  vi forum19.edp 
+ 1153  ff-mpirun -np 1 forum19.edp  -wg
+ 1154  vi forum19.edp 
+ 1155  ff-mpirun -np 1 forum19.edp  -wg
+ 1156  vi forum19.edp 
+ 1157  diff forum19*
+ 1158  echo  forum19*
+ 1159  diff forum19*
+ 1160  vi forum19.edp 
+ 1161  diff  forum19*
+ 1162  ls forum19*
+ 1163  more  forum19*
+ 1164  diff forum19.edp forum19orig.edp 
+ 1165  echo diff forum19.edp forum19orig.edp 
+ 1166  alias diff
+ 1167  diff
+ 1168  diff forum19.edp forum19orig.edp  | more
+ 1169  history | grep orig
+ 1170  rm forum19orig.edp 
+ 1171  history | grep electrop
+ 1172  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 200 -wg -save equsaven -vzed .2
+ 1173  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1174  vi electrop5.edp 
+ 1175  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1176  vi electrop5.edp 
+ 1177  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1178  vi electrop5.edp 
+ 1179  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1180  vi electrop5.edp 
+ 1181  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1182  vi electrop5.edp 
+ 1183  grep dt  electrop5.edp 
+ 1184  vi electrop5.edp 
+ 1185  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1186  vi electrop5.edp 
+ 1187  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1188  vi electrop5.edp 
+ 1189  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1190  vi electrop5.edp 
+ 1191  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1192  vi electrop5.edp 
+ 1193  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1194  vi electrop5.edp 
+ 1195  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1196  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 200 -wg -save equsaven -vzed .2
+ 1197  vi electrop5.edp 
+ 1198  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1199  vi electrop5.edp 
+ 1200  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1201  vi electrop5.edp 
+ 1202  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1203  vi electrop5.edp 
+ 1204  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1205  vi electrop5.edp 
+ 1206  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1207  vi electrop5.edp 
+ 1208  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1209  vi electrop5.edp 
+ 1210  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1211  vi electrop5.edp 
+ 1212  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1213  vi electrop5.edp 
+ 1214  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1215  vi electrop5.edp 
+ 1216  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1217  vi electrop5.edp 
+ 1218  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1219  vi electrop5.edp 
+ 1220  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1221  vi electrop5.edp 
+ 1222  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1223  vi electrop5.edp 
+ 1224  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1225  vi electrop5.edp 
+ 1226  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1227  vi electrop5.edp 
+ 1228  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1229  vi electrop5.edp 
+ 1230  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1231  vi electrop5.edp 
+ 1232  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1233  vi electrop5.edp 
+ 1234  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1235  vi electrop5.edp 
+ 1236  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1237  vi electrop5.edp 
+ 1238  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1239  vi electrop5.edp 
+ 1240  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1241  vi electrop5.edp 
+ 1242  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1243  vi electrop5.edp 
+ 1244  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1245  vi electrop5.edp 
+ 1246  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1247  vi electrop5.edp 
+ 1248  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1249  vi electrop5.edp 
+ 1250  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 200 -ny 200 -wg -load equsaven -vzed .2
+ 1251  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1252  vi electrop5.edp 
+ 1253  ff-mpirun -np 1 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1254  ff-mpirun -np 2 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1255  ff-mpirun -np 2 4lectrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1256  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1257  vi electrop5.edp 
+ 1258  vi electrop4.edp 
+ 1259  vi electrop5.edp 
+ 1260  cd ..
+ 1261  ./backup
+ 1262  cd play
+ 1263  df
+ 1264  vi electrop2.edp 
+ 1265  vi electrop5.edp 
+ 1266  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1267  . srecord
+ 1268  history >> hist_doing 
+ 1269  vi electrop5.edp 
+ 1270  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1271  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1272  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-09 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1273  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1274  vi electrop5.edp 
+ 1275  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1276  vi electrop5.edp 
+ 1277  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1278  vi electrop5.edp 
+ 1279  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1280  vi electrop5.edp 
+ 1281  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1282  vi electrop5.edp 
+ 1283  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1284  vi electrop5.edp 
+ 1285  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1286  vi electrop5.edp 
+ 1287  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1288  vi electrop5.edp 
+ 1289  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1290  vi electrop5.edp 
+ 1291  grep "A\." *.edp
+ 1292  vi electrop5.edp 
+ 1293  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1294  vi electrop5.edp 
+ 1295  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2
+ 1296  vi electrop5.edp 
+ 1297  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2 | more
+ 1298  vi electrop5.edp 
+ 1299  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1300  vi electrop5.edp 
+ 1301  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1302  vi electrop5.edp 
+ 1303  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1304  vi electrop5.edp 
+ 1305  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1306  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1307  me -li
+ 1308  vi electrop5.edp 
+ 1309  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1310  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-10 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1311  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1312  vi electrop5.edp 
+ 1313  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1314  vi electrop5.edp 
+ 1315  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1316  vi electrop5.edp 
+ 1317  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1318  vi electrop5.edp 
+ 1319  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1320  vi electrop5.edp 
+ 1321  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1322  vi electrop5.edp 
+ 1323  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1324  vi electrop5.edp 
+ 1325  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1326  vi electrop5.edp 
+ 1327  history | grep save
+ 1328  history | grep save | grep -v load
+ 1329  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 200 -wg -save equsaven -vzed .2
+ 1330  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 2e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1331  mv ~/Downloads/cubens.edp forum20.edp
+ 1332  vi forum20.edp 
+ 1333  ff-mpirun -np 1  forum20.edp  -wg
+ 1334  ls home/ubuntu/dev//freefem/install/lib/ff++/4.12/lib/mpi/
+ 1335  ls /home/ubuntu/dev//freefem/install/lib/ff++/4.12/lib/mpi/
+ 1336  ls /home/ubuntu/dev//freefem/install/lib/ff++/4.12/lib/mpi/ | grep -i gen
+ 1337  vi forum20.edp 
+ 1338  ff-mpirun -np 1  forum20.edp  -wg
+ 1339  vi forum20.edp 
+ 1340  ff-mpirun -np 1  forum20.edp  -wg
+ 1341  ff-mpirun -np 1  f4rum20.edp  -wg
+ 1342  ff-mpirun -np 4  forum20.edp  -wg
+ 1343  vi forum20.edp 
+ 1344  vi electrop5.edp 
+ 1345  vi forum20.edp 
+ 1346  ff-mpirun -np 4  forum20.edp  -wg
+ 1347  vi forum20.edp 
+ 1348  ff-mpirun -np 4  forum20.edp  -wg
+ 1349  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 200 -wg -save equsaven -vzed .2
+ 1350  vi electrop5.edp 
+ 1351  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 200 -wg -save equsaven -vzed .2
+ 1352  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1353  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1354  vi electrop5.edp 
+ 1355  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1356  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 200 -wg -save equsaven -vzed .2
+ 1357  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 0e-11 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1358  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1359  vi electrop5.edp 
+ 1360  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1361  vi electrop5.edp 
+ 1362  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 200 -wg -save equsaven -vzed .2
+ 1363  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 100 -wg -load equsaven -vzed .2 
+ 1364  vi forum20.edp
+ 1365  FreeFem++ forum20.edp 
+ 1366  vi forum20.edp
+ 1367  FreeFem++ forum20.edp 
+ 1368  vi forum20.edp
+ 1369  vi electrop5.edp 
+ 1370  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1371  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 200 -ny 200 -wg -load equsaven -vzed .2 
+ 1372  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 50 -wg -load equsaven -vzed .2 
+ 1373  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 20 -wg -load equsaven -vzed .2 
+ 1374  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 200 -wg -load equsaven -vzed .2 
+ 1375  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 300 -wg -load equsaven -vzed .2 
+ 1376  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 300 -ny 100 -wg -save equsaven -vzed .2
+ 1377  vi electrop5.edp 
+ 1378  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1379  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 300 -wg -load equsaven -vzed .2 
+ 1380  vi electrop5.edp 
+ 1381  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1382  vi electrop5.edp 
+ 1383  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1384  vi electrop5.edp 
+ 1385  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1386  vi electrop5.edp 
+ 1387  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1388  vi electrop5.edp 
+ 1389  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1390  vi electrop5.edp 
+ 1391  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1392  vi electrop5.edp 
+ 1393  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1394  vi electrop5.edp 
+ 1395  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1396  grep exec
+ 1397  grep exec *.edp
+ 1398  grep exec *.edp | more
+ 1399  vi xxx.edp
+ 1400  FreeFem++ xxx.edp
+ 1401  vi xxx.edp
+ 1402  FreeFem++ xxx.edp
+ 1403  vi xxx.edp
+ 1404  FreeFem++ xxx.edp
+ 1405  vi xxx.edp
+ 1406  FreeFem++ xxx.edp
+ 1407  vi xxx.edp
+ 1408  FreeFem++ xxx.edp
+ 1409  vi xxx.edp
+ 1410  FreeFem++ xxx.edp
+ 1411  vi xxx.edp
+ 1412  FreeFem++ xxx.edp
+ 1413  cat foo.txt 
+ 1414  vi xxx.edp
+ 1415  FreeFem++ xxx.edp
+ 1416  vi xxx.edp
+ 1417  FreeFem++ xxx.edp
+ 1418  cat foo.txt
+ 1419  grep ">>" *
+ 1420  grep "ifs" *
+ 1421  vi xxx.edp
+ 1422  FreeFem++ xxx.edp
+ 1423  vi xxx.edp
+ 1424  FreeFem++ xxx.edp
+ 1425  vi forum20.edp
+ 1426  FreeFem++ forum20.edp 
+ 1427  vi forum20.edp
+ 1428  FreeFem++ forum20.edp 
+ 1429  vi forum20.edp
+ 1430  FreeFem++ forum20.edp 
+ 1431  vi forum20.edp
+ 1432  FreeFem++ forum20.edp 
+ 1433  vi forum20.edp
+ 1434  FreeFem++ forum20.edp 
+ 1435  vi forum20.edp
+ 1436  FreeFem++ forum20.edp 
+ 1437  vi forum20.edp
+ 1438  . srecord
+ 1439  history >> hist_doing 
+ 1440  vi electrop5.edp 
+ 1441  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1442  vi electrop5.edp 
+ 1443  ff-mpirun -np 4 electrop5.edp -itermax 2000 -dt 1e-12 -nx 100 -ny 300 -wg -load equsaven -vzed .2 
+ 1444  vi electrop5.edp 
+ 1445  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1446  vi electrop5.edp 
+ 1447  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1448  vi electrop5.edp 
+ 1449  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1450  vi electrop5.edp 
+ 1451  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1452  vi electrop5.edp 
+ 1453  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1454  vi electrop5.edp 
+ 1455  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1456  vi electrop5.edp 
+ 1457  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1458  vi electrop5.edp 
+ 1459  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1460  vi electrop5.edp 
+ 1461  cd ..
+ 1462  ./backup
+ 1463  find -mtime -2
+ 1464  ls
+ 1465  mv play archive
+ 1466  vi ./setup
+ 1467  cat backup
+ 1468  vi ./setup
+ 1469  ./backup
+ 1470  . ./setup
+ 1471  ./backup
+ 1472  vi ./setup
+ 1473  cat backup
+ 1474  newbackup -filter bfilter
+ 1475  vi ./setup
+ 1476  . ./setup
+ 1477  ./backup
+ 1478  mkdir play
+ 1479  cp archive/forum20.edp play
+ 1480  cp archive/electrop5.edp play
+ 1481  ./backup
+ 1482  ls
+ 1483  ./mjm_string_kvp.out
+ 1484  ls *.h
+ 1485  cd play
+ 1486  cp ../archive/xxx.edp .
+ 1487  vi xxx.edp 
+ 1488  FreeFem++ xxx.edp
+ 1489  vi xxx.edp 
+ 1490  FreeFem++ xxx.edp
+ 1491  cat foo.txt 
+ 1492  ls
+ 1493  vi xxx.edp 
+ 1494  ls
+ 1495  cat foo.txt 
+ 1496  FreeFem++ xxx.edp
+ 1497  cat foo.txt 
+ 1498  cp ../archive/*.idp .
+ 1499  grep ifstream ../archive/*
+ 1500  vi ../archive/manual.tex 
+ 1501  vi xxx.edp 
+ 1502  FreeFem++ xxx.edp
+ 1503  cat foo.txt 
+ 1504  vi ../archive/manual.tex 
+ 1505  ls -al foo.txt 
+ 1506  vi xxx.edp 
+ 1507  cat foo.txt 
+ 1508  FreeFem++ xxx.edp
+ 1509  vi xxx.edp 
+ 1510  FreeFem++ xxx.edp
+ 1511  vi xxx.edp 
+ 1512  FreeFem++ xxx.edp
+ 1513  cat foo.txt 
+ 1514  vi xxx.edp 
+ 1515  FreeFem++ xxx.edp
+ 1516  cat foo.txt 
+ 1517  vi xxx.edp 
+ 1518  FreeFem++ xxx.edp
+ 1519  vi ../archive/manual.tex 
+ 1520  vi xxx.edp 
+ 1521  FreeFem++ xxx.edp
+ 1522  vi xxx.edp 
+ 1523  FreeFem++ xxx.edp
+ 1524  vi ../archive/manual.tex 
+ 1525  vi xxx.edp 
+ 1526  FreeFem++ xxx.edp
+ 1527  vi xxx.edp 
+ 1528  FreeFem++ xxx.edp
+ 1529  cat xxx.edp
+ 1530  history | grep electrop
+ 1531  ls
+ 1532  vi forum20.edp 
+ 1533  vi ../archive/manual.tex 
+ 1534  vi electrop5.edp 
+ 1535  vi ../archive/manual.tex 
+ 1536  vi electrop5.edp 
+ 1537  history | grep -v load
+ 1538  history | grep -v load | grep elec
+ 1539  ff-mpirun -np 1 electrop5.edp -itermax 2 -dt 2e-11 -nx 200 -ny 100 -wg -save equsaven -vzed .2
+ 1540  ls
+ 1541  more equsaven.msh 
+ 1542  vi forum20.edp 
+ 1543  cd ..
+ 1544  evince FreeFEM-documentation.pdf 
+ 1545  ldd `which evince`
+ 1546  apropos viewer | grep -i pdf
+ 1547  gs FreeFEM-documentation.pdf 
+ 1548  man gs
+ 1549  more play/equsaven.msh 
+ 1550  vi play/equsaven.msh 
+ 1551  ls *.h
+ 1552  vi mjm_etchfront.h
+ 1553  cpputil -classhdr mjm_ff_mesh
+ 1554  vi mjm_ff_mesh.h 
+ 1555  more freefem.h
+ 1556  ./freefem.out
+ 1557  ./run_freefem -compile
+ 1558  ./freefem.out
+ 1559  vi mjm_etchfront.h
+ 1560  vi mjm_ff_mesh.h 
+ 1561  vi freefem.h
+ 1562  vi mjm_etchfront.h
+ 1563  vi mjm_ff_mesh.h 
+ 1564  grep myatio *
+ 1565  grep myatoi *
+ 1566  grep myatoi * | grep Id
+ 1567  vi freefem.h
+ 1568  vi mjm_ff_mesh.h 
+ 1569  vi freefem.h
+ 1570  vi mjm_ff_mesh.h 
+ 1571  ++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1572  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1573  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1574  vi mjm_ff_mesh.h 
+ 1575  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1576  vi mjm_ff_mesh.h 
+ 1577  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1578  vi mjm_ff_mesh.h 
+ 1579  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1580  vi mjm_ff_mesh.h 
+ 1581  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1582  vi mjm_ff_mesh.h 
+ 1583  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1584  vi mjm_ff_mesh.h 
+ 1585  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1586  vi mjm_ff_mesh.h 
+ 1587  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1588  vi mjm_ff_mesh.h 
+ 1589  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1590  ./backup
+ 1591  vi mjm_ff_mesh.h 
+ 1592  vi play/forum20.edp 
+ 1593  cd play
+ 1594  FreeFem++ forum20.edp 
+ 1595  vi forum20.edp 
+ 1596  ls ../archive/ | grep 20
+ 1597  cd ..
+ 1598  vi mjm_ff_mesh.h 
+ 1599  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1600  vi mjm_ff_mesh.h 
+ 1601  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1602  ls play
+ 1603  ./mjm_ff_mesh.out 
+ 1604  vi mjm_ff_mesh.h 
+ 1605  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1606  ./mjm_ff_mesh.out 
+ 1607  grep " 5$" play/equsaven.msh 
+ 1608  grep " 5$" play/equsaven.msh  | more
+ 1609  vi play/equsaven.msh  
+ 1610  vi mjm_ff_mesh.h 
+ 1611  grep precision *.h
+ 1612  vi mjm_ff_mesh.h 
+ 1613  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1614  vi mjm_ff_mesh.h 
+ 1615  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1616  vi mjm_ff_mesh.h 
+ 1617  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0 -Wno-misleading-indentation  -x c++ mjm_ff_mesh.h  -o mjm_ff_mesh.out -lpthread -lreadline
+ 1618  ./mjm_ff_mesh.out 
+ 1619  diff play/dum.msh play/equsaven.msh 
+ 1620  grep " 5$" play/equsaven.msh  | more
+ 1621  cd play
+ 1622  vi forum20.edp 
+ 1623  FreeFem++ forum20.edp 
+ 1624  vi forum20.edp 
+ 1625  FreeFem++ forum20.edp 
+ 1626  vi forum20.edp 
+ 1627  FreeFem++ forum20.edp 
+ 1628  vi forum20.edp 
+ 1629  FreeFem++ forum20.edp 
+ 1630  vi forum20.edp 
+ 1631  FreeFem++ forum20.edp 
+ 1632  vi forum20.edp 
+ 1633  FreeFem++ forum20.edp 
+ 1634  vi forum20.edp 
+ 1635  FreeFem++ forum20.edp 
+ 1636  vi forum20.edp 
+ 1637  FreeFem++ forum20.edp 
+ 1638  vi forum20.edp 
+ 1639  FreeFem++ forum20.edp 
+ 1640  vi forum20.edp 
+ 1641  FreeFem++ forum20.edp 
+ 1642  vi forum20.edp 
+ 1643  FreeFem++ forum20.edp 
+ 1644  vi forum20.edp 
+ 1645  FreeFem++ forum20.edp 
+ 1646  vi forum20.edp 
+ 1647  FreeFem++ forum20.edp 
+ 1648  vi forum20.edp 
+ 1649  FreeFem++ forum20.edp 
+ 1650  vi forum20.edp 
+ 1651  FreeFem++ forum20.edp 
+ 1652  vi forum20.edp 
+ 1653  FreeFem++ forum20.edp 
+ 1654  vi forum20.edp 
+ 1655  FreeFem++ forum20.edp 
+ 1656  cd ..
+ 1657  grep " 5$" play/equsaven.msh  | more
+ 1658  grep " 5$" play/equsaven.msh  
+ 1659  pdftotext
+ 1660  grep " 5$" play/equsaven.msh  | more |awk '{ if ($3=="5") print $0}' | more
+ 1661  grep " 5$" play/equsaven.msh  | more |awk '{ if ($3=="5") print $0}' | grep -v "\." | more
+ 1662  cat play/equsaven.msh  | grep 27194 |  grep 27202
+ 1663  df
+ 1664  ./backup
+ 1665  cd play/
+ 1666  mv ~/Downloads/Example3Dlabels.edp forum21.edp
+ 1667  vi forum21.edp 
+ 1668  FreeFem++ forum21.edp 
+ 1669  vi forum21.edp 
+ 1670  FreeFem++ forum21.edp 
+ 1671  vi forum21.edp 
+ 1672  FreeFem++ forum21.edp 
+ 1673  vi forum21.edp 
+ 1674  FreeFem++ forum21.edp 
+ 1675  vi forum21.edp 
+ 1676  cd ..
+ 1677  ls *.h
+ 1678  cpputil -classhdr mjm_ff_mesh_adapt
+ 1679  vi mjm_ff_mesh_adapt.h 
+ 1680  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH_ADAPT -Wno-misleaing-indentation  -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_ff_mesh_adapt.h  -o mjm_ff_mesh_adapt.out -lpthread -lreadline
+ 1681  vi mjm_ff_mesh_adapt.h 
+ 1682  g++  -Wall -std=gnu++11 -DTEST_MJM_FF_MESH_ADAPT -Wno-misleading-indentation  -I. -I../../mjm/hlib -I../../mjm/num  -gdwarf-3 -O0  -x c++ mjm_ff_mesh_adapt.h  -o mjm_ff_mesh_adapt.out -lpthread -lreadline
+ 1683  . srecord
+ 1684  hisotry >> hist_doing 
+ 1685  . cddev
+ 1686  ls
+ 1687  du -sbc *
+ 1688  find dviasm -size +100<
+ 1689  find dviasm -size +100M
+ 1690  ls dviasm/
+ 1691  find evince  | zip -@ evince-dev-2023-05-24.zip
+ 1692  ls -al
+ 1693  du -sbc *
+ 1694  find neomutt  | zip -@ neomutt-dev-2023-05-24.zip
+ 1695  find libetpan/  | zip -@ libetpan-dev-2023-05-24.zip
+ 1696  du -sbc *
+ 1697  find dviasm/  | zip -@ dviasm-dev-2023-05-24.zip
+ 1698  du -sbc *
+ 1699  find exiftool/  | zip -@ exiftool-dev-2023-05-24.zip
+ 1700  du -sbc *
+ 1701  df
+ 1702  ls ~/mnt
+ 1703  mv *.zip ~/mnt/devarch/
+ 1704  df
+ 1705  dmesg
+ 1706  ping google.com
+ 1707  startup -start
+ 1708  startup -fix
+ 1709  dmesg
+ 1710  apt-cache search thermal
+ 1711  acpi
+ 1712  sudo apt-get install acpi
+ 1713  acpi
+ 1714  acpi --help
+ 1715  acpi -t -c
+ 1716  acpi -V
+ 1717  acpi -b
+ 1718  man hibernate
+ 1719  apropos hibernate
+ 1720  man suspend
+ 1721  apropos suspend
+ 1722  find /etc | grep sleep
+ 1723  more /etc/systemd/sleep.conf 
+ 1724  acpi -V
+ 1725  viw thermal
+ 1726  thermal --status
+ 1727  viw thermal
+ 1728  cat /sys/class/thermal/thermal_zone0/temp
+ 1729  cat /sys/class/thermal/thermal_zone1/temp
+ 1730  cat /sys/class/thermal/thermal_zone2/temp
+ 1731  cat /sys/class/thermal/thermal_zone0/type
+ 1732  cat /sys/class/thermal/thermal_zone0/emul_temp 
+ 1733  cat /sys/class/thermal/thermal_zone0/hwmon0/uevent 
+ 1734  cat /sys/class/thermal/thermal_zone0/hwmon0/name
+ 1735  cat /sys/class/thermal/thermal_zone0/hwmon0/subsystem
+ 1736  cat /sys/class/thermal/thermal_zone0/hwmon0/subsystem/hwmon0/name
+ 1737  cat /sys/class/thermal/cooling_device0/type
+ 1738  cat /sys/class/thermal/cooling_device1/type
+ 1739  cat /sys/class/thermal/cooling_device2/type
+ 1740  cat /sys/class/thermal/cooling_device9/type
+ 1741  cat /sys/class/thermal/cooling_device8/type
+ 1742  cat /sys/class/thermal/cooling_device5/type
+ 1743  cat /sys/class/thermal/cooling_device3/cur_state 
+ 1744  cat /sys/class/thermal/cooling_device0/cur_state 
+ 1745  cat /sys/class/thermal/cooling_device0/max_state 
+ 1746  cat /sys/class/thermal/cooling_device1/max_state 
+ 1747  cat /sys/class/thermal/cooling_device2/max_state 
+ 1748  cat /sys/class/thermal/cooling_device5/max_state 
+ 1749  cat /sys/class/thermal/cooling_device5/type
+ 1750  cat /sys/class/thermal/cooling_device5/stats/
+ 1751  cat /sys/class/thermal/cooling_device5/cur_state 
+ 1753  newbackup -incmnt
+ 1754  rxyncm
+ 1755  rsyncm
+ 1756  which google-chrome
+ 1757  strings /usr/bin/google-chrome-stable | more
+ 1758  readlink -f  /usr/bin/google-chrome-stable 
+ 1759  ldd /opt/google/chrome/chrome
+ 1760  ls /opt/google/chrome/
+ 1761  strings /usr/bin/google-chrome-stable | more 
+ 1762  google-chrome-stable --headless --disable-gpu
+ 1763  google-chrome-stable --headless --help
+ 1764  google-chrome-stable --headless --version
+ 1765  top
+ 1766  df
+ 1767  sudo umount /dev/sdb1
+ 1768  df
+ 1769  dmesg
+ 1770  . cdlatex cases
+ 1771  startup -start
+ 1772  dmesg
+ 1773  daily.txt 
+ 1774  mudaily.txt -nouns
+ 1775  daily.txt 
+ 1776  mudaily.txt -nouns
+ 1777  daily.txt 
+ 1778  mail_cmd -snap-remote
+ 1779  ls -al /home/marchywka/.gnupg/
+ 1780  chmod 600  /home/marchywka/.gnupg/
+ 1781  pass amazon
+ 1782  daily.txt 
+ 1783  acpi -t
+ 1784  ls
+ 1785  exifutil -list zzzz
+ 1786  whic exifutil 
+ 1787  which exifutil 
+ 1788  find -mtime -1
+ 1789  viw exifutil
+ 1790  which -a exifutil 
+ 1791  viw exifutil
+ 1792  exifutil -list zzzz
+ 1793  viw exifutil
+ 1794  exifutil -list zzzz
+ 1795  cat xxx
+ 1796  more xxx
+ 1797  exifutil
+ 1798  viw exifutil
+ 1799  ls -t
+ 1800  viw exifutil
+ 1801  exifutil -list zzzz
+ 1802  viw exifutil
+ 1803  ls /home/ubuntu/dev/exiftool/Image-ExifTool-11.75/exiftool
+ 1804  apt-cache search exiftool
+ 1805  apropos exiftool
+ 1806  ls /home/scripts/links
+ 1807  ls /home/scripts/links | grep 2022
+ 1808  rm `ls /home/scripts/links | grep 2022 `
+ 1809  echo  `find  /home/scripts/links | grep 2022 `
+ 1810  rm  `find  /home/scripts/links | grep 2022 `
+ 1811  ls /home/scripts/links 
+ 1812  ls -al /home/scripts/links/exiftool/
+ 1813  ls -al /home/scripts/links/exiftool/lib/File/RandomAccess.p
+ 1814  ls -al /home/scripts/links/exiftool/lib/File/RandomAccess.pm
+ 1815  ls -al /home/scripts/links/exiftool/lib/Image/ExifTool/ 
+ 1816  find /home/scripts -name exiftool
+ 1817  find /home/scripts -name exiftool -type f
+ 1818  find /home/ubuntu/dev/exiftool/ -name exiftool
+ 1819  ls -al `find /home/ubuntu/dev/exiftool/ -name exiftool `
+ 1820  ls -al /home/scripts/links/exiftool/
+ 1821  daily.txt 
+ 1822  ls -al `find /home/ubuntu/dev/exiftool/ -name exiftool `
+ 1823  /home/ubuntu/dev/exiftool/Image-ExifTool-11.75/blib/script/exiftool
+ 1824  newbackup -incmnt
+ 1825  rsyncm
+ 1826  viw rsyncm
+ 1827  rsyncm
+ 1828  ls ~/.local/share/tracker/data/tracker-store.journal 
+ 1829  strings  ~/.local/share/tracker/data/tracker-store.journal 
+ 1830  strings  ~/.local/share/tracker/data/tracker-store.journal  | more
+ 1831  man locate
+ 1832  man updatedb
+ 1833  sudo greo updatedb `find  /etc/cron -type f`
+ 1834  sudo greo updatedb `find  /etc -type f`
+ 1835  sudo grep updatedb `find  /etc -type f`
+ 1836  vi /etc/cron.daily/mlocate 
+ 1837  sudo co /etc/cron.daily/mlocate  
+ 1838  vi /etc/cron.daily/mlocate 
+ 1839  sudo vi /etc/cron.daily/mlocate 
+ 1840  . cddev exiftool
+ 1841  ls
+ 1842  cd Image-ExifTool-11.75/
+ 1843  ls
+ 1844  more README 
+ 1845  ls
+ 1846  more README 
+ 1847  ls
+ 1848  ./exiftool META.json
+ 1849  ls t
+ 1850  ls
+ 1851  cd /home/scripts/links
+ 1852  ls
+ 1853  cd exiftool/
+ 1854  ls
+ 1855  cd lib/
+ 1856  ls
+ 1857  cd Image/
+ 1858  ls
+ 1859  ls ExifTool
+ 1860  . cddev exiftool
+ 1861  cd Image-ExifTool-11.75/
+ 1862  ls
+ 1863  perl Makefile.PL
+ 1864  find -name ib
+ 1865  find -name lib
+ 1866  cd blib
+ 1867  ls
+ 1868  cd lib
+ 1869  cd /home/scripts/links/exiftool/
+ 1870  ls
+ 1871  cd lib/
+ 1872  ls
+ 1873  cd Image/
+ 1874  ls
+ 1875  cd ExifTool/
+ 1876  ls
+ 1877  cd ..
+ 1878  ls
+ 1879  cd /home/scripts/links/exiftool/
+ 1880  cd lib/
+ 1881  cd ..
+ 1882  ls
+ 1883  . cddev exiftool
+ 1884  cd Image-ExifTool-11.75/
+ 1885  ls
+ 1886  perl Makefile.PL
+ 1887  more README 
+ 1888  cd ..
+ 1889  ls
+ 1890  mv Image-ExifTool-11.75 Image-ExifTool-11.75_old
+ 1891  tar -xvf Image-ExifTool-11.75
+ 1892  tar -xvf Image-ExifTool-11.75.tar 
+ 1893  cd Image-ExifTool-11.75
+ 1894  ls
+ 1895  ./exiftool Changes
+ 1896  perl Makefile.PL
+ 1897  more RE
+ 1898  more README 
+ 1899  viw exifutil
+ 1900  more README 
+ 1901  ls
+ 1902  vi Makefile
+ 1903  grep SIREPRE `find -type f`
+ 1904  grep SITEPRE `find -type f`
+ 1905  vi Makefile
+ 1906  mkdir ../install
+ 1907  make
+ 1908  make test
+ 1909  make install
+ 1910  vi Makefile
+ 1911  make install
+ 1912  vi Makefile
+ 1913  cd ..
+ 1914  cd install/
+ 1915  ls
+ 1916  ls bin
+ 1917  ls
+ 1918  cd bin
+ 1919  ls
+ 1920  cd ..
+ 1921  ls
+ 1922  cd Image-ExifTool-11.75
+ 1923  ls
+ 1924  pwd
+ 1925  viw which exifutil
+ 1926  viw exifutil
+ 1927  vi Makefile
+ 1928  make install
+ 1929  perl --version
+ 1930  readlink -f .
+ 1931  viw exifutil
+ 1933  . cdcpp cases
+ 1934  . cdlatex cases
+ 1935  daily.txt 
+ 1936  mudaily -nouncs
+ 1937  mudaily -nouns
+ 1938  mudaily.txt -nouns
+ 1939  daily.txt 
+ 1940  newbackup -incmnt
+ 1942  dmesg
+ 1943  df
+ 1944  daily.txt 
+ 1945  ls ~/mnt
+ 1946  ls ~/mnt/old
+ 1947  mkdir ~/mnt/devarch
+ 1948  df
+ 1949  daily.txt 
+ 1950  pass git
+ 1951  daily.txt 
+ 1952  mudaily -nouns
+ 1953  mudaily.txt -nouns
+ 1954  daily.txt 
+ 1955  newbackup -incmnt
+ 1956  rsyncm
+ 1957  dmesg
+ 1959  daily.txt 
+ 1960  mudaily.txt -nouns
+ 1961  daily.txt 
+ 1962  newbackup -incmnt
+ 1963  rsyncm
+ 1964  dmesg
+ 1965  df
+ 1967  dmesg
+ 1968  daily.txt 
+ 1969  mudaily.txt  -nouns
+ 1970  daily.txt 
+ 1971  mudaily.txt  -nouns
+ 1972  daily.txt 
+ 1973  dmesg
+ 1974  mudaily.txt  -nouns
+ 1975  daily.txt 
+ 1976  newbackup -incmnt
+ 1977  rsyncm
+ 1978  dmesg
+ 1979  newbackup -incmnt
+ 1981  dmesg
+ 1982  daily.txt 
+ 1983  newbackup -incmnt
+ 1984  rsyncm
+ 1986  sync
+ 1987  df
+ 1988  dmesg
+ 1989  df
+ 1990  daily.txt 
+ 1992  sync
+ 1993  dmesg
+ 1994  sudo umount /dev/sdb1
+ 1995  df
+ 1996  dmesg
+ 1997  sync
+ 1998  demsg
+ 1999  dmesg
+ 2000  df
+ 2001  . cdcpp toobib
+ 2002  grep system *.h
+ 2003  vihdr mjm_pawnoff.h
+ 2004  top
+ 2005  ping gogoogle.com
+ 2006  ping gogogle.com
+ 2007  ping gooogle.com
+ 2008  df
+ 2009  dmesg
+ 2010  . cdcpp mikemail
+ 2011  ./run_mikemail -compile
+ 2012  cp mjm_libetpan_readmsg.h mjm_libetpan_readmsg.h_orig
+ 2013  vi mjm_libetpan_readmsg.h
+ 2014  ./run_mikemail -compile
+ 2015  vi run_mikemail
+ 2016  ./run_mikemail -compile
+ 2017  vi run_mikemail
+ 2018  ./run_mikemail -compile
+ 2019  vi run_mikemail
+ 2020  ./run_mikemail -compile
+ 2021  vi run_mikemail
+ 2022  cp /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0 libglib-2.0.so
+ 2023  vi run_mikemail
+ 2024  ./run_mikemail -compile
+ 2025  vi README.txt 
+ 2026  ./backup
+ 2027  . srecord
+ 2028  history >> hist_doing
+ 2029  cd /home/ubuntu/dev/
+ 2030  ls
+ 2031  ls neomutt/
+ 2032  mv neomutt/ neomutt_old/
+ 2033  cp -rp neomutt_old/* neomutt
+ 2034  mkdir neomutt
+ 2035  cp -rp neomutt_old/* neomutt
+ 2036  ls neomutt
+ 2037  cd neomutt
+ 2038  ls
+ 2039  ls neomutt-20200501/
+ 2040  ls -al libneomutt.so 
+ 2041  cd neomutt-20200501/
+ 2042  cd ../neomutt-neomutt-20171215/
+ 2043  ls
+ 2044  ls 
+ 2045  cd ..
+ 2046  grep mjm `find -type f`
+ 2047  grep -l mjm `find -type f`
+ 2048  grep -l mjm `find -type f` | more
+ 2049  cd neomutt-20200501/
+ 2050  cat hist_doing_edited 
+ 2051  ls -al lib*.so
+ 2052  ls -al ,,.lib*.so
+ 2053  ls -al ../lib*.so
+ 2054  cat hist_doing_edited 
+ 2055  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2056  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi_krb5-2 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2057  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -lgssapi-krb5-2 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2058  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -L /usr/lib/x86_64-linux-gnu/mit-krb5/  -lgssapi-krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2059  ls *.so
+ 2060  cp /usr/lib/x86_64-linux-gnu/mit-krb5/libgssapi_krb5.so . 
+ 2061  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -L .  -lgssapi-krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2062  history | highlight gssapi
+ 2063  ls *.so
+ 2064  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -L .  -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2065  cp /usr/lib/x86_64-linux-gnu/libgnutls.so.30 libgnutls.so
+ 2066  cc -shared -o libneomutt.so addrbook.o alias.o browser.o commands.o complete.o compose.o conststrings.o context.o copy.o edit.o editmsg.o enriched.o enter.o flags.o functions.o git_ver.o handler.o hdrline.o help.o hook.o icommands.o index.o init.o keymap.o mailcap.o main.o  menu.o mutt_account.o mutt_attach.o mutt_body.o mutt_header.o mutt_history.o mutt_logging.o mutt_mailbox.o mutt_parse.o mutt_signal.o mutt_socket.o mutt_thread.o muttlib.o mx.o myvar.o pager.o pattern.o postpone.o progress.o query.o recvattach.o recvcmd.o resize.o rfc3676.o score.o send.o sendlib.o sidebar.o smtp.o sort.o state.o status.o system.o version.o mutt_commands.o mutt_config.o command_parse.o monitor.o mjm_main_structs.o mjm_mutt_server.o libpop.a libnntp.a libcompmbox.a libstore.a libgui.a libmbox.a libmaildir.a libncrypt.a libimap.a libconn.a libhcache.a libbcache.a libhistory.a libcore.a libconfig.a libemail.a libaddress.a libmutt.a -L/usr/lib -L/usr/lib/x86_64-linux-gnu/mit-krb5 -Wl,-Bsymbolic-functions -Wl,-z,relro -L .  -lgssapi_krb5 -lkrb5 -lk5crypto -lcom_err  -ltokyocabinet -lreadline -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl  -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+ 2067  history >> hist_focal

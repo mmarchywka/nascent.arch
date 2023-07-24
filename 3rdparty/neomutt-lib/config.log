@@ -1,0 +1,297 @@
+Invoked as: ./configure --gnutls --gpgme --gss --sasl --tokyocabinet --disable-doc
+Tclsh: /usr/bin/tclsh
+Failed: cc -g -O2 -std=c99 -c -std=c99 conftest__.c -o conftest__.o
+conftest__.c:1:26: fatal error: minix/config.h: No such file or directory
+compilation terminated.
+child process exited abnormally
+============
+The failed code was:
+#include <minix/config.h>
+int main(void) {
+
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -c -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__.o
+conftest__.c: In function ‘main’:
+conftest__.c:8:6: error: #error little
+     #error little
+      ^
+child process exited abnormally
+============
+The failed code was:
+#include <sys/types.h>
+#include <sys/param.h>
+int main(void) {
+
+			#if !defined(BIG_ENDIAN) || !defined(BYTE_ORDER)
+				#error unknown
+			#elif BYTE_ORDER != BIG_ENDIAN
+				#error little
+			#endif
+		
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -c -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__.o
+conftest__.c: In function ‘main’:
+conftest__.c:3:12: error: size of array ‘_x’ is negative
+ static int _x[sizeof(off_t) == 4 ? 1 : -1] = { 1 };
+            ^
+child process exited abnormally
+============
+The failed code was:
+#include <sys/types.h>
+int main(void) {
+static int _x[sizeof(off_t) == 4 ? 1 : -1] = { 1 };
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -c -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__.o
+conftest__.c:1:19: fatal error: ioctl.h: No such file or directory
+compilation terminated.
+child process exited abnormally
+============
+The failed code was:
+#include <ioctl.h>
+int main(void) {
+
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__
+/tmp/ccfDz8cW.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `utimesnsat'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void utimesnsat(void);
+int main(void) {
+utimesnsat();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__
+/tmp/ccSuNqMZ.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `getaddrinfo_a'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void getaddrinfo_a(void);
+int main(void) {
+getaddrinfo_a();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -lanl
+/tmp/ccvSi7w7.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `gpgme_op_export_keys'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void gpgme_op_export_keys(void);
+int main(void) {
+gpgme_op_export_keys();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include conftest__.c -o conftest__ -L/usr/lib -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/ccBNyoum.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `sasl_encode64'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void sasl_encode64(void);
+int main(void) {
+sasl_encode64();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include conftest__.c -o conftest__ -L/usr/lib -lintl -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/usr/bin/ld: cannot find -lintl
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+
+        #include <libintl.h>
+        extern int _nl_msg_cat_cntr;
+        extern int *_nl_domain_bindings;
+        int main(void)
+        {
+            bindtextdomain("", "");
+            return * gettext("");
+        }
+    
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -lintl -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/usr/bin/ld: cannot find -lintl
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+
+        #include <libintl.h>
+        extern int _nl_msg_cat_cntr;
+        extern int *_nl_domain_bindings;
+        int main(void)
+        {
+            bindtextdomain("", "");
+            return * gettext("");
+        }
+    
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -L/usr/lib -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/ccfIp1pz.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `tgetent'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void tgetent(void);
+int main(void) {
+tgetent();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -ltinfow -L/usr/lib -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/usr/bin/ld: cannot find -ltinfow
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void tgetent(void);
+int main(void) {
+tgetent();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -L/usr/lib -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/ccEZcVvK.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `waddnwstr'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void waddnwstr(void);
+int main(void) {
+waddnwstr();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include conftest__.c -o conftest__ -L/usr/lib -liconv -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/usr/bin/ld: cannot find -liconv
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+#include <stdlib.h>
+#include <iconv.h>
+int main(void) {
+
+    iconv_t cd = iconv_open("", "");
+    iconv(cd, NULL, NULL, NULL, NULL);
+    iconv_close(cd);
+  
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -liconv -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/usr/bin/ld: cannot find -liconv
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+#include <stdlib.h>
+#include <iconv.h>
+int main(void) {
+
+    iconv_t cd = iconv_open("", "");
+    iconv(cd, NULL, NULL, NULL, NULL);
+    iconv_close(cd);
+  
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include conftest__.c -o conftest__ -L/usr/lib -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/ccoRIoXi.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `gnutls_check_version'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void gnutls_check_version(void);
+int main(void) {
+gnutls_check_version();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/ccRshw7E.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `stringprep_check_version'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void stringprep_check_version(void);
+int main(void) {
+stringprep_check_version();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/cc4CNDrJ.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `idna_to_unicode_utf8_from_utf8'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void idna_to_unicode_utf8_from_utf8(void);
+int main(void) {
+idna_to_unicode_utf8_from_utf8();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/ccyOgvAQ.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `idna_to_ascii_from_utf8'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void idna_to_ascii_from_utf8(void);
+int main(void) {
+idna_to_ascii_from_utf8();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ conftest__.c -o conftest__ -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/cc5NcVrU.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `idna_to_ascii_from_locale'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void idna_to_ascii_from_locale(void);
+int main(void) {
+idna_to_ascii_from_locale();
+return 0;
+}
+============
+Failed: cc -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include -DNCURSES_WIDECHAR -L/usr/lib -std=c99 -g -O2 -std=c99 -D_ALL_SOURCE=1 -D_GNU_SOURCE=1 -D__EXTENSIONS__ -I/usr/include conftest__.c -o conftest__ -L/usr/lib -lidn -lgnutls -lncursesw -ltinfo -lsasl2 -lgpgme -lanl -L/usr/lib/x86_64-linux-gnu -lgpgme -lassuan -lgpg-error -L/usr/lib/x86_64-linux-gnu -lgpg-error
+/tmp/ccHUXmKY.o: In function `main':
+/home/ubuntu/dev/neomutt/neomutt-20200501/conftest__.c:3: undefined reference to `tcbdbopen'
+collect2: error: ld returned 1 exit status
+child process exited abnormally
+============
+The failed code was:
+extern void tcbdbopen(void);
+int main(void) {
+tcbdbopen();
+return 0;
+}
+============
