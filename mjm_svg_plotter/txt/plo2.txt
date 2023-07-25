@@ -1,0 +1,6 @@
+make-piece foo rag frame 0
+read-ragged data test2.dat
+make-piece df data scatter
+add-piece foo df
+write-piece fick.svg foo
+write-piece - foo

@@ -1,0 +1,848 @@
+mjm_bar_intervals.h1134  MJM_BAR_INTERVALS Oct  6 2022 08:01:49
+
+mjm>layout foodoo ../zymo/data/grand_xxx.ssv vomit2.txt
+mjm_bar_intervals.h387  fn=foodoo df=../zymo/data/grand_xxx.ssv sf=vomit2.txt flags=0
+mjm_bar_intervals.h196  adding feature  x=g__NA l[i]=g__NA
+mjm_bar_intervals.h212  added rfeature  f.size()=1 f.back().dump()= minusv=0 s=
+mjm_bar_intervals.h196  adding feature  x=NA l[i]=NA
+mjm_bar_intervals.h205  addinrg rall   l[i]=([a-z]__.*)
+mjm_bar_intervals.h212  added rfeature  f.size()=2 f.back().dump()= minusv=1 s=$1
+mjm_bar_intervals.h196  adding feature  x=NA l[i]=NA
+mjm_bar_intervals.h212  added rfeature  f.size()=1 f.back().dump()= minusv=0 s=
+mjm_bar_intervals.h196  adding feature  x=NA l[i]=NA
+mjm_bar_intervals.h205  addinrg rall   l[i]=[a-z]__(.*)
+mjm_bar_intervals.h212  added rfeature  f.size()=2 f.back().dump()= minusv=1 s=$1
+mjm_bar_intervals.h196  adding feature  x=g__(.*) l[i]=g__(.*)
+mjm_bar_intervals.h212  added rfeature  f.size()=1 f.back().dump()= minusv=0 s=$1
+mjm_bar_intervals.h196  adding feature  x=([0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]).*(seq[0-9]*).* l[i]=([0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]).*(seq[0-9]*).*
+mjm_bar_intervals.h212  added rfeature  f.size()=1 f.back().dump()= minusv=0 s=$1.$2
+mjm_bar_intervals.h804  bins.size()=1
+mjm_bar_intervals.h828  keyfound=1 len=2 l[len-1]=key
+mjm_bar_intervals.h877  new header  keypos=15 dtemp[0].size()=9 ss.str()=Beauty sick Beauty better key_0 key_1 key_2 key_3 key_4 key_5 key_6 
+mjm_bar_intervals.h925  nsamples=0 len=9 cnt=0
+mjm_bar_intervals.h925  nsamples=2 len=8 cnt=1
+mjm_bar_intervals.h965 
+ matches  n=0 hist=1  n=1 hist=295 
+mjm_bar_intervals.h968 
+ i=0 hi=Beauty sick other[i]=2023 sums[i]=82742 f=0.0244495
+ i=1 hi=Beauty better other[i]=480 sums[i]=26028 f=0.0184417
+
+../string_seq/mjm_layout_info.h175  dump()= m_lm=20 m_lsm=20 m_xpitch=100 m_tm=400 m_tsm=2 m_ypitch=20 m_w=100 m_h=20 m_tsz=2 m_bsz=2 m_szname=11 k=length v=2 k=lname v=200 k=m_bm v=200 k=m_bsz v=2 k=m_h v=20 k=m_lm v=20 k=m_lsm v=20 k=m_rm v=100 k=m_szname v=11 k=m_tm v=400 k=m_tsm v=2 k=m_tsz v=2 k=m_w v=100 k=m_xpitch v=100 k=m_xs v=740 k=m_ypitch v=20 k=m_ys v=3202 k=nseq v=130 k=otu_text_sz v=20 k=rname v=200 k=sample_text_sz v=20
+mjm_bar_intervals.h622  li.dump()= m_lm=20 m_lsm=20 m_xpitch=100 m_tm=400 m_tsm=2 m_ypitch=20 m_w=100 m_h=20 m_tsz=2 m_bsz=2 m_szname=11 k=length v=2 k=lname v=200 k=m_bm v=200 k=m_bsz v=2 k=m_h v=20 k=m_lm v=20 k=m_lsm v=20 k=m_rm v=100 k=m_szname v=11 k=m_tm v=400 k=m_tsm v=2 k=m_tsz v=2 k=m_w v=100 k=m_xpitch v=100 k=m_xs v=740 k=m_ypitch v=20 k=m_ys v=3202 k=nseq v=130 k=otu_text_sz v=20 k=rname v=200 k=sample_text_sz v=20
+mjm_bar_intervals.h438  xs=740 ys=3202
+mjm_bar_intervals.h717  bv.size()=130
+mjm_bar_intervals.h736  hit_keyii  b.name()=c__Mollicutes (*ii).first=c__Mollicutes
+mjm_bar_intervals.h737  hit_keys c__Mollicutes k__Bacteria p__Tenericutes c__Mollicutes o__NA f__NA g__NA s__sp68302 1
+
+mjm_bar_intervals.h745  phylumii=p__Tenericutes phylum=
+mjm_bar_intervals.h474  writing name  nm=c__Mollicutes posv=0 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Mollicutes (*ii).first=Mollicutes
+mjm_bar_intervals.h737  hit_keys Mollicutes k__Bacteria p__Tenericutes c__Mollicutes o__NA f__NA g__Acholeplasmatales s__bacterium 1
+ hit_keys Mollicutes k__Bacteria p__Tenericutes c__Mollicutes o__NA f__NA g__Firmicutes s__oral 1
+
+mjm_bar_intervals.h745  phylumii=p__Tenericutes phylum=p__Tenericutes
+mjm_bar_intervals.h474  writing name  nm=Mollicutes posv=1 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Ureaplasma (*ii).first=Ureaplasma
+mjm_bar_intervals.h737  hit_keys Ureaplasma k__Bacteria p__Tenericutes c__Mollicutes o__Mycoplasmatales f__Mycoplasmataceae g__Ureaplasma s__parvum-urealyticum 1
+
+mjm_bar_intervals.h745  phylumii=p__Tenericutes phylum=p__Tenericutes
+mjm_bar_intervals.h474  writing name  nm=Ureaplasma posv=2 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Mycoplasma (*ii).first=Mycoplasma
+mjm_bar_intervals.h737  hit_keys Mycoplasma k__Bacteria p__Tenericutes c__Mollicutes o__Mycoplasmatales f__Mycoplasmataceae g__Mycoplasma s__canis 1
+ hit_keys Mycoplasma k__Bacteria p__Tenericutes c__Mollicutes o__Mycoplasmatales f__Mycoplasmataceae g__Mycoplasma s__edwardii 1
+ hit_keys Mycoplasma k__Bacteria p__Tenericutes c__Mollicutes o__Mycoplasmatales f__Mycoplasmataceae g__Mycoplasma s__falconis-neophronis 1
+ hit_keys Mycoplasma k__Bacteria p__Tenericutes c__Mollicutes o__Mycoplasmatales f__Mycoplasmataceae g__Mycoplasma s__lipophilum 1
+ hit_keys Mycoplasma k__Bacteria p__Tenericutes c__Mollicutes o__Mycoplasmatales f__Mycoplasmataceae g__Mycoplasma s__neophronis 1
+
+mjm_bar_intervals.h745  phylumii=p__Tenericutes phylum=p__Tenericutes
+mjm_bar_intervals.h474  writing name  nm=Mycoplasma posv=3 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Acholeplasma (*ii).first=Acholeplasma
+mjm_bar_intervals.h737  hit_keys Acholeplasma k__Bacteria p__Tenericutes c__Mollicutes o__Acholeplasmatales f__Acholeplasmataceae g__Acholeplasma s__morum 1
+ hit_keys Acholeplasma k__Bacteria p__Tenericutes c__Mollicutes o__Acholeplasmatales f__Acholeplasmataceae g__Acholeplasma s__sp67593 1
+ hit_keys Acholeplasma k__Bacteria p__Tenericutes c__Mollicutes o__Acholeplasmatales f__Acholeplasmataceae g__Acholeplasma s__sp67613 1
+
+mjm_bar_intervals.h745  phylumii=p__Tenericutes phylum=p__Tenericutes
+mjm_bar_intervals.h474  writing name  nm=Acholeplasma posv=4 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Fretibacterium (*ii).first=Fretibacterium
+mjm_bar_intervals.h737  hit_keys Fretibacterium k__Bacteria p__Synergistetes c__Synergistia o__Synergistales f__Synergistaceae g__Fretibacterium s__fastidiosum 1
+ hit_keys Fretibacterium k__Bacteria p__Synergistetes c__Synergistia o__Synergistales f__Synergistaceae g__Fretibacterium s__feline 1
+ hit_keys Fretibacterium k__Bacteria p__Synergistetes c__Synergistia o__Synergistales f__Synergistaceae g__Fretibacterium s__sp67103 1
+ hit_keys Fretibacterium k__Bacteria p__Synergistetes c__Synergistia o__Synergistales f__Synergistaceae g__Fretibacterium s__sp67106 1
+
+mjm_bar_intervals.h745  phylumii=p__Synergistetes phylum=p__Tenericutes
+mjm_bar_intervals.h474  writing name  nm=Fretibacterium posv=5 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Treponema (*ii).first=Treponema
+mjm_bar_intervals.h737  hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__denticola 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__medium 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__medium-sp66799 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__medium-vincentii 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__parvum 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__pectinovorum 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__pedis 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__sp66795 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__sp66797 1
+ hit_keys Treponema k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Treponema s__sp66801 1
+
+mjm_bar_intervals.h745  phylumii=p__Spirochaetae phylum=p__Synergistetes
+mjm_bar_intervals.h474  writing name  nm=Treponema posv=6 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Spirochaeta (*ii).first=Spirochaeta
+mjm_bar_intervals.h737  hit_keys Spirochaeta k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__Spirochaeta s__sp66555 1
+
+mjm_bar_intervals.h745  phylumii=p__Spirochaetae phylum=p__Spirochaetae
+mjm_bar_intervals.h474  writing name  nm=Spirochaeta posv=7 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Spirochaetaceae (*ii).first=f__Spirochaetaceae
+mjm_bar_intervals.h737  hit_keys f__Spirochaetaceae k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__NA s__sp66621 1
+ hit_keys f__Spirochaetaceae k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__NA s__sp66653 1
+ hit_keys f__Spirochaetaceae k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__NA s__sp66672 1
+ hit_keys f__Spirochaetaceae k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__NA s__sp66678 1
+ hit_keys f__Spirochaetaceae k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__NA s__sp66695 1
+ hit_keys f__Spirochaetaceae k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__NA s__sp66723 1
+ hit_keys f__Spirochaetaceae k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__Spirochaetaceae g__NA s__sp67037 1
+
+mjm_bar_intervals.h745  phylumii=p__Spirochaetae phylum=p__Spirochaetae
+mjm_bar_intervals.h474  writing name  nm=f__Spirochaetaceae posv=8 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Spirochaetales (*ii).first=Spirochaetales
+mjm_bar_intervals.h737  hit_keys Spirochaetales k__Bacteria p__Spirochaetae c__Spirochaetes o__Spirochaetales f__NA g__Firmicutes s__bacterium 1
+
+mjm_bar_intervals.h745  phylumii=p__Spirochaetae phylum=p__Spirochaetae
+mjm_bar_intervals.h474  writing name  nm=Spirochaetales posv=9 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=p__Saccharibacteria (*ii).first=p__Saccharibacteria
+mjm_bar_intervals.h737  hit_keys p__Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__NA s__*Saccharibacteria 1
+ hit_keys p__Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__NA s__*Saccharibacteria-sp65941 1
+ hit_keys p__Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__NA s__sp65941 1
+ hit_keys p__Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__NA s__sp66045 1
+ hit_keys p__Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__NA s__sp66119 1
+
+mjm_bar_intervals.h745  phylumii=p__Saccharibacteria phylum=p__Spirochaetae
+mjm_bar_intervals.h474  writing name  nm=p__Saccharibacteria posv=10 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Saccharibacteria (*ii).first=Saccharibacteria
+mjm_bar_intervals.h737  hit_keys Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__*Saccharimonas s__sp65943 1
+ hit_keys Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__*Saccharimonas s__sp65946 1
+ hit_keys Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__*Saccharimonas s__sp65948 1
+ hit_keys Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__*Saccharimonas s__sp65955 1
+ hit_keys Saccharibacteria k__Bacteria p__Saccharibacteria c__NA o__NA f__NA g__*Saccharimonas s__sp65968 1
+
+mjm_bar_intervals.h745  phylumii=p__Saccharibacteria phylum=p__Saccharibacteria
+mjm_bar_intervals.h474  writing name  nm=Saccharibacteria posv=11 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Xanthomonadaceae (*ii).first=f__Xanthomonadaceae
+mjm_bar_intervals.h737  hit_keys f__Xanthomonadaceae k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Xanthomonadales f__Xanthomonadaceae g__NA s__sp65479 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Saccharibacteria
+mjm_bar_intervals.h474  writing name  nm=f__Xanthomonadaceae posv=12 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Luteimonas (*ii).first=Luteimonas
+mjm_bar_intervals.h737  hit_keys Luteimonas k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Xanthomonadales f__Xanthomonadaceae g__Luteimonas s__sp65067 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Luteimonas posv=13 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Arenimonas (*ii).first=Arenimonas
+mjm_bar_intervals.h737  hit_keys Arenimonas k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Xanthomonadales f__Xanthomonadaceae g__Arenimonas s__sp64995 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Arenimonas posv=14 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Pseudomonas (*ii).first=Pseudomonas
+mjm_bar_intervals.h737  hit_keys Pseudomonas k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pseudomonadales f__Pseudomonadaceae g__Pseudomonas s__aeruginosa 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Pseudomonas posv=15 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Psychrobacter (*ii).first=Psychrobacter
+mjm_bar_intervals.h737  hit_keys Psychrobacter k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pseudomonadales f__Moraxellaceae g__Psychrobacter s__sp62723 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Psychrobacter posv=16 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Moraxella (*ii).first=Moraxella
+mjm_bar_intervals.h737  hit_keys Moraxella k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pseudomonadales f__Moraxellaceae g__Moraxella s__caprae-equi 1
+ hit_keys Moraxella k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pseudomonadales f__Moraxellaceae g__Moraxella s__catarrhalis-nonliquefaciens 1
+ hit_keys Moraxella k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pseudomonadales f__Moraxellaceae g__Moraxella s__caviae-cuniculi 1
+ hit_keys Moraxella k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pseudomonadales f__Moraxellaceae g__Moraxella s__cuniculi 1
+ hit_keys Moraxella k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pseudomonadales f__Moraxellaceae g__Moraxella s__sp62638 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Moraxella posv=17 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Pasteurella (*ii).first=Pasteurella
+mjm_bar_intervals.h737  hit_keys Pasteurella k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__Pasteurella s__aerogenes 1
+ hit_keys Pasteurella k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__Pasteurella s__dagmatis 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Pasteurella posv=18 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Pasteurellaceae (*ii).first=f__Pasteurellaceae
+mjm_bar_intervals.h737  hit_keys f__Pasteurellaceae k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__NA s__sp62273 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Pasteurellaceae posv=19 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Haemophilus (*ii).first=Haemophilus
+mjm_bar_intervals.h737  hit_keys Haemophilus k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__Haemophilus s__sp62184 1
+ hit_keys Haemophilus k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__Haemophilus s__sp62189 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Haemophilus posv=20 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Bibersteinia (*ii).first=Bibersteinia
+mjm_bar_intervals.h737  hit_keys Bibersteinia k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__Bibersteinia s__sp62095 1
+ hit_keys Bibersteinia k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__Bibersteinia s__sp62096 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Bibersteinia posv=21 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Aggregatibacter-Haemophilus (*ii).first=Aggregatibacter-Haemophilus
+mjm_bar_intervals.h737  hit_keys Aggregatibacter-Haemophilus k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Pasteurellales f__Pasteurellaceae g__Aggregatibacter-Haemophilus s__sp62087-sp62189 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Aggregatibacter-Haemophilus posv=22 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Cardiobacteriaceae (*ii).first=f__Cardiobacteriaceae
+mjm_bar_intervals.h737  hit_keys f__Cardiobacteriaceae k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Cardiobacteriales f__Cardiobacteriaceae g__NA s__sp57146 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Cardiobacteriaceae posv=23 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Cardiobacterium (*ii).first=Cardiobacterium
+mjm_bar_intervals.h737  hit_keys Cardiobacterium k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Cardiobacteriales f__Cardiobacteriaceae g__Cardiobacterium s__sp57123 1
+ hit_keys Cardiobacterium k__Bacteria p__Proteobacteria c__Gammaproteobacteria o__Cardiobacteriales f__Cardiobacteriaceae g__Cardiobacterium s__sp57124 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Cardiobacterium posv=24 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Wolinella (*ii).first=Wolinella
+mjm_bar_intervals.h737  hit_keys Wolinella k__Bacteria p__Proteobacteria c__Epsilonproteobacteria o__Campylobacterales f__Helicobacteraceae g__Wolinella s__succinogenes 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Wolinella posv=25 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Helicobacteraceae (*ii).first=f__Helicobacteraceae
+mjm_bar_intervals.h737  hit_keys f__Helicobacteraceae k__Bacteria p__Proteobacteria c__Epsilonproteobacteria o__Campylobacterales f__Helicobacteraceae g__NA s__sp55662 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Helicobacteraceae posv=26 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Campylobacter (*ii).first=Campylobacter
+mjm_bar_intervals.h737  hit_keys Campylobacter k__Bacteria p__Proteobacteria c__Epsilonproteobacteria o__Campylobacterales f__Campylobacteraceae g__Campylobacter s__curvus 1
+ hit_keys Campylobacter k__Bacteria p__Proteobacteria c__Epsilonproteobacteria o__Campylobacterales f__Campylobacteraceae g__Campylobacter s__mucosalis 1
+ hit_keys Campylobacter k__Bacteria p__Proteobacteria c__Epsilonproteobacteria o__Campylobacterales f__Campylobacteraceae g__Campylobacter s__rectus-showae 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Campylobacter posv=27 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Arcobacter (*ii).first=Arcobacter
+mjm_bar_intervals.h737  hit_keys Arcobacter k__Bacteria p__Proteobacteria c__Epsilonproteobacteria o__Campylobacterales f__Campylobacteraceae g__Arcobacter s__thereius 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Arcobacter posv=28 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=o__Desulfuromonadales (*ii).first=o__Desulfuromonadales
+mjm_bar_intervals.h737  hit_keys o__Desulfuromonadales k__Bacteria p__Proteobacteria c__Deltaproteobacteria o__Desulfuromonadales f__NA g__NA s__bacterium 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=o__Desulfuromonadales posv=29 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Desulfovibrio (*ii).first=Desulfovibrio
+mjm_bar_intervals.h737  hit_keys Desulfovibrio k__Bacteria p__Proteobacteria c__Deltaproteobacteria o__Desulfovibrionales f__Desulfovibrionaceae g__Desulfovibrio s__sp52597 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Desulfovibrio posv=30 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Desulfomicrobium (*ii).first=Desulfomicrobium
+mjm_bar_intervals.h737  hit_keys Desulfomicrobium k__Bacteria p__Proteobacteria c__Deltaproteobacteria o__Desulfovibrionales f__Desulfomicrobiaceae g__Desulfomicrobium s__orale 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Desulfomicrobium posv=31 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Desulfohalobiaceae (*ii).first=f__Desulfohalobiaceae
+mjm_bar_intervals.h737  hit_keys f__Desulfohalobiaceae k__Bacteria p__Proteobacteria c__Deltaproteobacteria o__Desulfovibrionales f__Desulfohalobiaceae g__NA s__sp52441 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Desulfohalobiaceae posv=32 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Desulfobulbus (*ii).first=Desulfobulbus
+mjm_bar_intervals.h737  hit_keys Desulfobulbus k__Bacteria p__Proteobacteria c__Deltaproteobacteria o__Desulfobacterales f__Desulfobulbaceae g__Desulfobulbus s__sp51846 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Desulfobulbus posv=33 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Propionivibrio (*ii).first=Propionivibrio
+mjm_bar_intervals.h737  hit_keys Propionivibrio k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Rhodocyclales f__Rhodocyclaceae g__Propionivibrio s__sp50395 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Propionivibrio posv=34 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Neisseria (*ii).first=Neisseria
+mjm_bar_intervals.h737  hit_keys Neisseria k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Neisseria s__animaloris 1
+ hit_keys Neisseria k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Neisseria s__animaloris-zoodegmatis 1
+ hit_keys Neisseria k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Neisseria s__canis 1
+ hit_keys Neisseria k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Neisseria s__shayeganii 1
+ hit_keys Neisseria k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Neisseria s__sp49941 1
+ hit_keys Neisseria k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Neisseria s__weaveri 1
+ hit_keys Neisseria k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Neisseria s__zoodegmatis 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Neisseria posv=35 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Conchiformibius (*ii).first=Conchiformibius
+mjm_bar_intervals.h737  hit_keys Conchiformibius k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Conchiformibius s__sp49784 1
+ hit_keys Conchiformibius k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Neisseriales f__Neisseriaceae g__Conchiformibius s__steedae 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Conchiformibius posv=36 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Lampropedia (*ii).first=Lampropedia
+mjm_bar_intervals.h737  hit_keys Lampropedia k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Burkholderiales f__Comamonadaceae g__Lampropedia s__hyalina 1
+ hit_keys Lampropedia k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Burkholderiales f__Comamonadaceae g__Lampropedia s__sp49018 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Lampropedia posv=37 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Comamonas (*ii).first=Comamonas
+mjm_bar_intervals.h737  hit_keys Comamonas k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Burkholderiales f__Comamonadaceae g__Comamonas s__sp48916 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Comamonas posv=38 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Brachymonas (*ii).first=Brachymonas
+mjm_bar_intervals.h737  hit_keys Brachymonas k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Burkholderiales f__Comamonadaceae g__Brachymonas s__denitrificans 1
+ hit_keys Brachymonas k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Burkholderiales f__Comamonadaceae g__Brachymonas s__sp48850 1
+ hit_keys Brachymonas k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Burkholderiales f__Comamonadaceae g__Brachymonas s__sp48857 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Brachymonas posv=39 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Lautropia (*ii).first=Lautropia
+mjm_bar_intervals.h737  hit_keys Lautropia k__Bacteria p__Proteobacteria c__Betaproteobacteria o__Burkholderiales f__Burkholderiaceae g__Lautropia s__mirabilis 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=Lautropia posv=40 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Rhodospirillaceae (*ii).first=f__Rhodospirillaceae
+mjm_bar_intervals.h737  hit_keys f__Rhodospirillaceae k__Bacteria p__Proteobacteria c__Alphaproteobacteria o__Rhodospirillales f__Rhodospirillaceae g__NA s__sp46470 1
+
+mjm_bar_intervals.h745  phylumii=p__Proteobacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Rhodospirillaceae posv=41 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=p__Parcubacteria (*ii).first=p__Parcubacteria
+mjm_bar_intervals.h737  hit_keys p__Parcubacteria k__Bacteria p__Parcubacteria c__NA o__NA f__NA g__NA s__sp40081 1
+
+mjm_bar_intervals.h745  phylumii=p__Parcubacteria phylum=p__Proteobacteria
+mjm_bar_intervals.h474  writing name  nm=p__Parcubacteria posv=42 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=k__Bacteria (*ii).first=k__Bacteria
+mjm_bar_intervals.h737  hit_keys k__Bacteria k__Bacteria p__NA c__NA o__NA f__NA g__NA s__sp19816 1
+ hit_keys k__Bacteria k__Bacteria p__NA c__NA o__NA f__NA g__NA s__sp19817 1
+ hit_keys k__Bacteria k__Bacteria p__NA c__NA o__NA f__NA g__NA s__sp19824 1
+
+mjm_bar_intervals.h745  phylumii=p__NA phylum=p__Parcubacteria
+mjm_bar_intervals.h474  writing name  nm=k__Bacteria posv=43 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=p__Gracilibacteria (*ii).first=p__Gracilibacteria
+mjm_bar_intervals.h737  hit_keys p__Gracilibacteria k__Bacteria p__Gracilibacteria c__NA o__NA f__NA g__NA s__sp38143 1
+ hit_keys p__Gracilibacteria k__Bacteria p__Gracilibacteria c__NA o__NA f__NA g__NA s__sp38170 1
+ hit_keys p__Gracilibacteria k__Bacteria p__Gracilibacteria c__NA o__NA f__NA g__NA s__sp38230 1
+
+mjm_bar_intervals.h745  phylumii=p__Gracilibacteria phylum=p__NA
+mjm_bar_intervals.h474  writing name  nm=p__Gracilibacteria posv=44 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Gracilibacteria (*ii).first=Gracilibacteria
+mjm_bar_intervals.h737  hit_keys Gracilibacteria k__Bacteria p__Gracilibacteria c__NA o__NA f__NA g__Gracilibacteria s__bacterium 1
+
+mjm_bar_intervals.h745  phylumii=p__Gracilibacteria phylum=p__Gracilibacteria
+mjm_bar_intervals.h474  writing name  nm=Gracilibacteria posv=45 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Streptobacillus (*ii).first=Streptobacillus
+mjm_bar_intervals.h737  hit_keys Streptobacillus k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Leptotrichiaceae g__Streptobacillus s__moniliformis 1
+
+mjm_bar_intervals.h745  phylumii=p__Fusobacteria phylum=p__Gracilibacteria
+mjm_bar_intervals.h474  writing name  nm=Streptobacillus posv=46 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Leptotrichiaceae (*ii).first=f__Leptotrichiaceae
+mjm_bar_intervals.h737  hit_keys f__Leptotrichiaceae k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Leptotrichiaceae g__NA s__sp37541 1
+
+mjm_bar_intervals.h745  phylumii=p__Fusobacteria phylum=p__Fusobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Leptotrichiaceae posv=47 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Leptotrichia (*ii).first=Leptotrichia
+mjm_bar_intervals.h737  hit_keys Leptotrichia k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Leptotrichiaceae g__Leptotrichia s__sp37508 1
+ hit_keys Leptotrichia k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Leptotrichiaceae g__Leptotrichia s__sp37508-sp37510 1
+ hit_keys Leptotrichia k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Leptotrichiaceae g__Leptotrichia s__sp37518 1
+
+mjm_bar_intervals.h745  phylumii=p__Fusobacteria phylum=p__Fusobacteria
+mjm_bar_intervals.h474  writing name  nm=Leptotrichia posv=48 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Fusobacterium (*ii).first=Fusobacterium
+mjm_bar_intervals.h737  hit_keys Fusobacterium k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Fusobacteriaceae g__Fusobacterium s__canifelinum-nucleatum 1
+ hit_keys Fusobacterium k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Fusobacteriaceae g__Fusobacterium s__equinum-gonidiaformans 1
+ hit_keys Fusobacterium k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Fusobacteriaceae g__Fusobacterium s__nucleatum 1
+ hit_keys Fusobacterium k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Fusobacteriaceae g__Fusobacterium s__sp37444 1
+ hit_keys Fusobacterium k__Bacteria p__Fusobacteria c__Fusobacteriia o__Fusobacteriales f__Fusobacteriaceae g__Fusobacterium s__sp37445 1
+
+mjm_bar_intervals.h745  phylumii=p__Fusobacteria phylum=p__Fusobacteria
+mjm_bar_intervals.h474  writing name  nm=Fusobacterium posv=49 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Veillonella (*ii).first=Veillonella
+mjm_bar_intervals.h737  hit_keys Veillonella k__Bacteria p__Firmicutes c__Negativicutes o__Selenomonadales f__Veillonellaceae g__Veillonella s__parvula 1
+ hit_keys Veillonella k__Bacteria p__Firmicutes c__Negativicutes o__Selenomonadales f__Veillonellaceae g__Veillonella s__sp37198 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Fusobacteria
+mjm_bar_intervals.h474  writing name  nm=Veillonella posv=50 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Selenomonas (*ii).first=Selenomonas
+mjm_bar_intervals.h737  hit_keys Selenomonas k__Bacteria p__Firmicutes c__Negativicutes o__Selenomonadales f__Veillonellaceae g__Selenomonas s__sp37072 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Selenomonas posv=51 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Veillonellaceae (*ii).first=f__Veillonellaceae
+mjm_bar_intervals.h737  hit_keys f__Veillonellaceae k__Bacteria p__Firmicutes c__Negativicutes o__Selenomonadales f__Veillonellaceae g__NA s__sp37039 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Veillonellaceae posv=52 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Succiniclasticum (*ii).first=Succiniclasticum
+mjm_bar_intervals.h737  hit_keys Succiniclasticum k__Bacteria p__Firmicutes c__Negativicutes o__Selenomonadales f__Acidaminococcaceae g__Succiniclasticum s__sp36849-sp36859 1
+ hit_keys Succiniclasticum k__Bacteria p__Firmicutes c__Negativicutes o__Selenomonadales f__Acidaminococcaceae g__Succiniclasticum s__sp36859 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Succiniclasticum posv=53 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Erysipelotrichaceae (*ii).first=f__Erysipelotrichaceae
+mjm_bar_intervals.h737  hit_keys f__Erysipelotrichaceae k__Bacteria p__Firmicutes c__Erysipelotrichia o__Erysipelotrichales f__Erysipelotrichaceae g__NA s__sp36724 1
+ hit_keys f__Erysipelotrichaceae k__Bacteria p__Firmicutes c__Erysipelotrichia o__Erysipelotrichales f__Erysipelotrichaceae g__NA s__sp36726 1
+ hit_keys f__Erysipelotrichaceae k__Bacteria p__Firmicutes c__Erysipelotrichia o__Erysipelotrichales f__Erysipelotrichaceae g__NA s__sp36764 1
+ hit_keys f__Erysipelotrichaceae k__Bacteria p__Firmicutes c__Erysipelotrichia o__Erysipelotrichales f__Erysipelotrichaceae g__NA s__sp36778 1
+ hit_keys f__Erysipelotrichaceae k__Bacteria p__Firmicutes c__Erysipelotrichia o__Erysipelotrichales f__Erysipelotrichaceae g__NA s__sp36784 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Erysipelotrichaceae posv=54 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Erysipelothrix (*ii).first=Erysipelothrix
+mjm_bar_intervals.h737  hit_keys Erysipelothrix k__Bacteria p__Firmicutes c__Erysipelotrichia o__Erysipelotrichales f__Erysipelotrichaceae g__Erysipelothrix s__sp36653 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Erysipelothrix posv=55 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Ruminiclostridium (*ii).first=Ruminiclostridium
+mjm_bar_intervals.h737  hit_keys Ruminiclostridium k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Ruminococcaceae g__Ruminiclostridium s__sp34943 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Ruminiclostridium posv=56 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Ruminococcaceae (*ii).first=f__Ruminococcaceae
+mjm_bar_intervals.h737  hit_keys f__Ruminococcaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Ruminococcaceae g__NA s__sp35348 1
+ hit_keys f__Ruminococcaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Ruminococcaceae g__NA s__sp35348-sp35356 1
+ hit_keys f__Ruminococcaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Ruminococcaceae g__NA s__sp35734 1
+ hit_keys f__Ruminococcaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Ruminococcaceae g__NA s__sp35859 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Ruminococcaceae posv=57 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Fastidiosipila (*ii).first=Fastidiosipila
+mjm_bar_intervals.h737  hit_keys Fastidiosipila k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Ruminococcaceae g__Fastidiosipila s__sp34580 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Fastidiosipila posv=58 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Proteocatella (*ii).first=Proteocatella
+mjm_bar_intervals.h737  hit_keys Proteocatella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Proteocatella s__sp34372 1
+ hit_keys Proteocatella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Proteocatella s__sp34373 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Proteocatella posv=59 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Peptostreptococcus (*ii).first=Peptostreptococcus
+mjm_bar_intervals.h737  hit_keys Peptostreptococcus k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Peptostreptococcus s__canis 1
+ hit_keys Peptostreptococcus k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Peptostreptococcus s__sp34368 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Peptostreptococcus posv=60 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Peptoclostridium (*ii).first=Peptoclostridium
+mjm_bar_intervals.h737  hit_keys Peptoclostridium k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Peptoclostridium s__sp34343 1
+ hit_keys Peptoclostridium k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Peptoclostridium s__sp34345 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Peptoclostridium posv=61 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Peptostreptococcaceae (*ii).first=f__Peptostreptococcaceae
+mjm_bar_intervals.h737  hit_keys f__Peptostreptococcaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__NA s__sp34397 1
+ hit_keys f__Peptostreptococcaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__NA s__sp34399 1
+ hit_keys f__Peptostreptococcaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__NA s__sp34402 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Peptostreptococcaceae posv=62 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Filifactor (*ii).first=Filifactor
+mjm_bar_intervals.h737  hit_keys Filifactor k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Filifactor s__alocis 1
+ hit_keys Filifactor k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Filifactor s__sp34271 1
+ hit_keys Filifactor k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptostreptococcaceae g__Filifactor s__villosus 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Filifactor posv=63 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Peptococcus (*ii).first=Peptococcus
+mjm_bar_intervals.h737  hit_keys Peptococcus k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptococcaceae g__Peptococcus s__sp34115 1
+ hit_keys Peptococcus k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Peptococcaceae g__Peptococcus s__sp34120 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Peptococcus posv=64 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=o__Clostridiales (*ii).first=o__Clostridiales
+mjm_bar_intervals.h737  hit_keys o__Clostridiales k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__NA g__NA s__sp31126 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=o__Clostridiales posv=65 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Roseburia (*ii).first=Roseburia
+mjm_bar_intervals.h737  hit_keys Roseburia k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Roseburia s__sp33201 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Roseburia posv=66 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Lachnospiraceae (*ii).first=f__Lachnospiraceae
+mjm_bar_intervals.h737  hit_keys f__Lachnospiraceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__NA s__sp32831-sp33519 1
+ hit_keys f__Lachnospiraceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__NA s__sp33411 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Lachnospiraceae posv=67 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Lachnoclostridium (*ii).first=Lachnoclostridium
+mjm_bar_intervals.h737  hit_keys Lachnoclostridium k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Lachnoclostridium s__sp32408 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Lachnoclostridium posv=68 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Johnsonella (*ii).first=Johnsonella
+mjm_bar_intervals.h737  hit_keys Johnsonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Johnsonella s__sp32284 1
+ hit_keys Johnsonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Johnsonella s__sp32285 1
+ hit_keys Johnsonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Johnsonella s__sp32287 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Johnsonella posv=69 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Catonella (*ii).first=Catonella
+mjm_bar_intervals.h737  hit_keys Catonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Catonella s__sp32118 1
+ hit_keys Catonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Catonella s__sp32118-sp32120 1
+ hit_keys Catonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Catonella s__sp32119 1
+ hit_keys Catonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Catonella s__sp32120 1
+ hit_keys Catonella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Catonella s__sp32121 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Catonella posv=70 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Acetitomaculum (*ii).first=Acetitomaculum
+mjm_bar_intervals.h737  hit_keys Acetitomaculum k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Lachnospiraceae g__Acetitomaculum s__sp31920 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Acetitomaculum posv=71 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Family_XIII (*ii).first=f__Family_XIII
+mjm_bar_intervals.h737  hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31535 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31550 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31556 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31583 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31623 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31623-sp31689 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31624 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31635 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31677 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31686 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31699 1
+ hit_keys f__Family_XIII k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__NA s__sp31701 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Family_XIII posv=72 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Eubacterium (*ii).first=Eubacterium
+mjm_bar_intervals.h737  hit_keys Eubacterium k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__Eubacterium s__sp31674 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Eubacterium posv=73 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Anaerovorax (*ii).first=Anaerovorax
+mjm_bar_intervals.h737  hit_keys Anaerovorax k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__Anaerovorax s__sp31493 1
+ hit_keys Anaerovorax k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XIII g__Anaerovorax s__sp31513 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Anaerovorax posv=74 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Fusibacter (*ii).first=Fusibacter
+mjm_bar_intervals.h737  hit_keys Fusibacter k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XII g__Fusibacter s__sp31441 1
+ hit_keys Fusibacter k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XII g__Fusibacter s__sp31447 1
+ hit_keys Fusibacter k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XII g__Fusibacter s__sp31454 1
+ hit_keys Fusibacter k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XII g__Fusibacter s__sp31458 1
+ hit_keys Fusibacter k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XII g__Fusibacter s__sp31462 1
+ hit_keys Fusibacter k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XII g__Fusibacter s__sp31467 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Fusibacter posv=75 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Tissierella (*ii).first=Tissierella
+mjm_bar_intervals.h737  hit_keys Tissierella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__Tissierella s__sp31385 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Tissierella posv=76 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Peptoniphilus (*ii).first=Peptoniphilus
+mjm_bar_intervals.h737  hit_keys Peptoniphilus k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__Peptoniphilus s__sp31312 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Peptoniphilus posv=77 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Parvimonas (*ii).first=Parvimonas
+mjm_bar_intervals.h737  hit_keys Parvimonas k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__Parvimonas s__micra 1
+ hit_keys Parvimonas k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__Parvimonas s__sp31278 1
+ hit_keys Parvimonas k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__Parvimonas s__sp31283 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Parvimonas posv=78 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Family_XI (*ii).first=f__Family_XI
+mjm_bar_intervals.h737  hit_keys f__Family_XI k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__NA s__sp31397 1
+ hit_keys f__Family_XI k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__NA s__sp31414 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Family_XI posv=79 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Helcococcus (*ii).first=Helcococcus
+mjm_bar_intervals.h737  hit_keys Helcococcus k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__Helcococcus s__sp31258 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Helcococcus posv=80 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Ezakiella (*ii).first=Ezakiella
+mjm_bar_intervals.h737  hit_keys Ezakiella k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Family_XI g__Ezakiella s__sp31233 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Ezakiella posv=81 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Defluviitaleaceae (*ii).first=f__Defluviitaleaceae
+mjm_bar_intervals.h737  hit_keys f__Defluviitaleaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Defluviitaleaceae g__NA s__sp31140 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Defluviitaleaceae posv=82 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Clostridium (*ii).first=Clostridium
+mjm_bar_intervals.h737  hit_keys Clostridium k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Clostridiaceae g__Clostridium s__colicanis 1
+ hit_keys Clostridium k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Clostridiaceae g__Clostridium s__perfringens 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Clostridium posv=83 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Christensenellaceae (*ii).first=f__Christensenellaceae
+mjm_bar_intervals.h737  hit_keys f__Christensenellaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Christensenellaceae g__NA s__sp30201 1
+ hit_keys f__Christensenellaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Christensenellaceae g__NA s__sp30214 1
+ hit_keys f__Christensenellaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Christensenellaceae g__NA s__sp30247 1
+ hit_keys f__Christensenellaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Christensenellaceae g__NA s__sp30248 1
+ hit_keys f__Christensenellaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Christensenellaceae g__NA s__sp30313 1
+ hit_keys f__Christensenellaceae k__Bacteria p__Firmicutes c__Clostridia o__Clostridiales f__Christensenellaceae g__NA s__sp30336 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Christensenellaceae posv=84 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Streptococcus (*ii).first=Streptococcus
+mjm_bar_intervals.h737  hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__NA 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__cameli 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__canis 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__equinus-infantarius-lutetiensis 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__fryi 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__minor 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__mitis-oralis-sanguinis 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__parasuis-sp30071 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__sp30072 1
+ hit_keys Streptococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Streptococcaceae g__Streptococcus s__suis 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Streptococcus posv=85 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Enterococcus (*ii).first=Enterococcus
+mjm_bar_intervals.h737  hit_keys Enterococcus k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Enterococcaceae g__Enterococcus s__lemanii 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Enterococcus posv=86 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Granulicatella (*ii).first=Granulicatella
+mjm_bar_intervals.h737  hit_keys Granulicatella k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Carnobacteriaceae g__Granulicatella s__adiacens 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Granulicatella posv=87 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Aerococcaceae (*ii).first=f__Aerococcaceae
+mjm_bar_intervals.h737  hit_keys f__Aerococcaceae k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Aerococcaceae g__NA s__sp28129 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=f__Aerococcaceae posv=88 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Abiotrophia (*ii).first=Abiotrophia
+mjm_bar_intervals.h737  hit_keys Abiotrophia k__Bacteria p__Firmicutes c__Bacilli o__Lactobacillales f__Aerococcaceae g__Abiotrophia s__sp28087 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Abiotrophia posv=89 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Staphylococcus (*ii).first=Staphylococcus
+mjm_bar_intervals.h737  hit_keys Staphylococcus k__Bacteria p__Firmicutes c__Bacilli o__Bacillales f__Staphylococcaceae g__Staphylococcus s__delphini-intermedius-pseudintermedius 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Staphylococcus posv=90 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Gemella (*ii).first=Gemella
+mjm_bar_intervals.h737  hit_keys Gemella k__Bacteria p__Firmicutes c__Bacilli o__Bacillales f__Family_XI g__Gemella s__palaticanis 1
+
+mjm_bar_intervals.h745  phylumii=p__Firmicutes phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=Gemella posv=91 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=p__Cyanobacteria (*ii).first=p__Cyanobacteria
+mjm_bar_intervals.h737  hit_keys p__Cyanobacteria k__Bacteria p__Cyanobacteria c__NA o__NA f__NA g__NA s__sp23682 1
+
+mjm_bar_intervals.h745  phylumii=p__Cyanobacteria phylum=p__Firmicutes
+mjm_bar_intervals.h474  writing name  nm=p__Cyanobacteria posv=92 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Chloroplast (*ii).first=Chloroplast
+mjm_bar_intervals.h737  hit_keys Chloroplast k__Bacteria p__Cyanobacteria c__Chloroplast o__NA f__NA g__Castanea s__mollissima 1
+
+mjm_bar_intervals.h745  phylumii=p__Cyanobacteria phylum=p__Cyanobacteria
+mjm_bar_intervals.h474  writing name  nm=Chloroplast posv=93 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Anaerolineaceae (*ii).first=f__Anaerolineaceae
+mjm_bar_intervals.h737  hit_keys f__Anaerolineaceae k__Bacteria p__Chloroflexi c__Anaerolineae o__Anaerolineales f__Anaerolineaceae g__NA s__sp20572 1
+
+mjm_bar_intervals.h745  phylumii=p__Chloroflexi phylum=p__Cyanobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Anaerolineaceae posv=94 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=o__Chlorobiales (*ii).first=o__Chlorobiales
+mjm_bar_intervals.h737  hit_keys o__Chlorobiales k__Bacteria p__Chlorobi c__Chlorobia o__Chlorobiales f__NA g__NA s__sp20053 1
+
+mjm_bar_intervals.h745  phylumii=p__Chlorobi phylum=p__Chloroflexi
+mjm_bar_intervals.h474  writing name  nm=o__Chlorobiales posv=95 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=o__Sphingobacteriales (*ii).first=o__Sphingobacteriales
+mjm_bar_intervals.h737  hit_keys o__Sphingobacteriales k__Bacteria p__Bacteroidetes c__Sphingobacteriia o__Sphingobacteriales f__NA g__NA s__bacterium 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Chlorobi
+mjm_bar_intervals.h474  writing name  nm=o__Sphingobacteriales posv=96 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Flavobacterium (*ii).first=Flavobacterium
+mjm_bar_intervals.h737  hit_keys Flavobacterium k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Flavobacterium s__sp16983 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Flavobacterium posv=97 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Capnocytophaga (*ii).first=Capnocytophaga
+mjm_bar_intervals.h737  hit_keys Capnocytophaga k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Capnocytophaga s__canimorsus 1
+ hit_keys Capnocytophaga k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Capnocytophaga s__cynodegmi 1
+ hit_keys Capnocytophaga k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Capnocytophaga s__sp16512 1
+ hit_keys Capnocytophaga k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Capnocytophaga s__sp16516 1
+ hit_keys Capnocytophaga k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Capnocytophaga s__sp16518 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Capnocytophaga posv=98 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Bergeyella (*ii).first=Bergeyella
+mjm_bar_intervals.h737  hit_keys Bergeyella k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Bergeyella s__sp16466 1
+ hit_keys Bergeyella k__Bacteria p__Bacteroidetes c__Flavobacteriia o__Flavobacteriales f__Flavobacteriaceae g__Bergeyella s__zoohelcum 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Bergeyella posv=99 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Rikenellaceae (*ii).first=f__Rikenellaceae
+mjm_bar_intervals.h737  hit_keys f__Rikenellaceae k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Rikenellaceae g__NA s__sp14589 1
+ hit_keys f__Rikenellaceae k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Rikenellaceae g__NA s__sp14717 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=f__Rikenellaceae posv=100 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Prevotella (*ii).first=Prevotella
+mjm_bar_intervals.h737  hit_keys Prevotella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__Prevotella s__intermedia 1
+ hit_keys Prevotella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__Prevotella s__sp14101 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Prevotella posv=101 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Prevotellaceae (*ii).first=f__Prevotellaceae
+mjm_bar_intervals.h737  hit_keys f__Prevotellaceae k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__NA s__sp12884 1
+ hit_keys f__Prevotellaceae k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__NA s__sp13774 1
+ hit_keys f__Prevotellaceae k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__NA s__sp14284 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=f__Prevotellaceae posv=102 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Alloprevotella (*ii).first=Alloprevotella
+mjm_bar_intervals.h737  hit_keys Alloprevotella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__Alloprevotella s__sp13484 1
+ hit_keys Alloprevotella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__Alloprevotella s__sp13488 1
+ hit_keys Alloprevotella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__Alloprevotella s__sp13489 1
+ hit_keys Alloprevotella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__Alloprevotella s__sp13490 1
+ hit_keys Alloprevotella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Prevotellaceae g__Alloprevotella s__sp13512-sp13517 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Alloprevotella posv=103 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Tannerella (*ii).first=Tannerella
+mjm_bar_intervals.h737  hit_keys Tannerella k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Tannerella s__forsythia 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Tannerella posv=104 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Proteiniphilum (*ii).first=Proteiniphilum
+mjm_bar_intervals.h737  hit_keys Proteiniphilum k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Proteiniphilum s__sp13394-sp13418 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Proteiniphilum posv=105 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Porphyromonas (*ii).first=Porphyromonas
+mjm_bar_intervals.h737  hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__cangingivalis 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__canoris 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__crevioricanis 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__gingivicanis 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__gulae 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__macacae 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__sp13363 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__sp13364-sp13368 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__sp13365 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__sp13366 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__sp13367 1
+ hit_keys Porphyromonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Porphyromonas s__sp13368 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Porphyromonas posv=106 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Petrimonas (*ii).first=Petrimonas
+mjm_bar_intervals.h737  hit_keys Petrimonas k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Petrimonas s__sp13305 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Petrimonas posv=107 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Parabacteroides (*ii).first=Parabacteroides
+mjm_bar_intervals.h737  hit_keys Parabacteroides k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Parabacteroides s__sp13269 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Parabacteroides posv=108 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Paludibacter (*ii).first=Paludibacter
+mjm_bar_intervals.h737  hit_keys Paludibacter k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Paludibacter s__sp13190 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Paludibacter posv=109 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Odoribacter (*ii).first=Odoribacter
+mjm_bar_intervals.h737  hit_keys Odoribacter k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Odoribacter s__denticanis 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Odoribacter posv=110 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Microbacter (*ii).first=Microbacter
+mjm_bar_intervals.h737  hit_keys Microbacter k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Porphyromonadaceae g__Microbacter s__sp13164 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Microbacter posv=111 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=o__Bacteroidales (*ii).first=o__Bacteroidales
+mjm_bar_intervals.h737  hit_keys o__Bacteroidales k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__NA g__NA s__sp12425 1
+ hit_keys o__Bacteroidales k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__NA g__NA s__sp12429 1
+ hit_keys o__Bacteroidales k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__NA g__NA s__sp13034 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=o__Bacteroidales posv=112 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Bacteroides (*ii).first=Bacteroides
+mjm_bar_intervals.h737  hit_keys Bacteroides k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Bacteroidaceae g__Bacteroides s__clarus 1
+ hit_keys Bacteroides k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Bacteroidaceae g__Bacteroides s__denticanum-pyogenes 1
+ hit_keys Bacteroides k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Bacteroidaceae g__Bacteroides s__sp12145 1
+ hit_keys Bacteroides k__Bacteria p__Bacteroidetes c__Bacteroidia o__Bacteroidales f__Bacteroidaceae g__Bacteroides s__sp12206 1
+
+mjm_bar_intervals.h745  phylumii=p__Bacteroidetes phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Bacteroides posv=113 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Euzebya (*ii).first=Euzebya
+mjm_bar_intervals.h737  hit_keys Euzebya k__Bacteria p__Actinobacteria c__Nitriliruptoria o__Euzebyales f__Euzebyaceae g__Euzebya s__sp10631 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Bacteroidetes
+mjm_bar_intervals.h474  writing name  nm=Euzebya posv=114 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Paraeggerthella (*ii).first=Paraeggerthella
+mjm_bar_intervals.h737  hit_keys Paraeggerthella k__Bacteria p__Actinobacteria c__Coriobacteriia o__Coriobacteriales f__Coriobacteriaceae g__Paraeggerthella s__hongkongensis 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Paraeggerthella posv=115 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Atopobium (*ii).first=Atopobium
+mjm_bar_intervals.h737  hit_keys Atopobium k__Bacteria p__Actinobacteria c__Coriobacteriia o__Coriobacteriales f__Coriobacteriaceae g__Atopobium s__sp10394 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Atopobium posv=116 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Propioniciclava (*ii).first=Propioniciclava
+mjm_bar_intervals.h737  hit_keys Propioniciclava k__Bacteria p__Actinobacteria c__Actinobacteria o__Propionibacteriales f__Propionibacteriaceae g__Propioniciclava s__sp7799 1
+ hit_keys Propioniciclava k__Bacteria p__Actinobacteria c__Actinobacteria o__Propionibacteriales f__Propionibacteriaceae g__Propioniciclava s__sp7803 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Propioniciclava posv=117 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Propionibacterium (*ii).first=Propionibacterium
+mjm_bar_intervals.h737  hit_keys Propionibacterium k__Bacteria p__Actinobacteria c__Actinobacteria o__Propionibacteriales f__Propionibacteriaceae g__Propionibacterium s__acnes 1
+ hit_keys Propionibacterium k__Bacteria p__Actinobacteria c__Actinobacteria o__Propionibacteriales f__Propionibacteriaceae g__Propionibacterium s__propionicum 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Propionibacterium posv=118 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=f__Propionibacteriaceae (*ii).first=f__Propionibacteriaceae
+mjm_bar_intervals.h737  hit_keys f__Propionibacteriaceae k__Bacteria p__Actinobacteria c__Actinobacteria o__Propionibacteriales f__Propionibacteriaceae g__NA s__sp7814 1
+ hit_keys f__Propionibacteriaceae k__Bacteria p__Actinobacteria c__Actinobacteria o__Propionibacteriales f__Propionibacteriaceae g__NA s__sp7833 1
+ hit_keys f__Propionibacteriaceae k__Bacteria p__Actinobacteria c__Actinobacteria o__Propionibacteriales f__Propionibacteriaceae g__NA s__sp7836 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=f__Propionibacteriaceae posv=119 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Arthrobacter (*ii).first=Arthrobacter
+mjm_bar_intervals.h737  hit_keys Arthrobacter k__Bacteria p__Actinobacteria c__Actinobacteria o__Micrococcales f__Micrococcaceae g__Arthrobacter s__cumminsii-pigmenti 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Arthrobacter posv=120 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Leucobacter (*ii).first=Leucobacter
+mjm_bar_intervals.h737  hit_keys Leucobacter k__Bacteria p__Actinobacteria c__Actinobacteria o__Micrococcales f__Microbacteriaceae g__Leucobacter s__sp6730 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Leucobacter posv=121 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Corynebacterium (*ii).first=Corynebacterium
+mjm_bar_intervals.h737  hit_keys Corynebacterium k__Bacteria p__Actinobacteria c__Actinobacteria o__Corynebacteriales f__Corynebacteriaceae g__Corynebacterium s__canis 1
+ hit_keys Corynebacterium k__Bacteria p__Actinobacteria c__Actinobacteria o__Corynebacteriales f__Corynebacteriaceae g__Corynebacterium s__freiburgense 1
+ hit_keys Corynebacterium k__Bacteria p__Actinobacteria c__Actinobacteria o__Corynebacteriales f__Corynebacteriaceae g__Corynebacterium s__matruchotii 1
+ hit_keys Corynebacterium k__Bacteria p__Actinobacteria c__Actinobacteria o__Corynebacteriales f__Corynebacteriaceae g__Corynebacterium s__sp5220 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Corynebacterium posv=122 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Actinomyces (*ii).first=Actinomyces
+mjm_bar_intervals.h737  hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__NA 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__bowdenii 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__canis 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__cardiffensis 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__coleocanis 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__hordeovulneris 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__oris 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__slackii 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__sp4755 1
+ hit_keys Actinomyces k__Bacteria p__Actinobacteria c__Actinobacteria o__Actinomycetales f__Actinomycetaceae g__Actinomyces s__sp4762 1
+
+mjm_bar_intervals.h745  phylumii=p__Actinobacteria phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=Actinomyces posv=123 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=o__Thermoplasmatales (*ii).first=o__Thermoplasmatales
+mjm_bar_intervals.h737  hit_keys o__Thermoplasmatales k__Archaea p__Euryarchaeota c__Thermoplasmata o__Thermoplasmatales f__NA g__NA s__sp1275 1
+
+mjm_bar_intervals.h745  phylumii=p__Euryarchaeota phylum=p__Actinobacteria
+mjm_bar_intervals.h474  writing name  nm=o__Thermoplasmatales posv=124 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Thermoplasmatales (*ii).first=Thermoplasmatales
+mjm_bar_intervals.h737  hit_keys Thermoplasmatales k__Archaea p__Euryarchaeota c__Thermoplasmata o__Thermoplasmatales f__NA g__*Methanomethylophilus s__sp1266 1
+
+mjm_bar_intervals.h745  phylumii=p__Euryarchaeota phylum=p__Euryarchaeota
+mjm_bar_intervals.h474  writing name  nm=Thermoplasmatales posv=125 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=Methanimicrococcus (*ii).first=Methanimicrococcus
+mjm_bar_intervals.h737  hit_keys Methanimicrococcus k__Archaea p__Euryarchaeota c__Methanomicrobia o__Methanosarcinales f__Methanosarcinaceae g__Methanimicrococcus s__blatticola 1
+
+mjm_bar_intervals.h745  phylumii=p__Euryarchaeota phylum=p__Euryarchaeota
+mjm_bar_intervals.h474  writing name  nm=Methanimicrococcus posv=126 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=Methanobrevibacter (*ii).first=Methanobrevibacter
+mjm_bar_intervals.h737  hit_keys Methanobrevibacter k__Archaea p__Euryarchaeota c__Methanobacteria o__Methanobacteriales f__Methanobacteriaceae g__Methanobrevibacter s__oralis 1
+
+mjm_bar_intervals.h745  phylumii=p__Euryarchaeota phylum=p__Euryarchaeota
+mjm_bar_intervals.h474  writing name  nm=Methanobrevibacter posv=127 right=1 x1=640
+mjm_bar_intervals.h736  hit_keyii  b.name()=__other (*ii).first=__other
+mjm_bar_intervals.h737  hit_keys __other None      1
+
+mjm_bar_intervals.h745  phylumii= phylum=p__Euryarchaeota
+mjm_bar_intervals.h474  writing name  nm=__other posv=128 right=0 x1=20
+mjm_bar_intervals.h736  hit_keyii  b.name()=__sum (*ii).first=__sum
+mjm_bar_intervals.h737 
+mjm>

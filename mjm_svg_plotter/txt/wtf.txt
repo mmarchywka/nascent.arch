@@ -1,0 +1,11 @@
+#bin qwer g__(.*) $1 s__(.*) " $1"
+bin qwer g__(.*)
+#bin qwer f__(.*)
+key key
+#samples 2018.*0/2 soil
+#samples .*2018.*8/3.* soil
+#samples .*2018-03.*/3 Soil2
+samples .*2022-02.*/1 Beauty1
+samples .*2022-07-11.*/0 Beauty2
+#samples .*2022-08-19/ASV.*/0 Brownie1
+

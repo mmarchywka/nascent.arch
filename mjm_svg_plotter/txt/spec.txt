@@ -1,0 +1,11 @@
+#bin qwer g__(.*) $1 s__(.*) " $1"
+#bin qwer p__(.*)
+#bin qwer g__(.*) $1
+bin qwer (.*) $1
+key key
+#samples 2018.*0/0
+#samples 2018.*8/0
+#samples 2018.*0/1
+#samples 2018.*8/1
+#samples 2018.*0/2 soil
+#samples .*2018.*8/3.* soil

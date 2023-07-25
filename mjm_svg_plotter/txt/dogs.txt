@@ -1,0 +1,26 @@
+#bin qwer g__(.*) $1 s__(.*) " $1"
+#bin qwer g__(.*) $1
+#bin qwer .*NA.* __other2 
+#rbin qwer ([a-z]__.*) $1 .*NA.* 
+#rbin qwer .*NA.* " " ^([a-z]__NA) $1
+#rbin qwer .*NA.* " " [a-z]__(.*) $1
+rbin qwer g__NA "" ! NA ([a-z]__.*) $1 
+rbin qwer NA "" ! NA [a-z]__(.*) $1 
+bin qwer g__(.*) "$1"
+#bin qwer X__(.*) $1
+bin qwer ([0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]).*(seq[0-9]*).* $1.$2
+#bin qwer f__(.*)
+key key
+#samples 2018.*0/2 soil
+#samples .*2018.*8/3.* soil
+samples .*2018-02.*/0 Greta1
+samples .*2018-03.*/0 Greta2
+samples .*2018-03.*/1 Moe2
+samples .*2018-02.*/1 Peapod1
+samples .*2018-03.*/2 Peapod2
+#samples .*2018-02.*/2 Soi1l
+#samples .*2018-03.*/3 Soil2
+samples .*2022-02.*/0 Beauty1
+samples .*2022-07-11.*/0 Beauty2
+samples .*2022-08-19/ASV.*/0 Brownie1
+

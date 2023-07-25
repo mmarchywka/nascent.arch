@@ -1,0 +1,7 @@
+#bin qwer g__(.*) $1 s__(.*) " $1"
+#bin qwer p__(.*)
+# the ITS files have genus included in species doh 
+bin qwer s__(.*) $1
+#bin qwer g__(.*) $1 (.*)
+key key
+samples ITS 
