@@ -1,0 +1,36 @@
+period 1 
+#foods tryptophan methionine B-100 doxycycline biotin K2
+foods xlipoicacid xCu xtryptophan  xIvermectin  lipoicacid threonine methionine xdoxycycline xK2
+#foods tryptophan  Ivermectin xIodine B-6 biotin  threonine  B-100 methionine doxycycline K2
+dogs Hershey
+datemin 2018-01-01
+x_rule 7
+xpitch 10
+thick 10
+szleg 20
+min_x_space 70
+dashes * K2 5 5
+dashes * biotin 3 2
+dashes * tryptophan 3 2
+label_mod 1
+label_res 0
+rsymbolsz 5 * * 
+symbol * * ngon 2 5 0
+symbol * B-100 ngon 2 6 0
+color * * green
+ryfunc pp * * 
+path-Hershey-methionine-thick 5
+path-Hershey-tryptophan-thick 5
+path-Hershey-doxycycline-thick 5
+path-Hershey-Ivermectin-thick 10 
+path-Hershey-K2-thick 5
+path-Hershey-Cu-thick 3 
+path-Hershey-B-100-thick 2 
+path-Hershey-biotin-thick2 
+path-Hershey-methionine-color blue
+path-Hershey-tryptophan-color purple 
+path-Hershey-doxycycline-color green
+path-Hershey-Cu-color orange 
+path-Hershey-K2-color black
+path-Hershey-lipoicacid-color yellow 
+histogram_like 0x0200 

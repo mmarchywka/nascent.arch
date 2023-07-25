@@ -1,0 +1,19 @@
+#!/bin/bash
+fin="$SE_DATA_EXCHANGE/snacks_collated.ssv"
+#cat "$fin"
+c1="set-param datemin 2019-07-01" 
+c2="set-param datexmax 2019-03-01"
+c3="set-param period 1"
+c4="set-param histogram_like 0x0200"
+c4="set-param histogram_like 0x000"
+cfini="snacks-txt-svg-i svg/gilly1.svg 0x0c2 in p"
+cfini="snacks-txt-svg-i svg/gilly1.svg 66 in p"
+cfg="read-ragged p pin_gilly.txt"
+cfd="add-ragged p nfoods *"
+cfd="add-ragged p nfoods *"
+cfds="add-ragged p foods RcanineGIKibble metronidazole enrofloxacin"
+fsaw="add-ragged p filter wide 10 saw"
+funit="add-ragged p path-filter * unity" 
+./mjm_linc_graph.out -cmd "read-ragged in $fin" -cmd "$cfg" -cmd "$c1" -cmd "$c2" -cmd "$c3" -cmd "$c4" -cmd "$cfd" -cmd "$cfds"  -cmd 'add-ragged p path-Jilly-11PC-color "#ff00ff" ' -cmd "$fsaw" -cmd "$funit"   -cmd "$cfini" -quit  2>fck
+#./mjm_linc_graph.out -cmd "read-ragged in $SE_DATA_EXCHANGE/snacks_collated.ssv" -cmd "read-ragged p pin_new.txt" -cmd "set-param dxatemin 2019-01-01" -cmd "set-param datexmax 2019-03-01" -cmd "set-param period 1" -cmd "set-param histogram_like 0x0200" -cmd "add-ragged p nfoods *" -cmd "add-ragged p fozzods shrimp Iodine"  -cmd 'add-ragged p path-Gilly-11PC-color "#ff00ff" ' -cmd "add-ragged p filter wide 10 saw" -cmd "add-ragged p path-filter * wide"   -cmd "snacks-txt-svg-i svg/gilly1.svg 0x0c2 in p" -quit  2>fck
+

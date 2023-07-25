@@ -1,0 +1,47 @@
+maxsz 0
+datemin 2018-08-01
+# only with the multiple dogs
+#side-by-side 2 
+#side-by-side 2 
+units mg Cu lipoicacid taurine lysinehcl leucine arginine biotin pantothenate Mg B-1 K2 B-2 B-3 B-12 B-6 Iodine 
+units g shrimp
+superscript biotin a
+superscript pantothenate a
+superscript Iodine a
+superscript lipoicacid a
+footnote a SMVT substrate. Biotin, Pantothenate, Lipoic Acid, and Iodine known to compete.
+superscript lysine b
+superscript lysinehcl b
+superscript arginine b 
+footnote b Arginine and Lysine known to compete.
+superscript b7ngnc c
+superscript b10ngnc c
+superscript b15ngnc c
+superscript b20ngnc c
+footnote c hamburger with varying fat percentages- 7,10,15,20, etc. .
+superscript B-100 d
+footnote d B-100 composed of several B vitamins. The contents are NOT broken into components so all B vitamins total need to have this added until software improves . 
+superscript 11KC e
+footnote e Combination of potassium chloride ( Morton Salt Substitute, see \\cite{mmarchywka-MJM-2015-001}\\cite{mmarchywka-MJM-2017-001}) and citric acid. 
+superscript optizn f
+footnote f OptiZinc in Life Extension 50mg Zinc Caps ( Zinc monomethionine, zinc citrate) . 
+scope
+variable datemin mjmdatemin
+variable datemax mjmdatemax
+variable footnotes mjmsuperscripts
+caption Most dietary components that Happy had for selected months between \\mjmdatemin and \\mjmdatemax. Format is "average daily amount ;maximum; days given/ days in interval ". Units are arbitrary except where noted.  The subscripts are as follows \\mjmsuperscripts 
+#foodalias b[0-9]*ngnc beef 1.0
+foodalias vmap xxx 0.0
+foodalias ctskin ctbrothbs 1.0
+foodalias ctbroth ctbrothbs 1.0
+foodalias 11PC KCl/citrate 1.0
+foodalias 11KC KCl/citrate 1.0
+datealias 2018-09 "2018-09 Sept"
+datealias 2018-10 "2018-10 Oct"
+datealias 2018-11 "2018-11 Nov"
+datealias 2018-12 "2018-12 Dec"
+datealias 2019-01 "2019-01 Jan"
+datealias 2019-02 "2019-02 Feb"
+datealias 2019-03 "2019-03 March"
+datealias 2019-04 "2019-04 April"
+datealias 2019-05 "2019-05 May"

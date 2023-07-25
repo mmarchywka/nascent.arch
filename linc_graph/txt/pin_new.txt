@@ -1,0 +1,115 @@
+foods tryptophan methionine B-100x doxycycline biotin K2 threonine
+foods Ivermectin threonine methionine histidinehcl doxycycline B-3 K2 Cu
+foods Iodine xlipoicacid lysinehcl xCu xtryptophan  Ivermectin  xthreonine xmethionine doxycycline xK2 xZZB-100
+foods tryptophan  Ivermectin xIodine B-6 biotin  threonine  B-100 methionine doxycycline K2
+#foods   
+dogs Happy 
+# defaults work now these changed with vode 
+#sample_idx 6 
+#food_idx 7 
+#sample_idx 8 
+#food_idx 9 
+# should use period 1 for filtering now 
+period 1 
+value_idx_name m_wavg 
+# use the name not the position
+value_idx 0 
+# some general things wtill work old way 
+datemin 2018-01-01
+x_rule 7
+xpitch 10
+histogram_like 0x0200 
+histo_fill 1 
+# this appears to work if no regex hits
+default_thick 2 
+thick Happy-K2 5
+opaq .5 
+szleg 20
+min_x_space 70
+# originally the dash spec was supposed to be derived from a line similar to coefficients
+# but it really makes more sense as a matrix as generally combinations will be made
+# and more so with symbol attributes 
+#dashes * K2 5 5
+label_mod 1
+label_res 0
+rsymbolsz 5 * * 
+# this works 
+dashes * 10 3 2 5 
+# this does not currently work right. 
+#symbol * * ngon 2 5 0
+# this is now apparently piced up into attmap by rule_list
+# taking the last sgring as a literal plotting symbol 
+#symbol * B-100 ngon 2 6 0
+#color * * green
+# not sure if this works or not 
+ryfunc pp * * 
+#thick Happy-methionine 50
+color Happy-K2 "#0000FF" 
+color Happy-histidinehcl "#FF0000" 
+color Happy-m.* "#FF00" 
+color Happy-t.* "#000000" 
+opaq * 1 
+opaq *K2 1 
+# define one filter 
+filter unity 0 uniform normalize
+filter flat 3 uniform normalize
+# a missing filter may produce no output. 
+path-filter * unity 
+path-filter methionine unity 
+#foodalias b[0-9]*ngnc beef 1
+#foodalias vmap trash 0 
+#foodalias (threonine|valine|leucine|lysine|tryptophan|histidine|arginine|phenylalanine|tyrosine|methionine) acids 1 
+#foodalias (ctbroth|ctskin) chicken 1 
+#foodalias salmon salmon 1 
+
+# this is DATA not config...
+text 2018-12-01 .5 black 20 0 start "this is the text"
+#event Happy 2019-01-10 XXXXXXXX black 
+condition Happy 2018-09-08 pooped good out by stump although quite narrow. 
+condition Happy 2018-09-10 continues to cough and pea a lot. 
+condition Happy 2018-09-20 still coughing sometimes but not real common 
+condition Happy 2018-10-09 took outside with collar hesitant, not pulling but curious no coughing. Only rare coughing inside yard or in house. PM walk, yawned once but did not want to play with Claire and hesitant to go 
+condition Happy 2018-10-11 coughing some AM, possible lipoicacid irritation 
+condition Happy 2018-10-12 in heat, has not coughed today may have yawned on walk uyesterday 
+condition Happy 2018-10-14 coughing a lot AM 
+condition Happy 2018-10-17 anxious to get out for walk but appears to have irritation on rear paw, similar to what Hershey had sometimes. 
+condition Happy 2018-11-20 0600AM ate what Claire threw up snack and kibble Barb gives them 
+condition Happy 2018-11-21 still coughing sometimes AM when excited but good on walks 
+condition Greta 2018-12-06 eating snack slow and Happy got big chunck although she ate kibble well 
+condition Happy 2018-12-17 barking AM and normal despite last night spitting up clear fluid and refusing kibble bits later evening after 2 walks, may have had heart problem or something find AM. Normal afternoon 
+condition Happy 2018-12-19 not coughing AM 
+condition Happy 2018-12-24 coughing a little before AM snack, good walk to kroger back around tall grass and subdivision no coughing up small hill by kroger or at all 
+condition Happy 2019-01-15 coughing more got more doxycycline but could not confirm pill ID after they were quartered, last batch dosing wrong. 
+condition Happy 2019-01-16 coughing much less even yesterday, curious if this is something other than heart worm due to fast response 
+condition Happy 2019-01-17 coughing a bit , best right on first day of doxy 
+condition Happy 2019-01-18 would rather dig up moles in rain than eat AM 
+condition Happy 2019-01-19 ivermectin in syringe apparentl 100mul uncapped light brown yellow paste 
+condition Happy 2019-01-20 coughing still no changes, maybe perkier by noon 
+condition Happy 2019-01-21 coughing rarely now unless excited even during walk in cold AM 
+condition Happy 2019-01-22 still coughing when excited but talking more 
+condition Claire 2019-01-25 slower and slower eating kibble, left some today for Happy 
+condition Happy 2019-01-29 more of the shelter ivermectin, clear jel maybe 100 microliters or so. Not coughing much but Barb is home and it is raining out so she is not getting out much either. Caught a mole and was chasing Claire in field later when it dried up 
+condition Spicey 2019-01-30 or Happy may have eaten Dexter PMSNACK but he did not growl AFAICT. 
+condition Happy 2019-01-30 maybe livlier but still coughing when excited, coughing when I came back from oil change gave her lipoicacid. 
+condition Happy 2019-01-31 only minor coughing AM very energetic 
+condition Happy 2019-02-01 no coughing until into back room after AMSNACK 
+condition Happy 2019-02-02 coughing more AM but seems ok later AM. Check history avoid recent amino acids like meth and trp 
+condition Happy 2019-02-03 coughing a lot still AM 
+condition Happy 2019-02-04 coughing at first AM now after eating AM may be better. Even better later although everyone quiet. Suspect running with Claire a few days ago or the vitamins replacing the Wolbachia 
+condition Happy 2019-02-05 no coughing AM despite barking to eat etc, no significant coughing afternoon but no walk although some excitment from plumbers 
+condition Happy 2019-02-06 barking a lot AM some light coughing when excited 
+condition Happy 2019-02-07 barking AM little cough, however coughing some on AM walk give lipoicacid afterwards 
+condition Happy 2019-02-08 coughing slightly but barking and whining to eat AM. Good walk, energetic little coughin. 
+condition Happy 2019-02-09 coughing a lot AM prior to snack, much better after eating remaining playful etc then coughing again around 0730AM, coughing all AM with excitement but better around noon. Playful causing cough not acting sick. 
+condition Happy 2019-02-10 coughing a lot but running around and ate AM 
+event Happy 2018-09-07 Ivermectin black
+event Happy 2018-09-10 Ivermectin black
+event Happy 2018-10-10 Ivermectin black
+event Happy 2018-12-23 Ivermectin black
+event Happy 2019-01-19 Ivermectin black
+event Happy 2019-01-29 Ivermectin black
+event Happy 2019-02-08 Ivermectin black
+event Happy 2019-02-24 EggShells red 
+event Happy 2019-04-14 Ivermectin black
+event Happy 2019-04-30 Ivermectin black
+event Happy 2019-05-16 Ivermectin black

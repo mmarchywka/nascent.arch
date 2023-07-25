@@ -1,0 +1,854 @@
+<svg style="overflow: hidden; -moz-user-select: none; cursor: default; position: relative; background-color: rgb(255, 255, 255);" xmlns="http://www.w3.org/2000/svg" width="3882" version="1.1" height="1030"><desc> test foo</desc><rect fill-opacity="1" stroke-width="1" stroke-opacity="1" style="" stroke="#FFFFFF" fill="#FFFFFF" ry="0" rx="0" r="0" height="1030" width="3882" y="0" x="0"></rect>
+<path d="M230 100 L780 520" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M780 520 L1440 280" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1440 280 L1580 160" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1440 280 L1580 520" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1580 160 L1790 160" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1580 520 L1790 520" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1790 520 L1940 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1790 160 L1940 280" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1940 280 L2140 280" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1940 460 L2220 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2140 280 L2220 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2220 460 L2560 640" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2560 640 L2680 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2680 460 L2730 640" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2730 640 L2900 640" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M230 700 L230 100" stroke="black" stroke-width="10"/>
+<path d="M260 700 L260 100" stroke="black" stroke-width="10"/>
+<path d="M560 700 L560 100" stroke="black" stroke-width="10"/>
+<path d="M1300 700 L1300 100" stroke="black" stroke-width="10"/>
+<path d="M1570 700 L1570 100" stroke="black" stroke-width="10"/>
+<path d="M1670 700 L1670 100" stroke="black" stroke-width="10"/>
+<path d="M1770 700 L1770 100" stroke="black" stroke-width="10"/>
+<path d="M1930 700 L1930 100" stroke="red" stroke-width="10"/>
+<path d="M2420 700 L2420 100" stroke="black" stroke-width="10"/>
+<path d="M2580 700 L2580 100" stroke="black" stroke-width="10"/>
+<path d="M2740 700 L2740 100" stroke="black" stroke-width="10"/>
+<text transform="rotate(90,40,590)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="590" x="40" style="text-anchor:end;">Normalized amounts </text><path d="M200 100 L3830 100" stroke="black" stroke-width="1"/>
+<path d="M200 220 L3830 220" stroke="black" stroke-width="1"/>
+<path d="M200 340 L3830 340" stroke="black" stroke-width="1"/>
+<path d="M200 460 L3830 460" stroke="black" stroke-width="1"/>
+<path d="M200 580 L3830 580" stroke="black" stroke-width="1"/>
+<path d="M200 700 L3830 700" stroke="black" stroke-width="1"/>
+<path d="M200 100 L200 700" stroke="black" stroke-width="1"/>
+<path d="M270 100 L270 700" stroke="black" stroke-width="1"/>
+<path d="M340 100 L340 700" stroke="black" stroke-width="1"/>
+<path d="M410 100 L410 700" stroke="black" stroke-width="1"/>
+<path d="M480 100 L480 700" stroke="black" stroke-width="1"/>
+<path d="M550 100 L550 700" stroke="black" stroke-width="1"/>
+<path d="M620 100 L620 700" stroke="black" stroke-width="1"/>
+<path d="M690 100 L690 700" stroke="black" stroke-width="1"/>
+<path d="M760 100 L760 700" stroke="black" stroke-width="1"/>
+<path d="M830 100 L830 700" stroke="black" stroke-width="1"/>
+<path d="M900 100 L900 700" stroke="black" stroke-width="1"/>
+<path d="M970 100 L970 700" stroke="black" stroke-width="1"/>
+<path d="M1040 100 L1040 700" stroke="black" stroke-width="1"/>
+<path d="M1110 100 L1110 700" stroke="black" stroke-width="1"/>
+<path d="M1180 100 L1180 700" stroke="black" stroke-width="1"/>
+<path d="M1250 100 L1250 700" stroke="black" stroke-width="1"/>
+<path d="M1320 100 L1320 700" stroke="black" stroke-width="1"/>
+<path d="M1390 100 L1390 700" stroke="black" stroke-width="1"/>
+<path d="M1460 100 L1460 700" stroke="black" stroke-width="1"/>
+<path d="M1530 100 L1530 700" stroke="black" stroke-width="1"/>
+<path d="M1600 100 L1600 700" stroke="black" stroke-width="1"/>
+<path d="M1670 100 L1670 700" stroke="black" stroke-width="1"/>
+<path d="M1740 100 L1740 700" stroke="black" stroke-width="1"/>
+<path d="M1810 100 L1810 700" stroke="black" stroke-width="1"/>
+<path d="M1880 100 L1880 700" stroke="black" stroke-width="1"/>
+<path d="M1950 100 L1950 700" stroke="black" stroke-width="1"/>
+<path d="M2020 100 L2020 700" stroke="black" stroke-width="1"/>
+<path d="M2090 100 L2090 700" stroke="black" stroke-width="1"/>
+<path d="M2160 100 L2160 700" stroke="black" stroke-width="1"/>
+<path d="M2230 100 L2230 700" stroke="black" stroke-width="1"/>
+<path d="M2300 100 L2300 700" stroke="black" stroke-width="1"/>
+<path d="M2370 100 L2370 700" stroke="black" stroke-width="1"/>
+<path d="M2440 100 L2440 700" stroke="black" stroke-width="1"/>
+<path d="M2510 100 L2510 700" stroke="black" stroke-width="1"/>
+<path d="M2580 100 L2580 700" stroke="black" stroke-width="1"/>
+<path d="M2650 100 L2650 700" stroke="black" stroke-width="1"/>
+<path d="M2720 100 L2720 700" stroke="black" stroke-width="1"/>
+<path d="M2790 100 L2790 700" stroke="black" stroke-width="1"/>
+<path d="M2860 100 L2860 700" stroke="black" stroke-width="1"/>
+<path d="M2930 100 L2930 700" stroke="black" stroke-width="1"/>
+<path d="M3000 100 L3000 700" stroke="black" stroke-width="1"/>
+<path d="M3070 100 L3070 700" stroke="black" stroke-width="1"/>
+<path d="M3140 100 L3140 700" stroke="black" stroke-width="1"/>
+<path d="M3210 100 L3210 700" stroke="black" stroke-width="1"/>
+<path d="M3280 100 L3280 700" stroke="black" stroke-width="1"/>
+<path d="M3350 100 L3350 700" stroke="black" stroke-width="1"/>
+<path d="M3420 100 L3420 700" stroke="black" stroke-width="1"/>
+<path d="M3490 100 L3490 700" stroke="black" stroke-width="1"/>
+<path d="M3560 100 L3560 700" stroke="black" stroke-width="1"/>
+<path d="M3630 100 L3630 700" stroke="black" stroke-width="1"/>
+<path d="M3700 100 L3700 700" stroke="black" stroke-width="1"/>
+<path d="M3770 100 L3770 700" stroke="black" stroke-width="1"/>
+<path d="M3830 100 L3830 700" stroke="black" stroke-width="1"/>
+ <pattern id="X7FFFFF1078" width="10" height="10"  patternUnits="userSpaceOnUse">
+  <line x1="5" y1="0" x2="5" y2="10"  stroke-opacity="0.78"  style="stroke:#7FFFFF; stroke-width:10" />
+</pattern>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="200"></rect>
+<text transform="rotate(0,205,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="205" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-85.9599" width="10" y="614.04" x="210"></rect>
+<text transform="rotate(0,215,615.54)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="615.54" x="215" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-159.885" width="10" y="540.115" x="220"></rect>
+<text transform="rotate(0,225,541.615)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="541.615" x="225" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-202.865" width="10" y="497.135" x="230"></rect>
+<text transform="rotate(0,235,498.635)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="498.635" x="235" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-271.633" width="10" y="428.367" x="240"></rect>
+<text transform="rotate(0,245,429.867)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="429.867" x="245" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-331.805" width="10" y="368.195" x="250"></rect>
+<text transform="rotate(0,255,369.695)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="369.695" x="255" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-348.997" width="10" y="351.003" x="260"></rect>
+<text transform="rotate(0,265,352.503)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="352.503" x="265" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-391.977" width="10" y="308.023" x="270"></rect>
+<text transform="rotate(0,275,309.523)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="309.523" x="275" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-355.874" width="10" y="344.126" x="280"></rect>
+<text transform="rotate(0,285,345.626)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="345.626" x="285" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-299.14" width="10" y="400.86" x="290"></rect>
+<text transform="rotate(0,295,402.36)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="402.36" x="295" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-321.49" width="10" y="378.51" x="300"></rect>
+<text transform="rotate(0,305,380.01)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="380.01" x="305" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-318.052" width="10" y="381.948" x="310"></rect>
+<text transform="rotate(0,315,383.448)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="383.448" x="315" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-283.668" width="10" y="416.332" x="320"></rect>
+<text transform="rotate(0,325,417.832)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="417.832" x="325" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-328.367" width="10" y="371.633" x="330"></rect>
+<text transform="rotate(0,335,373.133)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="373.133" x="335" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-347.278" width="10" y="352.722" x="340"></rect>
+<text transform="rotate(0,345,354.222)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="354.222" x="345" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-357.593" width="10" y="342.407" x="350"></rect>
+<text transform="rotate(0,355,343.907)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="343.907" x="355" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-400.573" width="10" y="299.427" x="360"></rect>
+<text transform="rotate(0,365,300.927)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="300.927" x="365" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-378.223" width="10" y="321.777" x="370"></rect>
+<text transform="rotate(0,375,323.277)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="323.277" x="375" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-347.278" width="10" y="352.722" x="380"></rect>
+<text transform="rotate(0,385,354.222)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="354.222" x="385" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-321.49" width="10" y="378.51" x="390"></rect>
+<text transform="rotate(0,395,380.01)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="380.01" x="395" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-259.599" width="10" y="440.401" x="400"></rect>
+<text transform="rotate(0,405,441.901)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="441.901" x="405" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-197.708" width="10" y="502.292" x="410"></rect>
+<text transform="rotate(0,415,503.792)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="503.792" x="415" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-137.536" width="10" y="562.464" x="420"></rect>
+<text transform="rotate(0,425,563.964)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="563.964" x="425" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-77.3639" width="10" y="622.636" x="430"></rect>
+<text transform="rotate(0,435,624.136)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="624.136" x="435" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-34.384" width="10" y="665.616" x="440"></rect>
+<text transform="rotate(0,445,667.116)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="667.116" x="445" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-42.9799" width="10" y="657.02" x="500"></rect>
+<text transform="rotate(0,505,658.52)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="658.52" x="505" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-94.5559" width="10" y="605.444" x="510"></rect>
+<text transform="rotate(0,515,606.944)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="606.944" x="515" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-180.516" width="10" y="519.484" x="520"></rect>
+<text transform="rotate(0,525,520.984)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="520.984" x="525" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-223.496" width="10" y="476.504" x="530"></rect>
+<text transform="rotate(0,535,478.004)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="478.004" x="535" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-249.284" width="10" y="450.716" x="540"></rect>
+<text transform="rotate(0,545,452.216)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="452.216" x="545" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-285.387" width="10" y="414.613" x="550"></rect>
+<text transform="rotate(0,555,416.113)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="416.113" x="555" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-321.49" width="10" y="378.51" x="560"></rect>
+<text transform="rotate(0,565,380.01)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="380.01" x="565" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-324.928" width="10" y="375.072" x="570"></rect>
+<text transform="rotate(0,575,376.572)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="376.572" x="575" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-292.264" width="10" y="407.736" x="580"></rect>
+<text transform="rotate(0,585,409.236)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="409.236" x="585" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-242.407" width="10" y="457.593" x="590"></rect>
+<text transform="rotate(0,595,459.093)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="459.093" x="595" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-235.53" width="10" y="464.47" x="600"></rect>
+<text transform="rotate(0,605,465.97)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="465.97" x="605" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-276.791" width="10" y="423.209" x="610"></rect>
+<text transform="rotate(0,615,424.709)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="424.709" x="615" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-276.791" width="10" y="423.209" x="620"></rect>
+<text transform="rotate(0,625,424.709)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="424.709" x="625" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-287.106" width="10" y="412.894" x="630"></rect>
+<text transform="rotate(0,635,414.394)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="414.394" x="635" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-287.106" width="10" y="412.894" x="640"></rect>
+<text transform="rotate(0,645,414.394)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="414.394" x="645" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-310.315" width="10" y="389.685" x="650"></rect>
+<text transform="rotate(0,655,391.185)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="391.185" x="655" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-315.473" width="10" y="384.527" x="660"></rect>
+<text transform="rotate(0,665,386.027)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="386.027" x="665" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-348.138" width="10" y="351.862" x="670"></rect>
+<text transform="rotate(0,675,353.362)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="353.362" x="675" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-308.596" width="10" y="391.404" x="680"></rect>
+<text transform="rotate(0,685,392.904)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="392.904" x="685" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-305.158" width="10" y="394.842" x="690"></rect>
+<text transform="rotate(0,695,396.342)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="396.342" x="695" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-310.315" width="10" y="389.685" x="700"></rect>
+<text transform="rotate(0,705,391.185)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="391.185" x="705" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-310.315" width="10" y="389.685" x="710"></rect>
+<text transform="rotate(0,715,391.185)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="391.185" x="715" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-309.456" width="10" y="390.544" x="720"></rect>
+<text transform="rotate(0,725,392.044)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="392.044" x="725" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-314.613" width="10" y="385.387" x="730"></rect>
+<text transform="rotate(0,735,386.887)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="386.887" x="735" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-281.948" width="10" y="418.052" x="740"></rect>
+<text transform="rotate(0,745,419.552)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="419.552" x="745" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-330.086" width="10" y="369.914" x="750"></rect>
+<text transform="rotate(0,755,371.414)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="371.414" x="755" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-338.682" width="10" y="361.318" x="760"></rect>
+<text transform="rotate(0,765,362.818)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="362.818" x="765" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-333.524" width="10" y="366.476" x="770"></rect>
+<text transform="rotate(0,775,367.976)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="367.976" x="775" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-328.367" width="10" y="371.633" x="780"></rect>
+<text transform="rotate(0,785,373.133)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="373.133" x="785" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-328.367" width="10" y="371.633" x="790"></rect>
+<text transform="rotate(0,795,373.133)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="373.133" x="795" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-343.84" width="10" y="356.16" x="800"></rect>
+<text transform="rotate(0,805,357.66)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="357.66" x="805" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-340.573" width="10" y="359.427" x="810"></rect>
+<text transform="rotate(0,815,360.927)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="360.927" x="815" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-302.751" width="10" y="397.249" x="820"></rect>
+<text transform="rotate(0,825,398.749)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="398.749" x="825" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-294.155" width="10" y="405.845" x="830"></rect>
+<text transform="rotate(0,835,407.345)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="407.345" x="835" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-285.559" width="10" y="414.441" x="840"></rect>
+<text transform="rotate(0,845,415.941)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="415.941" x="845" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-282.98" width="10" y="417.02" x="850"></rect>
+<text transform="rotate(0,855,418.52)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="418.52" x="855" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-288.138" width="10" y="411.862" x="860"></rect>
+<text transform="rotate(0,865,413.362)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="413.362" x="865" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-268.883" width="10" y="431.117" x="870"></rect>
+<text transform="rotate(0,875,432.617)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="432.617" x="875" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-279.026" width="10" y="420.974" x="880"></rect>
+<text transform="rotate(0,885,422.474)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="422.474" x="885" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-282.464" width="10" y="417.536" x="890"></rect>
+<text transform="rotate(0,895,419.036)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="419.036" x="895" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-299.656" width="10" y="400.344" x="900"></rect>
+<text transform="rotate(0,905,401.844)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="401.844" x="905" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-303.095" width="10" y="396.905" x="910"></rect>
+<text transform="rotate(0,915,398.405)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="398.405" x="915" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-310.831" width="10" y="389.169" x="920"></rect>
+<text transform="rotate(0,925,390.669)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="390.669" x="925" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-276.447" width="10" y="423.553" x="930"></rect>
+<text transform="rotate(0,935,425.053)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="425.053" x="935" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-296.39" width="10" y="403.61" x="940"></rect>
+<text transform="rotate(0,945,405.11)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="405.11" x="945" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-279.198" width="10" y="420.802" x="950"></rect>
+<text transform="rotate(0,955,422.302)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="422.302" x="955" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-280.917" width="10" y="419.083" x="960"></rect>
+<text transform="rotate(0,965,420.583)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="420.583" x="965" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-282.636" width="10" y="417.364" x="970"></rect>
+<text transform="rotate(0,975,418.864)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="418.864" x="975" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-241.375" width="10" y="458.625" x="980"></rect>
+<text transform="rotate(0,985,460.125)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="460.125" x="985" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-222.464" width="10" y="477.536" x="990"></rect>
+<text transform="rotate(0,995,479.036)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="479.036" x="995" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-248.252" width="10" y="451.748" x="1000"></rect>
+<text transform="rotate(0,1005,453.248)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="453.248" x="1005" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-218.338" width="10" y="481.662" x="1010"></rect>
+<text transform="rotate(0,1015,483.162)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="483.162" x="1015" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-197.708" width="10" y="502.292" x="1020"></rect>
+<text transform="rotate(0,1025,503.792)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="503.792" x="1025" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-187.393" width="10" y="512.607" x="1030"></rect>
+<text transform="rotate(0,1035,514.107)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="514.107" x="1035" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-164.183" width="10" y="535.817" x="1040"></rect>
+<text transform="rotate(0,1045,537.317)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="537.317" x="1045" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-174.499" width="10" y="525.501" x="1050"></rect>
+<text transform="rotate(0,1055,527.001)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="527.001" x="1055" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-179.656" width="10" y="520.344" x="1060"></rect>
+<text transform="rotate(0,1065,521.844)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="521.844" x="1065" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-184.814" width="10" y="515.186" x="1070"></rect>
+<text transform="rotate(0,1075,516.686)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="516.686" x="1075" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-202.006" width="10" y="497.994" x="1080"></rect>
+<text transform="rotate(0,1085,499.494)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="499.494" x="1085" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-229.513" width="10" y="470.487" x="1090"></rect>
+<text transform="rotate(0,1095,471.987)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="471.987" x="1095" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-236.39" width="10" y="463.61" x="1100"></rect>
+<text transform="rotate(0,1105,465.11)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="465.11" x="1105" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-242.407" width="10" y="457.593" x="1110"></rect>
+<text transform="rotate(0,1115,459.093)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="459.093" x="1115" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-307.736" width="10" y="392.264" x="1120"></rect>
+<text transform="rotate(0,1125,393.764)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="393.764" x="1125" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-348.997" width="10" y="351.003" x="1130"></rect>
+<text transform="rotate(0,1135,352.503)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="352.503" x="1135" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-311.175" width="10" y="388.825" x="1140"></rect>
+<text transform="rotate(0,1145,390.325)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="390.325" x="1145" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-261.318" width="10" y="438.682" x="1150"></rect>
+<text transform="rotate(0,1155,440.182)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="440.182" x="1155" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-268.195" width="10" y="431.805" x="1160"></rect>
+<text transform="rotate(0,1165,433.305)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="433.305" x="1165" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-297.421" width="10" y="402.579" x="1170"></rect>
+<text transform="rotate(0,1175,404.079)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="404.079" x="1175" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-312.894" width="10" y="387.106" x="1180"></rect>
+<text transform="rotate(0,1185,388.606)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="388.606" x="1185" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-292.264" width="10" y="407.736" x="1190"></rect>
+<text transform="rotate(0,1195,409.236)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="409.236" x="1195" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-251.003" width="10" y="448.997" x="1200"></rect>
+<text transform="rotate(0,1205,450.497)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="450.497" x="1205" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-278.51" width="10" y="421.49" x="1210"></rect>
+<text transform="rotate(0,1215,422.99)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="422.99" x="1215" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-328.367" width="10" y="371.633" x="1220"></rect>
+<text transform="rotate(0,1225,373.133)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="373.133" x="1225" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-316.332" width="10" y="383.668" x="1230"></rect>
+<text transform="rotate(0,1235,385.168)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="385.168" x="1235" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-309.456" width="10" y="390.544" x="1240"></rect>
+<text transform="rotate(0,1245,392.044)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="392.044" x="1245" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-287.106" width="10" y="412.894" x="1250"></rect>
+<text transform="rotate(0,1255,414.394)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="414.394" x="1255" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-259.599" width="10" y="440.401" x="1260"></rect>
+<text transform="rotate(0,1265,441.901)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="441.901" x="1265" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-242.407" width="10" y="457.593" x="1270"></rect>
+<text transform="rotate(0,1275,459.093)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="459.093" x="1275" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-214.9" width="10" y="485.1" x="1280"></rect>
+<text transform="rotate(0,1285,486.6)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="486.6" x="1285" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-180.516" width="10" y="519.484" x="1290"></rect>
+<text transform="rotate(0,1295,520.984)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="520.984" x="1295" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-180.516" width="10" y="519.484" x="1300"></rect>
+<text transform="rotate(0,1305,520.984)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="520.984" x="1305" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-146.132" width="10" y="553.868" x="1310"></rect>
+<text transform="rotate(0,1315,555.368)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="555.368" x="1315" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-173.639" width="10" y="526.361" x="1320"></rect>
+<text transform="rotate(0,1325,527.861)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="527.861" x="1325" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-201.146" width="10" y="498.854" x="1330"></rect>
+<text transform="rotate(0,1335,500.354)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="500.354" x="1335" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-223.496" width="10" y="476.504" x="1340"></rect>
+<text transform="rotate(0,1345,478.004)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="478.004" x="1345" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-242.407" width="10" y="457.593" x="1350"></rect>
+<text transform="rotate(0,1355,459.093)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="459.093" x="1355" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-275.072" width="10" y="424.928" x="1360"></rect>
+<text transform="rotate(0,1365,426.428)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="426.428" x="1365" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-287.106" width="10" y="412.894" x="1370"></rect>
+<text transform="rotate(0,1375,414.394)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="414.394" x="1375" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-287.106" width="10" y="412.894" x="1380"></rect>
+<text transform="rotate(0,1385,414.394)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="414.394" x="1385" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-268.195" width="10" y="431.805" x="1390"></rect>
+<text transform="rotate(0,1395,433.305)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="433.305" x="1395" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-261.318" width="10" y="438.682" x="1400"></rect>
+<text transform="rotate(0,1405,440.182)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="440.182" x="1405" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-271.633" width="10" y="428.367" x="1410"></rect>
+<text transform="rotate(0,1415,429.867)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="429.867" x="1415" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-271.633" width="10" y="428.367" x="1420"></rect>
+<text transform="rotate(0,1425,429.867)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="429.867" x="1425" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-257.88" width="10" y="442.12" x="1430"></rect>
+<text transform="rotate(0,1435,443.62)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="443.62" x="1435" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-247.564" width="10" y="452.436" x="1440"></rect>
+<text transform="rotate(0,1445,453.936)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="453.936" x="1445" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-264.756" width="10" y="435.244" x="1450"></rect>
+<text transform="rotate(0,1455,436.744)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="436.744" x="1455" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-276.791" width="10" y="423.209" x="1460"></rect>
+<text transform="rotate(0,1465,424.709)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="424.709" x="1465" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-273.352" width="10" y="426.648" x="1470"></rect>
+<text transform="rotate(0,1475,428.148)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="428.148" x="1475" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-273.352" width="10" y="426.648" x="1480"></rect>
+<text transform="rotate(0,1485,428.148)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="428.148" x="1485" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-300.86" width="10" y="399.14" x="1490"></rect>
+<text transform="rotate(0,1495,400.64)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="400.64" x="1495" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-321.49" width="10" y="378.51" x="1500"></rect>
+<text transform="rotate(0,1505,380.01)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="380.01" x="1505" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-378.223" width="10" y="321.777" x="1510"></rect>
+<text transform="rotate(0,1515,323.277)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="323.277" x="1515" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-388.539" width="10" y="311.461" x="1520"></rect>
+<text transform="rotate(0,1525,312.961)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="312.961" x="1525" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-386.819" width="10" y="313.181" x="1530"></rect>
+<text transform="rotate(0,1535,314.681)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="314.681" x="1535" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-397.135" width="10" y="302.865" x="1540"></rect>
+<text transform="rotate(0,1545,304.365)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="304.365" x="1545" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-393.696" width="10" y="306.304" x="1550"></rect>
+<text transform="rotate(0,1555,307.804)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="307.804" x="1555" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-397.135" width="10" y="302.865" x="1560"></rect>
+<text transform="rotate(0,1565,304.365)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="304.365" x="1565" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-395.415" width="10" y="304.585" x="1570"></rect>
+<text transform="rotate(0,1575,306.085)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="306.085" x="1575" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-345.559" width="10" y="354.441" x="1580"></rect>
+<text transform="rotate(0,1585,355.941)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="355.941" x="1585" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-307.736" width="10" y="392.264" x="1590"></rect>
+<text transform="rotate(0,1595,393.764)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="393.764" x="1595" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-303.954" width="10" y="396.046" x="1600"></rect>
+<text transform="rotate(0,1605,397.546)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="397.546" x="1605" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-273.009" width="10" y="426.991" x="1610"></rect>
+<text transform="rotate(0,1615,428.491)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="428.491" x="1615" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-250.659" width="10" y="449.341" x="1620"></rect>
+<text transform="rotate(0,1625,450.841)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="450.841" x="1625" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-243.782" width="10" y="456.218" x="1630"></rect>
+<text transform="rotate(0,1635,457.718)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="457.718" x="1635" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-236.905" width="10" y="463.095" x="1640"></rect>
+<text transform="rotate(0,1645,464.595)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="464.595" x="1645" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-235.186" width="10" y="464.814" x="1650"></rect>
+<text transform="rotate(0,1655,466.314)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="466.314" x="1655" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-242.923" width="10" y="457.077" x="1660"></rect>
+<text transform="rotate(0,1665,458.577)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="458.577" x="1665" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-243.266" width="10" y="456.734" x="1670"></rect>
+<text transform="rotate(0,1675,458.234)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="458.234" x="1675" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-243.266" width="10" y="456.734" x="1680"></rect>
+<text transform="rotate(0,1685,458.234)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="458.234" x="1685" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-253.582" width="10" y="446.418" x="1690"></rect>
+<text transform="rotate(0,1695,447.918)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="447.918" x="1695" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-240.688" width="10" y="459.312" x="1700"></rect>
+<text transform="rotate(0,1705,460.812)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="460.812" x="1705" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-225.215" width="10" y="474.785" x="1710"></rect>
+<text transform="rotate(0,1715,476.285)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="476.285" x="1715" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-235.53" width="10" y="464.47" x="1720"></rect>
+<text transform="rotate(0,1725,465.97)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="465.97" x="1725" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-272.493" width="10" y="427.507" x="1730"></rect>
+<text transform="rotate(0,1735,429.007)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="429.007" x="1735" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-267.335" width="10" y="432.665" x="1740"></rect>
+<text transform="rotate(0,1745,434.165)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="434.165" x="1745" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-291.404" width="10" y="408.596" x="1750"></rect>
+<text transform="rotate(0,1755,410.096)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="410.096" x="1755" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-324.069" width="10" y="375.931" x="1760"></rect>
+<text transform="rotate(0,1765,377.431)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="377.431" x="1765" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-326.648" width="10" y="373.352" x="1770"></rect>
+<text transform="rotate(0,1775,374.852)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="374.852" x="1775" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-336.963" width="10" y="363.037" x="1780"></rect>
+<text transform="rotate(0,1785,364.537)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="364.537" x="1785" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-373.066" width="10" y="326.934" x="1790"></rect>
+<text transform="rotate(0,1795,328.434)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="328.434" x="1795" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-347.278" width="10" y="352.722" x="1800"></rect>
+<text transform="rotate(0,1805,354.222)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="354.222" x="1805" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-386.819" width="10" y="313.181" x="1810"></rect>
+<text transform="rotate(0,1815,314.681)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="314.681" x="1815" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-383.381" width="10" y="316.619" x="1820"></rect>
+<text transform="rotate(0,1825,318.119)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="318.119" x="1825" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-362.751" width="10" y="337.249" x="1830"></rect>
+<text transform="rotate(0,1835,338.749)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="338.749" x="1835" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-361.032" width="10" y="338.968" x="1840"></rect>
+<text transform="rotate(0,1845,340.468)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="340.468" x="1845" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-362.751" width="10" y="337.249" x="1850"></rect>
+<text transform="rotate(0,1855,338.749)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="338.749" x="1855" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-326.648" width="10" y="373.352" x="1860"></rect>
+<text transform="rotate(0,1865,374.852)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="374.852" x="1865" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-307.736" width="10" y="392.264" x="1870"></rect>
+<text transform="rotate(0,1875,393.764)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="393.764" x="1875" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-247.564" width="10" y="452.436" x="1880"></rect>
+<text transform="rotate(0,1885,453.936)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="453.936" x="1885" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-211.461" width="10" y="488.539" x="1890"></rect>
+<text transform="rotate(0,1895,490.039)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="490.039" x="1895" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-194.269" width="10" y="505.731" x="1900"></rect>
+<text transform="rotate(0,1905,507.231)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="507.231" x="1905" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-171.92" width="10" y="528.08" x="1910"></rect>
+<text transform="rotate(0,1915,529.58)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="529.58" x="1915" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-153.009" width="10" y="546.991" x="1920"></rect>
+<text transform="rotate(0,1925,548.491)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="548.491" x="1925" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-204.585" width="10" y="495.415" x="1930"></rect>
+<text transform="rotate(0,1935,496.915)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="496.915" x="1935" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-281.948" width="10" y="418.052" x="1940"></rect>
+<text transform="rotate(0,1945,419.552)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="419.552" x="1945" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-395.415" width="10" y="304.585" x="1950"></rect>
+<text transform="rotate(0,1955,306.085)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="306.085" x="1955" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-448.711" width="10" y="251.289" x="1960"></rect>
+<text transform="rotate(0,1965,252.789)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="252.789" x="1965" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-448.711" width="10" y="251.289" x="1970"></rect>
+<text transform="rotate(0,1975,252.789)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="252.789" x="1975" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-529.513" width="10" y="170.487" x="1980"></rect>
+<text transform="rotate(0,1985,171.987)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="171.987" x="1985" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-600" width="10" y="100" x="1990"></rect>
+<text transform="rotate(0,1995,101.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="101.5" x="1995" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-598.281" width="10" y="101.719" x="2000"></rect>
+<text transform="rotate(0,2005,103.219)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="103.219" x="2005" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-598.281" width="10" y="101.719" x="2010"></rect>
+<text transform="rotate(0,2015,103.219)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="103.219" x="2015" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-562.178" width="10" y="137.822" x="2020"></rect>
+<text transform="rotate(0,2025,139.322)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="139.322" x="2025" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-559.771" width="10" y="140.229" x="2030"></rect>
+<text transform="rotate(0,2035,141.729)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="141.729" x="2035" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-592.436" width="10" y="107.564" x="2040"></rect>
+<text transform="rotate(0,2045,109.064)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="109.064" x="2045" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-592.436" width="10" y="107.564" x="2050"></rect>
+<text transform="rotate(0,2055,109.064)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="109.064" x="2055" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-592.436" width="10" y="107.564" x="2060"></rect>
+<text transform="rotate(0,2065,109.064)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="109.064" x="2065" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-593.295" width="10" y="106.705" x="2070"></rect>
+<text transform="rotate(0,2075,108.205)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="108.205" x="2075" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-593.295" width="10" y="106.705" x="2080"></rect>
+<text transform="rotate(0,2085,108.205)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="108.205" x="2085" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-593.295" width="10" y="106.705" x="2090"></rect>
+<text transform="rotate(0,2095,108.205)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="108.205" x="2095" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-593.983" width="10" y="106.017" x="2100"></rect>
+<text transform="rotate(0,2105,107.517)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="107.517" x="2105" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-590.544" width="10" y="109.456" x="2110"></rect>
+<text transform="rotate(0,2115,110.956)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="110.956" x="2115" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-590.544" width="10" y="109.456" x="2120"></rect>
+<text transform="rotate(0,2125,110.956)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="110.956" x="2125" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-556.16" width="10" y="143.84" x="2130"></rect>
+<text transform="rotate(0,2135,145.34)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="145.34" x="2135" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-519.198" width="10" y="180.802" x="2140"></rect>
+<text transform="rotate(0,2145,182.302)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="182.302" x="2145" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-450.43" width="10" y="249.57" x="2150"></rect>
+<text transform="rotate(0,2155,251.07)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="251.07" x="2155" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-418.195" width="10" y="281.805" x="2160"></rect>
+<text transform="rotate(0,2165,283.305)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="283.305" x="2165" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-418.195" width="10" y="281.805" x="2170"></rect>
+<text transform="rotate(0,2175,283.305)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="283.305" x="2175" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-387.249" width="10" y="312.751" x="2180"></rect>
+<text transform="rotate(0,2185,314.251)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="314.251" x="2185" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-301.289" width="10" y="398.711" x="2190"></rect>
+<text transform="rotate(0,2195,400.211)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="400.211" x="2195" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-266.905" width="10" y="433.095" x="2200"></rect>
+<text transform="rotate(0,2205,434.595)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="434.595" x="2205" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-268.625" width="10" y="431.375" x="2210"></rect>
+<text transform="rotate(0,2215,432.875)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="432.875" x="2215" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-303.009" width="10" y="396.991" x="2220"></rect>
+<text transform="rotate(0,2225,398.491)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="398.491" x="2225" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-263.037" width="10" y="436.963" x="2230"></rect>
+<text transform="rotate(0,2235,438.463)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="438.463" x="2235" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-225.215" width="10" y="474.785" x="2240"></rect>
+<text transform="rotate(0,2245,476.285)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="476.285" x="2245" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-223.496" width="10" y="476.504" x="2250"></rect>
+<text transform="rotate(0,2255,478.004)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="478.004" x="2255" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-237.249" width="10" y="462.751" x="2260"></rect>
+<text transform="rotate(0,2265,464.251)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="464.251" x="2265" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-233.811" width="10" y="466.189" x="2270"></rect>
+<text transform="rotate(0,2275,467.689)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="467.689" x="2275" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-195.989" width="10" y="504.011" x="2280"></rect>
+<text transform="rotate(0,2285,505.511)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="505.511" x="2285" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-194.269" width="10" y="505.731" x="2290"></rect>
+<text transform="rotate(0,2295,507.231)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="507.231" x="2295" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-194.269" width="10" y="505.731" x="2300"></rect>
+<text transform="rotate(0,2305,507.231)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="507.231" x="2305" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-194.269" width="10" y="505.731" x="2310"></rect>
+<text transform="rotate(0,2315,507.231)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="507.231" x="2315" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-177.077" width="10" y="522.923" x="2320"></rect>
+<text transform="rotate(0,2325,524.423)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.423" x="2325" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-170.201" width="10" y="529.799" x="2330"></rect>
+<text transform="rotate(0,2335,531.299)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="531.299" x="2335" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-171.92" width="10" y="528.08" x="2340"></rect>
+<text transform="rotate(0,2345,529.58)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="529.58" x="2345" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-171.92" width="10" y="528.08" x="2350"></rect>
+<text transform="rotate(0,2355,529.58)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="529.58" x="2355" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-135.817" width="10" y="564.183" x="2360"></rect>
+<text transform="rotate(0,2365,565.683)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="565.683" x="2365" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-134.097" width="10" y="565.903" x="2370"></rect>
+<text transform="rotate(0,2375,567.403)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="567.403" x="2375" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-134.097" width="10" y="565.903" x="2380"></rect>
+<text transform="rotate(0,2385,567.403)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="567.403" x="2385" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-185.673" width="10" y="514.327" x="2390"></rect>
+<text transform="rotate(0,2395,515.827)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="515.827" x="2395" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-192.55" width="10" y="507.45" x="2400"></rect>
+<text transform="rotate(0,2405,508.95)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="508.95" x="2405" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-192.55" width="10" y="507.45" x="2410"></rect>
+<text transform="rotate(0,2415,508.95)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="508.95" x="2415" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-192.55" width="10" y="507.45" x="2420"></rect>
+<text transform="rotate(0,2425,508.95)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="508.95" x="2425" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-195.989" width="10" y="504.011" x="2430"></rect>
+<text transform="rotate(0,2435,505.511)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="505.511" x="2435" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-197.708" width="10" y="502.292" x="2440"></rect>
+<text transform="rotate(0,2445,503.792)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="503.792" x="2445" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-201.146" width="10" y="498.854" x="2450"></rect>
+<text transform="rotate(0,2455,500.354)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="500.354" x="2455" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-168.481" width="10" y="531.519" x="2460"></rect>
+<text transform="rotate(0,2465,533.019)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="533.019" x="2465" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-170.201" width="10" y="529.799" x="2470"></rect>
+<text transform="rotate(0,2475,531.299)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="531.299" x="2475" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-170.201" width="10" y="529.799" x="2480"></rect>
+<text transform="rotate(0,2485,531.299)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="531.299" x="2485" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-171.92" width="10" y="528.08" x="2490"></rect>
+<text transform="rotate(0,2495,529.58)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="529.58" x="2495" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-170.201" width="10" y="529.799" x="2500"></rect>
+<text transform="rotate(0,2505,531.299)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="531.299" x="2505" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-154.728" width="10" y="545.272" x="2510"></rect>
+<text transform="rotate(0,2515,546.772)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="546.772" x="2515" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-128.94" width="10" y="571.06" x="2520"></rect>
+<text transform="rotate(0,2525,572.56)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="572.56" x="2525" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-125.501" width="10" y="574.499" x="2530"></rect>
+<text transform="rotate(0,2535,575.999)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="575.999" x="2535" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-127.221" width="10" y="572.779" x="2540"></rect>
+<text transform="rotate(0,2545,574.279)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="574.279" x="2545" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-163.324" width="10" y="536.676" x="2550"></rect>
+<text transform="rotate(0,2555,538.176)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="538.176" x="2555" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-165.043" width="10" y="534.957" x="2560"></rect>
+<text transform="rotate(0,2565,536.457)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="536.457" x="2565" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-163.324" width="10" y="536.676" x="2570"></rect>
+<text transform="rotate(0,2575,538.176)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="538.176" x="2575" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-182.235" width="10" y="517.765" x="2580"></rect>
+<text transform="rotate(0,2585,519.265)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="519.265" x="2585" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-208.023" width="10" y="491.977" x="2590"></rect>
+<text transform="rotate(0,2595,493.477)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="493.477" x="2595" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-245.845" width="10" y="454.155" x="2600"></rect>
+<text transform="rotate(0,2605,455.655)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="455.655" x="2605" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-245.845" width="10" y="454.155" x="2610"></rect>
+<text transform="rotate(0,2615,455.655)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="455.655" x="2615" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-214.04" width="10" y="485.96" x="2620"></rect>
+<text transform="rotate(0,2625,487.46)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="487.46" x="2625" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-214.04" width="10" y="485.96" x="2630"></rect>
+<text transform="rotate(0,2635,487.46)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="487.46" x="2635" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-217.479" width="10" y="482.521" x="2640"></rect>
+<text transform="rotate(0,2645,484.021)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="484.021" x="2645" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-217.479" width="10" y="482.521" x="2650"></rect>
+<text transform="rotate(0,2655,484.021)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="484.021" x="2655" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-217.479" width="10" y="482.521" x="2660"></rect>
+<text transform="rotate(0,2665,484.021)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="484.021" x="2665" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-181.375" width="10" y="518.625" x="2670"></rect>
+<text transform="rotate(0,2675,520.125)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="520.125" x="2675" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-181.375" width="10" y="518.625" x="2680"></rect>
+<text transform="rotate(0,2685,520.125)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="520.125" x="2685" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-176.734" width="10" y="523.266" x="2690"></rect>
+<text transform="rotate(0,2695,524.766)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.766" x="2695" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-176.734" width="10" y="523.266" x="2700"></rect>
+<text transform="rotate(0,2705,524.766)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.766" x="2705" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-176.734" width="10" y="523.266" x="2710"></rect>
+<text transform="rotate(0,2715,524.766)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.766" x="2715" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-176.734" width="10" y="523.266" x="2720"></rect>
+<text transform="rotate(0,2725,524.766)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.766" x="2725" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-176.734" width="10" y="523.266" x="2730"></rect>
+<text transform="rotate(0,2735,524.766)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.766" x="2735" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-178.453" width="10" y="521.547" x="2740"></rect>
+<text transform="rotate(0,2745,523.047)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="523.047" x="2745" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-178.453" width="10" y="521.547" x="2750"></rect>
+<text transform="rotate(0,2755,523.047)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="523.047" x="2755" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-178.797" width="10" y="521.203" x="2760"></rect>
+<text transform="rotate(0,2765,522.703)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="522.703" x="2765" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-208.883" width="10" y="491.117" x="2770"></rect>
+<text transform="rotate(0,2775,492.617)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="492.617" x="2775" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-204.585" width="10" y="495.415" x="2780"></rect>
+<text transform="rotate(0,2785,496.915)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="496.915" x="2785" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-200.287" width="10" y="499.713" x="2790"></rect>
+<text transform="rotate(0,2795,501.213)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="501.213" x="2795" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-192.55" width="10" y="507.45" x="2800"></rect>
+<text transform="rotate(0,2805,508.95)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="508.95" x="2805" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-192.55" width="10" y="507.45" x="2810"></rect>
+<text transform="rotate(0,2815,508.95)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="508.95" x="2815" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-190.831" width="10" y="509.169" x="2820"></rect>
+<text transform="rotate(0,2825,510.669)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="510.669" x="2825" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-201.146" width="10" y="498.854" x="2830"></rect>
+<text transform="rotate(0,2835,500.354)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="500.354" x="2835" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-171.06" width="10" y="528.94" x="2840"></rect>
+<text transform="rotate(0,2845,530.44)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="530.44" x="2845" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-171.06" width="10" y="528.94" x="2850"></rect>
+<text transform="rotate(0,2855,530.44)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="530.44" x="2855" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-171.06" width="10" y="528.94" x="2860"></rect>
+<text transform="rotate(0,2865,530.44)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="530.44" x="2865" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-177.077" width="10" y="522.923" x="2870"></rect>
+<text transform="rotate(0,2875,524.423)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.423" x="2875" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-177.077" width="10" y="522.923" x="2880"></rect>
+<text transform="rotate(0,2885,524.423)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="524.423" x="2885" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-178.797" width="10" y="521.203" x="2890"></rect>
+<text transform="rotate(0,2895,522.703)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="522.703" x="2895" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-170.201" width="10" y="529.799" x="2900"></rect>
+<text transform="rotate(0,2905,531.299)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="531.299" x="2905" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-170.201" width="10" y="529.799" x="2910"></rect>
+<text transform="rotate(0,2915,531.299)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="531.299" x="2915" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-157.307" width="10" y="542.693" x="2920"></rect>
+<text transform="rotate(0,2925,544.193)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="544.193" x="2925" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-144.413" width="10" y="555.587" x="2930"></rect>
+<text transform="rotate(0,2935,557.087)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="557.087" x="2935" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-120.344" width="10" y="579.656" x="2940"></rect>
+<text transform="rotate(0,2945,581.156)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="581.156" x="2945" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-94.5559" width="10" y="605.444" x="2950"></rect>
+<text transform="rotate(0,2955,606.944)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="606.944" x="2955" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-68.7679" width="10" y="631.232" x="2960"></rect>
+<text transform="rotate(0,2965,632.732)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="632.732" x="2965" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-42.9799" width="10" y="657.02" x="2970"></rect>
+<text transform="rotate(0,2975,658.52)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="658.52" x="2975" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-17.192" width="10" y="682.808" x="2980"></rect>
+<text transform="rotate(0,2985,684.308)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="684.308" x="2985" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-8.59599" width="10" y="691.404" x="2990"></rect>
+<text transform="rotate(0,2995,692.904)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="692.904" x="2995" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-17.192" width="10" y="682.808" x="3060"></rect>
+<text transform="rotate(0,3065,684.308)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="684.308" x="3065" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-25.788" width="10" y="674.212" x="3070"></rect>
+<text transform="rotate(0,3075,675.712)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="675.712" x="3075" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-25.788" width="10" y="674.212" x="3080"></rect>
+<text transform="rotate(0,3085,675.712)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="675.712" x="3085" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-51.5759" width="10" y="648.424" x="3090"></rect>
+<text transform="rotate(0,3095,649.924)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="649.924" x="3095" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-77.3639" width="10" y="622.636" x="3100"></rect>
+<text transform="rotate(0,3105,624.136)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="624.136" x="3105" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-103.152" width="10" y="596.848" x="3110"></rect>
+<text transform="rotate(0,3115,598.348)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="598.348" x="3115" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-128.94" width="10" y="571.06" x="3120"></rect>
+<text transform="rotate(0,3125,572.56)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="572.56" x="3125" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-137.536" width="10" y="562.464" x="3130"></rect>
+<text transform="rotate(0,3135,563.964)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="563.964" x="3135" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-154.04" width="10" y="545.96" x="3140"></rect>
+<text transform="rotate(0,3145,547.46)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="547.46" x="3145" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-176.39" width="10" y="523.61" x="3150"></rect>
+<text transform="rotate(0,3155,525.11)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="525.11" x="3155" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-172.951" width="10" y="527.049" x="3160"></rect>
+<text transform="rotate(0,3165,528.549)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="528.549" x="3165" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-172.951" width="10" y="527.049" x="3170"></rect>
+<text transform="rotate(0,3175,528.549)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="528.549" x="3175" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-207.335" width="10" y="492.665" x="3180"></rect>
+<text transform="rotate(0,3185,494.165)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="494.165" x="3185" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-207.335" width="10" y="492.665" x="3190"></rect>
+<text transform="rotate(0,3195,494.165)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="494.165" x="3195" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-207.335" width="10" y="492.665" x="3200"></rect>
+<text transform="rotate(0,3205,494.165)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="494.165" x="3205" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-208.023" width="10" y="491.977" x="3210"></rect>
+<text transform="rotate(0,3215,493.477)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="493.477" x="3215" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-211.461" width="10" y="488.539" x="3220"></rect>
+<text transform="rotate(0,3225,490.039)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="490.039" x="3225" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-214.9" width="10" y="485.1" x="3230"></rect>
+<text transform="rotate(0,3235,486.6)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="486.6" x="3235" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-189.112" width="10" y="510.888" x="3240"></rect>
+<text transform="rotate(0,3245,512.388)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="512.388" x="3245" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-128.94" width="10" y="571.06" x="3250"></rect>
+<text transform="rotate(0,3255,572.56)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="572.56" x="3255" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-120.344" width="10" y="579.656" x="3260"></rect>
+<text transform="rotate(0,3265,581.156)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="581.156" x="3265" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-99.7135" width="10" y="600.287" x="3270"></rect>
+<text transform="rotate(0,3275,601.787)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="601.787" x="3275" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-96.2751" width="10" y="603.725" x="3280"></rect>
+<text transform="rotate(0,3285,605.225)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="605.225" x="3285" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-91.1175" width="10" y="608.883" x="3290"></rect>
+<text transform="rotate(0,3295,610.383)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="610.383" x="3295" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-87.6791" width="10" y="612.321" x="3300"></rect>
+<text transform="rotate(0,3305,613.821)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="613.821" x="3305" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-103.152" width="10" y="596.848" x="3310"></rect>
+<text transform="rotate(0,3315,598.348)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="598.348" x="3315" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-118.625" width="10" y="581.375" x="3320"></rect>
+<text transform="rotate(0,3325,582.875)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="582.875" x="3325" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-110.029" width="10" y="589.971" x="3330"></rect>
+<text transform="rotate(0,3335,591.471)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="591.471" x="3335" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-128.94" width="10" y="571.06" x="3340"></rect>
+<text transform="rotate(0,3345,572.56)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="572.56" x="3345" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-128.94" width="10" y="571.06" x="3350"></rect>
+<text transform="rotate(0,3355,572.56)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="572.56" x="3355" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-130.659" width="10" y="569.341" x="3360"></rect>
+<text transform="rotate(0,3365,570.841)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="570.841" x="3365" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-130.659" width="10" y="569.341" x="3370"></rect>
+<text transform="rotate(0,3375,570.841)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="570.841" x="3375" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-137.536" width="10" y="562.464" x="3380"></rect>
+<text transform="rotate(0,3385,563.964)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="563.964" x="3385" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-144.413" width="10" y="555.587" x="3390"></rect>
+<text transform="rotate(0,3395,557.087)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="557.087" x="3395" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-158.166" width="10" y="541.834" x="3400"></rect>
+<text transform="rotate(0,3405,543.334)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="543.334" x="3405" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-156.447" width="10" y="543.553" x="3410"></rect>
+<text transform="rotate(0,3415,545.053)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="545.053" x="3415" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-149.57" width="10" y="550.43" x="3420"></rect>
+<text transform="rotate(0,3425,551.93)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="551.93" x="3425" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-149.57" width="10" y="550.43" x="3430"></rect>
+<text transform="rotate(0,3435,551.93)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="551.93" x="3435" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-144.413" width="10" y="555.587" x="3440"></rect>
+<text transform="rotate(0,3445,557.087)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="557.087" x="3445" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-144.413" width="10" y="555.587" x="3450"></rect>
+<text transform="rotate(0,3455,557.087)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="557.087" x="3455" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-137.536" width="10" y="562.464" x="3460"></rect>
+<text transform="rotate(0,3465,563.964)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="563.964" x="3465" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-130.659" width="10" y="569.341" x="3470"></rect>
+<text transform="rotate(0,3475,570.841)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="570.841" x="3475" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-108.309" width="10" y="591.691" x="3480"></rect>
+<text transform="rotate(0,3485,593.191)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="593.191" x="3485" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-115.186" width="10" y="584.814" x="3490"></rect>
+<text transform="rotate(0,3495,586.314)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="586.314" x="3495" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-113.467" width="10" y="586.533" x="3500"></rect>
+<text transform="rotate(0,3505,588.033)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="588.033" x="3505" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-116.046" width="10" y="583.954" x="3510"></rect>
+<text transform="rotate(0,3515,585.454)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="585.454" x="3515" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-116.046" width="10" y="583.954" x="3520"></rect>
+<text transform="rotate(0,3525,585.454)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="585.454" x="3525" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-122.923" width="10" y="577.077" x="3530"></rect>
+<text transform="rotate(0,3535,578.577)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="578.577" x="3535" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-129.799" width="10" y="570.201" x="3540"></rect>
+<text transform="rotate(0,3545,571.701)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="571.701" x="3545" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-145.272" width="10" y="554.728" x="3550"></rect>
+<text transform="rotate(0,3555,556.228)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="556.228" x="3555" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-138.395" width="10" y="561.605" x="3560"></rect>
+<text transform="rotate(0,3565,563.105)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="563.105" x="3565" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-133.238" width="10" y="566.762" x="3570"></rect>
+<text transform="rotate(0,3575,568.262)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="568.262" x="3575" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-135.817" width="10" y="564.183" x="3580"></rect>
+<text transform="rotate(0,3585,565.683)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="565.683" x="3585" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-135.817" width="10" y="564.183" x="3590"></rect>
+<text transform="rotate(0,3595,565.683)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="565.683" x="3595" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-135.817" width="10" y="564.183" x="3600"></rect>
+<text transform="rotate(0,3605,565.683)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="565.683" x="3605" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-135.817" width="10" y="564.183" x="3610"></rect>
+<text transform="rotate(0,3615,565.683)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="565.683" x="3615" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-142.693" width="10" y="557.307" x="3620"></rect>
+<text transform="rotate(0,3625,558.807)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="558.807" x="3625" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-149.57" width="10" y="550.43" x="3630"></rect>
+<text transform="rotate(0,3635,551.93)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="551.93" x="3635" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-156.447" width="10" y="543.553" x="3640"></rect>
+<text transform="rotate(0,3645,545.053)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="545.053" x="3645" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-156.447" width="10" y="543.553" x="3650"></rect>
+<text transform="rotate(0,3655,545.053)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="545.053" x="3655" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-156.447" width="10" y="543.553" x="3660"></rect>
+<text transform="rotate(0,3665,545.053)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="545.053" x="3665" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-149.57" width="10" y="550.43" x="3670"></rect>
+<text transform="rotate(0,3675,551.93)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="551.93" x="3675" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-134.097" width="10" y="565.903" x="3680"></rect>
+<text transform="rotate(0,3685,567.403)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="567.403" x="3685" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-134.097" width="10" y="565.903" x="3690"></rect>
+<text transform="rotate(0,3695,567.403)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="567.403" x="3695" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-118.625" width="10" y="581.375" x="3700"></rect>
+<text transform="rotate(0,3705,582.875)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="582.875" x="3705" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-96.2751" width="10" y="603.725" x="3710"></rect>
+<text transform="rotate(0,3715,605.225)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="605.225" x="3715" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-97.9943" width="10" y="602.006" x="3720"></rect>
+<text transform="rotate(0,3725,603.506)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="603.506" x="3725" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-97.9943" width="10" y="602.006" x="3730"></rect>
+<text transform="rotate(0,3735,603.506)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="603.506" x="3735" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-104.871" width="10" y="595.129" x="3740"></rect>
+<text transform="rotate(0,3745,596.629)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="596.629" x="3745" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-120.344" width="10" y="579.656" x="3750"></rect>
+<text transform="rotate(0,3755,581.156)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="581.156" x="3755" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-120.344" width="10" y="579.656" x="3760"></rect>
+<text transform="rotate(0,3765,581.156)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="581.156" x="3765" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-113.467" width="10" y="586.533" x="3770"></rect>
+<text transform="rotate(0,3775,588.033)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="588.033" x="3775" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-113.467" width="10" y="586.533" x="3780"></rect>
+<text transform="rotate(0,3785,588.033)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="588.033" x="3785" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-89.3983" width="10" y="610.602" x="3790"></rect>
+<text transform="rotate(0,3795,612.102)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="612.102" x="3795" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-67.0487" width="10" y="632.951" x="3800"></rect>
+<text transform="rotate(0,3805,634.451)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="634.451" x="3805" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-44.6991" width="10" y="655.301" x="3810"></rect>
+<text transform="rotate(0,3815,656.801)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="656.801" x="3815" style="text-anchor:middle;">chicken</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-22.3496" width="10" y="677.65" x="3820"></rect>
+<text transform="rotate(0,3825,679.15)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="679.15" x="3825" style="text-anchor:middle;">chicken</text>
+<text transform="rotate(-45,240,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="240" style="text-anchor:end;">2018-09-04</text>
+<text transform="rotate(-45,310,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="310" style="text-anchor:end;">2018-09-11</text>
+<text transform="rotate(-45,380,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="380" style="text-anchor:end;">2018-09-18</text>
+<text transform="rotate(-45,450,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="450" style="text-anchor:end;">2018-09-25</text>
+<text transform="rotate(-45,570,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="570" style="text-anchor:end;">2018-10-07</text>
+<text transform="rotate(-45,640,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="640" style="text-anchor:end;">2018-10-14</text>
+<text transform="rotate(-45,710,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="710" style="text-anchor:end;">2018-10-21</text>
+<text transform="rotate(-45,780,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="780" style="text-anchor:end;">2018-10-28</text>
+<text transform="rotate(-45,850,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="850" style="text-anchor:end;">2018-11-04</text>
+<text transform="rotate(-45,920,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="920" style="text-anchor:end;">2018-11-11</text>
+<text transform="rotate(-45,990,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="990" style="text-anchor:end;">2018-11-18</text>
+<text transform="rotate(-45,1060,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1060" style="text-anchor:end;">2018-11-25</text>
+<text transform="rotate(-45,1130,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1130" style="text-anchor:end;">2018-12-02</text>
+<text transform="rotate(-45,1200,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1200" style="text-anchor:end;">2018-12-09</text>
+<text transform="rotate(-45,1270,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1270" style="text-anchor:end;">2018-12-16</text>
+<text transform="rotate(-45,1340,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1340" style="text-anchor:end;">2018-12-23</text>
+<text transform="rotate(-45,1410,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1410" style="text-anchor:end;">2018-12-30</text>
+<text transform="rotate(-45,1480,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1480" style="text-anchor:end;">2019-01-06</text>
+<text transform="rotate(-45,1550,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1550" style="text-anchor:end;">2019-01-13</text>
+<text transform="rotate(-45,1620,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1620" style="text-anchor:end;">2019-01-20</text>
+<text transform="rotate(-45,1690,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1690" style="text-anchor:end;">2019-01-27</text>
+<text transform="rotate(-45,1760,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1760" style="text-anchor:end;">2019-02-03</text>
+<text transform="rotate(-45,1830,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1830" style="text-anchor:end;">2019-02-10</text>
+<text transform="rotate(-45,1900,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1900" style="text-anchor:end;">2019-02-17</text>
+<text transform="rotate(-45,1970,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1970" style="text-anchor:end;">2019-02-24</text>
+<text transform="rotate(-45,2040,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2040" style="text-anchor:end;">2019-03-03</text>
+<text transform="rotate(-45,2110,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2110" style="text-anchor:end;">2019-03-10</text>
+<text transform="rotate(-45,2180,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2180" style="text-anchor:end;">2019-03-17</text>
+<text transform="rotate(-45,2250,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2250" style="text-anchor:end;">2019-03-24</text>
+<text transform="rotate(-45,2320,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2320" style="text-anchor:end;">2019-03-31</text>
+<text transform="rotate(-45,2390,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2390" style="text-anchor:end;">2019-04-07</text>
+<text transform="rotate(-45,2460,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2460" style="text-anchor:end;">2019-04-14</text>
+<text transform="rotate(-45,2530,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2530" style="text-anchor:end;">2019-04-21</text>
+<text transform="rotate(-45,2600,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2600" style="text-anchor:end;">2019-04-28</text>
+<text transform="rotate(-45,2670,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2670" style="text-anchor:end;">2019-05-05</text>
+<text transform="rotate(-45,2740,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2740" style="text-anchor:end;">2019-05-12</text>
+<text transform="rotate(-45,2810,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2810" style="text-anchor:end;">2019-05-19</text>
+<text transform="rotate(-45,2880,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2880" style="text-anchor:end;">2019-05-26</text>
+<text transform="rotate(-45,2950,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2950" style="text-anchor:end;">2019-06-02</text>
+<text transform="rotate(-45,3130,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3130" style="text-anchor:end;">2019-06-20</text>
+<text transform="rotate(-45,3200,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3200" style="text-anchor:end;">2019-06-27</text>
+<text transform="rotate(-45,3270,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3270" style="text-anchor:end;">2019-07-04</text>
+<text transform="rotate(-45,3340,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3340" style="text-anchor:end;">2019-07-11</text>
+<text transform="rotate(-45,3410,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3410" style="text-anchor:end;">2019-07-18</text>
+<text transform="rotate(-45,3480,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3480" style="text-anchor:end;">2019-07-25</text>
+<text transform="rotate(-45,3550,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3550" style="text-anchor:end;">2019-08-01</text>
+<text transform="rotate(-45,3620,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3620" style="text-anchor:end;">2019-08-08</text>
+<text transform="rotate(-45,3690,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3690" style="text-anchor:end;">2019-08-15</text>
+<text transform="rotate(-45,3760,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3760" style="text-anchor:end;">2019-08-22</text>
+<text transform="rotate(-45,3830,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3830" style="text-anchor:end;">2019-08-29</text>
+<text transform="rotate(0,2010,1180)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="1180" x="2010" style="text-anchor:center;"> All dates approximate</text>
+<text transform="rotate(0,180,700)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="700" x="180" style="text-anchor:end;">0</text>
+<text transform="rotate(0,180,580)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="580" x="180" style="text-anchor:end;">0.2</text>
+<text transform="rotate(0,180,460)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="460" x="180" style="text-anchor:end;">0.4</text>
+<text transform="rotate(0,180,340)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="340" x="180" style="text-anchor:end;">0.6</text>
+<text transform="rotate(0,180,220)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="220" x="180" style="text-anchor:end;">0.8</text>
+<text transform="rotate(0,180,100)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="100" x="180" style="text-anchor:end;">1</text>
+
+<path fill="none" d="M200 55 L455 55" stroke="#7FFFFF" stroke-opacity="1" stroke-width="5" stroke-dasharray="50,2"/>
+<text transform="rotate(0,230,50)" font-weight="normal" font-size="30" font-family="Verdana" fill="#7FFFFF" y="50" x="230" style="text-anchor:start;">Happy-chicken</text>
+</svg>

@@ -1,0 +1,23 @@
+maxsz 0
+datemin 2018-08-01
+#datemin 2021-07-01
+datemax 2021-09-01
+dogs Spicey
+# only with the multiple dogs
+#side-by-side 2 
+#side-by-side 2 
+scope
+variable datemin mjmdatemin
+variable datemax mjmdatemax
+variable footnotes mjmsuperscripts
+caption Most dietary components that iDog  had for selected months between \\mjmdatemin and \\mjmdatemax. Format is "average daily amount ;maximum; days given/ days in interval ". Units are arbitrary except where noted.  The subscripts are as follows \\mjmsuperscripts 
+foodalias vmap xxx 0.0
+foodalias ctskin ctbrothbs 1.0
+foodalias ctbroth ctbrothbs 1.0
+foodalias 11PC KCl/citrate 1.0
+foodalias 11KC KCl/citrate 1.0
+datealias 2021-05 "2021-05 May"
+datealias 2021-06 "2021-06 June"
+datealias 2021-07 "2021-07 July"
+datealias 2021-08 "2021-08 Aug"
+datealias 2021-09 "2021-09 Sept"

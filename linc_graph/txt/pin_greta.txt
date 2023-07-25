@@ -1,0 +1,89 @@
+foods tryptophan methionine B-100x doxycycline biotin K2 threonine
+foods Ivermectin threonine methionine histidinehcl doxycycline B-3 K2 Cu
+foods Iodine xlipoicacid lysinehcl xCu xtryptophan  Ivermectin  xthreonine xmethionine doxycycline xK2 xZZB-100
+foods tryptophan  Ivermectin xIodine B-6 biotin  threonine  B-100 methionine doxycycline K2
+#foods   
+dogs Greta 
+# defaults work now these changed with vode 
+#sample_idx 6 
+#food_idx 7 
+#sample_idx 8 
+#food_idx 9 
+# should use period 1 for filtering now 
+period 1 
+value_idx_name m_wavg 
+# use the name not the position
+value_idx 0 
+# some general things wtill work old way 
+#datemin 2018-01-01
+x_rule 7
+xpitch 10
+histogram_like 0x0200 
+histo_fill 1 
+# this appears to work if no regex hits
+default_thick 10 
+thick Happy-K2 5
+tm 500
+# this is the dates x axis labels pos
+#yleg 0
+# this is the starting height of the actual legend
+leg_y 50
+opaq .5 
+szleg 40 # this is for the axes
+leg_sz 30 # this is the legend text size 
+min_x_space 70
+# originally the dash spec was supposed to be derived from a line similar to coefficients
+# but it really makes more sense as a matrix as generally combinations will be made
+# and more so with symbol attributes 
+#dashes * K2 5 5
+label_mod 1
+label_res 0
+rsymbolsz 5 * * 
+# this works 
+dashes * 50 2 
+dashes .*-tryptophan 20 5 
+# this does not currently work right. 
+#symbol * * ngon 2 5 0
+# this is now apparently piced up into attmap by rule_list
+# taking the last sgring as a literal plotting symbol 
+#symbol * B-100 ngon 2 6 0
+#color * * green
+# not sure if this works or not 
+ryfunc pp * * 
+#thick Happy-methionine 50
+#thick * 5 
+thick Greta-vitamina 20
+color Happy-K2 "#0000FF" 
+color Happy-histidinehcl "#FF0000" 
+color Happy-m.* "#FF00" 
+color Happy-t.* "#000000" 
+color Happy-isoleu.* "orange" 
+color * black
+color .*-SnAgOx red
+color .*-tryptophan blue 
+color .*-Kibble green 
+color .*-lipoic purple 
+color olive red 
+color tyrosine red 
+color arginine blue 
+color vitamina green 
+color optizn purple 
+color valine orange 
+opaq * .78 
+#opaq *K2 1 
+# define one filter 
+filter unity 0 uniform normalize
+filter flat 3 uniform normalize
+# a missing filter may produce no output. 
+path-filter * unity 
+path-filter methionine unity 
+#foodalias b[0-9]*ngnc beef 1
+foodalias vmap trash 0 
+foodalias Kibble Kibble 1 
+#foodalias (threonine|valine|leucine|lysine|tryptophan|histidine|arginine|phenylalanine|tyrosine|methionine) acids 1 
+#
+foodalias (ctbroth|ctskin) chicken 1 
+#foodalias salmon salmon 1 
+foodalias 11PC KCl 1
+foodalias 11KC KCl 1
+ 

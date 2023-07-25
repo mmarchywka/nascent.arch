@@ -1,0 +1,89 @@
+maxsz 50 
+datemin 2017-08-01
+#datemin 2021-07-01
+datemax 2021-11-01
+dogs Greta 
+# only with the multiple dogs
+#side-by-side 2 
+#side-by-side 2 
+scope
+variable datemin mjmdatemin
+variable datemax mjmdatemax
+variable footnotes mjmsuperscripts
+caption   A summary of most dietary components and events  for selected months between \\mjmdatemin and \\mjmdatemax. Format is "average daily amount ;maximum; days given/ days in interval ". Units are arbitrary except where noted. Any  superscripts are defined as follows:  \\mjmsuperscripts 
+foodalias vmap xxx 0.0
+#foodalias ctskin ctbrothbs 1.0
+#foodalias ctbroth ctbrothbs 1.0
+#foodalias 11PC KCl/citrate 1.0
+#foodalias 11KC KCl/citrate 1.0
+foodalias multiB B-multi 1.0
+#datealias 2020-12 "2020-12 Dec"
+datealias 2017-11 "2017-11 Noe"
+datealias 2017-12 "2017-12 Dec"
+datealias 2018-01 "2018-01 Jan"
+datealias 2018-02 "2018-02 Feb"
+datealias 2018-03 "2018-03 March"
+datealias 2018-04 "2018-04 April"
+datealias 2018-05 "2018-05 May"
+datealias 2018-06 "2018-06 June"
+datealias 2018-07 "2018-07 July"
+datealias 2018-08 "2018-08 Aug"
+datealias 2018-09 "2018-09 Sept"
+datealias 2018-10 "2018-10 Oct"
+datealias 2018-11 "2018-11 Nov"
+datealias 2018-12 "2018-12 Dec"
+datealias 2019-01 "2019-01 Jan"
+datealias 2019-02 "2019-02 Feb"
+datealias 2019-03 "2019-03 March"
+datealias 2019-04 "2019-04 April"
+datealias 2019-05 "2019-05 May"
+datealias 2019-06 "2019-06 June"
+datealias 2019-07 "2019-07 July"
+datealias 2019-08 "2019-08 Aug"
+datealias 2019-09 "2019-09 Sept"
+datealias 2019-10 "2019-10 Oct"
+datealias 2019-11 "2019-11 Nov"
+datealias 2019-12 "2019-12 Dec"
+datealias 2020-01 "2020-01 Jan"
+datealias 2020-02 "2020-02 Feb"
+datealias 2020-03 "2020-03 March"
+datealias 2020-04 "2020-04 April"
+datealias 2020-05 "2020-05 May"
+datealias 2020-06 "2020-06 June"
+datealias 2020-07 "2020-07 July"
+datealias 2020-08 "2020-08 Aug"
+datealias 2020-09 "2020-09 Sept"
+datealias 2020-10 "2020-10 Oct"
+datealias 2020-11 "2020-11 Nov"
+datealias 2020-12 "2020-12 Dec"
+datealias 2021-01 "2021-01 Jan"
+datealias 2021-02 "2021-02 Feb"
+datealias 2021-03 "2021-03 March"
+datealias 2021-04 "2021-04 April"
+datealias 2021-05 "2021-05 May"
+datealias 2021-06 "2021-06 June"
+datealias 2021-07 "2021-07 July"
+datealias 2021-08 "2021-08 Aug"
+datealias 2021-09 "2021-09 Sept"
+datealias 2021-10 "2021-10 Oct"
+#datealias 2021-08 "2021-08 Aug"
+grouping vitamin 2 "{\\bf VITAMIN}"
+grouping medicine 3 "{\\bf MEDICINE}"
+grouping outcome 4 "{\\bf RESULT}" 
+grouping food 1 "{\\bf FOOD}"
+grouping  0 "{\\bf UNCLASSIFIED}"
+superscript biotin(mg) a
+superscript pantothenate(mg) a
+superscript Iodine(mg) a
+superscript lipoicacid(mg) a
+footnote a SMVT substrate. Biotin, Pantothenate, Lipoic Acid, and Iodine known to compete.
+superscript lysine b
+superscript lysinehcl b
+superscript arginine b
+#footnote b Arginine and Lysine known to compete.
+superscript b7ngnc c
+superscript b10ngnc c
+superscript b15ngnc c
+superscript b20ngnc c
+footnote c hamburger with varying fat percentages- 7,10,15,20, etc. .
+

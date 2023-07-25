@@ -1,0 +1,27 @@
+datemin 2018-10-01
+units mg Cu lipoicacid taurine lysinehcl leucine arginine biotin pantothenate Mg B-1 K2 B-2 B-3 B-12 B-6 Iodine 
+units g shrimp
+superscript biotin a
+superscript pantothenate a
+superscript Iodine a
+superscript lipoicacid a
+footnote a SMVT substrate. Biotin, Pantothenate, Lipoic Acid, and Iodine known to compete.
+superscript lysine b
+superscript lysinehcl b
+superscript arginine b 
+footnote b Arginine and Lysine known to compete.
+superscript b7ngnc c
+superscript b10ngnc c
+superscript b15ngnc c
+superscript b20ngnc c
+footnote c hamburger with varying fat percentages- 7,10,15,20, etc. .
+superscript B-100 d
+footnote d B-100 composed of several B vitamins. The contents are NOT broken into components so all B vitamins total need to have this added until software improves . 
+superscript 11KC e
+footnote e Combination of potassium chloride ( Mortaon Salt Substitute, see \\cite{mmarchywka-MJM-2015-001}\\cite{mmarchywka-MJM-2017-001}) and citric acid. 
+scope
+variable datemin mjmdatemin
+variable datemax mjmdatemax
+variable footnotes mjmsuperscripts
+caption Most dietary components that the dogs had between \\mjmdatemin and \\mjmdatemax. Format is "average daily amount ;maximum; days given/ days in interval ". Units are arbitrary except where noted.  The subscripts are as follows \\mjmsuperscripts 
+

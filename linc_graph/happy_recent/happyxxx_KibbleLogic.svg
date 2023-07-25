@@ -1,0 +1,854 @@
+<svg style="overflow: hidden; -moz-user-select: none; cursor: default; position: relative; background-color: rgb(255, 255, 255);" xmlns="http://www.w3.org/2000/svg" width="3882" version="1.1" height="1030"><desc> test foo</desc><rect fill-opacity="1" stroke-width="1" stroke-opacity="1" style="" stroke="#FFFFFF" fill="#FFFFFF" ry="0" rx="0" r="0" height="1030" width="3882" y="0" x="0"></rect>
+<path d="M230 100 L780 520" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M780 520 L1440 280" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1440 280 L1580 160" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1440 280 L1580 520" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1580 160 L1790 160" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1580 520 L1790 520" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1790 520 L1940 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1790 160 L1940 280" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1940 280 L2140 280" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M1940 460 L2220 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2140 280 L2220 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2220 460 L2560 640" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2560 640 L2680 460" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2680 460 L2730 640" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M2730 640 L2900 640" stroke="blue" stroke-opacity="0.2"  stroke-width="50"/>
+<path d="M230 700 L230 100" stroke="black" stroke-width="10"/>
+<path d="M260 700 L260 100" stroke="black" stroke-width="10"/>
+<path d="M560 700 L560 100" stroke="black" stroke-width="10"/>
+<path d="M1300 700 L1300 100" stroke="black" stroke-width="10"/>
+<path d="M1570 700 L1570 100" stroke="black" stroke-width="10"/>
+<path d="M1670 700 L1670 100" stroke="black" stroke-width="10"/>
+<path d="M1770 700 L1770 100" stroke="black" stroke-width="10"/>
+<path d="M1930 700 L1930 100" stroke="red" stroke-width="10"/>
+<path d="M2420 700 L2420 100" stroke="black" stroke-width="10"/>
+<path d="M2580 700 L2580 100" stroke="black" stroke-width="10"/>
+<path d="M2740 700 L2740 100" stroke="black" stroke-width="10"/>
+<text transform="rotate(90,40,590)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="590" x="40" style="text-anchor:end;">Normalized amounts </text><path d="M200 100 L3830 100" stroke="black" stroke-width="1"/>
+<path d="M200 220 L3830 220" stroke="black" stroke-width="1"/>
+<path d="M200 340 L3830 340" stroke="black" stroke-width="1"/>
+<path d="M200 460 L3830 460" stroke="black" stroke-width="1"/>
+<path d="M200 580 L3830 580" stroke="black" stroke-width="1"/>
+<path d="M200 700 L3830 700" stroke="black" stroke-width="1"/>
+<path d="M200 100 L200 700" stroke="black" stroke-width="1"/>
+<path d="M270 100 L270 700" stroke="black" stroke-width="1"/>
+<path d="M340 100 L340 700" stroke="black" stroke-width="1"/>
+<path d="M410 100 L410 700" stroke="black" stroke-width="1"/>
+<path d="M480 100 L480 700" stroke="black" stroke-width="1"/>
+<path d="M550 100 L550 700" stroke="black" stroke-width="1"/>
+<path d="M620 100 L620 700" stroke="black" stroke-width="1"/>
+<path d="M690 100 L690 700" stroke="black" stroke-width="1"/>
+<path d="M760 100 L760 700" stroke="black" stroke-width="1"/>
+<path d="M830 100 L830 700" stroke="black" stroke-width="1"/>
+<path d="M900 100 L900 700" stroke="black" stroke-width="1"/>
+<path d="M970 100 L970 700" stroke="black" stroke-width="1"/>
+<path d="M1040 100 L1040 700" stroke="black" stroke-width="1"/>
+<path d="M1110 100 L1110 700" stroke="black" stroke-width="1"/>
+<path d="M1180 100 L1180 700" stroke="black" stroke-width="1"/>
+<path d="M1250 100 L1250 700" stroke="black" stroke-width="1"/>
+<path d="M1320 100 L1320 700" stroke="black" stroke-width="1"/>
+<path d="M1390 100 L1390 700" stroke="black" stroke-width="1"/>
+<path d="M1460 100 L1460 700" stroke="black" stroke-width="1"/>
+<path d="M1530 100 L1530 700" stroke="black" stroke-width="1"/>
+<path d="M1600 100 L1600 700" stroke="black" stroke-width="1"/>
+<path d="M1670 100 L1670 700" stroke="black" stroke-width="1"/>
+<path d="M1740 100 L1740 700" stroke="black" stroke-width="1"/>
+<path d="M1810 100 L1810 700" stroke="black" stroke-width="1"/>
+<path d="M1880 100 L1880 700" stroke="black" stroke-width="1"/>
+<path d="M1950 100 L1950 700" stroke="black" stroke-width="1"/>
+<path d="M2020 100 L2020 700" stroke="black" stroke-width="1"/>
+<path d="M2090 100 L2090 700" stroke="black" stroke-width="1"/>
+<path d="M2160 100 L2160 700" stroke="black" stroke-width="1"/>
+<path d="M2230 100 L2230 700" stroke="black" stroke-width="1"/>
+<path d="M2300 100 L2300 700" stroke="black" stroke-width="1"/>
+<path d="M2370 100 L2370 700" stroke="black" stroke-width="1"/>
+<path d="M2440 100 L2440 700" stroke="black" stroke-width="1"/>
+<path d="M2510 100 L2510 700" stroke="black" stroke-width="1"/>
+<path d="M2580 100 L2580 700" stroke="black" stroke-width="1"/>
+<path d="M2650 100 L2650 700" stroke="black" stroke-width="1"/>
+<path d="M2720 100 L2720 700" stroke="black" stroke-width="1"/>
+<path d="M2790 100 L2790 700" stroke="black" stroke-width="1"/>
+<path d="M2860 100 L2860 700" stroke="black" stroke-width="1"/>
+<path d="M2930 100 L2930 700" stroke="black" stroke-width="1"/>
+<path d="M3000 100 L3000 700" stroke="black" stroke-width="1"/>
+<path d="M3070 100 L3070 700" stroke="black" stroke-width="1"/>
+<path d="M3140 100 L3140 700" stroke="black" stroke-width="1"/>
+<path d="M3210 100 L3210 700" stroke="black" stroke-width="1"/>
+<path d="M3280 100 L3280 700" stroke="black" stroke-width="1"/>
+<path d="M3350 100 L3350 700" stroke="black" stroke-width="1"/>
+<path d="M3420 100 L3420 700" stroke="black" stroke-width="1"/>
+<path d="M3490 100 L3490 700" stroke="black" stroke-width="1"/>
+<path d="M3560 100 L3560 700" stroke="black" stroke-width="1"/>
+<path d="M3630 100 L3630 700" stroke="black" stroke-width="1"/>
+<path d="M3700 100 L3700 700" stroke="black" stroke-width="1"/>
+<path d="M3770 100 L3770 700" stroke="black" stroke-width="1"/>
+<path d="M3830 100 L3830 700" stroke="black" stroke-width="1"/>
+ <pattern id="X7FFFFF1078" width="10" height="10"  patternUnits="userSpaceOnUse">
+  <line x1="5" y1="0" x2="5" y2="10"  stroke-opacity="0.78"  style="stroke:#7FFFFF; stroke-width:10" />
+</pattern>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="200"></rect>
+<text transform="rotate(0,205,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="205" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="210"></rect>
+<text transform="rotate(0,215,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="215" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="220"></rect>
+<text transform="rotate(0,225,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="225" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="230"></rect>
+<text transform="rotate(0,235,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="235" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="240"></rect>
+<text transform="rotate(0,245,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="245" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="250"></rect>
+<text transform="rotate(0,255,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="255" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="260"></rect>
+<text transform="rotate(0,265,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="265" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="270"></rect>
+<text transform="rotate(0,275,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="275" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="280"></rect>
+<text transform="rotate(0,285,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="285" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="290"></rect>
+<text transform="rotate(0,295,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="295" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="300"></rect>
+<text transform="rotate(0,305,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="305" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="310"></rect>
+<text transform="rotate(0,315,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="315" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="320"></rect>
+<text transform="rotate(0,325,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="325" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="330"></rect>
+<text transform="rotate(0,335,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="335" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="340"></rect>
+<text transform="rotate(0,345,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="345" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="350"></rect>
+<text transform="rotate(0,355,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="355" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="360"></rect>
+<text transform="rotate(0,365,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="365" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="370"></rect>
+<text transform="rotate(0,375,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="375" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="380"></rect>
+<text transform="rotate(0,385,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="385" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="390"></rect>
+<text transform="rotate(0,395,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="395" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="400"></rect>
+<text transform="rotate(0,405,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="405" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="410"></rect>
+<text transform="rotate(0,415,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="415" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="420"></rect>
+<text transform="rotate(0,425,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="425" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="430"></rect>
+<text transform="rotate(0,435,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="435" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="440"></rect>
+<text transform="rotate(0,445,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="445" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="500"></rect>
+<text transform="rotate(0,505,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="505" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="510"></rect>
+<text transform="rotate(0,515,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="515" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="520"></rect>
+<text transform="rotate(0,525,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="525" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="530"></rect>
+<text transform="rotate(0,535,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="535" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="540"></rect>
+<text transform="rotate(0,545,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="545" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="550"></rect>
+<text transform="rotate(0,555,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="555" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="560"></rect>
+<text transform="rotate(0,565,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="565" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="570"></rect>
+<text transform="rotate(0,575,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="575" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="580"></rect>
+<text transform="rotate(0,585,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="585" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="590"></rect>
+<text transform="rotate(0,595,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="595" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="600"></rect>
+<text transform="rotate(0,605,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="605" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="610"></rect>
+<text transform="rotate(0,615,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="615" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="620"></rect>
+<text transform="rotate(0,625,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="625" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="630"></rect>
+<text transform="rotate(0,635,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="635" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="640"></rect>
+<text transform="rotate(0,645,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="645" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="650"></rect>
+<text transform="rotate(0,655,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="655" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="660"></rect>
+<text transform="rotate(0,665,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="665" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="670"></rect>
+<text transform="rotate(0,675,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="675" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="680"></rect>
+<text transform="rotate(0,685,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="685" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="690"></rect>
+<text transform="rotate(0,695,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="695" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="700"></rect>
+<text transform="rotate(0,705,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="705" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="710"></rect>
+<text transform="rotate(0,715,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="715" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="720"></rect>
+<text transform="rotate(0,725,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="725" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="730"></rect>
+<text transform="rotate(0,735,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="735" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="740"></rect>
+<text transform="rotate(0,745,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="745" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="750"></rect>
+<text transform="rotate(0,755,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="755" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="760"></rect>
+<text transform="rotate(0,765,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="765" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="770"></rect>
+<text transform="rotate(0,775,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="775" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="780"></rect>
+<text transform="rotate(0,785,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="785" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="790"></rect>
+<text transform="rotate(0,795,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="795" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="800"></rect>
+<text transform="rotate(0,805,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="805" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="810"></rect>
+<text transform="rotate(0,815,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="815" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="820"></rect>
+<text transform="rotate(0,825,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="825" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="830"></rect>
+<text transform="rotate(0,835,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="835" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="840"></rect>
+<text transform="rotate(0,845,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="845" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="850"></rect>
+<text transform="rotate(0,855,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="855" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="860"></rect>
+<text transform="rotate(0,865,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="865" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="870"></rect>
+<text transform="rotate(0,875,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="875" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="880"></rect>
+<text transform="rotate(0,885,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="885" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="890"></rect>
+<text transform="rotate(0,895,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="895" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="900"></rect>
+<text transform="rotate(0,905,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="905" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="910"></rect>
+<text transform="rotate(0,915,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="915" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="920"></rect>
+<text transform="rotate(0,925,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="925" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="930"></rect>
+<text transform="rotate(0,935,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="935" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="940"></rect>
+<text transform="rotate(0,945,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="945" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="950"></rect>
+<text transform="rotate(0,955,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="955" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="960"></rect>
+<text transform="rotate(0,965,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="965" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="970"></rect>
+<text transform="rotate(0,975,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="975" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="980"></rect>
+<text transform="rotate(0,985,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="985" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="990"></rect>
+<text transform="rotate(0,995,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="995" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1000"></rect>
+<text transform="rotate(0,1005,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1005" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1010"></rect>
+<text transform="rotate(0,1015,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1015" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1020"></rect>
+<text transform="rotate(0,1025,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1025" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1030"></rect>
+<text transform="rotate(0,1035,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1035" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1040"></rect>
+<text transform="rotate(0,1045,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1045" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1050"></rect>
+<text transform="rotate(0,1055,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1055" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1060"></rect>
+<text transform="rotate(0,1065,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1065" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1070"></rect>
+<text transform="rotate(0,1075,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1075" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1080"></rect>
+<text transform="rotate(0,1085,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1085" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1090"></rect>
+<text transform="rotate(0,1095,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1095" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1100"></rect>
+<text transform="rotate(0,1105,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1105" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1110"></rect>
+<text transform="rotate(0,1115,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1115" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1120"></rect>
+<text transform="rotate(0,1125,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1125" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1130"></rect>
+<text transform="rotate(0,1135,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1135" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1140"></rect>
+<text transform="rotate(0,1145,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1145" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1150"></rect>
+<text transform="rotate(0,1155,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1155" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1160"></rect>
+<text transform="rotate(0,1165,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1165" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1170"></rect>
+<text transform="rotate(0,1175,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1175" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1180"></rect>
+<text transform="rotate(0,1185,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1185" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1190"></rect>
+<text transform="rotate(0,1195,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1195" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1200"></rect>
+<text transform="rotate(0,1205,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1205" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1210"></rect>
+<text transform="rotate(0,1215,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1215" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1220"></rect>
+<text transform="rotate(0,1225,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1225" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1230"></rect>
+<text transform="rotate(0,1235,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1235" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1240"></rect>
+<text transform="rotate(0,1245,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1245" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1250"></rect>
+<text transform="rotate(0,1255,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1255" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1260"></rect>
+<text transform="rotate(0,1265,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1265" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1270"></rect>
+<text transform="rotate(0,1275,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1275" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1280"></rect>
+<text transform="rotate(0,1285,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1285" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1290"></rect>
+<text transform="rotate(0,1295,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1295" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1300"></rect>
+<text transform="rotate(0,1305,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1305" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1310"></rect>
+<text transform="rotate(0,1315,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1315" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1320"></rect>
+<text transform="rotate(0,1325,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1325" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1330"></rect>
+<text transform="rotate(0,1335,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1335" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1340"></rect>
+<text transform="rotate(0,1345,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1345" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1350"></rect>
+<text transform="rotate(0,1355,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1355" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1360"></rect>
+<text transform="rotate(0,1365,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1365" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1370"></rect>
+<text transform="rotate(0,1375,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1375" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1380"></rect>
+<text transform="rotate(0,1385,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1385" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1390"></rect>
+<text transform="rotate(0,1395,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1395" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1400"></rect>
+<text transform="rotate(0,1405,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1405" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1410"></rect>
+<text transform="rotate(0,1415,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1415" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1420"></rect>
+<text transform="rotate(0,1425,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1425" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1430"></rect>
+<text transform="rotate(0,1435,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1435" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1440"></rect>
+<text transform="rotate(0,1445,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1445" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1450"></rect>
+<text transform="rotate(0,1455,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1455" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1460"></rect>
+<text transform="rotate(0,1465,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1465" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1470"></rect>
+<text transform="rotate(0,1475,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1475" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1480"></rect>
+<text transform="rotate(0,1485,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1485" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1490"></rect>
+<text transform="rotate(0,1495,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1495" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1500"></rect>
+<text transform="rotate(0,1505,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1505" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1510"></rect>
+<text transform="rotate(0,1515,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1515" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1520"></rect>
+<text transform="rotate(0,1525,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1525" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1530"></rect>
+<text transform="rotate(0,1535,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1535" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1540"></rect>
+<text transform="rotate(0,1545,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1545" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1550"></rect>
+<text transform="rotate(0,1555,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1555" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1560"></rect>
+<text transform="rotate(0,1565,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1565" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1570"></rect>
+<text transform="rotate(0,1575,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1575" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1580"></rect>
+<text transform="rotate(0,1585,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1585" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1590"></rect>
+<text transform="rotate(0,1595,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1595" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1600"></rect>
+<text transform="rotate(0,1605,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1605" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1610"></rect>
+<text transform="rotate(0,1615,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1615" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1620"></rect>
+<text transform="rotate(0,1625,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1625" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1630"></rect>
+<text transform="rotate(0,1635,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1635" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1640"></rect>
+<text transform="rotate(0,1645,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1645" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1650"></rect>
+<text transform="rotate(0,1655,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1655" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1660"></rect>
+<text transform="rotate(0,1665,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1665" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1670"></rect>
+<text transform="rotate(0,1675,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1675" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1680"></rect>
+<text transform="rotate(0,1685,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1685" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1690"></rect>
+<text transform="rotate(0,1695,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1695" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1700"></rect>
+<text transform="rotate(0,1705,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1705" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1710"></rect>
+<text transform="rotate(0,1715,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1715" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1720"></rect>
+<text transform="rotate(0,1725,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1725" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1730"></rect>
+<text transform="rotate(0,1735,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1735" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1740"></rect>
+<text transform="rotate(0,1745,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1745" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1750"></rect>
+<text transform="rotate(0,1755,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1755" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1760"></rect>
+<text transform="rotate(0,1765,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1765" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1770"></rect>
+<text transform="rotate(0,1775,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1775" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1780"></rect>
+<text transform="rotate(0,1785,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1785" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1790"></rect>
+<text transform="rotate(0,1795,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1795" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1800"></rect>
+<text transform="rotate(0,1805,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1805" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1810"></rect>
+<text transform="rotate(0,1815,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1815" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1820"></rect>
+<text transform="rotate(0,1825,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1825" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1830"></rect>
+<text transform="rotate(0,1835,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1835" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1840"></rect>
+<text transform="rotate(0,1845,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1845" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1850"></rect>
+<text transform="rotate(0,1855,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1855" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1860"></rect>
+<text transform="rotate(0,1865,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1865" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1870"></rect>
+<text transform="rotate(0,1875,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1875" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1880"></rect>
+<text transform="rotate(0,1885,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1885" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1890"></rect>
+<text transform="rotate(0,1895,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1895" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1900"></rect>
+<text transform="rotate(0,1905,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1905" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1910"></rect>
+<text transform="rotate(0,1915,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1915" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1920"></rect>
+<text transform="rotate(0,1925,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1925" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1930"></rect>
+<text transform="rotate(0,1935,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1935" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1940"></rect>
+<text transform="rotate(0,1945,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1945" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1950"></rect>
+<text transform="rotate(0,1955,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1955" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1960"></rect>
+<text transform="rotate(0,1965,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1965" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1970"></rect>
+<text transform="rotate(0,1975,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1975" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1980"></rect>
+<text transform="rotate(0,1985,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1985" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="1990"></rect>
+<text transform="rotate(0,1995,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="1995" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2000"></rect>
+<text transform="rotate(0,2005,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2005" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2010"></rect>
+<text transform="rotate(0,2015,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2015" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2020"></rect>
+<text transform="rotate(0,2025,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2025" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2030"></rect>
+<text transform="rotate(0,2035,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2035" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2040"></rect>
+<text transform="rotate(0,2045,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2045" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2050"></rect>
+<text transform="rotate(0,2055,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2055" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2060"></rect>
+<text transform="rotate(0,2065,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2065" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2070"></rect>
+<text transform="rotate(0,2075,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2075" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2080"></rect>
+<text transform="rotate(0,2085,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2085" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2090"></rect>
+<text transform="rotate(0,2095,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2095" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2100"></rect>
+<text transform="rotate(0,2105,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2105" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2110"></rect>
+<text transform="rotate(0,2115,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2115" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2120"></rect>
+<text transform="rotate(0,2125,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2125" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2130"></rect>
+<text transform="rotate(0,2135,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2135" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2140"></rect>
+<text transform="rotate(0,2145,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2145" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2150"></rect>
+<text transform="rotate(0,2155,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2155" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2160"></rect>
+<text transform="rotate(0,2165,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2165" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2170"></rect>
+<text transform="rotate(0,2175,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2175" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2180"></rect>
+<text transform="rotate(0,2185,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2185" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2190"></rect>
+<text transform="rotate(0,2195,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2195" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2200"></rect>
+<text transform="rotate(0,2205,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2205" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2210"></rect>
+<text transform="rotate(0,2215,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2215" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="0" width="10" y="700" x="2220"></rect>
+<text transform="rotate(0,2225,700)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="700" x="2225" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-70.5882" width="10" y="629.412" x="2230"></rect>
+<text transform="rotate(0,2235,630.912)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="630.912" x="2235" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-141.176" width="10" y="558.824" x="2240"></rect>
+<text transform="rotate(0,2245,560.324)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="560.324" x="2245" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-211.765" width="10" y="488.235" x="2250"></rect>
+<text transform="rotate(0,2255,489.735)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="489.735" x="2255" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-282.353" width="10" y="417.647" x="2260"></rect>
+<text transform="rotate(0,2265,419.147)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="419.147" x="2265" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-352.941" width="10" y="347.059" x="2270"></rect>
+<text transform="rotate(0,2275,348.559)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="348.559" x="2275" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="2280"></rect>
+<text transform="rotate(0,2285,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="2285" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2290"></rect>
+<text transform="rotate(0,2295,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2295" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2300"></rect>
+<text transform="rotate(0,2305,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2305" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2310"></rect>
+<text transform="rotate(0,2315,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2315" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2320"></rect>
+<text transform="rotate(0,2325,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2325" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2330"></rect>
+<text transform="rotate(0,2335,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2335" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2340"></rect>
+<text transform="rotate(0,2345,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2345" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2350"></rect>
+<text transform="rotate(0,2355,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2355" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2360"></rect>
+<text transform="rotate(0,2365,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2365" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-480" width="10" y="220" x="2370"></rect>
+<text transform="rotate(0,2375,221.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="221.5" x="2375" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-480" width="10" y="220" x="2380"></rect>
+<text transform="rotate(0,2385,221.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="221.5" x="2385" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-480" width="10" y="220" x="2390"></rect>
+<text transform="rotate(0,2395,221.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="221.5" x="2395" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-480" width="10" y="220" x="2400"></rect>
+<text transform="rotate(0,2405,221.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="221.5" x="2405" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-480" width="10" y="220" x="2410"></rect>
+<text transform="rotate(0,2415,221.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="221.5" x="2415" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-480" width="10" y="220" x="2420"></rect>
+<text transform="rotate(0,2425,221.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="221.5" x="2425" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-480" width="10" y="220" x="2430"></rect>
+<text transform="rotate(0,2435,221.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="221.5" x="2435" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2440"></rect>
+<text transform="rotate(0,2445,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2445" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2450"></rect>
+<text transform="rotate(0,2455,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2455" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2460"></rect>
+<text transform="rotate(0,2465,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2465" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2470"></rect>
+<text transform="rotate(0,2475,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2475" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2480"></rect>
+<text transform="rotate(0,2485,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2485" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2490"></rect>
+<text transform="rotate(0,2495,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2495" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2500"></rect>
+<text transform="rotate(0,2505,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2505" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2510"></rect>
+<text transform="rotate(0,2515,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2515" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2520"></rect>
+<text transform="rotate(0,2525,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2525" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2530"></rect>
+<text transform="rotate(0,2535,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2535" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2540"></rect>
+<text transform="rotate(0,2545,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2545" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2550"></rect>
+<text transform="rotate(0,2555,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2555" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2560"></rect>
+<text transform="rotate(0,2565,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2565" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2570"></rect>
+<text transform="rotate(0,2575,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2575" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2580"></rect>
+<text transform="rotate(0,2585,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2585" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2590"></rect>
+<text transform="rotate(0,2595,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2595" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2600"></rect>
+<text transform="rotate(0,2605,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2605" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2610"></rect>
+<text transform="rotate(0,2615,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2615" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2620"></rect>
+<text transform="rotate(0,2625,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2625" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2630"></rect>
+<text transform="rotate(0,2635,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2635" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2640"></rect>
+<text transform="rotate(0,2645,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2645" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2650"></rect>
+<text transform="rotate(0,2655,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2655" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2660"></rect>
+<text transform="rotate(0,2665,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2665" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2670"></rect>
+<text transform="rotate(0,2675,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2675" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2680"></rect>
+<text transform="rotate(0,2685,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2685" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2690"></rect>
+<text transform="rotate(0,2695,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2695" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2700"></rect>
+<text transform="rotate(0,2705,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2705" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2710"></rect>
+<text transform="rotate(0,2715,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2715" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2720"></rect>
+<text transform="rotate(0,2725,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2725" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2730"></rect>
+<text transform="rotate(0,2735,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2735" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2740"></rect>
+<text transform="rotate(0,2745,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2745" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2750"></rect>
+<text transform="rotate(0,2755,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2755" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2760"></rect>
+<text transform="rotate(0,2765,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2765" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2770"></rect>
+<text transform="rotate(0,2775,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2775" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2780"></rect>
+<text transform="rotate(0,2785,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2785" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2790"></rect>
+<text transform="rotate(0,2795,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2795" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2800"></rect>
+<text transform="rotate(0,2805,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2805" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2810"></rect>
+<text transform="rotate(0,2815,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2815" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2820"></rect>
+<text transform="rotate(0,2825,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2825" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-564.706" width="10" y="135.294" x="2830"></rect>
+<text transform="rotate(0,2835,136.794)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="136.794" x="2835" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-564.706" width="10" y="135.294" x="2840"></rect>
+<text transform="rotate(0,2845,136.794)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="136.794" x="2845" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-564.706" width="10" y="135.294" x="2850"></rect>
+<text transform="rotate(0,2855,136.794)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="136.794" x="2855" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-564.706" width="10" y="135.294" x="2860"></rect>
+<text transform="rotate(0,2865,136.794)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="136.794" x="2865" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-564.706" width="10" y="135.294" x="2870"></rect>
+<text transform="rotate(0,2875,136.794)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="136.794" x="2875" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-564.706" width="10" y="135.294" x="2880"></rect>
+<text transform="rotate(0,2885,136.794)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="136.794" x="2885" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-564.706" width="10" y="135.294" x="2890"></rect>
+<text transform="rotate(0,2895,136.794)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="136.794" x="2895" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2900"></rect>
+<text transform="rotate(0,2905,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2905" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2910"></rect>
+<text transform="rotate(0,2915,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2915" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2920"></rect>
+<text transform="rotate(0,2925,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2925" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="2930"></rect>
+<text transform="rotate(0,2935,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="2935" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="2940"></rect>
+<text transform="rotate(0,2945,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="2945" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-352.941" width="10" y="347.059" x="2950"></rect>
+<text transform="rotate(0,2955,348.559)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="348.559" x="2955" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-282.353" width="10" y="417.647" x="2960"></rect>
+<text transform="rotate(0,2965,419.147)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="419.147" x="2965" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-211.765" width="10" y="488.235" x="2970"></rect>
+<text transform="rotate(0,2975,489.735)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="489.735" x="2975" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-141.176" width="10" y="558.824" x="2980"></rect>
+<text transform="rotate(0,2985,560.324)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="560.324" x="2985" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-70.5882" width="10" y="629.412" x="2990"></rect>
+<text transform="rotate(0,2995,630.912)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="630.912" x="2995" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-70.5882" width="10" y="629.412" x="3060"></rect>
+<text transform="rotate(0,3065,630.912)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="630.912" x="3065" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-141.176" width="10" y="558.824" x="3070"></rect>
+<text transform="rotate(0,3075,560.324)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="560.324" x="3075" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-211.765" width="10" y="488.235" x="3080"></rect>
+<text transform="rotate(0,3085,489.735)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="489.735" x="3085" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-282.353" width="10" y="417.647" x="3090"></rect>
+<text transform="rotate(0,3095,419.147)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="419.147" x="3095" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-352.941" width="10" y="347.059" x="3100"></rect>
+<text transform="rotate(0,3105,348.559)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="348.559" x="3105" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3110"></rect>
+<text transform="rotate(0,3115,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3115" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3120"></rect>
+<text transform="rotate(0,3125,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3125" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3130"></rect>
+<text transform="rotate(0,3135,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3135" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3140"></rect>
+<text transform="rotate(0,3145,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3145" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3150"></rect>
+<text transform="rotate(0,3155,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3155" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3160"></rect>
+<text transform="rotate(0,3165,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3165" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3170"></rect>
+<text transform="rotate(0,3175,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3175" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3180"></rect>
+<text transform="rotate(0,3185,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3185" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3190"></rect>
+<text transform="rotate(0,3195,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3195" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3200"></rect>
+<text transform="rotate(0,3205,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3205" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-600" width="10" y="100" x="3210"></rect>
+<text transform="rotate(0,3215,101.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="101.5" x="3215" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-600" width="10" y="100" x="3220"></rect>
+<text transform="rotate(0,3225,101.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="101.5" x="3225" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-600" width="10" y="100" x="3230"></rect>
+<text transform="rotate(0,3235,101.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="101.5" x="3235" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-600" width="10" y="100" x="3240"></rect>
+<text transform="rotate(0,3245,101.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="101.5" x="3245" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-600" width="10" y="100" x="3250"></rect>
+<text transform="rotate(0,3255,101.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="101.5" x="3255" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-600" width="10" y="100" x="3260"></rect>
+<text transform="rotate(0,3265,101.5)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="101.5" x="3265" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-529.412" width="10" y="170.588" x="3270"></rect>
+<text transform="rotate(0,3275,172.088)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="172.088" x="3275" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3280"></rect>
+<text transform="rotate(0,3285,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3285" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3290"></rect>
+<text transform="rotate(0,3295,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3295" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3300"></rect>
+<text transform="rotate(0,3305,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3305" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3310"></rect>
+<text transform="rotate(0,3315,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3315" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3320"></rect>
+<text transform="rotate(0,3325,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3325" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3330"></rect>
+<text transform="rotate(0,3335,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3335" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3340"></rect>
+<text transform="rotate(0,3345,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3345" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3350"></rect>
+<text transform="rotate(0,3355,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3355" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3360"></rect>
+<text transform="rotate(0,3365,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3365" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3370"></rect>
+<text transform="rotate(0,3375,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3375" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3380"></rect>
+<text transform="rotate(0,3385,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3385" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3390"></rect>
+<text transform="rotate(0,3395,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3395" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3400"></rect>
+<text transform="rotate(0,3405,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3405" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3410"></rect>
+<text transform="rotate(0,3415,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3415" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3420"></rect>
+<text transform="rotate(0,3425,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3425" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3430"></rect>
+<text transform="rotate(0,3435,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3435" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3440"></rect>
+<text transform="rotate(0,3445,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3445" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3450"></rect>
+<text transform="rotate(0,3455,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3455" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3460"></rect>
+<text transform="rotate(0,3465,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3465" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3470"></rect>
+<text transform="rotate(0,3475,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3475" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3480"></rect>
+<text transform="rotate(0,3485,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3485" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3490"></rect>
+<text transform="rotate(0,3495,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3495" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3500"></rect>
+<text transform="rotate(0,3505,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3505" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3510"></rect>
+<text transform="rotate(0,3515,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3515" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3520"></rect>
+<text transform="rotate(0,3525,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3525" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3530"></rect>
+<text transform="rotate(0,3535,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3535" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3540"></rect>
+<text transform="rotate(0,3545,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3545" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3550"></rect>
+<text transform="rotate(0,3555,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3555" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3560"></rect>
+<text transform="rotate(0,3565,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3565" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3570"></rect>
+<text transform="rotate(0,3575,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3575" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3580"></rect>
+<text transform="rotate(0,3585,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3585" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3590"></rect>
+<text transform="rotate(0,3595,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3595" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3600"></rect>
+<text transform="rotate(0,3605,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3605" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3610"></rect>
+<text transform="rotate(0,3615,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3615" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3620"></rect>
+<text transform="rotate(0,3625,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3625" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3630"></rect>
+<text transform="rotate(0,3635,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3635" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3640"></rect>
+<text transform="rotate(0,3645,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3645" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3650"></rect>
+<text transform="rotate(0,3655,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3655" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3660"></rect>
+<text transform="rotate(0,3665,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3665" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3670"></rect>
+<text transform="rotate(0,3675,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3675" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3680"></rect>
+<text transform="rotate(0,3685,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3685" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3690"></rect>
+<text transform="rotate(0,3695,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3695" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3700"></rect>
+<text transform="rotate(0,3705,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3705" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3710"></rect>
+<text transform="rotate(0,3715,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3715" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3720"></rect>
+<text transform="rotate(0,3725,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3725" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3730"></rect>
+<text transform="rotate(0,3735,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3735" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3740"></rect>
+<text transform="rotate(0,3745,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3745" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3750"></rect>
+<text transform="rotate(0,3755,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3755" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-494.118" width="10" y="205.882" x="3760"></rect>
+<text transform="rotate(0,3765,207.382)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="207.382" x="3765" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-423.529" width="10" y="276.471" x="3770"></rect>
+<text transform="rotate(0,3775,277.971)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="277.971" x="3775" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-352.941" width="10" y="347.059" x="3780"></rect>
+<text transform="rotate(0,3785,348.559)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="348.559" x="3785" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-282.353" width="10" y="417.647" x="3790"></rect>
+<text transform="rotate(0,3795,419.147)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="419.147" x="3795" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-211.765" width="10" y="488.235" x="3800"></rect>
+<text transform="rotate(0,3805,489.735)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="489.735" x="3805" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-141.176" width="10" y="558.824" x="3810"></rect>
+<text transform="rotate(0,3815,560.324)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="560.324" x="3815" style="text-anchor:middle;">KibbleLogic</text>
+<rect  fill="url(#X7FFFFF1078)" ry="0" rx="0" r="0" fill-opacity="0.78"  height="-70.5882" width="10" y="629.412" x="3820"></rect>
+<text transform="rotate(0,3825,630.912)" font-weight="normal" font-size="1.5" font-family="Verdana" fill="white" y="630.912" x="3825" style="text-anchor:middle;">KibbleLogic</text>
+<text transform="rotate(-45,240,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="240" style="text-anchor:end;">2018-09-04</text>
+<text transform="rotate(-45,310,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="310" style="text-anchor:end;">2018-09-11</text>
+<text transform="rotate(-45,380,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="380" style="text-anchor:end;">2018-09-18</text>
+<text transform="rotate(-45,450,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="450" style="text-anchor:end;">2018-09-25</text>
+<text transform="rotate(-45,570,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="570" style="text-anchor:end;">2018-10-07</text>
+<text transform="rotate(-45,640,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="640" style="text-anchor:end;">2018-10-14</text>
+<text transform="rotate(-45,710,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="710" style="text-anchor:end;">2018-10-21</text>
+<text transform="rotate(-45,780,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="780" style="text-anchor:end;">2018-10-28</text>
+<text transform="rotate(-45,850,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="850" style="text-anchor:end;">2018-11-04</text>
+<text transform="rotate(-45,920,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="920" style="text-anchor:end;">2018-11-11</text>
+<text transform="rotate(-45,990,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="990" style="text-anchor:end;">2018-11-18</text>
+<text transform="rotate(-45,1060,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1060" style="text-anchor:end;">2018-11-25</text>
+<text transform="rotate(-45,1130,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1130" style="text-anchor:end;">2018-12-02</text>
+<text transform="rotate(-45,1200,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1200" style="text-anchor:end;">2018-12-09</text>
+<text transform="rotate(-45,1270,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1270" style="text-anchor:end;">2018-12-16</text>
+<text transform="rotate(-45,1340,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1340" style="text-anchor:end;">2018-12-23</text>
+<text transform="rotate(-45,1410,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1410" style="text-anchor:end;">2018-12-30</text>
+<text transform="rotate(-45,1480,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1480" style="text-anchor:end;">2019-01-06</text>
+<text transform="rotate(-45,1550,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1550" style="text-anchor:end;">2019-01-13</text>
+<text transform="rotate(-45,1620,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1620" style="text-anchor:end;">2019-01-20</text>
+<text transform="rotate(-45,1690,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1690" style="text-anchor:end;">2019-01-27</text>
+<text transform="rotate(-45,1760,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1760" style="text-anchor:end;">2019-02-03</text>
+<text transform="rotate(-45,1830,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1830" style="text-anchor:end;">2019-02-10</text>
+<text transform="rotate(-45,1900,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1900" style="text-anchor:end;">2019-02-17</text>
+<text transform="rotate(-45,1970,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="1970" style="text-anchor:end;">2019-02-24</text>
+<text transform="rotate(-45,2040,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2040" style="text-anchor:end;">2019-03-03</text>
+<text transform="rotate(-45,2110,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2110" style="text-anchor:end;">2019-03-10</text>
+<text transform="rotate(-45,2180,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2180" style="text-anchor:end;">2019-03-17</text>
+<text transform="rotate(-45,2250,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2250" style="text-anchor:end;">2019-03-24</text>
+<text transform="rotate(-45,2320,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2320" style="text-anchor:end;">2019-03-31</text>
+<text transform="rotate(-45,2390,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2390" style="text-anchor:end;">2019-04-07</text>
+<text transform="rotate(-45,2460,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2460" style="text-anchor:end;">2019-04-14</text>
+<text transform="rotate(-45,2530,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2530" style="text-anchor:end;">2019-04-21</text>
+<text transform="rotate(-45,2600,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2600" style="text-anchor:end;">2019-04-28</text>
+<text transform="rotate(-45,2670,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2670" style="text-anchor:end;">2019-05-05</text>
+<text transform="rotate(-45,2740,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2740" style="text-anchor:end;">2019-05-12</text>
+<text transform="rotate(-45,2810,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2810" style="text-anchor:end;">2019-05-19</text>
+<text transform="rotate(-45,2880,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2880" style="text-anchor:end;">2019-05-26</text>
+<text transform="rotate(-45,2950,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="2950" style="text-anchor:end;">2019-06-02</text>
+<text transform="rotate(-45,3130,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3130" style="text-anchor:end;">2019-06-20</text>
+<text transform="rotate(-45,3200,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3200" style="text-anchor:end;">2019-06-27</text>
+<text transform="rotate(-45,3270,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3270" style="text-anchor:end;">2019-07-04</text>
+<text transform="rotate(-45,3340,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3340" style="text-anchor:end;">2019-07-11</text>
+<text transform="rotate(-45,3410,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3410" style="text-anchor:end;">2019-07-18</text>
+<text transform="rotate(-45,3480,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3480" style="text-anchor:end;">2019-07-25</text>
+<text transform="rotate(-45,3550,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3550" style="text-anchor:end;">2019-08-01</text>
+<text transform="rotate(-45,3620,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3620" style="text-anchor:end;">2019-08-08</text>
+<text transform="rotate(-45,3690,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3690" style="text-anchor:end;">2019-08-15</text>
+<text transform="rotate(-45,3760,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3760" style="text-anchor:end;">2019-08-22</text>
+<text transform="rotate(-45,3830,780)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="780" x="3830" style="text-anchor:end;">2019-08-29</text>
+<text transform="rotate(0,2010,1180)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="1180" x="2010" style="text-anchor:center;"> All dates approximate</text>
+<text transform="rotate(0,180,700)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="700" x="180" style="text-anchor:end;">0</text>
+<text transform="rotate(0,180,580)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="580" x="180" style="text-anchor:end;">0.2</text>
+<text transform="rotate(0,180,460)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="460" x="180" style="text-anchor:end;">0.4</text>
+<text transform="rotate(0,180,340)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="340" x="180" style="text-anchor:end;">0.6</text>
+<text transform="rotate(0,180,220)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="220" x="180" style="text-anchor:end;">0.8</text>
+<text transform="rotate(0,180,100)" font-weight="normal" font-size="40" font-family="Verdana" fill="red" y="100" x="180" style="text-anchor:end;">1</text>
+
+<path fill="none" d="M200 55 L455 55" stroke="#7FFFFF" stroke-opacity="1" stroke-width="5" stroke-dasharray="50,2"/>
+<text transform="rotate(0,230,50)" font-weight="normal" font-size="30" font-family="Verdana" fill="#7FFFFF" y="50" x="230" style="text-anchor:start;">Happy-KibbleLogic</text>
+</svg>
