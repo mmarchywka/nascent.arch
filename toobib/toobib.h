@@ -67,7 +67,11 @@ authorid={orcid.org/0000-0001-9237-455X},
 toobib is best run and compiles with scripts. A recent working 
 command line is as follows, assuming the headers are in the include paths,
 
-g++ -std=gnu++11 -DTEST_toobib__ -gdwarf-3 -O0 -MMD -MF toobib.deps -I. -I/home/documents/cpp/mjm/hlib/ -I/home/documents/cpp/mjm/num -I/home/documents/cpp/mjm/ -I/home/documents/cpp/mjm/tcl -I/home/documents/cpp/mjm/include -I/home/documents/cpp/pkg/include -I/home/documents/cpp/pkg -I /usr/include/libxml2 -Wall -Wno-unused-variable -Wno-unused-function -Wno-sign-compare -Wno-non-template-friend -Wno-misleading-indentation -Wno-unused-but-set-variable -x c++ ./toobib.h -o toobib.out -lreadline -lxml2 -lpthread
+g++ -std=gnu++11 -DTEST_toobib__ -gdwarf-3 -O0 -MMD -MF toobib.deps -I. -I/home/documents/cpp/mjm/hlib/ -I/home/documents/cpp/mjm/num -I/home/documents/cpp/mjm/  -I/home/documents/cpp/mjm/include -I/home/documents/cpp/pkg/include -I/home/documents/cpp/pkg -I /usr/include/libxml2 -Wall -Wno-unused-variable -Wno-unused-function -Wno-sign-compare -Wno-non-template-friend -Wno-misleading-indentation -Wno-unused-but-set-variable -x c++ ./toobib.h -o toobib.out -lreadline -lxml2 -lpthread
+ 2158  ./toobib.out quiet  -about -quit
+
+
+
 
 */
 
