@@ -21,6 +21,25 @@ namespace mjm_global_flags
 bool mm_err_enable=true; 
 bool mm_delete_temps=true; 
 int mm_err_io=0;
+std::vector<int> State;
+void push()
+{
+int s=mm_err_enable?1:0;
+ s|=mm_delete_temps?2:0;
+State.push_back(s);
+} // push
+void pop()
+{
+if (State.size())
+{
+int x=State.back();
+mm_err_enable=(x&1);
+mm_delete_temps=(x&2);
+State.pop_back();
+} // size
+
+} // pop 
+
 
 }; // mjm_global_flags
 
@@ -109,7 +128,7 @@ void global_io_unlock_mutex() {  pthread_mutex_unlock(mutex()); }
 #define MM_SSF(msg)  Ss ss;  ss<< __FILE__<<__LINE__<<" "<<__FUNCTION__<<" "<<msg;  
 
 #define MM_STATUS(msg) { std::cout.flush();  std::cerr<< __FILE__<<__LINE__<<" "<<msg<<"              \r"; std::cerr.flush(); } 
-#define MM_ONCE(msg, action ) { static bool dun=false; if (!dun) {  std::cerr<< __FILE__<<__LINE__<<" ONCE "<<msg<<"\n"; std::cout.flush(); dun=true; }  action  } 
+#define MM_ONCE(msg, action ) { static bool dun=false; if (!dun&&(mjm_global_flags::mm_err_enable)) {  std::cerr<< __FILE__<<__LINE__<<" ONCE "<<msg<<"\n"; std::cout.flush(); dun=true; }  action  } 
 #define MM_DUNCE(msg, interval ) { static IdxTy i=0; ; if ((i%interval)==0) {  std::cerr<< __FILE__<<__LINE__<<" DUNCE "<<i<<" "<<msg<<"\n"; std::cout.flush(); std::cerr.flush();  }  ++i;  } 
 // #define CRLF "\r\n"
 // this doesn't work since getling put cr on last field.....

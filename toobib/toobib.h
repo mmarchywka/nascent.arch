@@ -81,9 +81,9 @@ g++ -std=gnu++11 -DTEST_toobib__ -gdwarf-3 -O0 -MMD -MF toobib.deps -I. -I/home/
 
 #include "mjm_bibtex_find.h"
 #include "mjm_med2bib_guesses.h"
-
+// the dmel is not really needed or used but also include elaswhereh
 #include "mjm_data_model_error_log.h"
-#include "mjm_block_matrix.h"
+//#include "mjm_block_matrix.h"
 #include "mjm_instruments.h"
 #include "mjm_logic_base.h"
 #include "mjm_strings.h"
@@ -261,33 +261,21 @@ typedef mjm_blob_map<Tr>  BlobMap;
 typedef mjm_var_parse<Tr> ParseTable;
 typedef typename ParseTable::Iv Iv;
 typedef mjm_read_buffer<Tr> RdBuf;
-#if 0 
-#endif
-
 
 typedef mjm_ext_things<Tr> ExtThings;
 typedef mjm_bibtex_find<Tr> FindBib;
 
-
-/*
-
-*/
 typedef temp_progress<Tr>  TempProg;
 
 
 /*
-
+not sure what this was lol, 
 @www{$name,
   author =   {}, title =     {$title}, journal =    {}, year = {$year},
   volume =   {}, number =    {}, pages =     {}, note =  {},
 urldate={$date},
 url={$uin}
-
 */
-#if 0
-#endif
-#if 0
-#endif
 
 typedef mjm_bibtex_entry<Tr> BibEntry;
 typedef mjm_bibtex_entry_map<Tr> BibMap;
@@ -295,9 +283,7 @@ typedef std::map<StrTy,BibMap> BibMapMap;
 typedef mjm_xml2_interface<Tr> MyXml;
 typedef std::map<StrTy, MyXml> XmlMap;
 
-//typedef tester_< mjm_med2bib_guesses <Tr>  > tester;
 typedef  mjm_med2bib_guesses <Tr>  Guesser;
-
 
 typedef mjm_loo_parsing<Tr> Loo;
 
@@ -307,6 +293,7 @@ public:
 int myatoi(const StrTy & s ) const { return Canned::myatoi(s.c_str()); } 
 int myatoi(const char * c) const { return Canned::myatoi(c); }
 
+// API 
 public :
 mjm_toobib():m_dmel(new Dmel()) {Init();}
 mjm_toobib(int argc,char **_args) : m_dmel(new Dmel())
@@ -371,6 +358,8 @@ if (s=="-cmd") { ++i; command_mode(StrTy(args[i])); ++i; }
 if (s=="-legacy") {m_mode|=(1<<LEGACY);  ++i; }
 if (s=="-debug") {_loud(); _save_temps(); m_mode|=(1<<DEBUG);  ++i; }
 if (s=="-devel") {_loud(); _save_temps();   ++i; }
+if (s=="-quiet") {_quiet();  ++i; }
+if (s=="quiet") {_quiet();  ++i; }
 if (s=="-quit") { //  MM_ERR(" FK "<<MMPR4(i,argc,args[i],s)) 
  ++i; clean_up(); }
 if (s=="-about") { ++i; about(); }
@@ -416,16 +405,6 @@ if ( ii!=m_comp_map.end()) ((this)->*(*ii).second)(choices,cmd.c_str(),frag);
 }
 
 
-/*
-void cmd_stream_edit_fasta(Cip & cip , LocalVar & lv ) { Canned::cmd_stream_edit_fasta( cip ,  lv ); 
-}
-
-void cmd_read_fasta(Cip & cip , LocalVar & lv ) { Canned::cmd_read_fasta(cip ,  lv,  m_fasta_map  ); }
-
-void cmd_write_fasta(Cip & cip , LocalVar & lv ) { Canned::cmd_write_fasta(cip ,  lv,  m_fasta_map  );
-
-}
-*/
 
 bool flag_bit(const IdxTy flag, const IdxTy bit, const bool pol=true)
 {
@@ -469,24 +448,6 @@ bib_ragged(os,r,flags);
 
 }
 
-void cmd_zymo_rags(Cip & cip , LocalVar & lv )
-{
-
-const StrTy ragin=cip.p1;
-const IdxTy flags=myatoi(cip.p2); // wif(3);
-const StrTy cmd1=cip.wif(3);
-const StrTy cmd2=cip.wif(4);
-const Ragged & qio=m_ragged_map[ragin];
-const Ragged & params=m_ragged_map[cmd2];
-const IdxTy nval=myatoi(cmd1);
-const IdxTy maxcnt=m_flp.maxcnt();
-const bool output_latex=(((1<<0)&flags)!=0);
-const bool  output_rank_table=(((1<<1)&flags)!=0);
-const bool  output_ranks=(((1<<2)&flags)!=0)&&!output_rank_table;
-const bool output_summary=(((1<<3)&flags)!=0);
-
-} // zymo_rags
-////////////////////////////
 #if 0
 
 // mjm_med2bib_guesses commnands
@@ -1093,12 +1054,12 @@ void cmd_get_param(Cip & cip , LocalVar & lv )
 void cmd_help(Cip & cip , LocalVar & lv ) 
 {
 MM_LOOP(ii,m_cmd_map)
-{
+{ // TODO it should be possible to call the f ptr and get a msg back 
 MM_ERR(MMPR((*ii).first))
 
 } 
 
-}
+} // help 
 
 void cmd_list(Cip & cip , LocalVar & lv ) 
 {
@@ -1193,7 +1154,6 @@ m_cmd_map[StrTy("bib-ragged")]=&Myt::cmd_bib_ragged;
 //m_cmd_map[StrTy("write-fasta")]=&Myt::cmd_write_fasta;
 //m_cmd_map[StrTy("add-to-fasta")]=&Myt::cmd_add_to_fasta;
 //m_cmd_map[StrTy("zymo-merge-fasta")]=&Myt::cmd_zymo_merge_fasta;
-//m_cmd_map[StrTy("zymo-rags")]=&Myt::cmd_zymo_rags;
 //m_cmd_map[StrTy("group-stats")]=&Myt::cmd_group_stats;
 
 //m_cmd_map[StrTy("linc-graph")]=&Myt::cmd_linc_graph;
@@ -1304,8 +1264,8 @@ ss<<" links to -lreadline -lxml2 -lpthread "<<CRLF;
 ss<<" Web interface : wget and headless chrome "<<CRLF;
 ss<<" Nodejs wscat until websocket lib integrated  "<<CRLF;
 ss<<" Generally specific sites like crossref are credited when used  "<<CRLF;
-
-
+ss<<" from header files :"<<CRLF;
+ss<<mjm_global_credits::about();
 
 std::ostream & os=std::cout;
 os<<ss.str();
@@ -1757,6 +1717,13 @@ int main(int argc,char **args)
 typedef mjm_toobib Myt;
 ///typedef double D;
 //typedef unsigned int IdxTy;
+if (strcmp(args[0],"-quiet")==0) { mjm_global_flags::mm_err_enable=!true; }
+if (strcmp(args[0],"quiet")==0) { mjm_global_flags::mm_err_enable=!true; }
+if (argc) { 
+if (strcmp(args[1],"-quiet")==0) { mjm_global_flags::mm_err_enable=!true; }
+if (strcmp(args[1],"quiet")==0) { mjm_global_flags::mm_err_enable=!true; }
+}
+
 Myt x(argc,args);
 if (!x.done()) x.command_mode();
 
